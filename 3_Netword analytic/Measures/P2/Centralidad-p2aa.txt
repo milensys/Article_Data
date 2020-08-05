@@ -1,0 +1,151 @@
+﻿FREEMAN'S DEGREE CENTRALITY MEASURES:
+--------------------------------------------------------------------------------
+
+Diagonal valid?                         NO
+Model:                                  SYMMETRIC
+Input dataset:                          P2_authors_X_authors (D:\UCINET\15112016MILENA\P2_authors_X_authors)
+
+
+                                          1            2            3
+                                     Degree    NrmDegree        Share
+                               ------------ ------------ ------------
+    2         Lievens, Annouk         7.000        3.271        0.031
+   28            Croes, H J P         5.000        2.336        0.022
+   79           Saunders, C S         5.000        2.336        0.022
+  107              Zheng, W J         5.000        2.336        0.022
+   27              Carte, T A         5.000        2.336        0.022
+   25             Butler, B S         5.000        2.336        0.022
+   52            Jasperson, J         5.000        2.336        0.022
+   37            Frambach, RT         4.000        1.869        0.018
+   84                Shur, A.         4.000        1.869        0.018
+   97               Wedel, M.         4.000        1.869        0.018
+    5           de Ruyter, K.         4.000        1.869        0.018
+   36         Frambach, R. T.         4.000        1.869        0.018
+    7             Lemmink, J.         4.000        1.869        0.018
+  105                Zaas, B.         4.000        1.869        0.018
+   15          Barkema, H. G.         4.000        1.869        0.018
+   68           Nooteboom, B.         4.000        1.869        0.018
+   94           Von Glahn, L.         4.000        1.869        0.018
+   40                Gann, R.         4.000        1.869        0.018
+   35                 Fox, J.         4.000        1.869        0.018
+   12             Walsham, G.         3.000        1.402        0.013
+   44             Halsall, J.         3.000        1.402        0.013
+   17        Barrett, Michael         3.000        1.402        0.013
+    3         Evangelista, R.         3.000        1.402        0.013
+   64              Miles, Ian         3.000        1.402        0.013
+   77             Royston, G.         3.000        1.402        0.013
+   47             Howells, J.         3.000        1.402        0.013
+   43             Halsall, D.         3.000        1.402        0.013
+   22               Boden, M.         3.000        1.402        0.013
+   23         Braithwaite, C.         3.000        1.402        0.013
+    9         Moenaert, R. K.         3.000        1.402        0.013
+   13            Andersen, B.         3.000        1.402        0.013
+   83               Shoib, G.         3.000        1.402        0.013
+   26           Cappleman, S.         3.000        1.402        0.013
+    8         Lyytinen, Kalle         3.000        1.402        0.013
+   45           Heiskanen, E.         2.000        0.935        0.009
+   21            Blazevic, V.         2.000        0.935        0.009
+   18          Barua, Anitesh         2.000        0.935        0.009
+   71           Ouwersloot, H         2.000        0.935        0.009
+   33            Eastwood, D.         2.000        0.935        0.009
+   61           Meuter, M. L.         2.000        0.935        0.009
+   24        Brown, Stephen W         2.000        0.935        0.009
+    6            Lee, Jungwoo         2.000        0.935        0.009
+   58           Lu, Iuan-Yuan         2.000        0.935        0.009
+   57              Lin, L. H.         2.000        0.935        0.009
+   10             Sirilli, G.         2.000        0.935        0.009
+   99      Whinston, Andrew B         2.000        0.935        0.009
+    1           Gallouj, Faiz         2.000        0.935        0.009
+   42             Hackney, R.         2.000        0.935        0.009
+  103               Yang, H D         2.000        0.935        0.009
+   92        van Riel, A.C.R.         2.000        0.935        0.009
+   16           Barney, J. B.         2.000        0.935        0.009
+   78            S'Jegers, R.         2.000        0.935        0.009
+   20         Bitner, Mary Jo         2.000        0.935        0.009
+  102                  Xu, HA         2.000        0.935        0.009
+   55               Klein, E.         2.000        0.935        0.009
+   56              Lee, E.-J.         2.000        0.935        0.009
+   90        van Birgelen, M.         2.000        0.935        0.009
+  104           Yoo, Youngjin         2.000        0.935        0.009
+   89             Timonen, P.         2.000        0.935        0.009
+   41             Ghijsen, P.         2.000        0.935        0.009
+  101               Wu, G.-C.         2.000        0.935        0.009
+   14  Andreassen, Tor Wallin         2.000        0.935        0.009
+   82           Sharma, S. K.         2.000        0.935        0.009
+   67          Muhanna, W. A.         2.000        0.935        0.009
+   87         Susarla, Anjana         2.000        0.935        0.009
+   54            Kleijnen, M.         2.000        0.935        0.009
+   75                 Ray, G.         2.000        0.935        0.009
+   51               Jalas, M.         2.000        0.935        0.009
+   81        Semeijn, Janjaap         2.000        0.935        0.009
+   46         Henrichs, R. B.         1.000        0.467        0.004
+   93            Vargo, S. L.         1.000        0.467        0.004
+   30              DeTore, A.         1.000        0.467        0.004
+   32     Dos Santos, Brian L         1.000        0.467        0.004
+   34             Elfring, T.         1.000        0.467        0.004
+   59            Lusch, R. F.         1.000        0.467        0.004
+   31            Dholakia, N.         1.000        0.467        0.004
+   11             Sundbo, Jon         1.000        0.467        0.004
+   65              Miozzo, M.         1.000        0.467        0.004
+   73             Peffers, K.         1.000        0.467        0.004
+   80           Savona, Maria         1.000        0.467        0.004
+   19             Bessant, J.         1.000        0.467        0.004
+   76         Rose, Gregory M         1.000        0.467        0.004
+   62            Meyer, M. H.         1.000        0.467        0.004
+   72           Pandya, A. M.         1.000        0.467        0.004
+   98           Weinstein, O.         1.000        0.467        0.004
+   86              Sultan, F.         1.000        0.467        0.004
+   69      Numprasertchai, S.         1.000        0.467        0.004
+   95           Walker, R. H.         1.000        0.467        0.004
+   91      van der Aa, Wietze         1.000        0.467        0.004
+   38             Francis, D.         1.000        0.467        0.004
+   74             Ramirez, M.         1.000        0.467        0.004
+   53          Johnson, L. W.         1.000        0.467        0.004
+   50                Igel, B.         1.000        0.467        0.004
+    4       Atuahene-Gima, K.         0.000        0.000        0.000
+   63           Michalski, T.         0.000        0.000        0.000
+   60             Martini, M.         0.000        0.000        0.000
+   96       Walker, Richard M         0.000        0.000        0.000
+   70    Orlikowski, Wanda J.         0.000        0.000        0.000
+   39            Freel, M. S.         0.000        0.000        0.000
+  100                Wood, P.         0.000        0.000        0.000
+   29         Den Hertog, Pim         0.000        0.000        0.000
+   48           Hull, Frank M         0.000        0.000        0.000
+   49            H�ritier, A.         0.000        0.000        0.000
+   85               Smits, R.         0.000        0.000        0.000
+   66             Moyo, L. M.         0.000        0.000        0.000
+  106              Zagler, M.         0.000        0.000        0.000
+   88         Tether, Bruce S         0.000        0.000        0.000
+  108                                 0.000        0.000        0.000
+
+
+DESCRIPTIVE STATISTICS
+
+                            1            2            3
+                       Degree    NrmDegree        Share
+                 ------------ ------------ ------------
+    1      Mean         2.074        0.969        0.009
+    2   Std Dev         1.445        0.675        0.006
+    3       Sum       224.000      104.673        1.000
+    4  Variance         2.087        0.456        0.000
+    5       SSQ       690.000      150.668        0.014
+    6     MCSSQ       225.407       49.220        0.004
+    7  Euc Norm        26.268       12.275        0.117
+    8   Minimum         0.000        0.000        0.000
+    9   Maximum         7.000        3.271        0.031
+   10  N of Obs       108.000      108.000      108.000
+
+
+Network Centralization = 2.35%
+Blau Heterogeneity = 1.38%.  Normalized (IQV) = 0.45%
+
+Note: For valued data, the normalized centrality may be larger than 100.
+      Also, the centralization statistic is divided by the maximum value in the input dataset.
+
+Actor-by-centrality matrix saved as dataset P2_authors_X_authors-deg
+
+----------------------------------------
+Running time:  00:00:01
+Output generated:  17 nov. 16 18:05:56
+UCINET 6.620 Copyright (c) 1992-2016 Analytic Technologies
+

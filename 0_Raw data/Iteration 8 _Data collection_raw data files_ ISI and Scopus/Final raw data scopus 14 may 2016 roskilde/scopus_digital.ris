@@ -1,0 +1,812 @@
+TY  - JOUR
+TI  - A case study: Development of an organism-specific protein interaction database and its associated tools
+T2  - International Journal of Cooperative Information Systems
+J2  - Int. J. Coop. Inf. Syst.
+VL  - 12
+IS  - 2
+SP  - 225
+EP  - 239
+PY  - 2003
+DO  - 10.1142/S0218843003000723
+SN  - 02188430 (ISSN) 
+AU  - Hwang, D.
+AU  - Fotouhi, F.
+AU  - Son, Y.
+AD  - Department of Computer Science, Wayne State University, Detroit, MI 48202, United States
+AB  - In this paper, we describe the architecture of a protein interaction database and tools for manipulating Drosophila protein interaction data. The proposed system not only maintains interaction data collected by an experiment, but also associates the interaction data with valuable data from various genomic databases. The system inherits a layered-modular architecture by introducing a wrapper-mediator approach in order to solve the syntactic and semantic heterogeneity among multiple data sources. The component modules for wrapping and integrating the relevant data, querying the database, and visualizing the interaction data among proteins are discussed. The system wrapped the relevant data for 14,000 Drosophila proteins from 5 publicly accessible sources. A web-based query interface is developed to browse the database and a query result can be viewed as in a protein interaction map depicting functional pathways, complexes or networks. Protein interaction maps aid in understanding or predicting potential functions for uncharacterized proteins and in describing their functional networks in a biological context. We show that the proposed approach supports data association and data interoperability in a protein interaction database.
+KW  - Data model
+KW  - Protein interaction map
+KW  - Query processing
+KW  - Relational database
+KW  - Wrapper-mediator
+KW  - Data reduction
+KW  - Proteins
+KW  - Relational database systems
+KW  - Semantics
+KW  - Query processing
+KW  - Information analysis
+N1  - Cited By :1
+N1  - Export Date: 14 May 2016
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Hwang, D.; Department of Computer Science, Wayne State University, Detroit, MI 48202, United States; email: dhwang@cs.wayne.edu
+N1  - References: http://binddb.orghttp://www.genetics.wayne.edu/rfinley/lab.htmlhttp://dip.doe-mbi.ucla.edu/http://flybase.bio.indiana.eduhttp://mips.gsf.de/proj/yeasthttps://www.incyte.com/proteome/YPDhttp://www.celera.comhttp://www.expasy.ch/sprot/sprot-top.htmlhttp://www.fruitfly.org/annothttp://www.geneontology.orghttp://www.ncbi.nlm.nih.gov/Genbankhttp://www.cs.wisc.edu/dpage/kddcup2001http://www.yworks.deSchwikowski, B., Uetz, P., Fields, S., A network of protein-protein interactions in yeast (2001) Nature Biotechnology, 18 (3), pp. 532-551; 
+Goble, C.A., Stevens, R., Ng, G., Bechhofer, S., Paton, N.W., Baker, P.G., Peim, M., Brass, A., Transparent access to multiple bioinformatics information sources (2001) IBM Systems J., 40 (2), pp. 532-551; 
+Benson, D.A., Karsch-Mizrachi, I., Lipman, D.J., Ostell, J., Rapp, B.A., Wheeler, D.L., (2000) Nucleic Acids Research, 28 (1), pp. 15-18. , GenBank; 
+Achard, F., Vaysseix, G., Barillot, E., XML, bioinformatics and data integration (2001) Bioinformatics Review, 17 (2), pp. 115-125; 
+Bader, G.D., Donaldson, I., Wolting, C., Francis Oullette, B.F., Pawson, T., Hogue, C.W.V., BIND - The biomolecular interaction network database (2001) Nucleic Acids Research, 29 (1), pp. 242-245; 
+Wiederhold, G., Geneserecth, M., The conceptual basis for mediation services (1997) IEEE Expert, Intelligent Systems and Their Applications, 12 (5); 
+Garcis-Molina, H., Papakonstantinos, Y., Quass, D., Rajaraman, A., Sagiv, Y., Ullman, J., Widom, J., Vassalos, V., The TSIMMIS approach to mediation: Data models (1997) J. Intelligent Information Systems, 8 (2), pp. 117-132; 
+(2002) IBM Life Science Solutions: Turing Data into Discovery with Discovery Link, , Redbooks; 
+Xenarios, I., Rice, D.W., Salwinski, L., Baron, M.K., Marchotte, E.M., Eisenberg, D., DIP: The database of interacting proteins (2000) Nucleic Acids Research, 28 (1), pp. 289-291; 
+Xenarios, I., Fernandez, E., Salwinski, L., Duan, X.J., Thompson, M.J., Marchotte, E.M., Eisenberg, D., DIP: The database of interacting proteins: 2001 update (2001) Nucleic Acids Research, 29 (1), pp. 239-241; 
+Fellenberg, M., Albermann, K., Zollner, A., Mewes, H.W., Hani, J., Integrative analysis of protein interaction data (2000) Intelligent Systems for Molecular Biology, 8, pp. 152-161. , eds. R. Altmann, T.L. Bailey, P. Bourne, M. Gribskov, T. Lengauer, I.N. Shindyalov, L.F. Ten Eyck and H. Weissig; 
+Roth, M.T., Schwarz, P., (1997) A Wrapper Architecture for Legacy Data Sources, , IBM Technical Report RJ10077; 
+Ek, M., Hakkarainen, H., Kilpeláinen, P., Kuikka, E., Penttinen, T., (2001) Describing XML Wrappers for Information Integration, , University of Kuopio, Technical Report A/2001/2; 
+Uetz, P., Ideker, T., Schwikowski, B., Visualization and integration of protein-protein interactions (2002) Protein-Protein Interactions - A Molecular Cloning Manual, pp. 623-646. , eds. E. Golemis; 
+Critchlow, T., Fidelis, K., Ganesh, M., Musick, R., Slezak, T., Data foundry: Information management for scientific data (2000) Proc. IEEE Advances in Digital Libraries; 
+Ito, T., Tashiro, K., Muta, S., Ozawa, R., Chiba, T., Nishizawa, M., Yamamoto, K., Sakaki, Y., Toward a protein-protein interaction map of the budding yeast: A comprehensive system to examine two-hybrid interactions in all possible combinations between the yeast proteins (2000) Proc. National Academy of Sciences, 97, pp. 4569-4574; 
+Han, W., Buttler, D., Pu, C., Wrapping web data into XML (2001) SIGMOD Record, 30 (3), pp. 33-45; 
+Son, Y.J., Hwang, D.S., Fotouhi, F., Wrapping supplementary data for the protein interaction database (2002) The 6th World Multiconference on Systemics, Cybernetics and Informatics; 
+(2000) Extensible Markup Language (XML) 1.0 2nd Edn.; 
+(2000) Bioinformatics Converting Data to Knowledge: Workshop Summary, , http://www.nap.edu/openbook/0309072565/html/3.html
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0037410037&partnerID=40&md5=037b8dd160dfdf06c56d990762566411
+ER  - 
+
+TY  - JOUR
+TI  - The new organizing logic of digital innovation: An agenda for information systems research
+T2  - Information Systems Research
+J2  - Inf. Syst. Res.
+VL  - 21
+IS  - 4
+SP  - 724
+EP  - 735
+PY  - 2010
+DO  - 10.1287/isre.1100.0322
+SN  - 10477047 (ISSN) 
+AU  - Yoo, Y.
+AU  - Henfridsson, O.
+AU  - Lyytinen, K.
+AD  - Center for Design and Innovation, Temple University, Philadelphia, PA 19122, United States
+AD  - Viktoria Institute Hörselgängen 4, 41756 Göteborg, Sweden
+AD  - Department of Informatics, University of Oslo, N-0316 Oslo, Norway
+AD  - Department of Information Systems, Case Western Reserve University, Cleveland, OH 44106, United States
+AB  - In this essay, we argue that pervasive digitization gives birth to a new type of product architecture: the layered modular architecture. The layered modular architecture extends the modular architecture of physical products by incorporating four loosely coupled layers of devices, networks, services, and contents created by digital technology. We posit that this new architecture instigates profound changes in the ways that firms organize for innovation in the future. We develop (1) a conceptual framework to describe the emerging organizing logic of digital innovation and (2) an information systems research agenda for digital strategy and the creation and management of corporate information technology infrastructures. © 2010 INFORMS.
+KW  - Digital innovation
+KW  - Digitization
+KW  - Doubly distributed networks
+KW  - Layered modular architecture
+KW  - Organizing logic
+KW  - Product architecture
+N1  - Cited By :146
+N1  - Export Date: 14 May 2016
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Yoo, Y.; Center for Design and Innovation, Temple University, Philadelphia, PA 19122, United States; email: yxy23yoo@gmail.com
+N1  - References: Adomavicius, G., Bockstedt, J.C., Gupta, A., Kauffman, R.J., Making sense of technology trends in the information technology landscape: A design science approach (2008) MIS Quart., 32 (4), pp. 779-809; 
+Baldwin, C.Y., Clark, K.B., (2000) Design Rules, The Power of Modularity, 1. , MIT Press, Cambridge, MA; 
+Barney, J.B., The resource-based theory of the firm (1996) Organ. Sci., 7 (5), p. 469; 
+Benkler, Y., (2006) The Wealth of Networks: How Social Production Transforms Markets and Freedom, , Yale University Press, New Haven, CT; 
+Boland, R.J., Lyytinen, K., Yoo, Y., Wakes of innovation in project networks: The case of digital 3-D representations in architecture, engineering and construction (2007) Organ. Sci., 18 (4), pp. 631-647; 
+Broadbent, M., Weill, P., Clair, D.S., The implications of information technology infrastructure for business process redesign (1999) MIS Quart, 23 (2), pp. 159-182; 
+Chandler, A.D., Cortada, J.W., The information age: Continuities and differences (2000) A Nation Transformed by Information: How Information Has Shaped the United States from Colonial Times to the Present, pp. 281-300. , A. Chandler, Jr., J. W. Cortada, eds. Oxford University Press, New York; 
+Clark, K.B., The interaction of design hierarchies and market concepts in technological evolution (1985) Res. Policy, 14, pp. 235-251; 
+Eisenman, T., Parker, G., Van Aystyne, M.W., Strategies for two-sided markets (2006) Harvard Bus. Rev., 84 (10), pp. 92-101; 
+Farrell, J., Weiser, P.J., Modularity, vertical integration, and open access policies: Toward a convergence of antitrust and regulation in the Internet age (2003) Harvard J. Law Tech, 17 (1), pp. 86-134; 
+Gao, L.S., Iyer, B., Analyzing complementarities using software stacks for software industry acquisitions (2006) J. Management Inform. Systems, 23 (2), pp. 119-147; 
+Gawer, A., Cusumano, M., How companies become platform leaders (2008) MIT Sloan Management Rev, 49 (2), p. 28; 
+Ghazawneh, A., Henfridsson, O., Governing third-party development through platform boundary resources (2010) Proc. Internat. Conf. Inform., , Systems (ICIS) 2010, St. Louis, MO; 
+Hanseth, O., Lyytinen, K., Design theory for dynamic complexity in information infrastructures: The case of building Internet (2010) J. Inform. Tech., 25 (1), pp. 1-19; 
+Henfridsson, O., Lindgren, R., User involvement in developing mobile and temporarily interconnected systems (2010) Inform. Systems J., 20 (2), pp. 119-135; 
+Kohli, R., Grover, V., Business value of IT: An essay on expanding research directions to keep up with the time (2008) J. Assoc. Inform. Systems, 9 (2), pp. 23-39; 
+Kusunoki, K., Aoshima, Y., Redefining innovation as system re-definition (2010) Dynamics of Knowledge, Corporate Systems, and Innovation, pp. 43-76. , H. Itami, K. Kusunoki, T. Numagami, A. Takeishi, eds. Springer, London; 
+Langlois, R.N., The vanishing hand: The changing dynamics of industrial capitalism (2003) Indust. Corporate Change, 12 (2), pp. 351-385; 
+Langlois, R.N., Computers and semiconductors (2007) Technological Innovation and Economic Performance, pp. 265-284. , B. Steil, D. G. Victor, R. R. Nelson, eds. Princeton University Press, Princeton, NJ; 
+Lyytinen, K., Yoo, Y., The next wave of nomadic computing (2002) Inform. Systems Res., 13 (4), pp. 377-388; 
+Malone, T.W., (2004) The Future of Work: How the New Order of Business Will Shape Your Organization, Your Management Style, and Your Life, , Harvard Business School Publishing, Boston; 
+Nevo, S., Wade, M.R., The formation and value of IT-enabled resources: Antecedents and consequences of synergistic relationships (2010) MIS Quart, 34 (1), pp. 163-183; 
+Nohria, N., Eccles, R.G., (1992) Networks and Organizations, , Harvard Business School Press, Boston; 
+Porter, M.E., (1980) Competitive Strategy: Techniques for Analyzing Industries and Competitors, , The Free Press, New York; 
+Sambamurthy, V., Zmud, R.W., The organizing logic for an enterprise's IT activities in the digital era-A prognosis of practice and a call for research (2000) Inform. Systems Res., 11 (2), pp. 105-114; 
+Sambamurthy, V., Bharadwaj, A., Grover, V., Shaping agility through digital options: Reconceptualizing the role of information technology in contemporary firms (2003) MIS Quart, 27 (2), pp. 237-264; 
+Schilling, M.A., Toward a general modular system theory and its application to interfirm product modularity (2000) Acad. Management Rev., 25 (2), pp. 312-334; 
+Schumpeter, J.A., (1934) The Theory of Economic Development, , Harvard University Press, Cambridge, MA; 
+Simon, H.A., (1996) The Sciences of the Artificial, , MIT Press, Cambridge, MA; 
+Simon, H.A., Near decomposability and the speed of evolution (2002) Indust. Corporate Change, 11 (3), pp. 587-599; 
+Swanson, E.B., Information systems innovation among organizations (1994) Management Sci., 40 (9), pp. 1069-1092; 
+Teece, D., The dynamics of industrial capitalism: Perspectives on Alfred Chandler's scale and scope (1993) J. Econom. Literature, 31 (1), pp. 199-225; 
+Tilson, D., Lyytinen, K., Sørenson, C., Desperately seeking the infrastructure in IS research: Conceptualization of "digital convergence (2010) Proc. 43rd HICSS, , Koloa, Kauai, HI; 
+Tuomi, I., (2002) Networks of Innovation: Change and Meaning in the Age of the Internet, , Oxford University Press, New York; 
+Ulrich, K., The role of product architecture in the manufacturing firm (1995) Res. Policy, 24 (3), pp. 419-440; 
+Verganti, R., (2009) Design-Driven Innovation: Changing the Rules of Competition by Radically Innovating What Things Mean, , Harvard Business School Publishing, Boston; 
+Wheeler, B.C., NEBIC: A dynamic capabilities theory for assessing net enablement (2003) Inform. Systems Res., 13 (2), pp. 125-146; 
+Yoo, Y., Computing in everyday life: A call for research on experiential computing (2010) MIS Quart, 34 (2), pp. 213-231; 
+Zittrain, J., The generative Internet (2006) Harvard Law Rev, 119, pp. 1974-2040
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78650630327&partnerID=40&md5=9a082bcc2594f1872f831d41c740cb34
+ER  - 
+
+TY  - JOUR
+TI  - Toward a user-centric digital ecosystem
+T2  - IT Professional
+J2  - IT Prof
+VL  - 13
+IS  - 4
+SP  - 12
+EP  - 15
+PY  - 2011
+DO  - 10.1109/MITP.2011.72
+SN  - 15209202 (ISSN) 
+AU  - Corrigan, M.
+AU  - Miller, H.G.
+AD  - Noblis, United States
+AB  - Digital platforms are transforming into a series of personal companions that are as much an extension of the user as they are a data processing machine. To build a cohesive digital brand that truly connects with and influences users, designers and developers must apply human-centered design to reshape their digital strategy, whether that strategy is to develop Web applications, manage and tailor content, or launch new services. © 2006 IEEE.
+KW  - information technology
+KW  - Total experience design
+KW  - TxD
+KW  - user-centric design
+KW  - Digital ecosystem
+KW  - Digital platforms
+KW  - Digital strategies
+KW  - Experience design
+KW  - Human-centered designs
+KW  - New services
+KW  - Processing machines
+KW  - TxD
+KW  - User-centric
+KW  - WEB application
+KW  - Data handling
+KW  - Information technology
+KW  - Metadata
+KW  - User interfaces
+KW  - Design
+N1  - Cited By :1
+N1  - Export Date: 14 May 2016
+M3  - Article
+DB  - Scopus
+C7  - 5960019
+N1  - CODEN: IPMAF
+LA  - English
+N1  - Correspondence Address: Corrigan, M.; NoblisUnited States; email: mile.corrigan@noblis.org
+N1  - References: Bradley, S., Designing for a hierarchy of needs (2010) Smashing Magazine, , www.smashingmagazine.com/2010/04/26/designing-for-a-hierarchy-ofneeds, 26 Apr; 
+Pariser, E., Welcome to the brave new world of persuasion profiling (2011) Wired, , www.wired.com/magazine/2011/04/st_essay_persuasion_profiling, 26 Apr; 
+Kaptein, M.C., Eckles, D., Selecting effective means to any end: Futures and ethics of persuasion profiling (2010) Persuasion Profiling, , www.persuasion-profiling.com/wp-content/uploads/2010/04/EffectiveMeans. pdf; 
+Kitson, L., User-led does not equal user-centered (2011) UX Magazine, , http://uxmag.com/strategy/user-led-does-notequal-user-centered, 17 Mar; 
+Dawson, P., A definition: Total experience design (2009) EMC Consulting Blogs, , http://consultingblogs.emc.com/pauldawson/archive/2009/12/01/ a-definitiontotal-experience-design.aspx, 1 Dec; 
+Schaffer, E., Weinschenk, S., (2009) The Evolving Institutionalization of Usability: User Experience As Strategy, , white paper, Human Factors International, Inc., May
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79960951297&partnerID=40&md5=29849d15bbaa5a3da984818b45079598
+ER  - 
+
+TY  - JOUR
+TI  - Engaging digital services for the creation of urban knowledge ecosystems: The case of Thermi, Greece
+T2  - International Journal of Knowledge-Based Development
+J2  - Int. J. Knowl. Based Dev.
+VL  - 3
+IS  - 4
+SP  - 331
+EP  - 350
+PY  - 2012
+DO  - 10.1504/IJKBD.2012.050090
+SN  - 20404476 (ISSN) 
+AU  - Angelidou, M.
+AU  - Gountaras, N.
+AU  - Tarani, P.
+AD  - URENIO Research Unit, Faculty of Engineering, Aristotle University of Thessaloniki, 54121, Thessaloniki, Greece
+AB  - This paper discusses the way digital services advance urban knowledge ecosystems. The introductory part sets the frame of this paper; the second part conducts a systematic literature review regarding the association of knowledge with urban development since the beginning of the millennium, placing emphasis on urban knowledge ecosystems. The third part explores the benefits of using digital services in the implementation an urban knowledge ecosystem. The fourth and last part of the main body of this paper examines the urban knowledge ecosystem at the medium-sized city of Thermi, Greece, where in recent years a series of digital services were put in operation. The final and conclusive part of this paper examines the integration of digital services within the urban realm, based on the experience of Thermi, and how this process can support the development of knowledge and innovation-led cities. Copyright © 2012 Inderscience Enterprises Ltd.
+KW  - Digital platforms
+KW  - Digital services
+KW  - Greece
+KW  - KC
+KW  - KE
+KW  - Knowledge city
+KW  - Knowledge ecosystem
+KW  - Spatial intelligence
+KW  - Thermi
+KW  - Urban development
+N1  - Cited By :3
+N1  - Export Date: 14 May 2016
+M3  - Review
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Angelidou, M.; URENIO Research Unit, Faculty of Engineering, Aristotle University of Thessaloniki, 54121, Thessaloniki, Greece; email: mangel@arch.auth.gr
+N1  - References: Angelidou, M., Gountaras, N., Tarani, P., Digital services in knowledge cities: The case of 'digital thermi (2011) 4th Knowledge Cities World Summit, , 26-27 October, Bento Gonçalves, Brazil; 
+Brabham, D., Crowdsourcing the public participation process for planning projects (2009) Planning Theory, 8 (3), pp. 242-262; 
+Bray, D.A., Croxson, K., Dutton, W.H., Konsynski, B., Sermo: A community-based knowledge ecosystem (2008) Oll Distributed Problem-Solving Networks Conference, , February; 
+Carillo, F.J., Capital systems: Implications for a global knowledge agenda (2002) Journal of Knowledge Management, 6 (4), pp. 379-399; 
+Carillo, F.J., Capital cities: A taxonomy of capital accounts for knowledge cities (2004) Journal of Knowledge Management, 8 (5), pp. 28-46; 
+Chatterjee, J., Prabhakar, T.V., On to action - Building a digital ecosystem for knowledge diffusion in rural India (2005) International Conference on Knowledge Management, , North Carolina, USA; 
+Chatzkel, J., Greater phoenix as a knowledge capital (2004) Journal of Knowledge Management, 8 (5), pp. 61-72; 
+Dvir, R., Innovation engines for knowledge cities: An innovation ecology perspective (2004) Journal of Knowledge Management, 8 (5), pp. 16-27; 
+Edvinsson, L.E., Aspects on the city as a knowledge tool (2006) Journal of Knowledge Management, 10 (5), pp. 6-13. , DOI 10.1108/13673270610691134, Knowledge Cities 2006; 
+Edvinsson, L., Stenfelt, C., Intellectual capital of nations - For future wealth creation (1999) Journal of Human Resource Costing and Accounting, 4 (1), pp. 21-33; 
+Ergazakis, K., Metaxiotis, K., Psarras, J., Towards knowledge cities: Conceptual analysis and success stories (2004) Journal of Knowledge Management, 8 (5), pp. 5-15; 
+Ergazakis, K., Metaxiotis, K., Psarras, J., Knowledge cities: The answer to the needs of knowledge based development (2006) Journal of Information and Knowledge Management Systems, 36 (1), pp. 67-81; 
+Ergazakis, K., Metaxiotis, K., Psarras, J., An emerging pattern of successful knowledge cities' main features (2008) Knowledge Cities: Approaches, Experiences and Perspectives, pp. 3-15. , Carillo, F.J. (Ed.) Elsevier/Butterworth-Heinemann; 
+Garcia, B.C., UniverCities: Innovation and social capital in greater manchester (2008) Knowledge Cities: Approaches, Experiences and Perspectives, pp. 123-134. , Carillo, F.J. (Ed.) Elsevier/Butterworth-Heinemann; 
+González, O., Wilhelmy, R., Cavazos, S., Martinez, A knowledge citizens' competences: How citizens can improve their cities' evaluation as knowledge cities (2010) 3rd Knowledge Cities World Summit - From Theory to Practice, , Melbourne, Australia, November; 
+Intelligent community indicators (2011) Intelligent Community Forum, , https://www.intelligentcommunity.org/index.php?src=gendocs&ref= Research_Intelligent_Community_Indicators&category=Research&link= Research_Intelligent_Community_Indicators, (accessed on 2 August); 
+Komninos, N., (2002) Intelligent Cities: Innovation, Knowledge Systems and Digital Spaces, , Taylor and Francis/Spon Press, London and New York; 
+Komninos, N., Passas, I., Tarani, P., Tsarchopoulos, P., Platforms for intelligent cities: Integration of virtual spaces and collaborative innovation tools (2007) 3rd International Conference on Intelligent Environments, , September, Ulm University, Germany; 
+Komninos, N., (2008) Intelligent Cities and Globalisation of Innovation Networks, , Routledge, London and New York; 
+Komninos, N., Intelligent cities: Towards interactive and global innovation environments (2009) Int. J. Innovation and Regional Development, 1 (4), pp. 337-355; 
+Komninos, N., What makes cities smart? (2011) Smart Cities Conference, , presentation Edinburgh, 30 June; 
+Martínez, S.D., A comparative framework for knowledge cities (2008) Knowledge Cities: Approaches, Experiences and Perspectives, pp. 17-30. , Carillo, F.J. (Ed.) Elsevier/Butterworth-Heinemann; 
+Metaxiotis, K., Psarras, J., E-government, new concept, big challenge, success stories (2004) Electronic Government, an International Journal, 1 (2), pp. 141-151; 
+Metaxiotis, K., Psarras, J., Applying knowledge management in higher education: The creation of a learning organization (2004) Journal of Information and Knowledge Management, 2 (4), pp. 1-7; 
+Mihaud, P., (2003) Montreal: Knowledge City, , Report prepared by the Montreal Knowledge City Advisory Committee; 
+Ndou, V., E-government for developing countries: Opportunities and challenges (2004) The Electronic Journal on Information Systems in Developing Countries, 18 (1), pp. 1-24; 
+Tarani, P., (2011) Cities in Knowledge Economy: An Emergent Model of Urban Planning, , Doctoral thesis, Thessaloniki: Aristotle University of Thessaloniki; 
+Thomson, A.J., How should we manage knowledge ecosystems? Using adaptive knowledge management (2007) Sustainable Forestry: From Monitoring and Modelling to Knowledge Management, , Reynolds, K.M. et al. (Eds.) CABI Publishing, Wallingford; 
+PEOPLE - Pilot smart urban ecosystems leveraging open innovation for promoting and enabling future e-services (2011) European Community Research Program, , URENIO; 
+Yigitcanlar, T., The making of knowledge cities: Lessons learned from melbourne (2005) International Symposium on Knowledge Cities 2005, , 28-30 November, Saudi Arabia, Medina; 
+Yigitcanlar, T., O'Connor, K., Westerman, C., The making of knowledge cities: Melbourne's knowledge-based urban development experience (2008) Cities, 25 (2), pp. 63-72; 
+Bank, W., (2007) Building Knowledge Economies; Advanced Strategies for Development, , World Bank Institute Development Studies
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84870267229&partnerID=40&md5=3e5d95c6f86f4595294fe97dc1d8d9bc
+ER  - 
+
+TY  - JOUR
+TI  - Industry platforms and ecosystem innovation
+T2  - Journal of Product Innovation Management
+J2  - J. Prod. Innovation Manage.
+VL  - 31
+IS  - 3
+SP  - 417
+EP  - 433
+PY  - 2014
+DO  - 10.1111/jpim.12105
+SN  - 07376782 (ISSN) 
+AU  - Gawer, A.
+AU  - Cusumano, M.A.
+AD  - Imperial College Business School, Imperial College London, South Kensington Campus, London SW7 2AZ, United Kingdom
+AD  - Massachusetts Institute of Technology's Sloan School of Management, United States
+AB  - This paper brings together the recent literature on industry platforms and shows how it relates to managing innovation within and outside the firm as well as to dealing with technological and market disruptions and change over time. First, we identify distinct types of platforms. Our analysis of a wide range of industry examples suggests that there are two predominant types of platforms: internal or company-specific platforms, and external or industry-wide platforms. We define internal (company or product) platforms as a set of assets organized in a common structure from which a company can efficiently develop and produce a stream of derivative products. We define external (industry) platforms as products, services, or technologies that act as a foundation upon which external innovators, organized as an innovative business ecosystem, can develop their own complementary products, technologies, or services. Second, we summarize from the literature general propositions on the design, economics, and strategic management of platforms. Third, we review the case of Intel and other examples to illustrate the range of technological, strategic, and business challenges that platform leaders and their competitors face as markets and technologies evolve. Finally, we identify practices associated with effective platform leadership and avenues for future research to deepen our understanding of this important phenomenon and what firms can do to manage platform-related competition and innovation. © 2013 Product Development & Management Association.
+KW  - Commerce
+KW  - Competition
+KW  - Ecosystems
+KW  - Business challenges
+KW  - Business ecosystem
+KW  - Common structures
+KW  - Complementary products
+KW  - Industry examples
+KW  - Managing innovation
+KW  - Strategic management
+KW  - Industry
+PB  - Blackwell Publishing Ltd
+N1  - Cited By :34
+N1  - Export Date: 14 May 2016
+M3  - Article
+DB  - Scopus
+N1  - CODEN: JPIMD
+LA  - English
+N1  - Correspondence Address: Gawer, A.; Imperial College Business School, Imperial College London, South Kensington Campus, London SW7 2AZ, United Kingdom; email: a.gawer@imperial.ac.uk
+N1  - References: Abernathy, W.J., Utterback, J.M., Patterns of innovation in industry (1978) Technology Review, 80 (7), pp. 40-47; 
+Adner, R., Kapoor, R., Value creation in innovation ecosystems: How the structure of technological interdependence affects firm performance in new technology generation (2010) Strategic Management Journal, 31 (3), pp. 306-333; 
+Anvaari, M., Jansen, S., (2010) Evaluating Architectural Openness in Mobile Software Platforms, , Copenhagen: 2nd Workshop on Software Ecosystems; 
+Armstrong, M., Competition in two-sided markets (2006) RAND Journal of Economics, 37 (3), pp. 668-691; 
+Baldwin, C.Y., Clark, K.B., (2000) Design Rules: The Power of Modularity, , Cambridge, MA: MIT Press; 
+Baldwin, C.Y., Woodard, J., The architecture of platforms: A unified view (2009) Platforms, Markets and Innovation, pp. 19-44. , In, ed. A. Gawer, Cheltenham, UK: Edward Elgar; 
+Boudreau, K., Let a thousand flowers bloom? An early look at large numbers of software "apps" developers and patterns of innovation (2012) Organization Science, 23 (5), pp. 1409-1427; 
+Boudreau, K., Hagiu, A., Platforms rules: Multi-sided platforms as regulators (2009) Platforms, Markets and Innovation, pp. 163-191. , In, ed. A. Gawer, Cheltenham, UK: Edward Elgar; 
+Brandenburger, A., Nalebuff, B.J., (1997) Co-opetition, , New York: Currency Doubleday; 
+Brass, D.J., Galaskiewicz, J., Greve, H.R., Tsai, W., Taking stock of networks and organizations: A multilevel perspective (2004) Academy of Management Journal, 47 (6), pp. 795-817; 
+Bresnahan, T., Greenstein, S., Technological competition and the structure of the computer industry (1999) Journal of Industrial Economics, 47 (1), pp. 1-40; 
+Brown, J.K., (1995) The Baldwin Locomotive Works, 1831-1915: A Study in American Industrial Practice, , Baltimore, MD: The Johns Hopkins University Press; 
+Brusoni, S., The limits to specialization: Problem-solving and coordination in modular networks (2005) Organization Studies, 26 (12), pp. 1885-1907; 
+Brusoni, S., Prencipe, A., Unpacking the black box of modularity: Technologies, products and organizations (2001) Industrial and Corporate Change, 10 (1), pp. 179-204; 
+Brusoni, S., Prencipe, A., Making design rules: A multi-domain perspective (2006) Organization Science, 17 (2), pp. 179-189; 
+Caillaud, B., Jullien, B., Chicken and egg: Competition among intermediation service providers (2003) RAND Journal of Economics, 34 (2), pp. 309-328; 
+Campbell-Kelly, M., Aspray, W., (1996) Computer: A History of the Information Machine, , New York: Basic Books; 
+Chesbrough, H.W., (2003) Open Innovation: The New Imperative for Creating and Profiting from Technology, , Boston, MA: Harvard Business School Press; 
+Christensen, C., (1997) The Innovator's Dilemma, , Boston: Harvard Business School Press; 
+Cusumano, M.A., (2004) The Business of Software, , New York: Free Press; 
+Cusumano, M.A., The evolution of platform thinking (2010) Communications of the ACM, 53 (1), pp. 33-35; 
+Cusumano, M.A., The platform leader's dilemma (2011) Communications of the ACM, 54 (10), pp. 21-24; 
+Cusumano, M.A., Gawer, A., The elements of platform leadership (2002) MIT Sloan Management Review, 43 (3), pp. 51-58; 
+Cusumano, M.A., Mylonadis, Y., Rosenbloom, R.S., Strategic maneuvering and mass-market dynamics: The triumph of VHS over Beta (1992) Business History Review, 66 (1), pp. 51-94; 
+Cusumano, M.A., Nobeoka, K., (1998) Thinking beyond Lean, , New York: Free Press; 
+Dhanaraj, C., Parkhe, A., Orchestrating innovation networks (2006) Academy of Management Review, 31 (3), pp. 659-669; 
+Dosi, G., Technological paradigms and technological trajectories: A suggested interpretation of the determinants and directions of technical change (1982) Research Policy, 11 (3), pp. 147-162; 
+Eisenmann, T., Parker, G., Van Alstyne, M., Strategies for two-sided markets (2006) Harvard Business Review, 84 (10), pp. 92-101; 
+Eisenmann, T., Parker, G., Van Alstyne, M., Opening platforms: How, when, and why? (2009) Platforms, Markets and Innovation, pp. 131-162. , ed. A. Gawer, Cheltenham, UK: Edward Elgar; 
+Evans, D.S., The antitrust economics of multi-sided platform markets (2003) Yale Journal on Regulation, 20 (2), pp. 325-382; 
+Evans, D.S., How catalysts ignite: The economics of platform-based start-ups (2009) Platforms, Markets and Innovation, pp. 99-128. , In, ed. A. Gawer, Cheltenham, UK: Edward Elgar; 
+Farrell, J., Katz, M.L., Innovation, rent extraction, and integration in systems markets (2000) Journal of Industrial Economics, 97 (4), pp. 413-432; 
+Feitzinger, E., Lee, H.L., Mass customization at Hewlett-Packard: The power of postponement (1997) Harvard Business Review, 75 (1), pp. 116-121; 
+Fisher, F., McKie, J., Mancke, R., (1983) IBM and the U.S. Data Processing Industry, , New York: Praeger; 
+Gawer, A., (2000) The Organization of Platform Leadership: An Empirical Investigation of Intel's Management Processes Aimed at Fostering Innovation by Third-parties, , Unpublished PhD Thesis, MIT Sloan School of Management, Cambridge, MA; 
+Gawer, A., (2009) Platforms, Markets and Innovation, , Cheltenham, UK: Edward Elgar; 
+Gawer, A., Cusumano, M.A., (2002) Platform Leadership: How Intel, Microsoft, and Cisco Drive Industry Innovation, , Boston, MA: Harvard Business School Press; 
+Gawer, A., Cusumano, M.A., How companies become platform leaders (2008) MIT Sloan Management Review, 49 (2), pp. 28-35; 
+Gawer, A., Henderson, R., Platform owner entry and innovation in complementary markets: Evidence from Intel (2007) Journal of Economics and Management Strategy, 16 (1), pp. 1-34; 
+Gerstner, L., (2002) Who Says Elephants Can't Dance? Inside IBM's Historic Turnaround, , New York: Harper Business; 
+Grad, B., A personal recollection: IBM's unbundling of software and services (2002) IEEE Annals of the History of Computing, 24 (1), pp. 64-71; 
+Greenstein, S., Open platform development and the commercial internet (2009) Platforms, Markets and Innovation, pp. 219-248. , In, ed. A. Gawer, Cheltenham, UK: Edward Elgar; 
+Gulati, R., Nohria, N., Zaheer, A., Strategic networks (2000) Strategic Management Journal, 21 (3), pp. 203-216; 
+Hagiu, A., Pricing and commitment by two-sided platforms (2006) RAND Journal of Economics, 37 (3), pp. 720-737; 
+Hagiu, A., Merchant or two-sided platform? (2007) Review of Network Economics, 6 (2), pp. 115-133; 
+Hagiu, A., (2007) Multi-sided Platforms: From Microfoundations to Design and Expansion Strategies, , http://www.hbs.edu/research/pdf/07-094.pdf, Harvard Business School, Working Paper No. 07-094, Boston, MA. Available at (accessed 6 February 2012); 
+Iansiti, M., Levien, R., (2004) The Keystone Advantage: What the New Dynamics of Business Ecosystems Mean for Strategy, Innovation, and Sustainability, , Boston, MA: Harvard Business School Press; 
+Isaacson, W., (2011) Steve Jobs, , New York: Simon & Schuster; 
+Jacobides, M.G., Knudsen, T., Augier, M., Benefiting from innovation: Value creation, value appropriation and the role of industry architectures (2006) Research Policy, 35 (6), pp. 1200-1221; 
+Kenney, M., Pon, B., Structuring the smartphone industry: Is the mobile Internet OS platform the key? (2011) Journal of Industrial Competition and Trade, 11 (3), pp. 239-261; 
+Krishnan, V., Gupta, G., Appropriateness and impact of platform-based product development (2001) Management Science, 47 (1), pp. 52-68; 
+Leblebici, H., The evolution of alternative business models and the legitimization of universal credit card industry (2012) Advances in Strategic Management: History and Strategy, 29, pp. 117-151; 
+Lehnerd, A.P., Revitalizing the manufacture and design of mature global products (1987) Technology and Global Industry: Companies and Nations in the World Economy, pp. 49-64. , In, ed. B. R. Guile and H. Brooks, Washington, DC: National Academy Press; 
+Le Masson, P., Hatchuel, A., Weil, B., The interplay between creativity issues and design theories: A new perspective for design management studies? (2011) Creativity and Innovation Management, 20 (4), pp. 217-237; 
+Le Masson, P., Weil, B., Hatchuel, A., (2010) Strategic Management of Design and Innovation, , Cambridge: Cambridge University Press; 
+Le Masson, P., Weil, B., Hatchuel, A., Platforms for the design of platforms: Collaborating in the unknown (2011) Platforms, Markets and Innovation, pp. 273-305. , In, ed. A. Gawer, Cheltenham, UK: Edward Elgar; 
+Levy, S., (2011) The Plex: How Google Works, Thinks, and Shapes Our Lives, , New York: Simon & Schuster; 
+Lorenzoni, G., Lipparini, A., The leveraging of interfirm relationships as a distinctive organizational capability: A longitudinal study (1999) Strategic Management Journal, 20 (4), pp. 317-339; 
+McGrath, M.E., (1995) Product Strategy for High-technology Companies, , New York: Irwin Professional Publishing; 
+Meyer, M.H., Lehnerd, A.P., (1997) The Power of Product Platforms: Building Value and Cost Leadership, , New York: Free Press; 
+Moore, J.F., (1996) The Death of Competition: Leadership and Strategy in the Age of Business Ecosystems, , New York: HarperBusiness; 
+Muffatto, M., Roveda, M., Product architecture and platforms: A conceptual framework (2002) International Journal of Technology Management, 24 (1), pp. 1-16; 
+Murmann, J.P., Frenken, K., Towards a systematic framework for research on dominant designs, technological innovations, and industrial change (2006) Research Policy, 35, pp. 925-952; 
+Nambisan, S., Sawhney, M., Orchestration processes in network-centric innovation: Evidence from the field (2011) Academy of Management Perspectives, 25 (3), pp. 40-57; 
+Norman, D.A., (1988) The Design of Everyday Things, , New York: Doubleday; 
+Parker, G., Van Alstyne, M., Two-sided network effects: A theory of information product design (2005) Management Science, 51 (10), pp. 1494-1504; 
+Perrons, R.K., The open kimono: How Intel balances trust and power to maintain platform leadership (2009) Research Policy, 38, pp. 1300-1312; 
+Pine, J., (1993) Mass Customization: The New Frontier in Business Competition, , Boston, MA: Harvard Business School Press; 
+Pisano, G.P., Teece, D.J., How to capture value from innovation: Shaping intellectual property and industry architecture (2007) California Management Review, 50 (1), pp. 278-296; 
+Powell, W.W., White, D.R., Koput, K.W., Owen-Smith, J., Network dynamics and field evolution: The growth of interorganizational collaboration in the life sciences (2005) American Journalof Sociology, 110 (4), pp. 1132-1205; 
+Robertson, D., Ulrich, K., Planning for product platforms (1998) MIT Sloan Management Review, 39 (4), pp. 19-31; 
+Rochet, J.-C., Tirole, J., Platform competition in two-sided markets (2003) Journal of the European Economic Association, 1 (4), pp. 990-1029; 
+Rochet, J.-C., Tirole, J., Two-sided markets: A progress report (2006) RAND Journal of Economics, 35 (3), pp. 645-667; 
+Rosenberg, N., The direction of technological change: Inducement mechanisms and focusing devices (1969) Economic Development and Cultural Change, 18 (1), pp. 1-24; 
+Rosenbloom, R.S., Cusumano, M.A., Technological pioneering and competitive advantage: The birth of the VCR industry (1987) California Management Review, 29 (4), pp. 51-76; 
+Rothwell, R., Gardiner, P., Robustness and product design families (1990) Design Management: A Handbook of Issues and Methods, pp. 279-292. , In, ed. M. Oackley, Cambridge, MA: Basic Blackwell; 
+Sabbagh, K., (1996) Twenty-first Century Jet: The Making and Marketing of the Boeing 777, , New York: Scribner; 
+Sako, M., Modularity and outsourcing: The nature of co-evolution of product architecture in the global automotive industry (2003) The Business of Systems Integration, pp. 229-253. , In, ed. A. Prencipe, A. Davies, and M. Hobday, Oxford: Oxford University Press; 
+Sako, M., Outsourcing of tasks and outsourcing of assets: Evidence from automotive suppliers parks in Brazil (2009) Platforms, Markets and Innovation, pp. 251-272. , In, ed. A. Gawer, Cheltenham, UK: Edward Elgar; 
+Sanderson, S.W., Uzumeri, M., (1997) Managing Product Families, , Chicago, IL: Irwin; 
+Sawhney, M.S., Leveraged high-variety strategies: From portfolio thinking to platform thinking (1998) Journal of the Academy of Marketing Science, 26 (1), pp. 54-61; 
+Schilling, M.A., Protecting or diffusing a technology platform: Trade-offs in appropriability, network externalities, and architectural control (2009) Platforms, Markets and Innovation, pp. 192-218. , In, ed. A. Gawer, Cheltenham, UK: Edward Elgar; 
+Simpson, T.W., Siddique, Z., Jiao, J., Platform-based product family development: Introduction and overview (2005) Product Platforms and Product Family Design: Methods and Applications, pp. 1-16. , In, ed. T. W. Simpson, Z. Siddique, and J. Jiao, New York: Springer; 
+Staudenmayer, N., Tripsas, M., Tucci, C.L., Interfirm modularity and its implications for product development (2005) Journal of Product Innovation Management, 22 (4), pp. 303-321; 
+Suarez, F., Utterback, J., Dominant designs and the survival of firms (1995) Strategic Management Journal, 16 (6), pp. 415-430; 
+Szczesny, J., (2003) Mazda Ushers in New Ford Era: Platform Sharing Across Global Brands Is Ford's New Way of Doing Business, , http://www.thecarconnection.com/index.asp?article=6574pf=1, accessed 14 February 2006; 
+Tabuchi, H., (2012) How the Tech Parade Passed Sony by, , The New York Times, April 14; 
+Tierney, C., Bawden, A., Kunii, M., (2000) Dynamic Duo, , Business Week, October 23, p. 26; 
+Von Hippel, E., (2005) Democratizing Innovation, , Cambridge, MA: MIT Press; 
+West, J., How open is open enough? Melding proprietary and open source platform strategies (2003) Research Policy, 32, pp. 1259-1285; 
+Wheelwright, S.C., Clark, K.B., Creating project plans to focus product development (1992) Harvard Business Review, 70 (2), pp. 67-83; 
+Whitney, D.E., Nippondenso Co. Ltd: A case study of strategic product design (1993) Research in Engineering Design, 5 (1), pp. 1-20; 
+Zirpoli, F., Becker, M.C., (2008) The Limits of Design and Engineering Outsourcing: Performance Integration and the Unfulfilled Promises of Modularity, , Unpublished mimeo, presented at the International Workshop on Collaborative Innovation and Design Capabilities, Mines ParisTech, Paris; 
+Zirpoli, F., Caputo, M., The nature of buyer-supplier relationships in co-design activities: The Italian auto industry case (2002) International Journal of Operations and Production Management, 22 (12), pp. 1389-1410
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84898004011&partnerID=40&md5=b89ee8137ebe7493721a153e92ff6a9c
+ER  - 
+
+TY  - JOUR
+TI  - Value appropriation between the platform provider and app developers in mobile platform mediated networks
+T2  - Journal of Information Technology
+J2  - J. Inf. Technol.
+VL  - 30
+IS  - 3
+SP  - 245
+EP  - 259
+PY  - 2015
+DO  - 10.1057/jit.2015.21
+SN  - 02683962 (ISSN) 
+AU  - Oh, J.
+AU  - Koh, B.
+AU  - Raghunathan, S.
+AD  - Business School, Seoul National University, Seoul, South Korea
+AD  - Haskayne School of Business, University of Calgary, Calgary, Canada
+AD  - Naveen Jindal School of Management, University of Texas at Dallas, Richardson, TX, United States
+AB  - The mobile ecosystem has recently experienced a transition in platform leadership from network operators to mobile operating system providers. In each system the platform provider exerts effort in order to attract other firms for generativity and profitability. In this paper, we identify and analyze the working mechanism of one business practice that significantly influences the ecosystem's generativity and platform provider's profitability via value appropriation. Revenue sharing has become a common practice in the mobile ecosystem following NTT DoCoMo's radical revenue-sharing model contributing toward mobile service success in Japan. Studies further argue that offering a wide portfolio of services through an attractive or innovative revenue-sharing model is one of key success factors in the mobile ecosystem. However, app developers have continuously claimed that they do not receive their fair share and the press reports a substantial number of disputes concerning revenue sharing between the platform provider and app developers. We propose a new bargaining model, the modified apex game, that investigates how value is likely to be appropriated between the platform provider and app developers within a given mobile platform mediated network. We support our theoretical predictions using data collected from the early mobile ecosystem by a network operator as well as the iOS and Android mediated networks. © 2015 JIT Palgrave Macmillan.
+KW  - bargaining model
+KW  - layered modular architecture
+KW  - mobile platform mediated network
+KW  - modified apex game
+KW  - revenue sharing
+KW  - value appropriation
+KW  - Ecosystems
+KW  - Mobile phones
+KW  - Mobile telecommunication systems
+KW  - Profitability
+KW  - Bargaining model
+KW  - Mobile platform
+KW  - modified apex game
+KW  - Modular architectures
+KW  - Revenue-sharing
+KW  - value appropriation
+KW  - Ecology
+PB  - Palgrave Macmillan Ltd.
+N1  - Cited By :1
+N1  - Export Date: 14 May 2016
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Oh, J.; Business School, Seoul National UniversitySouth Korea
+N1  - References: Ahmed, M., (2011) FT Quits Apple in Dispute over Revenue Share, , http://www.thetimes.co.uk/tto/business/industries/media/article3150866.ece, The Times, 1 September, 2011 [wwwdocument] accessed 9 July 2015; 
+Ahonen, T.T., Kasper, T., Melkko, S., (2004) 3G Marketing: Communities and Strategic Partnership, , Hoboken Wiley; 
+Arthur, C., (2012) Googles Android Has Generated Just $550m since 2008, Figure Suggest, the Guardian, , http://www.theguardian.com/technology/2012/mar/29/googleffearns-moreffiphoneffandroid, 29 March [wwwdocument] accessed 9 July 2015; 
+Basole, R.C., Visualization of interfirm relations in a converging mobile ecosystem (2009) Journal of Information Technology, 24 (2), pp. 144-159; 
+Basole, R.C., Karla, J., On the evolution of mobile platform ecosystem structure and strategy (2011) Business & Information System Engineering, 3 (5), pp. 313-322; 
+Blodget, H., (2012) Case You Had Any Doubts about Where Apples Profit Comes From, Business Insider, , http://www.businessinsider.com/iphoneffprofit-2012-8, 2 August [wwwdocument] accessed 9 July 2015; 
+Boudreau, J., (2008) Apples Bait: Application Developers Swarm to IPhone, Mercury News, , http://www.mercurynews.com/business/ci-9599971?nclick-check=1, 16 June [wwwdocument] accessed 9 July 2015; 
+Boudreau, K., Open Platform Strategies and Innovation: Granting access vs. Devolving control (2010) Management Science, 56 (10), pp. 1849-1872; 
+Bradley, T., (2013) Android Dominates Market Share, but Apple Makes All the Money, , http://www.forbes.com/sites/tonybradley/2013/11/15/android-dominates-market-shareffbut-appleffmakes-alltheffmoney, Forbes, 15 November [wwwdocument] accessed 9 July 2015; 
+Brandenburger, A., Stuart, H., Biform games (2007) Management Science, 53 (4), pp. 537-549; 
+Bresnahan, T.F., Greenstein, S., Technological competition and the structure of the computer industry (1999) Journal of Industrial Economics, 47 (1), pp. 1-40; 
+(2011) Steve Who? Amazon, Wal-mart Bypass Apple App Store, , http://www.cbsnews.com/news/steveffwhoamazon-wal-mart-bypass-appleffapp-store, CBS News CBS News, 10 August [wwwdocument] accessed 9 July 2015; 
+Cennamo, C., Santalo, J., Platform competition: Strategic tradeffoffs in platform markets (2013) Strategic Management Journal, 34 (11), pp. 1331-1350; 
+Chakravarty, A.K., Werner, A.S., Telecom service provider portal: Revenue sharing and outsourcing (2011) European Journal of Operational Research, 215 (1), pp. 289-300; 
+Chowdhry, A., (2015) Average iphone price increases to $687 and android decreases to $254, says report, , http://www.forbes.com/sites/amitchowdhry/2015/02/03/averageffiphoneffpriceincreases-to-687-and-android-decreases-to-254-says-report, Forbes, February 3 2015 [wwwdocument] accessed 9 July 2015; 
+Compte, O., Jehiel, P., The coalitional nash bargaining solution (2010) Econometrica, 78 (5), pp. 1593-1623; 
+Cusumano, M., (2010) Evolution of Platform Thinking, Communication of the, (1), pp. 32-34. , ACM 53; 
+Cusumano, M.A., Gawer, A., The elements of platform leadership (2002) MIT Sloan Management Review, 43 (3), pp. 51-58; 
+De Reuver, M., Bouwman, H., Prieto, G., Visser, A., Governance of flexible mobile service platforms (2011) Futures, 43 (9), pp. 979-985; 
+Dredge, S., (2012) Financial Times Passes 2m Users for Its HTML5 Web App the Guardian, , http://www.theguardian.com/media/appsblog/2012/apr/24/financial-times-web-app-2m, 24 April [wwwdocument] accessed 9 July 2015; 
+Duncan, G., (2012) Wait, Google Earns Four Times More from IOS Than Android?Digital Trends, , http://www.digitaltrends.com/mobile/googleffearns-four-times-morefffrom-ios-than-android, 31 March [wwwdocument] accessed 9 July 2015; 
+Duryee, T., (2010) Two Dozen Mobile Carriers Unite Against Apples App Store, , http://www.theguardian.com/media/pda/2010/feb/15/mobileffapp-store, The Guardian, 15 February [wwwdocument] accessed 9 July 2015; 
+Eaton, B., Elaluf-Calderwood, S., Sørensen, C., Yoo, Y., Distributed tuning of boundary resources: The case of apples ios service system (2015) MIS Quarterly: Special Issue on Service Innovation in A Digital Age, 39 (1), pp. 217-243; 
+Efrati, A., (2014) Googles Confidential Android Contracts Show Rising Requirements the Information, , https://www.theinformation.com/Googleffs-Confidential-Android-Contracts-Show-Rising-Requirements, 26 September wwwdocument accessed 9 July 2015; 
+Egan, M., (2014) How to Play IOS Apps on PC: Run IPhone and IPad Apps on Your Laptop, , http://www.pcadvisor.co.uk/howto/software/3510817/run-iphoneffipad-apps-on-pc-laptop, PCAdvisor, 8 April [wwwdocument]; 
+Eichberger, J., (1993) Game Theory for Economists, , San Diego Academic Press; 
+Eisenmann, T., (2006) Platform-Mediated Networks: Definitions and Core Concepts, pp. 807-049. , Harvard Business School Technical Note; 
+Eisenmann, T., (2006) Winner-TakeffAll in Networked Markets, pp. 806-131. , Harvard Business School Technical Note; 
+Eisenmann, T., Parker, G., Van Alstyne, M., Strategies for two-sided markets (2006) Harvard Business Review, 84 (10), pp. 92-101; 
+Eisenmann, T., Parker, G., Van Alstyne, M., (2008) Opening Platforms: How, When and Why? Harvard Business School, , Working Paper, 09-030; 
+Eisenmann, T., Parker, G., Van Alstyne, M., Platform envelopment (2011) Strategic Management Journal, 32 (2), pp. 1270-1285; 
+Ellegaard, C., Geersbro, J., Medlin, C.J., (2009) Value Appropriation Within A Business Network, , http://openarchive.cbs.dk/handle/10398/8231, IMP ASIA Conference [wwwdocument]; 
+Evans, D.S., Schmalensee, R., The industrial organization of markets with two-sided platforms (2007) Competition Policy International, 3 (1), pp. 151-179; 
+Foros, O., Kind, H.J., Shaffer, G., (2013) Turning the Page on Business Formats for Digital Platforms: Does Apples Agency Model Soften Competition?CESifo, , http://ssrn.com/abstract=2317715, Working Paper Series No. 4362, available at SSRN: [wwwdocument]; 
+Fried, I., (2014) Microsoft Is Selling Office 365 Within IPad Apps, and Apple Is Getting Its 30 Percent Cut, , http://www.cnbc.com/id/101534337#, CNBC, 28 March [wwwdocument]; 
+Fukuda, E., Muto, S., Dynamic coalition formation in the apex game (2004) Theory and Decision, 56 (1-2), pp. 153-163; 
+Gadiesh, O., Gilbert, J.L., Profit pools: A fresh look at strategy (1998) Harvard Business Review, 76 (3), pp. 139-147; 
+(2010) Press Release: Gartner Says Consumers Will Spend $6.2 Billion in Mobile Application Stores in 2010, , http://www.gartner.com/newsroom/id/1282413, Gartner 18 January [wwwdocument accessed 9 July 2015; 
+Gawer, A., Cusumano, M.A., (2002) Platform Leadership: How Intel, Microsoft, and Cisco Drive Industry Innovation, , Boston: Harvard Business Press; 
+Gawer, A., Cusumano, M.A., How companies become platform leaders (2008) MIT Sloan Management Review, 49 (2), pp. 28-35; 
+Gawer, A., Henderson, R., Platform owner entry and innovation in complementary markets: Evidence from intel (2007) Journal of Economics & Management Strategy, 16 (1), pp. 1-34; 
+Ghazawneh, A., Henfridsson, O., Balancing platform control and external contribution in third-party development: The boundary resources model (2013) Information Systems Journal, 23 (2), pp. 179-192; 
+Hann, I., Koh, B., Niculescu, M.F., (2013) The Adoption of Multi-generational Platforms in the Presence of Intergenerational Services, , http://ssrn.com/abstract=2164390, NET Institute Working Paper, 12-17; 
+Hart, S., Kurz, M., Stable coalition structures (1984) Coalition and Collective Action, pp. 236-258. , in M.J. Holler (ed. Wuerzburg: Physica-Verlag; 
+Harvey, P., (2012) Vodafone Leads Open Global App-store Push, Light Reading, , http://www.lightreading.com/vodafoneffleads-openglobal-app-storeffpush/d/d-id/696198, 30 May [wwwdocument] accessed 9 July 2015; 
+Horowitz, A.D., Rapoport, A., Test of the kernel and two bargaining set models in four- and fiveff person games (1974) Game Theory As A Theory of Conflict Resolution, pp. 161-192. , in A.n. Rapoport (ed. Dordrech D. Reidel Publishing Company; 
+Iansiti, M., Richards, G.L., The information technology ecosystem: Structure, health, and performance (2006) Antitrust Bulletin, 51 (1), pp. 77-110; 
+Iyer, B., Lee, C., Venkatraman, N., Managing in a small world ecosystem: Lessons from the software sector (2006) California Management Review, 48 (3), pp. 28-47; 
+Jacobides, M.G., Knudsen, T., Augier, M., Benefiting from innovation: Value creation, value appropriation, and the role of industry architectures (2006) Research Policy, 35 (8), pp. 1200-1221; 
+Klowden, K., Chatterjee, A., DeVol, R., (2008) Writers Strike of 2007-2009: The Economic Impact of Digital Distribution, , Milken Institute Research Reports, June; 
+Koh, B., Oh, J., Determination of revenue streams subject to sharing in the mobile internet market (2006) Review of Network Economics, 5 (3), pp. 337-350; 
+Lardinois, F., (2013) Microsoft finally updates skydrive for ios with iphone 5 and ipad mini support, high-res photo downloads & more, , http://techcrunch.com/2013/04/03/microsoft-updatesskydrivefffor-ios-30, Techcrunch, 3 April [wwwdocument] accessed 9 July 2015; 
+Lee, R.S., Vertical integration and exclusivity in platform and two-sided markets (2013) American Economic Review, 103 (7), pp. 2960-3000; 
+Lemaire, J., An application of game theory: Cost allocation (1984) ASTIN Bulletin International Actuarial Association, 14 (1), pp. 61-82; 
+Lippman, S.A., Rumelt, R.P., A Bargaining Perspective on Resource Advantage (2003) Strategic Management Journal, 24 (11), pp. 1069-1086; 
+Liu, B., Tang, S., Revenueffsharing analysis in the mobile valueffadded services (2006) Journal of China Universities of Posts and Telecommunications, 13 (4), pp. 102-105; 
+MacDonald, G., Ryall, M.D., (2004) How Do Value Creation and Competition Determine Whether A Firm Appropriates Value? Management Science, 50 (10), pp. 1319-1333; 
+Maschler, M., The power of a coalition (1963) Management Science, 10 (1), pp. 8-29; 
+Maschler, M., An advantage of the bargaining set over the core (1976) Journal of Economic Theory, 13 (2), pp. 184-192; 
+Melloy, J., (2015) Dominant: Apple Takes 90% of Smartphone Profits, CNBC, , http://www.cnbc.com/id/102409263#, 9 February [wwwdocument] accessed 9 July 2015; 
+Montero, M., Non-cooperative bargaining in apex games and the kernel (2002) Games and Economic Behavior, 41 (2), pp. 309-321; 
+Murnighan, J.K., Roth, A.E., The effects of communication and information availability in an experimental study of a threeffperson game (1977) Management Science, 23 (12), pp. 1336-1348; 
+Nielsen, P., (2004) Implementing Public Platforms for Mobile Phone Content Services: Standardization in An Era of Convergence. European Conference on Information Systems (ECIS) 2004, , http://aisel.aisnet.org/ecis2004/129, Proceedings, Paper 129; 
+Nielsen, P., Aanestad, M., Control devolution as information infrastructure design strategy: A case study of a content service platform for mobile phones in Norway (2006) Journal of Information Technology, 21 (3), pp. 185-194; 
+Nikou, S., Bouwman, H., De Reuver, M., A Consumer Perspective on Mobile Service Platforms: A conjoint analysis approach (2014) Communication of the Association for Information Systems, 34 (83), pp. 1409-1424; 
+Olla, P., Patel, N.V., A Value Chain Model for Mobile Data Service Providers (2002) Telecommunications Policy, 26 (9-10), pp. 551-571; 
+Parker, G., Van Alstyne, M., Two-sided network effects: A theory of information product design (2005) Management Science, 51 (10), pp. 1494-1504; 
+Parker, G., Van Alstyne, M., (2013) Innovation, Openness, and Platform Control, , http://ssrn.com/abstract=1079712, Working Paper; 
+Pegoraro, R., (2011) Apples Taking 30 Percent of App Store Subscriptions Is An Unkind Cut, the Washington, , http://www.washingtonpost.com/wp-dyn/content/article/2011/02/18/AR2011021807943.html, Post, 20 February [wwwdocument] accessed 9 July 2015; 
+Perrons, R.K., The open kimono: How intel balances trust and power to maintain platform leadership (2009) Research Policy, 38 (8), pp. 1300-1312; 
+Rajala, R., Rossi, M., Tuunainen, V.K., Vihinen, J., Revenue logics of mobile entertainment software - Observations from companies producing mobile games (2007) Journal of Theoretical and Applied Electronic Commerce Research, 2 (2), pp. 34-47; 
+Rapoport, A., Kahan, J.P., Coalition formation in a fiveffperson market game (1984) Management Science, 30 (3), pp. 326-343; 
+Reisinger, D., (2012) Microsoft, Apple in Battle over App Store Fee - Report Cnet, , http://www.cnet.com/news/microsoft-applein-battleffover-app-storefffees-report, 11 December [wwwdocument]accessed 9 July 2015; 
+Rochet, J., Tirole, J., Platform competition in two-sided markets (2003) Journal of the European Economic Association, 1 (4), pp. 990-1029; 
+Roth, A.E., (1988) Shapley Value: Essays in Honor of Lloyd S. Shapley, , Cambridge: Cambridge University Press; 
+Ryall, M.D., Sorenson, O., Brokers and competitive advantage (2007) Management Science, 53 (4), pp. 566-583; 
+Schmeidler, D., Competitive equilibria in markets with a continuum of traders and incomplete preferences (1969) Econometrica, 37 (4), pp. 578-585; 
+Shapley, L.S., A Value for n-person games (1953) Contribution to the Theory of Games., , in H.W. Kuhn and A.W. Tucker (eds. II, Princeton: Princeton University Press; 
+Sherter, A., (2013) Time Warner Drops CBS from Cable Network in Major Markets, , http://www.cbsnews.com/8301-505123-162-57596778/timeffwarner-drops-cbs-from-cableffnetwork-in-majormarkets, CBS News, 2 August [wwwdocument] accessed 9 July 2015; 
+Shiller, B., Waldfogel, J., The challenge of revenue sharing with bundled pricing: An application to music (2012) Economic Inquiry, 51 (2), pp. 1155-1165; 
+Smith, C., (2013) Google Wants to Increase Its Share of Play Store Android App Revenue, New Report Says, , http://www.androidauthority, Androidauthority.com, 28 June [wwwdocument]; 
+Stelter, B., (2008) Warner Music Removes Its Videos from YouTube As Licensing Talks Stall, the New York Times, 22 November [Www Document], , http://www.nytimes.com/2008/12/22/business/worldbusiness/22iht-22warner.18859012.html?-r=0, accessed 9 July 2015; 
+Tee, R., Gawer, A., Industry architecture as a determinant of successful platform strategies: A case study of the i-mode mobile internet service (2009) European Management Review, 6 (4), pp. 217-232; 
+Tilson, D., Sørensen, C., Lyytinen, K., (2012) Platform Complexity: Lessons from Mobile Wireless, 2012 International Conference on Mobile Business, Paper 6, , http://aisel.aisnet.org/icmb2012/6, wwwdocument; 
+Van Den Nouweland, A., Borm, P., Van Golstein, W., Bruinderink, R.G., Tijs, S., A Game Theoretic Approach to Problems in Telecommunication (1996) Management Science, 42 (2), pp. 294-303; 
+West, J., How open is open enough? (2003) Melding Proprietary and Open Source Platform Strategies, Research Policy, 32 (7), pp. 1259-1285; 
+Yarow, J., (2013) Google Is Reportedly Trying to Get A Bigger Slice of Android App Revenue, Business Insider, , http://www.businessinsider.com/googleffplay-storeffrevenueff2013-6, 28 June [wwwdocument] accessed 9 July 2015; 
+Yoffie, D., Kwak, M., With friends like these: The art of managing complementors (2006) Harvard Business Review, 84 (9), pp. 89-98; 
+Yoo, Y., Henfridsson, O., Lyytinen, K., The new organizing logic of digital innovation: An agenda for information systems research (2010) Information Systems Research, 21 (4), pp. 724-735; 
+Zhu, F., Iansiti, M., Entry into platform-based markets (2012) Strategic Management Journal, 33 (1), pp. 88-106
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939783307&partnerID=40&md5=1d688f6bf966c6292cbe1efae7c85a49
+ER  - 
+
+TY  - JOUR
+TI  - A paradigmatic analysis of digital application marketplaces
+T2  - Journal of Information Technology
+J2  - J. Inf. Technol.
+VL  - 30
+IS  - 3
+SP  - 198
+EP  - 208
+PY  - 2015
+DO  - 10.1057/jit.2015.16
+SN  - 02683962 (ISSN) 
+AU  - Ghazawneh, A.
+AU  - Henfridsson, O.
+AD  - IT University of Copenhagen, Copenhagen, Denmark
+AD  - University of Warwick, Coventry, United Kingdom
+AB  - This paper offers a paradigmatic analysis of digital application marketplaces for advancing information systems research on digital platforms and ecosystems. We refer to the notion of digital application marketplace, colloquially called 'appstores,' as a platform component that offers a venue for exchanging applications between developers and end users belonging to a single or multiple ecosystems. Such marketplaces exhibit diversity in features and assumptions, and we propose that examining this diversity, and its ideal types, will help us to further understand the relationship between application marketplaces, platforms, and platform ecosystems. To this end, we generate a typology that distinguishes four kinds of digital application marketplaces: closed, censored, focused, and open marketplaces. The paper also offers implications for actors wishing to make informed decisions about their relationship to a particular digital application marketplace. © 2015 JIT Palgrave Macmillan.
+KW  - appstores
+KW  - digital marketplaces
+KW  - ecosystems
+KW  - paradigmatic analysis
+KW  - platforms
+KW  - Ecology
+KW  - Ecosystems
+KW  - Information systems
+KW  - appstores
+KW  - Digital applications
+KW  - Digital marketplace
+KW  - Informed decision
+KW  - paradigmatic analysis
+KW  - Platform components
+KW  - Platform ecosystems
+KW  - platforms
+KW  - Commerce
+PB  - Palgrave Macmillan Ltd.
+N1  - Cited By :1
+N1  - Export Date: 14 May 2016
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Henfridsson, O.; Warwick Business School, University of WarwickUnited Kingdom
+N1  - References: Adomavicius, G., Bockstedt, J.C., Gupta, A., Kauffman, R.J., Technology roles and paths of influence in an ecosystem model of technology evolution (2007) Information Technology and Management, 8 (2), pp. 185-202; 
+Aldrich Douglas, F., (1999) Mastering the Digital Marketplace: Practical Strategies for Competitiveness in the New Economy, , New York: John Wiley and Sons; 
+Amberg, M., Thiessen, I., Lang, M., Belkius, B., (2010) Mobile Application Marketplaces - An Investigation from Customers Perspective, , Proceeding of MKWI, Göttingen, Germany; 
+Andersen, C., (2009) Longer Long Tail, , NY, USA Random House Business; 
+Bakos, J.Y., A Strategic Analysis of Electronic Marketplaces (1991) MIS Quarterly, 15 (3), pp. 295-310; 
+Bakos, J.Y., The emerging role of electronic marketplaces on the internet (1998) Communications of the ACM, 41 (8), pp. 35-42; 
+Baldwin, C., Clark, K.B., (2000) Design Rules: The Power of Modularity, , Cambridge, MA MIT Press; 
+Baldwin, C.Y., Woodard, C.J., (2009) Architecture of Platforms: A Unified View, , in A. Gawer (ed. Platforms, Markets and Innovation, Cheltenham, UK Edward Elgar; 
+Basole, R.C., Karla, J., Value transformation in the mobile service ecosystem: A study of app store emergence and growth (2012) Service Science, 4 (1), pp. 24-41; 
+Bergvall-Kåreborn, B., Howcroft, D., Mobile applications development on apple and google platforms (2011) Communications of the Association for Information Systems, 29 (1), pp. 565-580; 
+Bharadwaj, A., El Sawy, O.A., Pavlou, P.A., Venkatraman, N., Digital business strategy: Toward a next generation of insights (2013) MIS Quarterly, 37 (2), pp. 471-482; 
+Bresnahan, T.F., Greenstein, S., Technological competition and the structure of the computer industry (1999) Journal of Industrial Economics, 47 (1), pp. 1-40; 
+Brunn, P., Jensen, M., Skovgaard, J., Effmarketplaces: Crafting a winning strategy (2002) European Management Journal, 20 (3), pp. 286-298; 
+Boudreau, K.J., Lakhani, K.R., How to manage outside innovation (2009) Sloan Management Review, 50 (4), pp. 69-76; 
+Boudreau, K.J., Open Platform Strategies and Innovation: Granting access vs. Devolving control (2010) Management Science, 56 (10), pp. 1849-1872; 
+Boudreau, K.J., Let a Thousand Flowers Bloom? An Early Look at Large Numbers of Software App Developers and Patterns of innovation (2012) Organization Science, 23 (5), pp. 1409-1427; 
+Brynjolfsson, E., Hu, Y.J., Simester, D., Goodbye pareto principle, hello long tail: The effect of search costs on the concentration of product sales (2011) Management Science, 57 (8), pp. 1373-1386; 
+Choudhury, V., Hartzel, K.S., Konsynski, B.R., Uses and consequences of electronic markets: An empirical examination into the aircraft parts industry (1998) MIS Quarterly, 22 (4), pp. 471-507; 
+Clark, K.B., The interaction of design hierarchies and market concepts in technological evolution (1985) Research Policy, 14 (5), pp. 235-251; 
+De Reuver, M., Bouwman, H., Governance mechanisms for mobile service innovation in value networks (2012) Journal of Business Research, 65 (3), pp. 347-354; 
+Doty, D.H., Glick, W.H., Typologies as a unique form of theory building: Toward improved understanding and modeling (1994) Academy of Management Review, 19 (2), pp. 230-251; 
+Eaton, B., Elaluf-Calderwood, S., Sørensen, C., Yoo, Y., (2011) Dynamic Structures of Control and Generativity in Digital Ecosystem Service Innovation: The Cases of the Apple and Google Mobile App Stores. LSE, , Working Paper, London, UK: London School of Economics and Political Science; 
+Eaton, B., Elauf-Calderwood, S., Sorenson, C., Yoo, Y., Distributed tuning of boundary resources: The case of apples ios service system (2015) MIS Quarterly, 39 (1), pp. 217-243; 
+Edelman, B.G., Jaffe, S., Kominers, S., (2011) Groupon or Not to Groupon: The Profitability of Deep Discounts, , http://ssrn.com/abstract=1727508, Harvard Business School, NOM Unit Working Paper No. 11-063, Cambridge, MA: Harvard University. Available at SSRN: [WWW document]; 
+Eisenmann, T., Park, T., Van Alstyne, M., Strategies for two-sided networks (2006) Harvard Business Review, 84 (10), pp. 92-101; 
+El Sawy, O.A., Malhotra, A., Park, Y., Pavlou, P.A., Seeking the configurations of digital ecodynamics: It takes three to tango (2010) Information Systems Research, 21 (4), pp. 835-848; 
+Eng, T.-Y., The role of effmarketplaces in supply chain management (2004) Industrial Marketing Management, 33 (2), pp. 97-105; 
+Evans, D.S., Some empirical aspects of multi-sided platform industries (2003) Review of Network Economics, 2 (3), pp. 191-209; 
+Evans, D.S., Hagiu, A., Schmalensee, R., Invisible engines: How software platforms drive innovation and transform industries (2006) Cambridge MA, , MIT Press; 
+Gawer, A., (2009) Platforms, Markets, and Innovation, , Cheltenham, UK: Edward Elgar; 
+Gawer, A., Bridging differing perspectives on technological platforms: Toward an integrative framework (2014) Research Policy, 43 (7), pp. 1239-1249; 
+Ghazawneh, A., Henfridsson, O., Balancing platform control and external contribution in third-party development: The boundary resources model (2013) Information Systems Journal, 23 (2), pp. 173-192; 
+Goncalves, V., Walravens, N., Ballon, P., How about an app store? Enablers and constraints in platform strategies for mobile network operators (2010) Proceedings of 9th ICMB-GMR, Athens, Greece IEEE; 
+Grieger, M., Electronic marketplaces: A literature review and a call for supply chain management research (2003) European Journal of Operational Research, 144 (2), pp. 280-294; 
+Groysberg, B., Thomas, D.A., Tydlaska, J., (2011) Odesk: Changing How the World Works, , http://ssrn.com/abstract=2021459, Harvard Business School, Organizational Behavior Unit case no. 411-078, MA: Harvard Business Publishing. Available at SSRN: [wwwdocument]; 
+Han, S.P., Ghose, A., Estimating demand for applications in the new mobile economy (2012) Proceedings of International Conference on Information Systems, , ICIS. Orlando Florida, USA. December; 
+Henfridsson, O., Bygstad, B., The generative mechanisms of digital infrastructure evolution (2013) MIS Quarterly, 37 (3), pp. 907-931; 
+Henfridsson, O., Yoo, Y., The liminality of trajectory shifts in institutional entrepreneurship (2014) Organization Science, 25 (3), pp. 932-950; 
+Henfridsson, O., Mathiassen, L., Svahn, F., Managing technological change in the digital age: The role of architectural frames (2014) Journal of Information Technology, 29 (1), pp. 27-43; 
+Holzer, A., Ondrus, J., (2011) Mobile Application Market: A Developers Perspective, pp. 22-31. , Telematics and Informatics, 28, Mobile Service Architecture and Middleware, ScienceDirect, EBSCOhost; 
+Huang, P., Ceccagnoli, M., Forman, C., Wu, D.J., When Do isvs Join a Platform Ecosystem? Evidence from the Enterprise Software industry (2009) Proceedings of International Conference on Information Systems (ICIS), , Paper 161, Phoenix, Arizona: Association for Information Systems (AIS; 
+Iansiti, M., Zhu, F., Dynamics of platform competition: Exploring the role of installed base, platform quality and consumer expectations (2007) Proceedings of International Conference on Information Systems (ICIS), , Paper 38, Montreal, Canada: Association for Information Systems (AIS; 
+Iivari, J., Hirschheim, R., Klein, H.K., A Paradigmatic Analysis Contrasting Information Systems Development Approaches and Methodologies (1998) Information Systems Research, 9 (2), pp. 164-193; 
+Kaplan, S., Sawhney, M., Effhubs: The new b2b marketplaces (2000) Harvard Business Review, 78 (3), pp. 97-106; 
+Kazan, E., Damsgaard, J., A Framework for Analyzing Digital Payment As A Multi-Sided Platform: A Study of Three European NFC Solutions (2013) Proceedings of European Conference on Information Systems, , ECIS 2013. Utrecht, The Netherlands. June; 
+Kim, H.J., Kim, I., Lee, H.G., The success factors for app storefflike platform businesses from the perspective of third-party developers: An empirical study based on a dual model framework (2010) Proceeding Pacific Asia Conference on Information Systems (PACIS) Taipei, Taiwan; 
+Ljungberg, J., Open source movements as a model for organizing (2000) European Journal of Information Systems, 9 (3), pp. 208-216; 
+Magnusson, J., Nilsson, A., Introducing app stores into a packaged software ecosystem: A negotiated order perspective (2013) International Journal of Business Information Systems, 14 (2), pp. 223-237; 
+Mahadevan, B., Business models for internet-based effcommerce: Anv anatomy (2000) California Management Review, 42 (4), pp. 55-69; 
+Müller, R.M., Kijl, B., Martens, J.K.J., A Comparison of Inter-Organizational Business Models of Mobile App Stores: There is more than open vs. Closed (2011) Journal of Theoretical and Applied Electronic Commerce Research, 6 (2), pp. 63-76; 
+Rask, M., Kragh, H., Motives for effmarketplace participation: Differences and similarities between buyers and suppliers (2004) Electronic Markets, 14 (4), pp. 270-283; 
+Remneland, B., Ljungberg, J., Bergquist, M., Kuschel, J., Open innovation, generativity and the supplier as peer: The case of iphone and android (2011) International Journal of Innovation Management, 15 (1), pp. 1-26; 
+Rochet, J.-C., Tirole, J., Platform competition in two-sided markets (2003) Journal of the European Economic Association, 1 (4), pp. 990-1029; 
+Rochet, J.-C., Tirole, J., Two-sided markets: A progress report (2006) Rand Journal of Economics, 37 (4), pp. 645-667; 
+Romberg, T., Software platforms- how to win the peace, in proceedings of the 40th Hawaii international conference on system sciences (hicss-40) (2007) Big Island, Hawaii, pp. 1-10; 
+Sanchez, R., Mahoney, J.T., Modularity, flexibility, and knowledge management in product andorganizational design (1996) Strategic Management Journal, 17 (S2), pp. 63-76. , Winter special issue; 
+Selander, L., Henfridsson, O., Svahn, F., Capability search and redeem across digital ecosystems (2013) Journal of Information Technology, 28 (3), pp. 183-197; 
+Tilson, D., Lyytinen, K., Sørensen, C., Digital infrastructures: The missing is research agenda (2010) Information Systems Research, 21 (4), pp. 748-759; 
+Tilson, D., Sorensen, C., Lyytinen, K., (2012) Change and Control Paradoxes in Mobile Infrastructure Innovation: The Android and IOS Mobile Operating Systems Cases, pp. 1324-1333. , The 45th Hawaii International Conference on System Sciences; 
+Tilson, D., Sørensen, C., Lyytinen, K., (2013) Platform complexity: Lessons from the music industry, the 46th Hawaii international conference on system science (hicss 46), , Maui, HI; 
+Tiwana, A., Konsynski, B., Bush, A., Platform evolution: Coevolution of platform architecture, governance, and environmental dynamics (2010) Information Systems Research, 21 (4), pp. 685-687; 
+Wareham, J., Fox, P.B., Cano Giner, J.L., Technology ecosystem governance (2014) Organization Science, 25 (4), pp. 1195-1215; 
+Weber, M., (1949) Methodology of the Social Sciences, , Glencoe, IL: Free Press; 
+West, J., Mace, M., Browsing as the killerapp: Explaining the rapid success of apples iphone (2010) Telecommunications Policy, 34 (5-6), pp. 270-286; 
+Yoo, Y., Boland, R.J., Lyytinen, K., Majchrzak, A., Organizing for innovation in the digitized world (2012) Organization Science, 23 (5), pp. 1398-1408; 
+Yoo, Y., Henfridsson, O., Lyytinen, K., The new organizing logic of digital innovation: An agenda for information systems research (2010) Information Systems Research, 21 (4), pp. 724-735; 
+Yoo, Y., Lyytinen, K., Boland, R.J., Innovation in the digital era: Digitization and four classes of innovation networks (2008) Hawaii International Conference on System Science, , Big Island, Hawaii: HICSS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939806687&partnerID=40&md5=bf13dfc4caf90209040c964c2325c5e0
+ER  - 
+
+TY  - JOUR
+TI  - Effectiveness of control mechanisms in mobile platform ecosystem
+T2  - Telematics and Informatics
+J2  - Telematics Inf
+VL  - 33
+IS  - 3
+SP  - 848
+EP  - 859
+PY  - 2016
+DO  - 10.1016/j.tele.2015.12.008
+SN  - 07365853 (ISSN) 
+AU  - Mukhopadhyay, S.
+AU  - De Reuver, M.
+AU  - Bouwman, H.
+AD  - MDI (Management Development Institute), Gurgaon, India
+AD  - IBM India Private Limited, India
+AD  - Delft University of Technology, Netherlands
+AD  - Åbo Akademi University, Turku, Finland
+AB  - Mobile Internet services are offered by complex ecosystems, which are difficult to control. While control theory has been applied to traditional forms of interorganisational software development, it is yet unclear how input, behavioural and output control should be used to manage complex ecosystems. This paper analyses the impact of a portfolio of ecosystem control mechanisms on a set of performance criteria through a survey. We find that ecosystem leaders manage dependencies among partners through a combination of outcome and behavioural control. In contrast, access to complementary resources is achieved through input and behavioural control. The ecosystem leaders also safeguard customer relationships from other partners through a combination of outcome and behavioural controls. The study extends traditional control theory towards the emerging realm of platform-based mobile service development. © 2015 Elsevier Ltd. All rights reserved.
+KW  - Business model
+KW  - Control mechanisms
+KW  - Digital platform
+KW  - Mobile ecosystems
+KW  - PLS
+KW  - Service innovation
+KW  - Value added services
+KW  - Control theory
+KW  - Ecology
+KW  - Internet
+KW  - Public relations
+KW  - Software design
+KW  - Business modeling
+KW  - Control mechanism
+KW  - Digital platforms
+KW  - PLS
+KW  - Service innovation
+KW  - Value added service
+KW  - Ecosystems
+PB  - Elsevier Ltd
+N1  - Export Date: 14 May 2016
+M3  - Article
+DB  - Scopus
+N1  - CODEN: TEINE
+LA  - English
+N1  - Correspondence Address: Mukhopadhyay, S.; MDI (Management Development Institute)India; email: sandipmukho@gmail.com
+N1  - References: Adler, P.S., Borys, B., Two types of bureaucracy: Enabling and coercive (1996) Adm. Sci. Q., 41 (1), pp. 61-89; 
+Armstrong, J., Overton, T., Estimating nonresponse bias in mail surveys (1977) J. Market. Res., 14 (3), pp. 396-402; 
+Bacon, L.D., Using LISREL and PLS to measure customer satisfaction (1999) Sawtooth Software Conference Proceedings, 2-5, pp. 305-306. , La Jolla, California; 
+Bagozzi, R.P., Yi, Y., On the evaluation of structural equation models (1988) J. Acad. Mark. Sci., 16 (1), pp. 74-94; 
+Baldwin, C.Y., Clark, K.B., (2000) Design Rules: The Power of Modularity, 1. , MIT Press Cambridge, MA; 
+Ballon, P., (2007) Business Modelling Revisited: The Configuration of Control and Value, Info, 9 (5), pp. 6-19; 
+Ballon, P., Walravens, N., Competing platform models for mobile service delivery: The importance of gatekeeper roles (2008) Proceedings of the 7th International Conference on Mobile Business (ICMB 2008), pp. 102-111. , Barcelona, Spain, 7-8 July; 
+Basole, R.C., Rouse, W.B., Complexity of service value networks: Conceptualization and empirical investigation (2008) IBM Syst. J., 47 (1), pp. 53-70; 
+Basole, R.C., Karla, J., On the evolution of mobile platform ecosystem structure and strategy (2011) Bus. Inf. Syst. Eng., 3 (5), pp. 313-322; 
+Basole, R.C., Visualization of interfirm relations in a converging mobile ecosystem (2009) J. Inform. Technol., 24 (2), pp. 144-159; 
+Beath, C.M., Managing the user relationship in information systems development projects: A transaction governance approach (1987) Proc. 8th Internat. Conf. Inform. Systems, pp. 415-427; 
+Bouwman, H., Bejar, A., Nikou, S., Mobile services put in context: A q-sort analysis (2012) Telematics Inform., 29 (1), pp. 66-81; 
+Cardinal, L.B., Technological innovation in the pharmaceutical industry: The use of organizational control in managing research and development (2001) Organ. Sci., 12 (11), pp. 19-36; 
+Chesbrough, H.W., Appleyard, M.M., Open innovation and strategy (2007) Calif. Manage. Rev., 50 (1), pp. 57-76; 
+Choudhury, V., Sabherwal, R., Portfolios of control in outsourced software development projects (2003) Inf. Syst. Res., 14 (3), pp. 291-314; 
+Constantiou, I., Damsgaard, J., Knutsen, L., The four incremental steps towards advanced mobile service adoption (2006) Commun. ACM, 50 (6), pp. 51-55; 
+Darking, M., Whitley, E.A., Dini, P., Governing diversity in the digital ecosystem (2008) Commun. ACM, pp. 137-140; 
+Das, T.K., Teng, B.S., Trust, control and risk in strategic alliances: An integrated framework (2001) Organ. Stud., 22 (2), pp. 251-283; 
+De Reuver, M., (2011) Governance of Mobile Service Innovation after the Walled Gardens, Info, 13 (1), pp. 43-60; 
+De Reuver, M., Bouwman, H., Governance mechanisms for mobile service innovation in value networks (2012) J. Bus. Res., 65 (3), pp. 347-354; 
+De Reuver, M., Bouwman, H., Prieto, G., Visser, A., Governance of flexible mobile service platforms (2011) Futures, 43 (9), pp. 979-985; 
+Eaton, B., Elaluf-Calderwood, S., Sørensen, C., Yoo, Y., Distributed tuning of boundary resources: The case of apple's IOS service system (2015) MIS Q., 39 (1), pp. 217-243; 
+Eisenhardt, K.M., Control: Organizational and economic approaches (1985) Manage. Sci., 31 (2), pp. 134-149; 
+Fisher, J., Contingency-based research on management control systems: Categorization by level of complexity (1995) J. Acc. Lit., 14, p. 24; 
+Fornell, C., Larcker, D.F., Evaluating structural equation models with unobservable variables and measurement error (1981) J. Mark. Res., 18 (1), pp. 39-50; 
+Galbraith, J., (1973) Designing Complex Organization, , Addison-Wesley Reading, MA; 
+Gawer, A., Bridging differing perspectives on technological platforms: Toward an integrative framework (2014) Res. Policy, 43 (7), pp. 1239-1249; 
+Ghazawneh, A., Henfridsson, O., Balancing platform control and external contribution in third-party development: The boundary resources model (2013) Inf. Syst. J., 23, pp. 173-192; 
+Goldbach, T., Kemper, V., Should i stay or should i go? the effects of control mechanisms on app developers' intention to stick with a platform (2014) Proceedings of the 22nd European Conference on Information Systems (ECIS, 2014), , Tel Aviv, Israel, June 9-11, AIS Electronic Library (AISeL); 
+Govindarajan, V., Fisher, J., Strategy, control systems, and resource sharing: Effects on business-unit performance (1990) Acad. Manag. J., 33 (2), pp. 259-285; 
+Gregory, R.W., Beck, R., Keil, M., Control balancing in information systems development offshoring projects (2013) Mis Q., 37 (4), pp. 1211-1232; 
+Henderson, J.C., Lee, S., Managing I/S design teams: A control theories perspective (1992) Manage. Sci., 38 (6), pp. 757-777; 
+Hoyle, R.H., (1995) "structural Equation Modeling" Thousand Oaks, , SAGE Publications Inc CA; 
+Hulland, J., Use of partial least squares (PLS) in strategic management research: A review of four recent studies (1999) Strateg. Manag. J., 20 (2), pp. 195-204; 
+Hwang, H., Malhotra, N.K., Kim, Y., Tomiuk, M.A., Hong, S., A comparative study on parameter recovery of three approaches to structural equation modelling (2010) J. Mark. Res., 47 (4), pp. 699-712; 
+Iansiti, M., Levien, R., Strategy as ecology (2004) Harv. Bus. Rev., 82 (3), pp. 68-78; 
+Iansiti, M., Levien, R., (2004) The Keystone Advantage: What New Dynamics of Business Ecosystems Mean for Strategy, Innovation, and Sustainability, , Harvard Business School Press Boston, MA; 
+Iyer, B., Lee, C.H., Venkatraman, N., Managing in a 'small world ecosystem': Lessons from the software sector (2006) Calif. Manage. Rev., 48 (3), pp. 28-47; 
+Jaworski, B.J., MacInnis, D.J., Marketing jobs and management controls: Toward a framework (1989) J. Mark. Res., 26 (4), pp. 406-419; 
+Johnson, W.H.A., Managing university technology development using organizational control theory (2011) Res. Policy, 40 (6), pp. 842-852; 
+Kerr, J.L., On the folly of rewarding A, while hoping for B (1975) Acad. Manag. J., 18 (4), pp. 769-783; 
+Kirsch, L.J., The management of complex tasks in organizations: Controlling the systems development process (1996) Organ. Sci., 7 (1), pp. 1-21; 
+Kirsch, L.J., Portfolios of control modes and IS project management (1997) Inf. Syst. Res., 8 (3), pp. 215-239; 
+Kirsch, L.J., Deploying common systems globally: The dynamics of control (2004) Inf. Syst. Res., 15 (4), pp. 374-395; 
+Kirsch, L.J., Sambamurthy, V., Ko, D.G., Purvis, R.L., Controlling information systems development projects: The view from the client (2002) Manage. Sci., 48 (4), pp. 484-498; 
+Kock, N., Lynn, G., Lateral collinearity and misleading results in variance-based SEM: An illustration and recommendations (2012) J. Assoc. Inf. Syst., 13 (7); 
+Marcoulides, G.A., Saunders, C., Editor's comments - PLS: A silver bullet? (2006) MIS Q., 30 (2). , Iii-ix; 
+Merchant, K.A., (1985) Control in Business Organizations, , Pitman Boston, MA; 
+Moore, J.F., Predators and prey: The new ecology of competition (1993) Harv. Bus. Rev., 71 (3), pp. 75-83; 
+Moore, J.F., (1996) The Death of Competition: Leadership and Strategy in the Age of Business Ecosystems, , Harper Collins New York; 
+Mukhopadhyay, S., Bouwman, H., Jaiswal, M., (2015) "portfolios of Control in Mobile Eco-systems: Evolution and Validation"; Info, 17 (2), pp. 36-58; 
+Nidumolu, S.R., Subramani, M.R., The matrix of control: Combining process and structure approaches to managing software development (2003) J. Manage. Inf. Syst., 20 (3), pp. 159-196; 
+Nikou, S., Mezei, J., Bouwman, H., Analytic Hierarchy Process (AHP) Approach for Selecting Mobile Service Category (Consumers' Preferences) (2011) Proceedings of the 10th International Conference on Mobile Business (ICMB), pp. 119-128. , Como, Italy, June 20-21 IEEE; 
+Nikou, S., Mezei, J., Bouwman, H., Liu, Y., Factors influencing the adoption of mobile services - Consumers preferences - Using analytic hierarchy process (2011) Proceedings of the 22nd European Regional ITS Conference, pp. 1-11. , Budapest, Hungary, 18-21 September 2011; 
+Ouchi, W.G., The relationship between organizational structure and organizational control (1977) Adm. Sci. Q., 22 (1), pp. 95-113; 
+Ouchi, W.G., A conceptual framework for the design of organizational control mechanisms (1979) Manage. Sci., 25 (2), pp. 833-848; 
+Peppard, J., Rylander, A., From value chain to value network: Insights for mobile operators (2006) European Management Journal, 24 (2-3), pp. 128-141; 
+Pfeffer, J., Salancik, G., (1978) The External Control of Organizations: A Resource Dependence Perspective, , Haper and Row Publishers New York, NY; 
+Rustagi, S., King, W.R., Kirsch, L.J., Predictors of formal control usage in IT outsourcing partnerships (2008) Inf. Syst. Res., 19 (2), pp. 126-143; 
+Snell, S., Control theory in strategic human resource management: The mediating effect of administrative information (1992) Acad. Manag. J., 35 (2), pp. 292-327; 
+Srivastava, S.C., Teo, T.S., Contract performance in offshore systems development: Role of control mechanisms (2012) J. Manage. Inf. Syst., 29 (1), pp. 115-158; 
+Tilson, D., Lyytinen, K., Sørensen, C., Research commentary-digital infrastructures: The missing IS research agenda (2010) Inf. Syst. Res., 21 (4), pp. 748-759; 
+Tiwana, A., Keil, M., Does peripheral knowledge complement control? An empirical test in technology outsourcing alliances (2007) Strateg. Manag. J., 28 (6), pp. 623-634; 
+Tiwana, A., Keil, M., Control in internal and outsourced software projects (2009) J. Manage. Inf. Syst., 26 (3), pp. 9-44; 
+Tiwana, A., Konsynski, B., Bush, A.A., Platform evolution: Coevolution of platform architecture, governance, and environmental dynamics (2010) Inf. Syst. Res., 21 (4), pp. 675-687; 
+Vinzi, V.E., Trinchera, L., Amato, S., PLS path modelling: From foundations to recent developments and open issues for model assessment and improvement (2010) Handbook of Partial Least Squares, pp. 47-82. , Springer Berlin Heidelberg; 
+Wetzels, M., Odekerken-Schroder, G., Van Oppen, C., Using PLS path modeling for assessing hierarchical construct models: Guidelines and empirical illustration (2009) MIS Q., 33 (1), pp. 177-196; 
+Wong, K.K., Handling small survey sample size and skewed dataset with partial least square path modelling (2010) Vue: The Magazine of the Marketing Research and Intelligence Association, November, pp. 20-23
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84954052147&partnerID=40&md5=7e6d159fb2e5f492d1680b7b6fbd0d3c
+ER  - 
+
+TY  - JOUR
+TI  - Lowering the barriers for online cross-media usage: Scenarios for a Belgian single sign-on solution
+T2  - Telematics and Informatics
+J2  - Telematics Inf
+VL  - 33
+IS  - 4
+SP  - 916
+EP  - 924
+PY  - 2016
+DO  - 10.1016/j.tele.2016.02.005
+SN  - 07365853 (ISSN) 
+AU  - Komorowski, M.
+AU  - Coppens, P.
+AU  - Van Den Broeck, W.
+AU  - Braet, O.
+AD  - IMinds-SMIT, Vrije Universiteit Brussel, Pleinlaan 9, Brussels, Belgium
+AB  - The digitization has led to an ecosystem in which an online media portal has become an essential extension of traditional media and users are enabled to consume news and entertainment via different platforms. These evolutions pose some challenges for the media companies in terms of shifting business models, but they also bring them new possibilities in managing their relations with users. An important first step here is to identify the online users and turn anonymous users into registered ones. Today, however, there is a myriad of logins and passwords one needs when surfing the web, which can make the management of these logins a challenge for users. The Belgian media industry seeks to deal with this challenge by introducing a collaborative nation-wide single sign-on (SSO) system across their digital platforms, called Media ID. This paper provides four scenarios describing the potential outcomes in terms of user adoption and hence market potential of the integration of a SSO service into a regional media system. The scenarios are built upon focus group interviews with media users and in-depth interviews with the stakeholders from the involved media companies. They describe to what extent the innovative service can influence user's online media consumption behaviour but also to what extent the media companies can implement it, two factors that mutually shape each other. In the discussion of the scenarios, requirements to ensure the broad applicability of a SSO service by both media users and media organizations are identified. © 2016 Elsevier Ltd . All rights reserved.
+KW  - Forecasting
+KW  - Identity management
+KW  - Media innovation
+KW  - Qualitative user research
+KW  - Scenario analysis
+KW  - Single sign-on
+KW  - Computer networks
+KW  - Forecasting
+KW  - Digital platforms
+KW  - Identity management
+KW  - In-depth interviews
+KW  - Market potential
+KW  - Potential outcomes
+KW  - Scenario analysis
+KW  - Single sign on
+KW  - User research
+KW  - Electrical engineering
+PB  - Elsevier Ltd
+N1  - Export Date: 14 May 2016
+M3  - Article
+DB  - Scopus
+N1  - CODEN: TEINE
+LA  - English
+N1  - Correspondence Address: Komorowski, M.; IMinds-SMIT, Vrije Universiteit Brussel, Pleinlaan 9, Belgium; email: marlen.komorowski@vub.ac.be
+N1  - References: Anderson, P., Tushman, M., O'Reilly, C., Technology cycles, innovation streams and ambidextrous organizations (1997) Managing Strategic Innovation and Change, , M. Tushman, P. Anderson, Oxford University Press New York; 
+Bleyen, V., Lindmark, S., Ranaivoson, H., Ballon, P., A typology of media innovations: Insights from an exploratory study (2014) J. Media Innov., 1; 
+Dhamija, R., Dusseault, L., The seven flaws of identity management: Usability and security challenges (2008) IEEE Secur. Privacy, 6, pp. 24-29; 
+Doyle, G., (2002) Understanding Media Economics, , SAGE Publications; 
+Gaw, S., Felten, E.W., Password management strategies for online accounts (2006) Proceedings of the Second Symposium on Usable Privacy and Security, SOUPS '06, pp. 44-55. , ACM New York, NY, USA; 
+Glaser, B.G., Strauss, A.L., (1967) The Discovery of Grounded Theory: Strategies for Qualitative Research, , Transaction Publishers; 
+Greeuw, S.C.H., Van Asselt, M.B.A., Grosskurth, J., Storms, C.A.M.H., Rijkens-Klomp, N., Rothman, D.S., (2000) Cloudy Crystal Balls. An Assessment of Recent European and Global Scenario Studies and Models. Environmental Issues Series, , European Environment Agency Copenhagen, Denmark; 
+Hanssens, D.M., Parsons, L.J., Schultz, R.L., (2003) Market Response Models. Econometric and Times Series Analysis, , second ed. Springer Massachusetts; 
+Hursti, J., Single sign-on (1997) Proceedings of the Seminar on Network Security, , Helsinki University of Technology; 
+Johannessen, J., Olsen, B., Lumpkin, G.T., Innovation as newness: What is new, how new, and new to whom? (2001) Eur. J. Innov. Manag., 4, pp. 20-31; 
+Jøsang, A., Zomai, M.A., Suriadi, S., Usability and privacy in identity management architectures (2007) Proceedings of the Fifth Australasian Symposium on ACSW Frontiers, 68, pp. 143-152. , Australian Computer Society Inc; 
+Kahn, H., Wiener, A.J., (1968) Year Two Thousand. A Framework for Speculation on the Next Thirty-Three Years, , Collier Macmillan Ltd; 
+Kakihara, M., Dynamic revenue model design in online services business: Two cases in Japan (2010) Sustainable E-Business Management, pp. 1-12. , M.L. Nelson, M.J. Shaw, T.J. Strader, Springer-Verlag Berlin Heidelberg; 
+Leifer, R., (2000) Radical Innovation: How Mature Companies Can Outsmart Upstarts, , Harvard Business Press; 
+Maler, E., Reed, D., The venn of identity: Options and issues in federated identity management (2008) IEEE Secur. Privacy, 6, pp. 16-23; 
+McDowall, W., Eames, M., Forecasts, scenarios, visions, backcasts and roadmaps to the hydrogen economy: A review of the hydrogen futures literature (2006) Energy Policy, 34, pp. 1236-1250. , Hydrogen; 
+Meade, N., Islam, T., Modelling and forecasting the diffusion of innovation - A 25-year review (2006) Int. J. Forecast., 22, pp. 519-545. , Twenty five years of forecasting; 
+http://www.media-id.be/en, Media ID [WWW Document], n.d. Media ID. URL < > (accessed 10.9.15)Miculan, M., Urban, C., Formal analysis of facebook connect single sign-on authentication protocol (2011) SOFSEM, pp. 22-28. , Citeseer; 
+Mortelmans, D., (2007) Handboek Kwalitatieve Onderzoeksmethoden, , Acco Leuven; 
+Overdorf, M., Barragree, A., The impending disruption of the publishing industry (2001) Publ. Res. Q., 17, pp. 3-18; 
+Pashalidis, A., Mitchell, C.J., A taxonomy of single sign-on systems (2003) Information Security and Privacy, pp. 249-264. , Springer; 
+http://www.pianomedia.eu/, Piano 12: Project Piano [WWW Document], n.d. URL < >Preuveneers, D., Joosen, W., SmartAuth: Dynamic context fingerprinting for continuous user authentication (2015) Presented at the Proceedings of the 30th Annual ACM Symposium on Applied Computing 2015, pp. 2185-2191. , ACM; 
+Rogers, E.M., (1995) Diffusion of Innovations, , Free press New York; 
+Rosenthal, R., Rosnow, R., (1991) Essentials of Behavioral Research: Methods and Data Analysis, , second ed. McGraw-Hill New York; 
+Sandelowski, M., Focus on qualitative methods: Sample size in qualitative research revisited (1995) Res. Nurs. Health, pp. 179-183; 
+Schumpeter, J.A., (1934) The Theory of Economic Development: An Inquiry into Profits, Capital, Credit, Interest, and the Business Cycle, , Transaction Publishers; 
+Shirey, R.W., (2007), https://tools.ietf.org/html/rfc4949#page-9, Internet Security Glossary, Version 2 [WWW Document]. URL < > (accessed 10.9.15)Stobert, E., Biddle, R., The Password Life Cycle: User Behaviour in Managing Passwords (2014) Presented at the Symposium on Usable Privacy and Security, , SOUPS 2014; 
+Sun, S., Pospisil, E., Muslukhov, I., Dindar, N., Hawkey, K., Beznosov, K., What makes users refuse web single sign-on?: An empirical investigation of OpenID (2011) Proceedings of the Seventh Symposium on Usable Privacy and Security, SOUPS '11, pp. 41-420. , ACM New York, NY, USA
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84959119562&partnerID=40&md5=1244168f923e746f8a0bd01e8603a5e8
+ER  - 
+

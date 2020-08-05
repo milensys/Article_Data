@@ -1,0 +1,66 @@
+﻿2-MODE CENTRALITY
+--------------------------------------------------------------------------------
+
+Input dataset:                          P1_related_topics_and_theories_X_authors (D:\UCINET\15112016MILENA\P1_related_topics_and_theories_X_authors)
+Output ROW measures:                    P1_related_topics_and_theories_X_authors-rowcent (D:\UCINET\15112016MILENA\P1_related_topics_and_theories_X_authors-rowcent)
+Output COLUMN measures:                 P1_related_topics_and_theories_X_authors-colcent (D:\UCINET\15112016MILENA\P1_related_topics_and_theories_X_authors-colcent)
+
+
+2-Mode Centrality Measures for ROWS of P1_related_topics_and_theories_X_authors
+
+                                                 1         2         3         4         5
+                                            Degree   2-Local Eigenvect Closeness Betweenne
+                                         --------- --------- --------- --------- ---------
+  1              Innovation in services      0.444     0.097     0.538     0.789     0.124
+  2              Adoption and diffusion      0.389     0.083     0.460     0.747     0.083
+  3              Consumer/customer/user      0.333     0.072     0.298     0.812     0.269
+  4   Service sector/Service industries      0.333     0.069     0.350     0.727     0.078
+  5              Information Technology      0.278     0.069     0.390     0.675     0.032
+  6        Reverse product cycle theory      0.111     0.036     0.182     0.615     0.001
+  7                  Service innovation      0.222     0.031     0.153     0.615     0.052
+  8                      Service system      0.222     0.033     0.056     0.533     0.122
+  9            Absorptive capacity/ACAP      0.167     0.033     0.208     0.496     0.001
+ 10             Complex service systems      0.056     0.008     0.003     0.357     0.000
+ 11 Generation of new types of services      0.056     0.022     0.106     0.602     0.000
+ 12                       Institutional      0.056     0.011     0.000     8.000     0.000
+ 13                 National government      0.056     0.011     0.000     8.000     0.000
+ 14      National systems of innovation      0.056     0.011     0.000     8.000     0.000
+ 15          Product-service innovation      0.111     0.006     0.000    28.000     0.002
+ 16                  Quality of service      0.056     0.008     0.003     0.357     0.000
+ 17                       Schumpeterian      0.056     0.022     0.106     0.602     0.000
+ 18                       Service logic      0.167     0.025     0.053     0.505     0.002
+ 19            Technological innovation      0.111     0.017     0.085     0.479     0.001
+ 20                   Technology policy      0.056     0.011     0.000     8.000     0.000
+
+
+2-Mode Centrality Measures for COLUMNS of P1_related_topics_and_theories_X_authors
+
+                                   1         2         3         4         5
+                              Degree   2-Local Eigenvect Closeness Betweenne
+                           --------- --------- --------- --------- ---------
+  1            Barras, R.      0.400     0.160     0.506     0.831     0.195
+  2     Beltramini, R. F.      0.050     0.002     0.032     0.454     0.000
+  3             Bowen, D.      0.150     0.023     0.085     0.621     0.059
+  4         Buzzacchi, L.      0.200     0.040     0.333     0.607     0.017
+  5        Colombo, M. G.      0.200     0.040     0.333     0.607     0.017
+  6       Evangelista, R.      0.150     0.023     0.203     0.593     0.022
+  7         George, W. R.      0.150     0.023     0.085     0.621     0.059
+  8        Kerkhof, Marco      0.250     0.063     0.366     0.761     0.079
+  9           Khan, A. M.      0.050     0.002     0.000    18.000     0.000
+ 10    Kingmanbrundage, J      0.150     0.023     0.085     0.621     0.059
+ 11         Latour, M. S.      0.150     0.023     0.201     0.607     0.016
+ 12 Manopichetwattana, V.      0.050     0.002     0.000    18.000     0.000
+ 13          Mariotti, S.      0.200     0.040     0.333     0.607     0.017
+ 14       Metcalfe, J. S.      0.200     0.040     0.000    13.500     0.009
+ 15            Miles, Ian      0.200     0.040     0.302     0.761     0.098
+ 16        Roberts, S. D.      0.150     0.023     0.201     0.607     0.016
+ 17           Sirilli, G.      0.150     0.023     0.203     0.593     0.022
+ 18          Smith, D. J.      0.150     0.023     0.013     0.419     0.085
+
+The 2-local measure is the sum of normalized degree of a node's alters.
+
+----------------------------------------
+Running time:  00:00:01
+Output generated:  17 nov. 16 18:32:41
+UCINET 6.620 Copyright (c) 1992-2016 Analytic Technologies
+

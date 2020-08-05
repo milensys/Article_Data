@@ -1,0 +1,176 @@
+﻿2-MODE CENTRALITY
+--------------------------------------------------------------------------------
+
+Input dataset:                          P2_related_topics_and_theories_X_authors (D:\UCINET\15112016MILENA\P2_related_topics_and_theories_X_authors)
+Output ROW measures:                    P2_related_topics_and_theories_X_authors-colcent (D:\UCINET\15112016MILENA\P2_related_topics_and_theories_X_authors-colcent)
+Output COLUMN measures:                 P2_related_topics_and_theories_X_authors-rowcent (D:\UCINET\15112016MILENA\P2_related_topics_and_theories_X_authors-rowcent)
+
+
+2-Mode Centrality Measures for COLUMNS of P2_related_topics_and_theories_X_authors
+
+                                    1         2         3         4         5
+                               Degree   2-Local Eigenvect Closeness Betweenne
+                            --------- --------- --------- --------- ---------
+  1          Gallouj, Faiz      0.195     0.038     0.092     0.709     0.044
+  2        Lievens, Annouk      0.244     0.068     0.170     0.778     0.025
+  3        Evangelista, R.      0.146     0.043     0.103     0.764     0.010
+  4      Atuahene-Gima, K.      0.171     0.068     0.169     0.778     0.011
+  5          de Ruyter, K.      0.122     0.056     0.141     0.742     0.003
+  6           Lee, Jungwoo      0.171     0.048     0.120     0.709     0.020
+  7            Lemmink, J.      0.171     0.064     0.160     0.769     0.009
+  8        Lyytinen, Kalle      0.171     0.048     0.115     0.760     0.015
+  9        Moenaert, R. K.      0.122     0.049     0.124     0.742     0.007
+ 10            Sirilli, G.      0.146     0.043     0.103     0.764     0.010
+ 11            Sundbo, Jon      0.122     0.043     0.104     0.760     0.007
+ 12            Walsham, G.      0.049     0.024     0.057     0.619     0.000
+ 13           Andersen, B.      0.146     0.049     0.116     0.751     0.015
+ 14 Andreassen, Tor Wallin      0.073     0.033     0.083     0.671     0.000
+ 15         Barkema, H. G.      0.073     0.035     0.086     0.657     0.001
+ 16          Barney, J. B.      0.146     0.039     0.094     0.689     0.008
+ 17       Barrett, Michael      0.049     0.024     0.057     0.619     0.000
+ 18         Barua, Anitesh      0.122     0.047     0.116     0.751     0.004
+ 19            Bessant, J.      0.171     0.060     0.147     0.764     0.015
+ 20        Bitner, Mary Jo      0.122     0.041     0.099     0.760     0.008
+ 21           Blazevic, V.      0.195     0.058     0.143     0.769     0.014
+ 22              Boden, M.      0.146     0.049     0.116     0.751     0.015
+ 23        Braithwaite, C.      0.122     0.032     0.075     0.709     0.006
+ 24       Brown, Stephen W      0.122     0.041     0.099     0.760     0.008
+ 25            Butler, B S      0.049     0.024     0.057     0.619     0.000
+ 26          Cappleman, S.      0.049     0.024     0.057     0.619     0.000
+ 27             Carte, T A      0.049     0.024     0.057     0.619     0.000
+ 28           Croes, H J P      0.049     0.024     0.057     0.619     0.000
+ 29        Den Hertog, Pim      0.073     0.003     0.006     0.422     0.001
+ 30             DeTore, A.      0.098     0.037     0.094     0.693     0.008
+ 31           Dholakia, N.      0.073     0.039     0.097     0.733     0.001
+ 32    Dos Santos, Brian L      0.098     0.040     0.097     0.733     0.005
+ 33           Eastwood, D.      0.098     0.034     0.085     0.675     0.003
+ 34            Elfring, T.      0.171     0.032     0.078     0.675     0.019
+ 35                Fox, J.      0.073     0.039     0.097     0.733     0.001
+ 36        Frambach, R. T.      0.073     0.035     0.086     0.657     0.001
+ 37           Frambach, RT      0.073     0.035     0.086     0.657     0.001
+ 38            Francis, D.      0.171     0.060     0.147     0.764     0.015
+ 39           Freel, M. S.      0.073     0.017     0.040     0.601     0.002
+ 40               Gann, R.      0.073     0.039     0.097     0.733     0.001
+ 41            Ghijsen, P.      0.122     0.036     0.090     0.693     0.004
+ 42            Hackney, R.      0.146     0.049     0.124     0.725     0.004
+ 43            Halsall, D.      0.122     0.032     0.075     0.709     0.006
+ 44            Halsall, J.      0.122     0.032     0.075     0.709     0.006
+ 45          Heiskanen, E.      0.073     0.035     0.085     0.709     0.001
+ 46        Henrichs, R. B.      0.073     0.033     0.083     0.671     0.000
+ 47            Howells, J.      0.146     0.049     0.116     0.751     0.015
+ 48          Hull, Frank M      0.073     0.028     0.071     0.654     0.002
+ 49           H�ritier, A.      0.195     0.055     0.134     0.769     0.017
+ 50               Igel, B.      0.098     0.041     0.102     0.738     0.003
+ 51              Jalas, M.      0.073     0.035     0.085     0.709     0.001
+ 52           Jasperson, J      0.049     0.024     0.057     0.619     0.000
+ 53         Johnson, L. W.      0.098     0.037     0.089     0.713     0.003
+ 54           Kleijnen, M.      0.073     0.033     0.083     0.671     0.000
+ 55              Klein, E.      0.195     0.058     0.143     0.769     0.014
+ 56             Lee, E.-J.      0.098     0.034     0.085     0.675     0.003
+ 57             Lin, L. H.      0.122     0.051     0.127     0.738     0.003
+ 58          Lu, Iuan-Yuan      0.122     0.051     0.127     0.738     0.003
+ 59           Lusch, R. F.      0.073     0.013     0.030     0.549     0.014
+ 60            Martini, M.      0.122     0.055     0.136     0.769     0.005
+ 61          Meuter, M. L.      0.122     0.041     0.099     0.760     0.008
+ 62           Meyer, M. H.      0.098     0.037     0.094     0.693     0.008
+ 63          Michalski, T.      0.220     0.057     0.140     0.774     0.024
+ 64             Miles, Ian      0.146     0.049     0.116     0.751     0.015
+ 65             Miozzo, M.      0.073     0.038     0.092     0.717     0.001
+ 66            Moyo, L. M.      0.049     0.014     0.032     0.551     0.000
+ 67         Muhanna, W. A.      0.146     0.039     0.094     0.689     0.008
+ 68          Nooteboom, B.      0.073     0.035     0.086     0.657     0.001
+ 69     Numprasertchai, S.      0.098     0.041     0.102     0.738     0.003
+ 70   Orlikowski, Wanda J.      0.024     0.012     0.028     0.549     0.000
+ 71          Ouwersloot, H      0.146     0.052     0.130     0.721     0.006
+ 72          Pandya, A. M.      0.073     0.039     0.097     0.733     0.001
+ 73            Peffers, K.      0.098     0.040     0.097     0.733     0.005
+ 74            Ramirez, M.      0.073     0.038     0.092     0.717     0.001
+ 75                Ray, G.      0.146     0.039     0.094     0.689     0.008
+ 76        Rose, Gregory M      0.073     0.032     0.075     0.678     0.001
+ 77            Royston, G.      0.122     0.032     0.075     0.709     0.006
+ 78           S'Jegers, R.      0.024     0.016     0.039     0.587     0.000
+ 79          Saunders, C S      0.049     0.024     0.057     0.619     0.000
+ 80          Savona, Maria      0.073     0.021     0.047     0.616     0.002
+ 81       Semeijn, Janjaap      0.122     0.036     0.090     0.693     0.004
+ 82          Sharma, S. K.      0.146     0.049     0.124     0.725     0.004
+ 83              Shoib, G.      0.049     0.024     0.057     0.619     0.000
+ 84               Shur, A.      0.073     0.039     0.097     0.733     0.001
+ 85              Smits, R.      0.122     0.037     0.087     0.713     0.017
+ 86             Sultan, F.      0.073     0.033     0.083     0.671     0.000
+ 87        Susarla, Anjana      0.122     0.047     0.116     0.751     0.004
+ 88        Tether, Bruce S      0.073     0.009     0.019     0.491     0.014
+ 89            Timonen, P.      0.073     0.035     0.085     0.709     0.001
+ 90       van Birgelen, M.      0.122     0.036     0.090     0.693     0.004
+ 91     van der Aa, Wietze      0.171     0.032     0.078     0.675     0.019
+ 92       van Riel, A.C.R.      0.146     0.052     0.130     0.721     0.006
+ 93           Vargo, S. L.      0.073     0.013     0.030     0.549     0.014
+ 94          Von Glahn, L.      0.073     0.039     0.097     0.733     0.001
+ 95          Walker, R. H.      0.098     0.037     0.089     0.713     0.003
+ 96      Walker, Richard M      0.122     0.033     0.080     0.689     0.006
+ 97              Wedel, M.      0.073     0.035     0.086     0.657     0.001
+ 98          Weinstein, O.      0.098     0.010     0.020     0.493     0.004
+ 99     Whinston, Andrew B      0.122     0.047     0.116     0.751     0.004
+100               Wood, P.      0.049     0.003     0.005     0.411     0.000
+101              Wu, G.-C.      0.122     0.051     0.127     0.738     0.003
+102                 Xu, HA      0.146     0.049     0.124     0.725     0.004
+103              Yang, H D      0.122     0.023     0.058     0.610     0.005
+104          Yoo, Youngjin      0.122     0.023     0.058     0.610     0.005
+105               Zaas, B.      0.073     0.039     0.097     0.733     0.001
+106             Zagler, M.      0.098     0.032     0.076     0.717     0.004
+107             Zheng, W J      0.049     0.024     0.057     0.619     0.000
+
+
+2-Mode Centrality Measures for ROWS of P2_related_topics_and_theories_X_authors
+
+                                                             1         2         3         4         5
+                                                        Degree   2-Local Eigenvect Closeness Betweenne
+                                                     --------- --------- --------- --------- ---------
+  1                              Service innovation      0.636     0.404     0.525     0.656     0.263
+  2                       ICT/digital technology/IT      0.505     0.255     0.373     0.594     0.195
+  3                                          Market      0.477     0.227     0.395     0.586     0.186
+  4                                      Management      0.486     0.236     0.398     0.594     0.164
+  5                          Consumer/customer/user      0.402     0.161     0.345     0.548     0.102
+  6               Service sector/Service industries      0.252     0.064     0.203     0.488     0.068
+  7                          Adoption and diffusion      0.308     0.095     0.251     0.486     0.045
+  8                          Innovation in services      0.103     0.011     0.057     0.436     0.016
+  9                              Complex/complexity      0.103     0.011     0.091     0.434     0.006
+ 10                      Service provider/provision      0.075     0.006     0.056     0.416     0.002
+ 11                             e-service/m-service      0.093     0.009     0.081     0.434     0.006
+ 12 Web service innovation/web innovation/web based      0.084     0.007     0.071     0.415     0.002
+ 13                                   Institutional      0.056     0.003     0.041     0.424     0.003
+ 14                                            KIBS      0.056     0.003     0.035     0.397     0.013
+ 15              Knowledge-intensive services (KIS)      0.056     0.003     0.035     0.397     0.013
+ 16                         New service development      0.047     0.002     0.049     0.406     0.000
+ 17                       Public service innovation      0.056     0.003     0.038     0.407     0.001
+ 18                                 Public services      0.056     0.003     0.038     0.407     0.001
+ 19                        Technological innovation      0.037     0.001     0.027     0.406     0.000
+ 20                                  Business model      0.028     0.001     0.032     0.402     0.000
+ 21                                     Competition      0.028     0.001     0.025     0.399     0.000
+ 22                Digital/ICT/ITservice innovation      0.037     0.001     0.032     0.407     0.001
+ 23  e-Service innovation/Mobile service innovation      0.037     0.001     0.044     0.407     0.000
+ 24                                     Health-care      0.065     0.004     0.043     0.395     0.001
+ 25                             Value co-production      0.028     0.001     0.012     0.366     0.002
+ 26                                 Consumer Theory      0.019     0.000     0.008     0.373     0.000
+ 27                            Inter-organizational      0.009     0.000     0.001     0.283     0.000
+ 28                            Intra-organizational      0.019     0.000     0.022     0.399     0.000
+ 29                                    Lancasterian      0.019     0.000     0.008     0.373     0.000
+ 30                        neo-Schumpeterian theory      0.009     0.000     0.007     0.372     0.000
+ 31                      Product-service innovation      0.019     0.000     0.022     0.394     0.000
+ 32                           Resource-based theory      0.028     0.001     0.021     0.367     0.000
+ 33                         Service delivery system      0.028     0.001     0.034     0.400     0.000
+ 34                               Service encounter      0.028     0.001     0.022     0.394     0.000
+ 35                              Service management      0.019     0.000     0.011     0.360     0.000
+ 36                                Service platform      0.019     0.000     0.014     0.367     0.000
+ 37                                  Service system      0.009     0.000     0.009     0.372     0.000
+ 38                          Service-Dominant Logic      0.019     0.000     0.004     0.309     0.000
+ 39                                        Standard      0.028     0.001     0.017     0.394     0.000
+ 40                                  Sustainability      0.009     0.000     0.006     0.373     0.000
+ 41                               Value co-creation      0.019     0.000     0.004     0.309     0.000
+
+The 2-local measure is the sum of normalized degree of a node's alters.
+
+----------------------------------------
+Running time:  00:00:01
+Output generated:  17 nov. 16 18:31:54
+UCINET 6.620 Copyright (c) 1992-2016 Analytic Technologies
+

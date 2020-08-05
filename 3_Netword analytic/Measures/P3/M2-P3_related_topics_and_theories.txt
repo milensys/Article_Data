@@ -1,0 +1,28 @@
+﻿2-MODE COHESION
+--------------------------------------------------------------------------------
+
+Input dataset:                          P3_related_topics_and_theories_X_authors (D:\UCINET\15112016MILENA\P3_related_topics_and_theories_X_authors)
+Output cohesion measures:               P3_related_topics_and_theories_X_authors-2coh (D:\UCINET\15112016MILENA\P3_related_topics_and_theories_X_authors-2coh)
+
+
+2-Mode Cohesion Measures for P3_related_topics_and_theories_X_authors dataset.
+
+                                                      1         2         3         4         5         6         7
+                                                Density  Avg Dist    Radius  Diameter Fragmenta Transitiv Norm Dist
+                                              --------- --------- --------- --------- --------- --------- ---------
+    P3_related_topics_and_theories_X_authors      0.035     2.868     4.000     7.000     0.000     0.291     0.636
+
+NOTE: If fragmentation is > 0, the graph is disconnected. All measures based on lengths of geodesics are computed within components.
+
+Density is the number of ties divided by n*m, where these no. of rows and cols in matrix.
+Avg Dist is the average geodesic path length in the bipartite graph, within components.
+Radius is the smallest eccentricity in the bipartite graph, within components.
+Diameter is the length of the longest geodesic in the bipartite graph, within components.
+Transitivity is the no. of quadruples with 4 legs divided by no. with 3 or more legs, in bipartite graph.
+Norm Dist is Avg Dist divided into minimum possible in bipartite graph of given node-set sizes.
+
+----------------------------------------
+Running time:  00:00:02
+Output generated:  17 nov. 16 18:30:20
+UCINET 6.620 Copyright (c) 1992-2016 Analytic Technologies
+

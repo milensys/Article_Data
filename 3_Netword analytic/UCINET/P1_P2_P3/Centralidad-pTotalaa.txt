@@ -1,0 +1,1648 @@
+﻿FREEMAN'S DEGREE CENTRALITY MEASURES:
+--------------------------------------------------------------------------------
+
+Diagonal valid?                         NO
+Model:                                  SYMMETRIC
+Input dataset:                          P1_P2_P3_authors_X_authors (D:\UCINET\15112016MILENA\P1_P2_P3_authors_X_authors)
+
+
+                                                  1            2            3
+                                             Degree    NrmDegree        Share
+                                       ------------ ------------ ------------
+    4                 Demirkan, Haluk        33.000        0.294        0.007
+    6                 Maglio, Paul P.        30.000        0.267        0.006
+    1                    Spohrer, Jim        28.000        0.249        0.006
+   26                   Ostrom, Amy L        27.000        0.240        0.006
+    2                  Vargo, Stephen        26.000        0.232        0.005
+    3                 Lyytinen, Kalle        22.000        0.196        0.005
+   10                  Edvardsson, Bo        22.000        0.196        0.005
+   18                 Parasuraman, A.        20.000        0.178        0.004
+    5                   Lusch, Robert        18.000        0.160        0.004
+   14                Brown, Stephen W        18.000        0.160        0.004
+   12          Akaka, Melissa Archpru        16.000        0.143        0.003
+    8                      Miles, Ian        16.000        0.143        0.003
+   21                 Bitner, Mary Jo        15.000        0.134        0.003
+   11                 Rubalcaba, Luis        15.000        0.134        0.003
+   54                Gallan, Andrew S        15.000        0.134        0.003
+  132                  Giraldo, Mario        14.000        0.125        0.003
+   74                Shirahada, Kunio        14.000        0.125        0.003
+   13                   Yoo, Youngjin        13.000        0.116        0.003
+   43                van Riel, A.C.R.        13.000        0.116        0.003
+   33             Kauffman, Robert J.        12.000        0.107        0.003
+ 1519              Williams, Jerome D        11.000        0.098        0.002
+ 1250               Rosenbaum, Mark S        11.000        0.098        0.002
+  185         McColl-Kennedy, Janet R        11.000        0.098        0.002
+   15                   Chen, Ja-Shen        11.000        0.098        0.002
+  595                 Fisk, Raymond P        11.000        0.098        0.002
+  496                    Corus, Canan        11.000        0.098        0.002
+ 1230               Rayburn, Steven W        11.000        0.098        0.002
+   28                Barrett, Michael        11.000        0.098        0.002
+ 1044                   Mende, Martin        11.000        0.098        0.002
+   86                    Witell, Lars        11.000        0.098        0.002
+   81                    Uchihira, N.        11.000        0.098        0.002
+    7                   Gallouj, Faiz        11.000        0.098        0.002
+    9                  Tsou, Hung Tai        11.000        0.098        0.002
+ 1085                    Mulder, Mark        11.000        0.098        0.002
+  289                Anderson, Laurel        11.000        0.098        0.002
+   65        Richey, Robert Glenn, Jr        11.000        0.098        0.002
+   45                         Xu, Xin        10.000        0.089        0.002
+   23                    Hanseth, Ole         9.000        0.080        0.002
+   19                     Sundbo, Jon         9.000        0.080        0.002
+  250            Wuenderlich, Nancy V         9.000        0.080        0.002
+   78                    Tokman, Mert         9.000        0.080        0.002
+   42                  Tronvoll, Bard         9.000        0.080        0.002
+   20                  Yuan, Soe-Tsyr         9.000        0.080        0.002
+   31             Gr�nroos, Christian         9.000        0.080        0.002
+  133                   Goul, Michael         9.000        0.080        0.002
+   58                    Hilton, Toni         9.000        0.080        0.002
+   82            Venkatesh, Viswanath         9.000        0.080        0.002
+  137              Gustafsson, Anders         8.000        0.071        0.002
+   24                 Lievens, Annouk         8.000        0.071        0.002
+   25                Ordanini, Andrea         8.000        0.071        0.002
+  179                  Majchrzak, Ann         8.000        0.071        0.002
+  152                  Kajikawa, Yuya         8.000        0.071        0.002
+  216                  Sakata, Ichiro         8.000        0.071        0.002
+   27                   Agarwal, Renu         8.000        0.071        0.002
+  157                 Kelleher, Carol         8.000        0.071        0.002
+   62                  Michel, Stefan         8.000        0.071        0.002
+  126                    Frow, Pennie         8.000        0.071        0.002
+   64                 Reynoso, Javier         8.000        0.071        0.002
+  202                   Payne, Adrian         8.000        0.071        0.002
+   39                       Rai, Arun         8.000        0.071        0.002
+   73                Semeijn, Janjaap         7.000        0.062        0.001
+ 1069                   Mizushima, K.         7.000        0.062        0.001
+ 1266                     Sakurai, S.         7.000        0.062        0.001
+  787                   Ishimatsu, H.         7.000        0.062        0.001
+ 1291              Schartinger, Doris         7.000        0.062        0.001
+  180                  Malsbender, A.         7.000        0.062        0.001
+  831                    Kakutani, Y.         7.000        0.062        0.001
+ 1570                      Yoneda, S.         7.000        0.062        0.001
+   69                Sawatani, Yuriko         7.000        0.062        0.001
+  159                      Kim, Jieun         7.000        0.062        0.001
+ 1199             Pompo-Juarez, Laura         7.000        0.062        0.001
+   60                   Lin, Chiu Hui         7.000        0.062        0.001
+  636               Giesecke, Susanne         7.000        0.062        0.001
+  135                   Gruhl, Daniel         7.000        0.062        0.001
+   50                     Choi, Jisun         7.000        0.062        0.001
+ 1279                  Saritas, Ozcan         7.000        0.062        0.001
+  245               Wang, Chuan-Chung         7.000        0.062        0.001
+   41                    S�rensen, C.         7.000        0.062        0.001
+ 1294               Schreier, Guenter         7.000        0.062        0.001
+ 1344            Smith-Daniels, Vicki         7.000        0.062        0.001
+  206                 Prabhu, Jaideep         7.000        0.062        0.001
+   44                    Verma, Rohit         7.000        0.062        0.001
+  708           Heller-Schuh, Barbara         7.000        0.062        0.001
+ 1097                      Naruse, H.         7.000        0.062        0.001
+   53          Davidson, Elizabeth J.         7.000        0.062        0.001
+  390               Burkhard, Kevin A         7.000        0.062        0.001
+  237              Thurasamy, Ramayah         7.000        0.062        0.001
+  188                   Meyer, Martin         7.000        0.062        0.001
+ 1215              Rabinovich, Elliot         7.000        0.062        0.001
+  828                    Kageyama, Y.         7.000        0.062        0.001
+   52                     Daim, T. U.         7.000        0.062        0.001
+  142                   Hong, Se-Joon         7.000        0.062        0.001
+  232                    Tam, Kar Yan         7.000        0.062        0.001
+  285               Amanatidou, Effie         7.000        0.062        0.001
+  951                         Li, Jun         6.000        0.053        0.001
+   95            Bardhan, Indranil R.         6.000        0.053        0.001
+  895                 Krafft, Manfred         6.000        0.053        0.001
+  148                  Jaeger, Angela         6.000        0.053        0.001
+   61                    Maull, Roger         6.000        0.053        0.001
+  476                  Choi, X. G. S.         6.000        0.053        0.001
+   59       Hurmelinna-Laukkanen, Pia         6.000        0.053        0.001
+  765               Humphreys, Ashlee         6.000        0.053        0.001
+   72                   Selen, Willem         6.000        0.053        0.001
+   30                 Den Hertog, Pim         6.000        0.053        0.001
+   80                  Tung, Wei-Feng         6.000        0.053        0.001
+   56                  Gebauer, Heiko         6.000        0.053        0.001
+  371                Brady, Michael K         6.000        0.053        0.001
+   22                 Evangelista, R.         6.000        0.053        0.001
+  208             Rahman, Syed Abidur         6.000        0.053        0.001
+  173                          Li, L.         6.000        0.053        0.001
+  950                         Li, Jin         6.000        0.053        0.001
+  162                 Kinkel, Steffen         6.000        0.053        0.001
+  251                      Yan, Jiaqi         6.000        0.053        0.001
+  151            Jim�nez-Zarco, A. I.         6.000        0.053        0.001
+  155                   Kannan, P. K.         6.000        0.053        0.001
+ 1307                       Seo, Yuri         6.000        0.053        0.001
+  129                        Geum, Y.         6.000        0.053        0.001
+   17            Orlikowski, Wanda J.         6.000        0.053        0.001
+  169                    Lee, Sungjoo         6.000        0.053        0.001
+  144                 Hua, Zhongsheng         6.000        0.053        0.001
+  545                Driessen, Paul H         6.000        0.053        0.001
+  147         Izquierdo-Yusta, Alicia         6.000        0.053        0.001
+  236                Thong, James Y L         6.000        0.053        0.001
+ 1376                 Stroulia, Eleni         6.000        0.053        0.001
+  200                   Park, Yongtae         6.000        0.053        0.001
+  163                     Kirner, Eva         6.000        0.053        0.001
+   63                   Ng, Irene C L         6.000        0.053        0.001
+  253                         Zhu, Q.         6.000        0.053        0.001
+ 1053               Messinger, Paul R         6.000        0.053        0.001
+  204      Pilar Martinez-Ruiz, Maria         6.000        0.053        0.001
+ 1334               Sirianni, Nancy J         6.000        0.053        0.001
+  106                 Cefkin, Melissa         6.000        0.053        0.001
+  495                Corsaro, Daniela         6.000        0.053        0.001
+  183            Mart�nez-Ruiz, M. P.         6.000        0.053        0.001
+  273                   Aksoy, Lerzan         6.000        0.053        0.001
+   85                  Wang, Huaiqing         6.000        0.053        0.001
+  717                 Hillebrand, Bas         6.000        0.053        0.001
+  618                Galletta, Dennis         6.000        0.053        0.001
+  231    Taghizadeh, Seyedeh Khadijeh         6.000        0.053        0.001
+  102         Boland, Richard J., Jr.         6.000        0.053        0.001
+  333             Beckers, Sander F M         6.000        0.053        0.001
+  630                         Ge, Xin         6.000        0.053        0.001
+  406              Calabretta, Giulia         6.000        0.053        0.001
+  719              Hilton, Chadwick B         5.000        0.045        0.001
+   40                   Savona, Maria         5.000        0.045        0.001
+ 1317                  Shibata, Naoki         5.000        0.045        0.001
+ 1070                 Moeller, Miriam         5.000        0.045        0.001
+  161                   Kindstr�m, D.         5.000        0.045        0.001
+  187                  Meyer, Jeffrey         5.000        0.045        0.001
+ 1102               Neff, Alexander A         5.000        0.045        0.001
+ 1253                Rozano, Mercedes         5.000        0.045        0.001
+  840           Karagiannis, Dimitris         5.000        0.045        0.001
+   66                 Rose, Gregory M         5.000        0.045        0.001
+   55                  Gallego, Jorge         5.000        0.045        0.001
+ 1302               Seiders, Kathleen         5.000        0.045        0.001
+   34          Kowalkowski, Christian         5.000        0.045        0.001
+  684                         Han, K.         5.000        0.045        0.001
+  334   Beitelspacher, Lauren Skinner         5.000        0.045        0.001
+ 1500               Watson, Richard T         5.000        0.045        0.001
+  699               Harvey, Michael G         5.000        0.045        0.001
+ 1464                       Voigt, M.         5.000        0.045        0.001
+ 1590                      Zheng, W J         5.000        0.045        0.001
+   38                  Panesar, S. S.         5.000        0.045        0.001
+  439                    Chang, R. M.         5.000        0.045        0.001
+  854                  Kenning, Peter         5.000        0.045        0.001
+  592                Fill, Hans-Georg         5.000        0.045        0.001
+  243             Voss, Christopher A         5.000        0.045        0.001
+  246                  Wang, Zhongjie         5.000        0.045        0.001
+ 1223                 Raman, Pushkala         5.000        0.045        0.001
+  346                Berry, Leonard L         5.000        0.045        0.001
+  384                Brozovic, Danilo         5.000        0.045        0.001
+  497                    Croes, H J P         5.000        0.045        0.001
+ 1050          Men�ndez-Benito, H. D.         5.000        0.045        0.001
+ 1452              Vayghan, Jamshid A         5.000        0.045        0.001
+  150                   Jayaraman, K.         5.000        0.045        0.001
+  376                 Brenner, Walter         5.000        0.045        0.001
+  364                  Bolton, Ruth N         5.000        0.045        0.001
+  278                       Allen, D.         5.000        0.045        0.001
+  531              Diaz-Martin, Ana M         5.000        0.045        0.001
+  217             Saviano, Marialuisa         5.000        0.045        0.001
+  808                    Jasperson, J         5.000        0.045        0.001
+ 1272              Sangiorgi, Daniela         5.000        0.045        0.001
+  271               Akiyama, Masanori         5.000        0.045        0.001
+  196               O'Driscoll, Aidan         5.000        0.045        0.001
+ 1112                    Niehaves, B.         5.000        0.045        0.001
+ 1138               Okazaki, Shintaro         5.000        0.045        0.001
+ 1188                Pinsonneault, A.         5.000        0.045        0.001
+ 1441               Uebernickel, Falk         5.000        0.045        0.001
+  515               Davidson, Anthony         5.000        0.045        0.001
+   90                 Arduini, Davide         5.000        0.045        0.001
+ 1143                     Ortbach, K.         5.000        0.045        0.001
+   29                 Bygstad, Bendik         5.000        0.045        0.001
+  794           Iyer, Gopalkrishnan R         5.000        0.045        0.001
+  182                   Markus, M. L.         5.000        0.045        0.001
+  120           Dobrzykowski, David D         5.000        0.045        0.001
+ 1510          Wetter-Edman, Katarina         5.000        0.045        0.001
+  197                    Oborn, Eivor         5.000        0.045        0.001
+   47                  Bouwman, Harry         5.000        0.045        0.001
+  349                        Bess, C.         5.000        0.045        0.001
+ 1603             Zulkernine, Farhana         5.000        0.045        0.001
+  226                    Stare, Metka         5.000        0.045        0.001
+   76                      Sk�l�n, P.         5.000        0.045        0.001
+  666                  Grosso, Monica         5.000        0.045        0.001
+  154                Kandampully, Jay         5.000        0.045        0.001
+  580            Evanschitzky, Heiner         5.000        0.045        0.001
+  419                      Carte, T A         5.000        0.045        0.001
+   32                Henfridsson, Ola         5.000        0.045        0.001
+  395                     Butler, B S         5.000        0.045        0.001
+  171           Leimeister, Jan Marco         5.000        0.045        0.001
+  210                Rapaccini, Mario         5.000        0.045        0.001
+   36                    Markeset, T.         5.000        0.045        0.001
+ 1187   Pillai, Kishore Gopalakrishna         5.000        0.045        0.001
+  714                 Herz, Thomas Ph         5.000        0.045        0.001
+ 1466                 vom Brocke, Jan         5.000        0.045        0.001
+  177                 Liu, Hong-Cheng         5.000        0.045        0.001
+ 1193                   Plattfaut, R.         5.000        0.045        0.001
+ 1295               Schuete, Reinhard         5.000        0.045        0.001
+  242               van der Wal, Rene         5.000        0.045        0.001
+ 1019                 Martin, Patrick         5.000        0.045        0.001
+  783                       Im, K. S.         5.000        0.045        0.001
+ 1285                   Saunders, C S         5.000        0.045        0.001
+ 1298                     Sch�tte, R.         5.000        0.045        0.001
+  724             Hofacker, Charles F         5.000        0.045        0.001
+  223                  Sougstad, Ryan         5.000        0.045        0.001
+  423                Castaldo, Sandro         5.000        0.045        0.001
+ 1046            Menendez-Benito, H D         5.000        0.045        0.001
+  732                 Holmlid, Stefan         5.000        0.045        0.001
+  127                    Ganz, Walter         5.000        0.045        0.001
+ 1282                  Sasaki, Hajime         5.000        0.045        0.001
+ 1432                    Tu, Yi-Hsien         5.000        0.045        0.001
+  181                 Markkula, Jouni         5.000        0.045        0.001
+  456                 Chen, Ming-Chao         5.000        0.045        0.001
+ 1071                   Moghaddam, Y.         5.000        0.045        0.001
+   96                  Barile, Sergio         5.000        0.045        0.001
+   35                    Lee, Jungwoo         5.000        0.045        0.001
+ 1136                          Oh, W.         5.000        0.045        0.001
+  385                  Brudvig, Susan         5.000        0.045        0.001
+  141              Hollebeek, Linda D         5.000        0.045        0.001
+  682                  Hamel, Florian         5.000        0.045        0.001
+ 1185               Piccoli, Gabriele         5.000        0.045        0.001
+  377               Bridges, Cheryl H         5.000        0.045        0.001
+   91                      Arts, Koen         5.000        0.045        0.001
+   67            Sambamurthy, Vallabh         5.000        0.045        0.001
+ 1231                       Rayes, A.         5.000        0.045        0.001
+  252               Zanfei, Antonello         5.000        0.045        0.001
+ 1196                 Poeppelbuss, J.         5.000        0.045        0.001
+  381              Brohman, M Kathryn         5.000        0.045        0.001
+  981                 Liu, Chun Hsien         5.000        0.045        0.001
+ 1481                 Wang, Chu-Ching         5.000        0.045        0.001
+  552              D�az-Mart�n, A. M.         5.000        0.045        0.001
+  254                  �kesson, Maria         5.000        0.045        0.001
+ 1133                          Oh, H.         5.000        0.045        0.001
+ 1204                 Premazzi, Katia         5.000        0.045        0.001
+ 1028               Mattelmaki, Tuuli         5.000        0.045        0.001
+  166                  Kuusela, Hannu         4.000        0.036        0.001
+  189              Misuraca, Gianluca         4.000        0.036        0.001
+  905                      Kujala, S.         4.000        0.036        0.001
+  529              Diallo, Mbaye Fall         4.000        0.036        0.001
+  122             Dos Santos, Brian L         4.000        0.036        0.001
+  639              Giungato, Gerolamo         4.000        0.036        0.001
+ 1328                   Simoes, Jorge         4.000        0.036        0.001
+  903                    Kuhlmann, S.         4.000        0.036        0.001
+ 1003            Madeira-Silva, M. J.         4.000        0.036        0.001
+  541            Dougherty, Deborah J         4.000        0.036        0.001
+  203               Pekkarinen, Saara         4.000        0.036        0.001
+ 1315                        Shaw, V.         4.000        0.036        0.001
+ 1314                       Shaw, Ben         4.000        0.036        0.001
+  575                       Ernst, H.         4.000        0.036        0.001
+  338               Belotti, Federico         4.000        0.036        0.001
+  214            Russo-Spena, Tiziana         4.000        0.036        0.001
+ 1061                   Min, Choo Zhi         4.000        0.036        0.001
+  825               Juell-Skielse, G.         4.000        0.036        0.001
+  624                         Gao, J.         4.000        0.036        0.001
+  662               Griffith, Terri L         4.000        0.036        0.001
+ 1227                 Rankin, Yolanda         4.000        0.036        0.001
+  176              Lin, Ming-Ji James         4.000        0.036        0.001
+  215               Saarij�rvi, Hannu         4.000        0.036        0.001
+   16                Gummesson, Evert         4.000        0.036        0.001
+  168                  Lee, Jung Hoon         4.000        0.036        0.001
+  274            Alam, Gazi Mahabubul         4.000        0.036        0.001
+ 1211                    P?trascu, M.         4.000        0.036        0.001
+  134                Gruber, Thorsten         4.000        0.036        0.001
+  522                    Denni, Mario         4.000        0.036        0.001
+  172                     Lemmink, J.         4.000        0.036        0.001
+  913                       Kyoya, Y.         4.000        0.036        0.001
+  962                   Lin, Che-Hung         4.000        0.036        0.001
+   37         Nicolajsen, Hanne Westh         4.000        0.036        0.001
+  288               Anderson, Laura C         4.000        0.036        0.001
+  490        Colomo-Palacios, Ricardo         4.000        0.036        0.001
+ 1180                  Peters, Edward         4.000        0.036        0.001
+  105              Carlo, Jessica Luo         4.000        0.036        0.001
+ 1109                      Ng, Gloria         4.000        0.036        0.001
+  370                        Braa, J.         4.000        0.036        0.001
+ 1222                  Ramamurthy, R.         4.000        0.036        0.001
+ 1561                    Yass, Ayad A         4.000        0.036        0.001
+   84               Walker, Richard M         4.000        0.036        0.001
+  222                    Smith, Laura         4.000        0.036        0.001
+  198                      Ojanen, V.         4.000        0.036        0.001
+  199                    Palmer, Mark         4.000        0.036        0.001
+ 1077                Moreira, Jacinta         4.000        0.036        0.001
+ 1103                    Negro, S. O.         4.000        0.036        0.001
+ 1493                  Wang, Zhiqiang         4.000        0.036        0.001
+ 1166                   Patricio, Lia         4.000        0.036        0.001
+  293               Armbruster, Heidi         4.000        0.036        0.001
+ 1346              Smits, R. E. H. M.         4.000        0.036        0.001
+ 1560             Yasin, Norizan Mohd         4.000        0.036        0.001
+ 1072                    Mohammed, W.         4.000        0.036        0.001
+  546                   Dr?goicea, M.         4.000        0.036        0.001
+ 1161                  Pass, Norman J         4.000        0.036        0.001
+  160                      Kim, S. K.         4.000        0.036        0.001
+  136             Gryszkiewicz, Lidia         4.000        0.036        0.001
+  362                   Boland, R. J.         4.000        0.036        0.001
+ 1165                Patrascu, Monica         4.000        0.036        0.001
+  715                     Heywood, A.         4.000        0.036        0.001
+  904                      Kujala, J.         4.000        0.036        0.001
+  205               Polese, Francesco         4.000        0.036        0.001
+ 1006       Mainardes, Emerson Wagner         4.000        0.036        0.001
+  995                         Lyu, C.         4.000        0.036        0.001
+  107               Cenfetelli, R. T.         4.000        0.036        0.001
+  258                  Adams, Frank G         4.000        0.036        0.001
+  722                 Hjalmarsson, A.         4.000        0.036        0.001
+ 1575               Yutaka Sugano, J.         4.000        0.036        0.001
+ 1200                    Popa, Simona         4.000        0.036        0.001
+  824               Juell-Skielse, E.         4.000        0.036        0.001
+ 1426                  Tsai, Fu-Sheng         4.000        0.036        0.001
+  426          Castro-Lucas, Cristina         4.000        0.036        0.001
+  516                de Castro, C. C.         4.000        0.036        0.001
+  116                   de Ruyter, K.         4.000        0.036        0.001
+  317                  Barkema, H. G.         4.000        0.036        0.001
+ 1483                       Wang, Dan         4.000        0.036        0.001
+  119                Djellal, Faridah         4.000        0.036        0.001
+ 1523              Windahl, Charlotta         4.000        0.036        0.001
+  709                   Hellstr�m, M.         4.000        0.036        0.001
+  534                        Ding, Yi         4.000        0.036        0.001
+  110               Chang, Yuan-Chieh         4.000        0.036        0.001
+ 1488                  Wang, Kuo-Ming         4.000        0.036        0.001
+ 1139                  Oldmark, Jonas         4.000        0.036        0.001
+ 1240                     Robert, K-H         4.000        0.036        0.001
+  389                  Burger, Thomas         4.000        0.036        0.001
+ 1380                 Subramaniam, M.         4.000        0.036        0.001
+  705                  Hekkert, M. P.         4.000        0.036        0.001
+  192                Mukhopadhyay, T.         4.000        0.036        0.001
+  343                    Bergek, Anna         4.000        0.036        0.001
+ 1009          Maniatopoulos, Gregory         4.000        0.036        0.001
+  145                     Hughes, Tim         4.000        0.036        0.001
+ 1347                   Soares, A. S.         4.000        0.036        0.001
+ 1324                        Shur, A.         4.000        0.036        0.001
+  749                  Hsu, Shu-Chuan         4.000        0.036        0.001
+  799              Jacobsson, Staffan         4.000        0.036        0.001
+ 1051                Mercado, Cecilia         4.000        0.036        0.001
+  952              Li, Xiang (Robert)         4.000        0.036        0.001
+  992                      Luo Junwei         4.000        0.036        0.001
+ 1243             Rodrigues Alves, R.         4.000        0.036        0.001
+ 1556                        Yang, S.         4.000        0.036        0.001
+  230                 Susarla, Anjana         4.000        0.036        0.001
+  944                Leo, Pierre-Yves         4.000        0.036        0.001
+ 1409                  Thomas, Jakita         4.000        0.036        0.001
+  233                  Tanniru, Mohan         4.000        0.036        0.001
+ 1261                 Saccani, Nicola         4.000        0.036        0.001
+  435                     Chandak, A.         4.000        0.036        0.001
+ 1238                  Rickne, Annika         4.000        0.036        0.001
+   87                Woodside, Arch G         4.000        0.036        0.001
+ 1589                      Zhao, Yapu         4.000        0.036        0.001
+  264                      Ager, Tryg         4.000        0.036        0.001
+  554                  E Cunha, J. F.         4.000        0.036        0.001
+  416                    Carlsson, Bo         4.000        0.036        0.001
+ 1018                    Martin, Mike         4.000        0.036        0.001
+  593                   Firth, Robert         4.000        0.036        0.001
+  369                  Bowen, David E         4.000        0.036        0.001
+ 1572                   Yu, Chang-Hsi         4.000        0.036        0.001
+  221                  Simmons, Geoff         4.000        0.036        0.001
+  622                        Gann, R.         4.000        0.036        0.001
+  373                  Bratt, Cecilia         4.000        0.036        0.001
+  976                  Lindmark, Sven         4.000        0.036        0.001
+  100                    Benbasat, I.         4.000        0.036        0.001
+ 1377                 Stucky, Susan U         4.000        0.036        0.001
+  165          Kuppelwieser, Volker G         4.000        0.036        0.001
+  678               Hallstedt, Sophie         4.000        0.036        0.001
+ 1581              Zammuto, Raymond F         4.000        0.036        0.001
+   79                    Truong, Yann         4.000        0.036        0.001
+  156                 Karia, Noorliza         4.000        0.036        0.001
+ 1485                   Wang, Donghan         4.000        0.036        0.001
+ 1034                McHugh, Patricia         4.000        0.036        0.001
+  584                    Faraj, Samer         4.000        0.036        0.001
+ 1386                         Sun, X.         4.000        0.036        0.001
+  836                       Kalta, M.         4.000        0.036        0.001
+ 1038                 McLoughlin, Ian         4.000        0.036        0.001
+ 1588                    Zhao, Xiande         4.000        0.036        0.001
+ 1391                 Suurs, R. A. A.         4.000        0.036        0.001
+  816                 Johannesson, P.         4.000        0.036        0.001
+  591                    Figueira, M.         4.000        0.036        0.001
+  191             Moeslein, Kathrin M         4.000        0.036        0.001
+  543               Dragoicea, Monica         4.000        0.036        0.001
+   93           Avellaneda, Claudia N         4.000        0.036        0.001
+  997                      L�o, P. Y.         4.000        0.036        0.001
+  295                       Artto, K.         4.000        0.036        0.001
+  247              Whinston, Andrew B         4.000        0.036        0.001
+ 1400                         Tan, X.         4.000        0.036        0.001
+   49                Cheng, Colin C J         4.000        0.036        0.001
+   99                  Barua, Anitesh         4.000        0.036        0.001
+  601                         Fox, J.         4.000        0.036        0.001
+ 1079                 Morgan, Tyler R         4.000        0.036        0.001
+  603                    Frambach, RT         4.000        0.036        0.001
+ 1405                 Tarn, David D C         4.000        0.036        0.001
+ 1319                    Shie, An-Jin         4.000        0.036        0.001
+  506                         Dai, C.         4.000        0.036        0.001
+  131             Giannopoulou, Eleni         4.000        0.036        0.001
+   83               Visintin, Filippo         4.000        0.036        0.001
+ 1184                  Philippe, Jean         4.000        0.036        0.001
+  335                   Beiter, K. A.         4.000        0.036        0.001
+ 1251                         Roy, R.         4.000        0.036        0.001
+ 1490                     Wang, Qiang         4.000        0.036        0.001
+  786                       Ishii, K.         4.000        0.036        0.001
+ 1516                    Wikstr�m, K.         4.000        0.036        0.001
+ 1467                   Von Glahn, L.         4.000        0.036        0.001
+ 1580                     Zaidan, B B         4.000        0.036        0.001
+  329                      Baxter, D.         4.000        0.036        0.001
+  943                   Lenka, Sambit         4.000        0.036        0.001
+ 1522                 Wincent, Joakim         4.000        0.036        0.001
+  520                   Dedene, Guido         4.000        0.036        0.001
+ 1534                          Wu, K.         4.000        0.036        0.001
+   97          Barlatier, Pierre-Jean         4.000        0.036        0.001
+ 1337                   Sj�din, D. R.         4.000        0.036        0.001
+ 1576                        Zaas, B.         4.000        0.036        0.001
+  248                  Wong, Chee Yew         4.000        0.036        0.001
+ 1254                     Rudmark, D.         4.000        0.036        0.001
+  827                       J�ger, A.         4.000        0.036        0.001
+  615                 Gabler, Colin B         4.000        0.036        0.001
+ 1155                   Parida, Vinit         4.000        0.036        0.001
+ 1456                   Viaene, Stijn         4.000        0.036        0.001
+  229                      Sun, Yaowu         4.000        0.036        0.001
+ 1183              Pezzotta, Giuditta         4.000        0.036        0.001
+  445                 Chen, Chi-Kuang         4.000        0.036        0.001
+  382                   Broman, Goran         4.000        0.036        0.001
+   94               Ballantyne, David         4.000        0.036        0.001
+  548                      Dubiel, A.         4.000        0.036        0.001
+ 1371                 Stimpson, J. P.         4.000        0.036        0.001
+  542                  Doultsinou, A.         4.000        0.036        0.001
+  650                        Gopi, M.         4.000        0.036        0.001
+  302                   Autry, Chad W         4.000        0.036        0.001
+ 1579                     Zaidan, A A         4.000        0.036        0.001
+ 1355                   Sousa, Gastao         4.000        0.036        0.001
+  829                    Kahle, H. N.         4.000        0.036        0.001
+  881         Kleinaltenkamp, Michael         4.000        0.036        0.001
+ 1471                     Voss, Chris         4.000        0.036        0.001
+ 1521                     Wilson, Rob         4.000        0.036        0.001
+ 1120                   Nooteboom, B.         4.000        0.036        0.001
+ 1336        Sjoedin, David Roennberg         4.000        0.036        0.001
+  953                      Li, Xuemei         4.000        0.036        0.001
+  954                     Li, Yunpeng         4.000        0.036        0.001
+  453                Chen, Kuan-Chung         4.000        0.036        0.001
+ 1496                    Warnar, Rick         4.000        0.036        0.001
+  602                 Frambach, R. T.         4.000        0.036        0.001
+ 1304                    Selim, H. M.         4.000        0.036        0.001
+  352                   Bhuyan, S. S.         4.000        0.036        0.001
+ 1504                       Wedel, M.         4.000        0.036        0.001
+ 1354              Soto-Acosta, Pedro         4.000        0.036        0.001
+ 1596                         Zhu, H.         4.000        0.036        0.001
+  656                    Grant, Kevin         3.000        0.027        0.001
+  211                   Ritala, Paavo         3.000        0.027        0.001
+  514           Daugherty, Patricia J         3.000        0.027        0.001
+  213                    Rubera, Gaia         3.000        0.027        0.001
+  740                     Howells, J.         3.000        0.027        0.001
+ 1469         von Wangenheim, Florian         3.000        0.027        0.001
+  241              van der Aa, Wietze         3.000        0.027        0.001
+  355                Blaabjerg, Steen         3.000        0.027        0.001
+  175                     Lin, Fu-Ren         3.000        0.027        0.001
+ 1127                 Nylund, Petra A         3.000        0.027        0.001
+ 1063                      Minton, G.         3.000        0.027        0.001
+ 1367               Steinfield, C. W.         3.000        0.027        0.001
+ 1074        Moller, Rasmus Hannemann         3.000        0.027        0.001
+  712                  Henseler, Jorg         3.000        0.027        0.001
+  411          Caniels, Marjolein C J         3.000        0.027        0.001
+  212                   Roth, Aleda V         3.000        0.027        0.001
+  475                       Choi, Jae         3.000        0.027        0.001
+  826                  Juric, Biljana         3.000        0.027        0.001
+ 1543               W�nderlich, N. V.         3.000        0.027        0.001
+ 1544                    Xiang, Zheng         3.000        0.027        0.001
+ 1271          Sanchez-Barrios, L. J.         3.000        0.027        0.001
+  124                     Enquist, Bo         3.000        0.027        0.001
+   71                    Scupola, Ada         3.000        0.027        0.001
+  109               Chang, Ching-Hsun         3.000        0.027        0.001
+  209                       Rajagopal         3.000        0.027        0.001
+  873               Kindstrom, Daniel         3.000        0.027        0.001
+ 1326                Sigala, Marianna         3.000        0.027        0.001
+ 1263                   Saglam, Burcu         3.000        0.027        0.001
+  412               Cani�ls, M. C. J.         3.000        0.027        0.001
+  138              Heinonen, Kristina         3.000        0.027        0.001
+ 1541                   Wu, Yen-Cheng         3.000        0.027        0.001
+ 1268                 Salman, F Sibel         3.000        0.027        0.001
+  104                 Bush, Ashley A.         3.000        0.027        0.001
+  118           Desmarchelier, Benoit         3.000        0.027        0.001
+  859                 Khalik, Mahmoud         3.000        0.027        0.001
+  847                    Kauranen, I.         3.000        0.027        0.001
+  471                    Chiu, Wen-Ta         3.000        0.027        0.001
+  234                   Teo, Hock-Hai         3.000        0.027        0.001
+  661                 Gretzel, Ulrike         3.000        0.027        0.001
+  372                 Braithwaite, C.         3.000        0.027        0.001
+  299              Ashill, Nicholas J         3.000        0.027        0.001
+  550                       Dutta, S.         3.000        0.027        0.001
+   75                     Sirilli, G.         3.000        0.027        0.001
+ 1542                   Wu, Yueh-Hsun         3.000        0.027        0.001
+  767                   Hung, Patrick         3.000        0.027        0.001
+  856                       Kerr, Don         3.000        0.027        0.001
+  556                       Eaton, B.         3.000        0.027        0.001
+  858                  Kesidou, Effie         3.000        0.027        0.001
+  960                      Lim, K. H.         3.000        0.027        0.001
+  396                 Buyya, Rajkumar         3.000        0.027        0.001
+  946                       Leung, J.         3.000        0.027        0.001
+  360                       Boden, M.         3.000        0.027        0.001
+  310                    Bailey, John         3.000        0.027        0.001
+  462                    Cheng, L.-H.         3.000        0.027        0.001
+  112           Chiu, Yen-Ting Helena         3.000        0.027        0.001
+  414                   Cappleman, S.         3.000        0.027        0.001
+  692           Harridge-March, Sally         3.000        0.027        0.001
+  792                 Ittipanuvat, V.         3.000        0.027        0.001
+ 1169                   Pavlou, P. A.         3.000        0.027        0.001
+ 1058                   Miceli, Lucia         3.000        0.027        0.001
+ 1309                    Serkkola, A.         3.000        0.027        0.001
+  608                     Friedli, T.         3.000        0.027        0.001
+  710                    Hennala, Lea         3.000        0.027        0.001
+  422              Casselman, R Mitch         3.000        0.027        0.001
+ 1024            Mart�nez-Fuentes, C.         3.000        0.027        0.001
+  725                    Hofemann, S.         3.000        0.027        0.001
+ 1327            Silva, Graca Miranda         3.000        0.027        0.001
+ 1478                       Walsh, G.         3.000        0.027        0.001
+  891                     Koo, Chulmo         3.000        0.027        0.001
+  114                   Cova, Bernard         3.000        0.027        0.001
+  806                 Janakiraman, R.         3.000        0.027        0.001
+ 1020         Martinez-Fuentes, Clara         3.000        0.027        0.001
+  605                    Fredberg, T.         3.000        0.027        0.001
+   70                 Scott, Susan V.         3.000        0.027        0.001
+ 1323                       Shoib, G.         3.000        0.027        0.001
+ 1435                   Turkay, Metin         3.000        0.027        0.001
+  811                      Jetter, A.         3.000        0.027        0.001
+  286                    Andersen, B.         3.000        0.027        0.001
+  312              Banerjee, Dipyaman         3.000        0.027        0.001
+  337               Beloglazov, Anton         3.000        0.027        0.001
+   88          Andreassen, Tor Wallin         3.000        0.027        0.001
+  328                         Bau, M.         3.000        0.027        0.001
+ 1218              Ragu-Nathan, T. S.         3.000        0.027        0.001
+ 1132                    Oh, Eun-Teak         3.000        0.027        0.001
+ 1470             Vonderembse, Mark A         3.000        0.027        0.001
+  432                   Chaiyawat, T.         3.000        0.027        0.001
+ 1360                  Srinivasan, S.         3.000        0.027        0.001
+ 1247                 Romijn, Henny A         3.000        0.027        0.001
+  597              Flint, Daniel John         3.000        0.027        0.001
+ 1300             Sebastian Reiche, B         3.000        0.027        0.001
+ 1100               Nazareth, Derek L         3.000        0.027        0.001
+  549           Duennebeil, Sebastian         3.000        0.027        0.001
+  300                Asmussen, Bjoern         3.000        0.027        0.001
+  590               Fichman, Robert G         3.000        0.027        0.001
+ 1292                   Scherer, Anne         3.000        0.027        0.001
+  190                 Moenaert, R. K.         3.000        0.027        0.001
+  654                     Gowanit, C.         3.000        0.027        0.001
+ 1458                  Viering, Goetz         3.000        0.027        0.001
+  645                  Gomes, Paulo J         3.000        0.027        0.001
+ 1209                  Pussinen, Pasi         3.000        0.027        0.001
+  559                    Edgar, David         3.000        0.027        0.001
+  660                     Gremyr, Ida         3.000        0.027        0.001
+ 1163                   Pathak, P. A.         3.000        0.027        0.001
+  612                      Fujita, K.         3.000        0.027        0.001
+  563           Elaluf-Calderwood, S.         3.000        0.027        0.001
+ 1566                        Ye, Kang         3.000        0.027        0.001
+  228                 Strandvik, Tore         3.000        0.027        0.001
+  366            Boutin, Philip J, Jr         3.000        0.027        0.001
+  916                   Lai, Kee-hung         3.000        0.027        0.001
+ 1520                  Williams, Paul         3.000        0.027        0.001
+ 1308                   Seol, Hyeonju         3.000        0.027        0.001
+  170               Legner, Christine         3.000        0.027        0.001
+ 1122                       Norja, T.         3.000        0.027        0.001
+ 1374                      Straub, D.         3.000        0.027        0.001
+  973                    Lin, Yu-Ting         3.000        0.027        0.001
+ 1176           Pereira, Zulema Lopes         3.000        0.027        0.001
+ 1477                    Wallin, Arto         3.000        0.027        0.001
+ 1277                  Saren, Michael         3.000        0.027        0.001
+  365                   Boutin, P. J.         3.000        0.027        0.001
+  528              Di Nauta, Primiano         3.000        0.027        0.001
+ 1081               Mueller, Benjamin         3.000        0.027        0.001
+  781                       Ilic, Ana         3.000        0.027        0.001
+  932                   Lee, Chong Ho         3.000        0.027        0.001
+  480                      Chu, S.-C.         3.000        0.027        0.001
+  834                     Kalling, T.         3.000        0.027        0.001
+  685                         Han, S.         3.000        0.027        0.001
+  911                  Kuusik, Andres         3.000        0.027        0.001
+ 1389                    Sunyaev, Ali         3.000        0.027        0.001
+ 1239                  Riempp, Gerold         3.000        0.027        0.001
+ 1290               Schaarschmidt, M.         3.000        0.027        0.001
+  689                 Harjumaa, Marja         3.000        0.027        0.001
+  690                 Harmaakorpi, V.         3.000        0.027        0.001
+ 1492                     Wang, Y.-H.         3.000        0.027        0.001
+ 1192                 Pizzetti, Marta         3.000        0.027        0.001
+ 1168                  Paulose, Hanna         3.000        0.027        0.001
+ 1246                     Rohunen, A.         3.000        0.027        0.001
+  194             Ndubisi, Nelson Oly         3.000        0.027        0.001
+  596                     Fleisch, E.         3.000        0.027        0.001
+  697                   Hartman, Alan         3.000        0.027        0.001
+  297             Asaari, M. H. A. H.         3.000        0.027        0.001
+  800                  Jain, Hemant K         3.000        0.027        0.001
+  598                   Forman, Chris         3.000        0.027        0.001
+  401              Cadwallader, Susan         3.000        0.027        0.001
+ 1129                       N�tti, S.         3.000        0.027        0.001
+ 1105                  Nelson, John D         3.000        0.027        0.001
+  379              Brodie, Roderick J         3.000        0.027        0.001
+ 1004                Maffey, Georgina         3.000        0.027        0.001
+ 1032                   Mazzurana, P.         3.000        0.027        0.001
+  807            Jarvis, Cheryl Burke         3.000        0.027        0.001
+  683                   Hammedi, Wafa         3.000        0.027        0.001
+  358          Blocker, Christopher P         3.000        0.027        0.001
+  560                  Edwards, Peter         3.000        0.027        0.001
+ 1011              Manjarres, Ricardo         3.000        0.027        0.001
+ 1213                  Quintane, Eric         3.000        0.027        0.001
+ 1214                 Raatikainen, M.         3.000        0.027        0.001
+ 1416                    Tiru, Margus         3.000        0.027        0.001
+  314                      Banks, Ken         3.000        0.027        0.001
+  415                   Carlborg, Per         3.000        0.027        0.001
+ 1592          Zheng, Zhiqiang (Eric)         3.000        0.027        0.001
+ 1419               Trappey, A. J. C.         3.000        0.027        0.001
+  267                      Ahas, Rein         3.000        0.027        0.001
+  621                  Gal�n-D�az, C.         3.000        0.027        0.001
+  244                     Walsham, G.         3.000        0.027        0.001
+  822                    Joshi, K. D.         3.000        0.027        0.001
+ 1450                 Varblane, Urmas         3.000        0.027        0.001
+  449                        Chen, H.         3.000        0.027        0.001
+  450                    Chen, Haozhe         3.000        0.027        0.001
+  149                 Janssen, Marijn         3.000        0.027        0.001
+   77                   Tiwana, Amrit         3.000        0.027        0.001
+  427                 Caswell, Nathan         3.000        0.027        0.001
+ 1130           Occhiocupo, Nicoletta         3.000        0.027        0.001
+ 1532                       Wu, D. J.         3.000        0.027        0.001
+ 1482                  Wang, Chung-Yu         3.000        0.027        0.001
+ 1434                        Tura, T.         3.000        0.027        0.001
+  583                        Fang, Y.         3.000        0.027        0.001
+  184                Mathiassen, Lars         3.000        0.027        0.001
+ 1412                     Thrane, Sof         3.000        0.027        0.001
+ 1538                    Wu, Pei-Ling         3.000        0.027        0.001
+ 1489                    Wang, Lu-Mei         3.000        0.027        0.001
+  638                Giuiusa, Alessio         3.000        0.027        0.001
+  914              Lages, Luis Filipe         3.000        0.027        0.001
+  790                      Ismail, I.         3.000        0.027        0.001
+  791                 Isomursu, Minna         3.000        0.027        0.001
+  103                  Bryson, John R         3.000        0.027        0.001
+  680                     Halsall, J.         3.000        0.027        0.001
+  143                   Hsu, Hsuan-Yu         3.000        0.027        0.001
+  268             Ahmad, Noor Hazlina         3.000        0.027        0.001
+ 1098                     Natti, Satu         3.000        0.027        0.001
+  772                    H�nninen, S.         3.000        0.027        0.001
+  898                  Kreulen, J. T.         3.000        0.027        0.001
+ 1099                   Naumann, Earl         3.000        0.027        0.001
+ 1502               Weber, K Matthias         3.000        0.027        0.001
+ 1252                     Royston, G.         3.000        0.027        0.001
+ 1278                     Saren, Mike         3.000        0.027        0.001
+  201                    Paton, R. A.         3.000        0.027        0.001
+ 1468            Von Kortzfleisch, H.         3.000        0.027        0.001
+ 1480                   Wang, Chen-Ya         3.000        0.027        0.001
+  581                   Fan, Xiucheng         3.000        0.027        0.001
+ 1407          Thawesaengskulthai, N.         3.000        0.027        0.001
+  782                          Im, G.         3.000        0.027        0.001
+  784                      Ing, David         3.000        0.027        0.001
+  760                     Huang, Peng         3.000        0.027        0.001
+ 1562                   Yates, JoAnne         3.000        0.027        0.001
+  348                     Bertram, M.         3.000        0.027        0.001
+ 1515                   Wigand, R. T.         3.000        0.027        0.001
+  814          Jitpaiboon, Thawatchai         3.000        0.027        0.001
+  465                         Chi, L.         3.000        0.027        0.001
+  478                Chou, Seng-Cho T         3.000        0.027        0.001
+ 1191                     Pittino, D.         3.000        0.027        0.001
+  428               Ceccagnoli, Marco         3.000        0.027        0.001
+  294                        Aron, R.         3.000        0.027        0.001
+  820              Johnston, Wesley J         3.000        0.027        0.001
+  547                          Du, S.         3.000        0.027        0.001
+ 1385                      Sun, Sandy         3.000        0.027        0.001
+  897                      Krempl, R.         3.000        0.027        0.001
+ 1288                   Sayin, Serpil         3.000        0.027        0.001
+ 1451                Varey, Richard J         3.000        0.027        0.001
+ 1089                 Myll�rniemi, V.         3.000        0.027        0.001
+  174             Lightfoot, Howard W         3.000        0.027        0.001
+ 1090                   M�ller, R. H.         3.000        0.027        0.001
+  703                    Heikkil�, M.         3.000        0.027        0.001
+  702                    Heikkil�, J.         3.000        0.027        0.001
+  780                    Ik�valko, J.         3.000        0.027        0.001
+  982                    Liu, Ren-Jye         3.000        0.027        0.001
+ 1557                     Yang, S. H.         3.000        0.027        0.001
+  796                   Jackson, Eric         3.000        0.027        0.001
+  585               Farquhar, Jillian         3.000        0.027        0.001
+  409                 Campbell, Norah         3.000        0.027        0.001
+  999                     L�fberg, N.         3.000        0.027        0.001
+  448                        Chen, G.         3.000        0.027        0.001
+ 1013                    Marandi, Ebi         3.000        0.027        0.001
+ 1352                Sophatsathit, P.         3.000        0.027        0.001
+  513                       Datta, A.         3.000        0.027        0.001
+ 1568                  Yeh, Shih-Shuo         3.000        0.027        0.001
+  778           Ihlstr�m Eriksson, C.         3.000        0.027        0.001
+  679                     Halsall, D.         3.000        0.027        0.001
+  301              Audretsch, David B         3.000        0.027        0.001
+ 1154          Pardo-del-Val, Manuela         3.000        0.027        0.001
+  896                  Krcmar, Helmut         3.000        0.027        0.001
+ 1429                  Tsang, Seng-Su         3.000        0.027        0.001
+  735                  Homans, Hilary         3.000        0.027        0.001
+ 1388                  Sung, Yu Chieh         3.000        0.027        0.001
+  949                       Li, E. Y.         3.000        0.027        0.001
+ 1591                       Zheng, Z.         3.000        0.027        0.001
+  275               Alefantos, Tassos         3.000        0.027        0.001
+  589                 Ferrin, Bruce G         3.000        0.027        0.001
+  753               Huan, Tzung-Cheng         3.000        0.027        0.001
+  454                   Chen, Kuo-Min         3.000        0.027        0.001
+  985                   Lofberg, Nina         3.000        0.027        0.001
+  464                      Cheung, W.         3.000        0.027        0.001
+  980                      Little, E.         3.000        0.027        0.001
+ 1364                   Stallaert, J.         2.000        0.018        0.000
+  447                  Chen, Chih-Jou         2.000        0.018        0.000
+  347                  Bertino, Elisa         2.000        0.018        0.000
+  458                Chen, Shin-Horng         2.000        0.018        0.000
+ 1269                   Salvatore, P.         2.000        0.018        0.000
+  693                 Harrison, J. C.         2.000        0.018        0.000
+  924                  Larsson, T. C.         2.000        0.018        0.000
+  537                    Dong, Beibei         2.000        0.018        0.000
+  326                    Batnasan, J.         2.000        0.018        0.000
+  345                Berry, Frances S         2.000        0.018        0.000
+  108                        Chae, B.         2.000        0.018        0.000
+  609            Fr�as-Jamilena D. M.         2.000        0.018        0.000
+  322         Bascavusoglu-Moreau, E.         2.000        0.018        0.000
+  473                  Choi, Byounggu         2.000        0.018        0.000
+  225                  Spring, Martin         2.000        0.018        0.000
+  139                      Henten, A.         2.000        0.018        0.000
+  239                 Toivonen, Marja         2.000        0.018        0.000
+  167               Lappalainen, Inka         2.000        0.018        0.000
+  468                   Chih, Wen Hai         2.000        0.018        0.000
+  306                          Ba, S.         2.000        0.018        0.000
+  219                    Shearmur, R.         2.000        0.018        0.000
+  658                     Gray, P. H.         2.000        0.018        0.000
+  695                     Hartley, S.         2.000        0.018        0.000
+  457                     Chen, R.-H.         2.000        0.018        0.000
+  910                     Kuo, Yen-Ku         2.000        0.018        0.000
+  485                Claudy, Marius C         2.000        0.018        0.000
+  663            Griffy-Brown, Charla         2.000        0.018        0.000
+  125                    Freel, M. S.         2.000        0.018        0.000
+ 1528                     Wong, W.-K.         2.000        0.018        0.000
+  539                        Dong, S.         2.000        0.018        0.000
+  442         Chaparro-Pelaez, Julian         2.000        0.018        0.000
+ 1293            Schmoltzi, Christina         2.000        0.018        0.000
+  356            Blasco-Arcas, Lorena         2.000        0.018        0.000
+  519                 de Jong, Mark W         2.000        0.018        0.000
+  332                   Becker, Joerg         2.000        0.018        0.000
+ 1547                          Xu, HA         2.000        0.018        0.000
+ 1373                  Straker, Karla         2.000        0.018        0.000
+ 1449                  Van Looy, Bart         2.000        0.018        0.000
+  723                       Ho, L.-A.         2.000        0.018        0.000
+  375  Breidbach, Christoph Friedrich         2.000        0.018        0.000
+  324                     Basoglu, N.         2.000        0.018        0.000
+  901                  Ku, Cheng-Yuan         2.000        0.018        0.000
+   51             Cusumano, Michael A         2.000        0.018        0.000
+  667                 Gruen, Thomas W         2.000        0.018        0.000
+ 1320                  Shih, Dong-Her         2.000        0.018        0.000
+ 1508                  Wen, Pei-Chang         2.000        0.018        0.000
+ 1446               van Beukering, P.         2.000        0.018        0.000
+ 1359                Srinivasan, Raji         2.000        0.018        0.000
+  508                   Dalela, Vivek         2.000        0.018        0.000
+  659                     Greeven, M.         2.000        0.018        0.000
+  460                   Chen, Yuh-Jen         2.000        0.018        0.000
+  336                    Belal, H. M.         2.000        0.018        0.000
+ 1564                   Ye, Christine         2.000        0.018        0.000
+  463                   Cheng, Yi-Han         2.000        0.018        0.000
+  263                  Agarwal, N. K.         2.000        0.018        0.000
+  140                Hipp, Christiane         2.000        0.018        0.000
+ 1043                    Mena, Carlos         2.000        0.018        0.000
+ 1245          Rodr�guez-Molina, M.�.         2.000        0.018        0.000
+ 1558                  Yang, Tsung Ju         2.000        0.018        0.000
+  769          Hunter-Jones, Philippa         2.000        0.018        0.000
+ 1372                  Stockstrom, C.         2.000        0.018        0.000
+  671                 Guldemond, Nick         2.000        0.018        0.000
+ 1073                    Mohd Isa, S.         2.000        0.018        0.000
+  673                      Guzm�n, J.         2.000        0.018        0.000
+  123                El-Gayar, Omar F         2.000        0.018        0.000
+  775                   Ibert, Oliver         2.000        0.018        0.000
+ 1378                    Su, Chi-Hung         2.000        0.018        0.000
+ 1329                Simone, Cristina         2.000        0.018        0.000
+  917                       Laine, E.         2.000        0.018        0.000
+  555                    Eastwood, D.         2.000        0.018        0.000
+  368                       Bowen, D.         2.000        0.018        0.000
+ 1533                       Wu, G.-C.         2.000        0.018        0.000
+ 1083                  Muhanna, W. A.         2.000        0.018        0.000
+  357                    Blazevic, V.         2.000        0.018        0.000
+ 1236                   Rhee, Jongtae         2.000        0.018        0.000
+  284                   Alzahrani, A.         2.000        0.018        0.000
+ 1313                   Sharma, S. K.         2.000        0.018        0.000
+  888                   Koh, Byungwan         2.000        0.018        0.000
+ 1340                   Smith, Adrian         2.000        0.018        0.000
+  789                    Islam, M. A.         2.000        0.018        0.000
+  240                  Tracy, Stephen         2.000        0.018        0.000
+  968                 Lin, Shang-Ping         2.000        0.018        0.000
+ 1107                     Neubert, G.         2.000        0.018        0.000
+  793                        Iyer, B.         2.000        0.018        0.000
+ 1595                   Zhou, Lizhuan         2.000        0.018        0.000
+  795                     Jack, Sarah         2.000        0.018        0.000
+ 1022                  Marton, Attila         2.000        0.018        0.000
+  947                   Lewis, Mark O         2.000        0.018        0.000
+ 1149                   Pace, Stefano         2.000        0.018        0.000
+  875              Kingmanbrundage, J         2.000        0.018        0.000
+ 1402                 Tang, Ling-Lang         2.000        0.018        0.000
+  400                 Caceres, Rafael         2.000        0.018        0.000
+  802                        Jain, S.         2.000        0.018        0.000
+ 1443               Vaast, Emmanuelle         2.000        0.018        0.000
+  342               Berente, Nicholas         2.000        0.018        0.000
+  354              Bj�rn-Andersen, N.         2.000        0.018        0.000
+  606                 Freiling, Joerg         2.000        0.018        0.000
+  657                  Granzin, K. L.         2.000        0.018        0.000
+  408                 Camen, Carolina         2.000        0.018        0.000
+  207               Prajogo, Daniel I         2.000        0.018        0.000
+  309                    Bahn�, K. D.         2.000        0.018        0.000
+ 1062                    Mina, Andrea         2.000        0.018        0.000
+  311                     Baines, Tim         2.000        0.018        0.000
+  763                    Hughes, Alan         2.000        0.018        0.000
+  964                   Lin, Jwu-Rong         2.000        0.018        0.000
+ 1015               Marinkovic, Sanja         2.000        0.018        0.000
+ 1418            Topaloglou, Thodoros         2.000        0.018        0.000
+  417         Carmona-Lavado, Antonio         2.000        0.018        0.000
+ 1220                       Rajan, U.         2.000        0.018        0.000
+ 1421                    Tribolet, J.         2.000        0.018        0.000
+ 1422                   Triche, Jason         2.000        0.018        0.000
+ 1573                        Yu, Eric         2.000        0.018        0.000
+  320                    Baron, Steve         2.000        0.018        0.000
+ 1023                    Marttila, L.         2.000        0.018        0.000
+ 1526                 Wittmann, M. L.         2.000        0.018        0.000
+  625                 Garcia, Rosanna         2.000        0.018        0.000
+ 1428                  Tsai, Wen-Chia         2.000        0.018        0.000
+ 1128                       Nyl�n, D.         2.000        0.018        0.000
+  327              Battistella, L. F.         2.000        0.018        0.000
+  128                Gawer, Annabelle         2.000        0.018        0.000
+ 1106                     Ness, David         2.000        0.018        0.000
+ 1233                    Reunanen, M.         2.000        0.018        0.000
+  631                  Gegenhuber, T.         2.000        0.018        0.000
+ 1335                Sizovaite, Indre         2.000        0.018        0.000
+  734                   Holmstr�m, J.         2.000        0.018        0.000
+  635                       Ghose, A.         2.000        0.018        0.000
+ 1413                   Tigabu, A. D.         2.000        0.018        0.000
+  937                     Lee, Hyunju         2.000        0.018        0.000
+ 1439                   Tuzovic, Sven         2.000        0.018        0.000
+  839             Kankanhalli, Atreyi         2.000        0.018        0.000
+ 1242                     Rod, Michel         2.000        0.018        0.000
+  741                  Hsiao, Li-Chun         2.000        0.018        0.000
+  292                     Arai, Tamio         2.000        0.018        0.000
+ 1545                         Xin, Y.         2.000        0.018        0.000
+  844                  Karjaluoto, H.         2.000        0.018        0.000
+  845                Karniouchina, EV         2.000        0.018        0.000
+  821                    Jones, J. D.         2.000        0.018        0.000
+  446         Chen, Chih-Cheng Volvic         2.000        0.018        0.000
+ 1249               Rosemann, Michael         2.000        0.018        0.000
+ 1476         Wallenburg, Carl Marcus         2.000        0.018        0.000
+  751                    Hu, Mei-Chih         2.000        0.018        0.000
+ 1351                     Song, Jaeki         2.000        0.018        0.000
+  852                     Keith, Mark         2.000        0.018        0.000
+  653                   Gountaras, N.         2.000        0.018        0.000
+  629                          Ge, L.         2.000        0.018        0.000
+ 1457                   Victorino, L.         2.000        0.018        0.000
+  455                   Chen, Min-Nan         2.000        0.018        0.000
+ 1559                     Yanhong, Z.         2.000        0.018        0.000
+  256                Aaltonen, Aleksi         2.000        0.018        0.000
+ 1260                    S'Jegers, R.         2.000        0.018        0.000
+  459                   Chen, Yu-Shan         2.000        0.018        0.000
+  861          Kieliszewski, Cheryl A         2.000        0.018        0.000
+  461                   Chen, Yuh-Min         2.000        0.018        0.000
+ 1465                    Voima, Paivi         2.000        0.018        0.000
+  864                      Kim, H. G.         2.000        0.018        0.000
+  164                   Kuo, D. C.-L.         2.000        0.018        0.000
+  866                  Kim, Kyung Kyu         2.000        0.018        0.000
+  867                       Kim, Miri         2.000        0.018        0.000
+  466                  Chi-Shiun, Lai         2.000        0.018        0.000
+  870                     Kim, Sojung         2.000        0.018        0.000
+  670                   Guest, Duncan         2.000        0.018        0.000
+  871                 Kim, Young Hoon         2.000        0.018        0.000
+ 1273                  Santamar�a, L.         2.000        0.018        0.000
+  472                Chiummo, Gabriel         2.000        0.018        0.000
+  224                     Sparrow, J.         2.000        0.018        0.000
+ 1075        Montoro-Sanchez, Angeles         2.000        0.018        0.000
+  276                      Alfano, G.         2.000        0.018        0.000
+  227                   Storey, Chris         2.000        0.018        0.000
+  477          Chong, Alain Yee-Loong         2.000        0.018        0.000
+ 1281                 Sarstedt, Marko         2.000        0.018        0.000
+  530              Diamantopoulou, V.         2.000        0.018        0.000
+  481                   Chuang, L.-C.         2.000        0.018        0.000
+  279                         Alt, R.         2.000        0.018        0.000
+  833                      Kalika, M.         2.000        0.018        0.000
+  634                      Ghinea, G.         2.000        0.018        0.000
+ 1286             Savoldelli, Alberto         2.000        0.018        0.000
+ 1436                      Turner, S.         2.000        0.018        0.000
+  887                Koelling, Marcus         2.000        0.018        0.000
+ 1390                       Susha, I.         2.000        0.018        0.000
+  889                      Konana, P.         2.000        0.018        0.000
+  540               Dos Santos, A. M.         2.000        0.018        0.000
+ 1041                  Mele, Cristina         2.000        0.018        0.000
+  291                Annanpera, Elina         2.000        0.018        0.000
+  993           Luo, Chih-Ming Arthur         2.000        0.018        0.000
+ 1094              Nakagawa, Masahiro         2.000        0.018        0.000
+ 1095                      Nakata, C.         2.000        0.018        0.000
+  848                    Kautonen, M.         2.000        0.018        0.000
+  797                 Jackson, Paul R         2.000        0.018        0.000
+  397                   Buzzacchi, L.         2.000        0.018        0.000
+ 1275                   Saraf, Nilesh         2.000        0.018        0.000
+ 1501                     Weber, Arnd         2.000        0.018        0.000
+ 1101                  Ndubisi, G. C.         2.000        0.018        0.000
+  500        Cuevas-Rodriguez, Gloria         2.000        0.018        0.000
+  804               Jaksic, Maja Levi         2.000        0.018        0.000
+  404                Cainelli, Giulio         2.000        0.018        0.000
+  504                  C�ceres, R. C.         2.000        0.018        0.000
+ 1206                       Prior, M.         2.000        0.018        0.000
+  255              Aal, Kotaiba Abdul         2.000        0.018        0.000
+  908                    Kumar, Ram L         2.000        0.018        0.000
+ 1511                    White, D. W.         2.000        0.018        0.000
+ 1310                         Seth, N         2.000        0.018        0.000
+  510                   Damanpour, F.         2.000        0.018        0.000
+ 1513                  Wieland, Heiko         2.000        0.018        0.000
+ 1415                     Timonen, P.         2.000        0.018        0.000
+  915                    Lai, Jung-Yu         2.000        0.018        0.000
+ 1117             Nishimura, Takuichi         2.000        0.018        0.000
+ 1517                       Wilby, J.         2.000        0.018        0.000
+  117                  Deokar, Amit V         2.000        0.018        0.000
+  817                 Johar, Monica S         2.000        0.018        0.000
+  919                   Lancaster, N.         2.000        0.018        0.000
+  319                   Barney, J. B.         2.000        0.018        0.000
+ 1322              Shimomura, Yoshiki         2.000        0.018        0.000
+  420               Casbarra, Claudia         2.000        0.018        0.000
+  121                 Doloreux, David         2.000        0.018        0.000
+ 1124                     Nybacka, M.         2.000        0.018        0.000
+ 1525                        Wise, S.         2.000        0.018        0.000
+  926                 Laudien, Sven M         2.000        0.018        0.000
+  526                Di Benedetto, A.         2.000        0.018        0.000
+  628                       Garud, R.         2.000        0.018        0.000
+  929     Leclercq-Vandelannoitte, A.         2.000        0.018        0.000
+  729                     Hofmann, S.         2.000        0.018        0.000
+  931                  Lee, Changyong         2.000        0.018        0.000
+  130                   Ghazawneh, A.         2.000        0.018        0.000
+  733                Holmqvist, Jonas         2.000        0.018        0.000
+  934                    Lee, Gwanhoo         2.000        0.018        0.000
+  835              Kallinikos, Jannis         2.000        0.018        0.000
+  536               Dominguez-Pery, C         2.000        0.018        0.000
+  736                     Hong, P. C.         2.000        0.018        0.000
+  938                    Lee, Jae-Nam         2.000        0.018        0.000
+  939                     Lee, Jaegul         2.000        0.018        0.000
+ 1442                Umashankar, Nita         2.000        0.018        0.000
+  941                    Lee, Wen-Yee         2.000        0.018        0.000
+  892                        Kool, L.         2.000        0.018        0.000
+  341                Benaroch, Michel         2.000        0.018        0.000
+  344                    Berkhout, F.         2.000        0.018        0.000
+  544                   Drennan, Judy         2.000        0.018        0.000
+ 1548                       Xu, J. D.         2.000        0.018        0.000
+ 1448             van der Giessen, A.         2.000        0.018        0.000
+ 1348                         Soh, C.         2.000        0.018        0.000
+  899                 Krishnan, V. V.         2.000        0.018        0.000
+ 1552                       Yang, H D         2.000        0.018        0.000
+  651                      Gosain, S.         2.000        0.018        0.000
+ 1353                  Soriano, D. R.         2.000        0.018        0.000
+  853                   Kemppinen, J.         2.000        0.018        0.000
+  402                         Cai, H.         2.000        0.018        0.000
+ 1356              Spagnoletti, Paolo         2.000        0.018        0.000
+ 1156                     Park, J. S.         2.000        0.018        0.000
+  957                 Liao, Wen-Hsuan         2.000        0.018        0.000
+  958                        Liao, Z.         2.000        0.018        0.000
+  558                      Eckert, C.         2.000        0.018        0.000
+ 1461                    Virtanen, P.         2.000        0.018        0.000
+  761                   Huang, Pi-Yun         2.000        0.018        0.000
+  561          Ehrenthal, Joachim C F         2.000        0.018        0.000
+  361                  Boehmann, Tilo         2.000        0.018        0.000
+ 1164                  Patnayakuni, R         2.000        0.018        0.000
+  764                         Hui, Su         2.000        0.018        0.000
+  566                     Ellis, Nick         2.000        0.018        0.000
+  967                   Lin, S. S. J.         2.000        0.018        0.000
+ 1368               Steinicke, Silvia         2.000        0.018        0.000
+  367                 Bouzaabia, Olfa         2.000        0.018        0.000
+  970                   Lin, Shu-Fang         2.000        0.018        0.000
+ 1171                 Peillon, Sophie         2.000        0.018        0.000
+ 1473                  Wachter, Kathy         2.000        0.018        0.000
+  573                     Ericson, A.         2.000        0.018        0.000
+ 1574                        Yuan, S.         2.000        0.018        0.000
+  975                Lindgren, Rikard         2.000        0.018        0.000
+ 1578                      Zahler, A.         2.000        0.018        0.000
+  978                      Lings, Ian         2.000        0.018        0.000
+  877                   Kiviniemi, A.         2.000        0.018        0.000
+  579                Evans, Kenneth R         2.000        0.018        0.000
+  178                    Lyons, Kelly         2.000        0.018        0.000
+ 1583                Zhang, Liang-Jie         2.000        0.018        0.000
+  582                     Fang, S.-C.         2.000        0.018        0.000
+ 1484                 Wang, Ding-Shan         2.000        0.018        0.000
+  484                    Chung, J.-Y.         2.000        0.018        0.000
+  785                       Isaac, H.         2.000        0.018        0.000
+ 1287                  Sawy, O. A. E.         2.000        0.018        0.000
+  186        McDermott, Christopher M         2.000        0.018        0.000
+  387             Brunswicker, Sabine         2.000        0.018        0.000
+ 1189                    Pitk�nen, O.         2.000        0.018        0.000
+  940                  Lee, Min Kyung         2.000        0.018        0.000
+  491                 Colurcio, Maria         2.000        0.018        0.000
+ 1092                      Nagata, H.         2.000        0.018        0.000
+  391                 Burlat, Patrick         2.000        0.018        0.000
+ 1594                        Zhou, Li         2.000        0.018        0.000
+ 1195                        Poel, M.         2.000        0.018        0.000
+  996                    Lyytinen, A.         2.000        0.018        0.000
+  195                     Neely, Andy         2.000        0.018        0.000
+ 1399                      Tan, C.-W.         2.000        0.018        0.000
+ 1000                   L�beck, R. M.         2.000        0.018        0.000
+ 1602                   Zou, Shaoming         2.000        0.018        0.000
+ 1001                      L�thje, C.         2.000        0.018        0.000
+ 1002                    Macaulay, L.         2.000        0.018        0.000
+  803                     Jaiswal, M.         2.000        0.018        0.000
+  704                   Heiskanen, E.         2.000        0.018        0.000
+  805                       Jalas, M.         2.000        0.018        0.000
+ 1055                   Meuter, M. L.         2.000        0.018        0.000
+  707                   Helkkula, Anu         2.000        0.018        0.000
+ 1208                   Puschmann, T.         2.000        0.018        0.000
+  909                Kuo, Tsung-Hsien         2.000        0.018        0.000
+ 1010                   Manic, Bojana         2.000        0.018        0.000
+  810              Jesus Nieto, Maria         2.000        0.018        0.000
+ 1312                Shang, Shari S C         2.000        0.018        0.000
+  812                       Jiang, S.         2.000        0.018        0.000
+  813         Jimenez-Martinez, Julio         2.000        0.018        0.000
+  413                    Capel, C. M.         2.000        0.018        0.000
+ 1016                    Mariotti, S.         2.000        0.018        0.000
+ 1217         Raghunathan, Srinivasan         2.000        0.018        0.000
+ 1067               Mitra, Sabyasachi         2.000        0.018        0.000
+  819                 Johnson, Mikael         2.000        0.018        0.000
+ 1420                   Tregua, Marco         2.000        0.018        0.000
+  720                 Hindman, Dustin         2.000        0.018        0.000
+  470                  Chiu, K. K.-S.         2.000        0.018        0.000
+  721                   Hinsch, M. E.         2.000        0.018        0.000
+  623                         Gao, G.         2.000        0.018        0.000
+  774                    Iacovone, L.         2.000        0.018        0.000
+ 1427                  Tsai, Wei-Chen         2.000        0.018        0.000
+ 1027                    Matei, Sorin         2.000        0.018        0.000
+  676                     Hackney, R.         2.000        0.018        0.000
+ 1029                      Mattoo, A.         2.000        0.018        0.000
+ 1030                 Mattson, Thomas         2.000        0.018        0.000
+  430                     Chai, K. H.         2.000        0.018        0.000
+ 1232                   Resca, Andrea         2.000        0.018        0.000
+  632                   George, W. R.         2.000        0.018        0.000
+ 1235               Reyes-Mercado, P.         2.000        0.018        0.000
+ 1035                McKechnie, Sally         2.000        0.018        0.000
+  935                    Lee, Hakyeon         2.000        0.018        0.000
+ 1537                  Wu, Meng-Sheng         2.000        0.018        0.000
+ 1338               Smaliukiene, Rasa         2.000        0.018        0.000
+ 1440                 Tynan, Caroline         2.000        0.018        0.000
+  238                   Tien, James M         2.000        0.018        0.000
+ 1040                Meirelles, D. S.         2.000        0.018        0.000
+   89                    Araujo, Luis         2.000        0.018        0.000
+ 1393                    S�rensen, F.         2.000        0.018        0.000
+  643                      Goh, J. M.         2.000        0.018        0.000
+ 1495                   Warnaby, Gary         2.000        0.018        0.000
+  646                        Gong, L.         2.000        0.018        0.000
+ 1447                van Birgelen, M.         2.000        0.018        0.000
+ 1248                  Roper, Stephen         2.000        0.018        0.000
+ 1299                   Scuka, Daniel         2.000        0.018        0.000
+   48           Chae, Bongsug (Kevin)         2.000        0.018        0.000
+ 1076                      Mooney, M.         2.000        0.018        0.000
+  249                    Wu, Chih-Wen         2.000        0.018        0.000
+  451                  Chen, J. K. C.         2.000        0.018        0.000
+ 1404                      Tarani, P.         2.000        0.018        0.000
+  353                    Bilgihan, A.         2.000        0.018        0.000
+  754            Huang, Astrid Ya-Hui         2.000        0.018        0.000
+ 1257                   Ryu, Hyun-Sun         2.000        0.018        0.000
+ 1158           Pascual-Miguel, F. J.         2.000        0.018        0.000
+  758                 Huang, Ling Chu         2.000        0.018        0.000
+  307                  Bacile, Todd J         2.000        0.018        0.000
+  259                Adams, William M         2.000        0.018        0.000
+ 1463        Visnjic Kastalli, Ivanka         2.000        0.018        0.000
+  863                      Kim, Dan J         2.000        0.018        0.000
+ 1264                      Sahaym, A.         2.000        0.018        0.000
+  664                      Grin, John         2.000        0.018        0.000
+  665                      Grisot, M.         2.000        0.018        0.000
+  265                      Ageron, B.         2.000        0.018        0.000
+ 1593                     Zhihong, L.         2.000        0.018        0.000
+  869                   Kim, Sang-Hun         2.000        0.018        0.000
+  469              Ching, Russell K H         2.000        0.018        0.000
+  269                      Ahonen, T.         2.000        0.018        0.000
+ 1472                 Voss, Jan-Peter         2.000        0.018        0.000
+ 1173               Pellegrin, Claude         2.000        0.018        0.000
+  272                  Akpinar, Fatma         2.000        0.018        0.000
+  398          Cabello-Medina, Carmen         2.000        0.018        0.000
+ 1126                   Nylen, Daniel         2.000        0.018        0.000
+ 1078               Morgan, Felicia N         2.000        0.018        0.000
+  101                        Berg, D.         2.000        0.018        0.000
+  879                    Kleijnen, M.         2.000        0.018        0.000
+  880                       Klein, E.         2.000        0.018        0.000
+ 1082                Mueller, Felix C         2.000        0.018        0.000
+  330                       Bayer, S.         2.000        0.018        0.000
+  983                 Liukkunen, Kari         2.000        0.018        0.000
+  483        Chumpitaz Caceres, Ruben         2.000        0.018        0.000
+ 1486                     Wang, Juite         2.000        0.018        0.000
+ 1387                      Sundbo, D.         2.000        0.018        0.000
+  686        Hancock, Marguerite Gong         2.000        0.018        0.000
+  988                   Love, James H         2.000        0.018        0.000
+  287               Andersen-Gott, M.         2.000        0.018        0.000
+  890                 Konsynski, Benn         2.000        0.018        0.000
+  290                   Angelidou, M.         2.000        0.018        0.000
+ 1194                       Ple, Loic         2.000        0.018        0.000
+  303                      Aveiro, D.         2.000        0.018        0.000
+ 1546                        Xing, Ke         2.000        0.018        0.000
+ 1321                  Shim, Hye-Jung         2.000        0.018        0.000
+ 1497              Wassermann, Roland         2.000        0.018        0.000
+ 1498               Watanabe, Chihiro         2.000        0.018        0.000
+ 1301                  Segers, Jeroen         2.000        0.018        0.000
+ 1499               Watanabe, Kentaro         2.000        0.018        0.000
+ 1551                  Yang, Chih-Kai         2.000        0.018        0.000
+  374                   Brehme, P.-O.         2.000        0.018        0.000
+ 1202                 Prahalad, C. K.         2.000        0.018        0.000
+ 1604                     �ztaysi, B.         2.000        0.018        0.000
+  503                     C�ceres, R.         2.000        0.018        0.000
+  766                Hung, Chih-Young         2.000        0.018        0.000
+  730             Hofstetter, Joerg S         2.000        0.018        0.000
+ 1007                    Malhotra, A.         2.000        0.018        0.000
+ 1108              Neyer, Anne-Katrin         2.000        0.018        0.000
+  507                      Dai, Qizhi         2.000        0.018        0.000
+  633                     Ghijsen, P.         2.000        0.018        0.000
+ 1411                 Thorseng, A. A.         2.000        0.018        0.000
+ 1563                   Yates, Nicola         2.000        0.018        0.000
+  849                       Kawai, T.         2.000        0.018        0.000
+  713        Hernandez-Ortega, Blanca         2.000        0.018        0.000
+ 1316                         Shi, X.         2.000        0.018        0.000
+  614                     Fukuda, Ken         2.000        0.018        0.000
+ 1229                         Ray, G.         2.000        0.018        0.000
+ 1330               Simpson, Merlin C         2.000        0.018        0.000
+ 1569                       Yip, Nick         2.000        0.018        0.000
+ 1571                   Yoon, Byungun         2.000        0.018        0.000
+  318                      Barlow, J.         2.000        0.018        0.000
+ 1197                Polo Pe�a, A. I.         2.000        0.018        0.000
+ 1198                    Pombinho, J.         2.000        0.018        0.000
+ 1274                Sanzo-Perez, M J         2.000        0.018        0.000
+  987                      Loukis, E.         2.000        0.018        0.000
+ 1025                   Mas-Verd�, F.         2.000        0.018        0.000
+  325                  Batchuluun, A.         2.000        0.018        0.000
+ 1403                  Tanriverdi, H.         2.000        0.018        0.000
+ 1392                 Swilley, Esther         2.000        0.018        0.000
+ 1091                   M�ller, F. C.         2.000        0.018        0.000
+  779                       Ikeda, M.         2.000        0.018        0.000
+ 1031                   Mattsson, Jan         2.000        0.018        0.000
+  933                      Lee, E.-J.         2.000        0.018        0.000
+ 1134                     Oh, Jungsuk         2.000        0.018        0.000
+ 1586                     Zhang, Zhen         2.000        0.018        0.000
+ 1186                Pihlstrom, Minna         2.000        0.018        0.000
+ 1362                       Stahl, B.         2.000        0.018        0.000
+ 1350                  Solaimani, Sam         2.000        0.018        0.000
+  738                    Hongting, T.         2.000        0.018        0.000
+ 1140                      Oliver, T.         2.000        0.018        0.000
+ 1565              Ye, Hua (Jonathan)         2.000        0.018        0.000
+  452                   Chen, Junsong         2.000        0.018        0.000
+  553                 D�az-M�ndez, M.         2.000        0.018        0.000
+ 1144   Ortiz-De-Urbina-Criado, Marta         2.000        0.018        0.000
+ 1270                    Samavi, Reza         2.000        0.018        0.000
+ 1146                   Ouwersloot, H         2.000        0.018        0.000
+ 1297                  Schuster, Lisa         2.000        0.018        0.000
+  296                   Arvanitis, S.         2.000        0.018        0.000
+ 1234               Rey-Garcia, Marta         2.000        0.018        0.000
+ 1462                     Viscusi, G.         2.000        0.018        0.000
+  574                  Eriksson, Owen         2.000        0.018        0.000
+  977                    Lindsay, Val         2.000        0.018        0.000
+  425                   Castro, L. M.         2.000        0.018        0.000
+  966                      Lin, L. H.         2.000        0.018        0.000
+ 1567                      Yeh, H.-J.         2.000        0.018        0.000
+ 1531                   Wrigley, Cara         2.000        0.018        0.000
+ 1332                       Singh, P.         2.000        0.018        0.000
+ 1408                Theodoulidis, B.         2.000        0.018        0.000
+ 1509                 Weng, Sung-Shun         2.000        0.018        0.000
+ 1084            Mukhopadhyay, Sandip         2.000        0.018        0.000
+  578               Ettouzani, Younes         2.000        0.018        0.000
+ 1384                    Sun, Po-Ling         2.000        0.018        0.000
+ 1587                    Zhao, J Leon         2.000        0.018        0.000
+ 1414                   Tilson, David         2.000        0.018        0.000
+ 1339                    Smart, Palie         2.000        0.018        0.000
+  788                       Iskin, I.         2.000        0.018        0.000
+  979              Linton, Jonathan D         2.000        0.018        0.000
+  378                Brodie, Roderick         2.000        0.018        0.000
+  742                    Hsiao, P.-I.         2.000        0.018        0.000
+  768                     Hung, S.-C.         2.000        0.018        0.000
+  444            Chellappa, Ramnath K         2.000        0.018        0.000
+ 1397                   Takahashi, N.         2.000        0.018        0.000
+  489                  Colombo, M. G.         2.000        0.018        0.000
+  277                      Alhava, O.         2.000        0.018        0.000
+  532         Diaz-Mendez, Montserrat         2.000        0.018        0.000
+  359                   Blomqvist, K.         2.000        0.018        0.000
+  331                  Baysan, Serdar         2.000        0.018        0.000
+  876                    Kiumarsi, S.         2.000        0.018        0.000
+  313                   Banker, Rajiv         2.000        0.018        0.000
+ 1505                        Wei, Jen         2.000        0.018        0.000
+ 1305                  Seneler, C. O.         2.000        0.018        0.000
+ 1430                    Tseng, C.-C.         2.000        0.018        0.000
+ 1433                  Tuertscher, P.         2.000        0.018        0.000
+  282         Alvarez-Gonzalez, L. I.         2.000        0.018        0.000
+ 1177           Pereira-Rama, Antonio         2.000        0.018        0.000
+  990                       Lu, I. Y.         2.000        0.018        0.000
+ 1179                    Perks, Helen         2.000        0.018        0.000
+ 1584                       Zhang, T.         2.000        0.018        0.000
+  668                    Gr�nlund, A.         2.000        0.018        0.000
+  907                       Kumar, R.         2.000        0.018        0.000
+  153                   Kallio, Katri         2.000        0.018        0.000
+  438                 Chang, Hung-Fan         2.000        0.018        0.000
+  627              Garc�a-Quevedo, J.         2.000        0.018        0.000
+  488            Codagnone, Cristiano         2.000        0.018        0.000
+ 1555                Yang, Ming-Hsien         2.000        0.018        0.000
+ 1280                      Sarker, S.         2.000        0.018        0.000
+  675                   Haas, Michael         2.000        0.018        0.000
+ 1491                        Wang, S.         2.000        0.018        0.000
+  502                       Curry, R.         2.000        0.018        0.000
+  688                 Hara, Tatsunori         2.000        0.018        0.000
+ 1540                     Wu, Ya-Ling         2.000        0.018        0.000
+ 1265                       Sakai, K.         2.000        0.018        0.000
+  111               Chesbrough, Henry         1.000        0.009        0.000
+  648         Gonz�lez-Morales, M. O.         1.000        0.009        0.000
+  823                    Joshi, M. P.         1.000        0.009        0.000
+  752                     Hu, Yansong         1.000        0.009        0.000
+  838                     Kang, K. H.         1.000        0.009        0.000
+  316                 Barahona, J. C.         1.000        0.009        0.000
+  158                     Khan, A. M.         1.000        0.009        0.000
+ 1524                     Windrum, P.         1.000        0.009        0.000
+  963                   Lin, Hong-Nan         1.000        0.009        0.000
+ 1289                      Scarso, E.         1.000        0.009        0.000
+  918                  Lambert, D. M.         1.000        0.009        0.000
+  727                   Hofman, Erwin         1.000        0.009        0.000
+  843                Karimi, Jahangir         1.000        0.009        0.000
+  235                 Tether, Bruce S         1.000        0.009        0.000
+ 1226                     Ramirez, M.         1.000        0.009        0.000
+ 1157                   Parry, Mark E         1.000        0.009        0.000
+  527         Di Guardo, Maria Chiara         1.000        0.009        0.000
+  564                     Elfring, T.         1.000        0.009        0.000
+  321                Barrutia, Jose M         1.000        0.009        0.000
+  672                   Gurbaxani, V.         1.000        0.009        0.000
+  748                 Hsu, Chien-Lung         1.000        0.009        0.000
+  925                   Latour, M. S.         1.000        0.009        0.000
+ 1303                   Sekhar, J. A.         1.000        0.009        0.000
+  350                     Bessant, J.         1.000        0.009        0.000
+  577                    Estelami, H.         1.000        0.009        0.000
+  568                  Embi, M. R. B.         1.000        0.009        0.000
+  906                     Kuk, George         1.000        0.009        0.000
+ 1119                  Noor, M. N. M.         1.000        0.009        0.000
+ 1113                  Nielsen, J. A.         1.000        0.009        0.000
+  971                   Lin, Tingling         1.000        0.009        0.000
+  620                 Galvagno, Marco         1.000        0.009        0.000
+ 1160                Paskaleva, K. A.         1.000        0.009        0.000
+ 1512                  Whitley, E. A.         1.000        0.009        0.000
+ 1224         Ramesh, Balasubramaniam         1.000        0.009        0.000
+  474                    Choi, Hwanho         1.000        0.009        0.000
+  436           Chandler, Jennifer D.         1.000        0.009        0.000
+  989                    Lu, Hsi-Peng         1.000        0.009        0.000
+  842                       Karhu, P.         1.000        0.009        0.000
+  642                    Gogan, J. L.         1.000        0.009        0.000
+  304                    Azadegan, A.         1.000        0.009        0.000
+  305                   Azor�n, J. A.         1.000        0.009        0.000
+ 1045              Mendritzki, Stefan         1.000        0.009        0.000
+  883                 Knutsen, Lars A         1.000        0.009        0.000
+  922                   Larsen, J. N.         1.000        0.009        0.000
+  421                      Cassab, H.         1.000        0.009        0.000
+ 1036                  McLaughlin, S.         1.000        0.009        0.000
+  837                      Kang, Jina         1.000        0.009        0.000
+ 1225                      Ramilo, R.         1.000        0.009        0.000
+  399              Cabiddu, Francesca         1.000        0.009        0.000
+  626                 Garc�a-Go�i, M.         1.000        0.009        0.000
+  115                 de Reuver, Mark         1.000        0.009        0.000
+  818                  Johnson, L. W.         1.000        0.009        0.000
+ 1219                   Rajala, Risto         1.000        0.009        0.000
+  482                 Chuang, Shu-Hui         1.000        0.009        0.000
+ 1145              Osborne, Stephen P         1.000        0.009        0.000
+ 1597                     Zhu, Wenjia         1.000        0.009        0.000
+ 1210                  P��llysaho, S.         1.000        0.009        0.000
+  948                    Lewis, S. C.         1.000        0.009        0.000
+   46               Boudreau, Kevin J         1.000        0.009        0.000
+ 1012           Manopichetwattana, V.         1.000        0.009        0.000
+  260                        Adel, R.         1.000        0.009        0.000
+  262                  Agarwal, James         1.000        0.009        0.000
+ 1553                     Yang, H.-C.         1.000        0.009        0.000
+  942                Lempinen, Heikki         1.000        0.009        0.000
+ 1207                Purvis, Martin K         1.000        0.009        0.000
+  493                    Corrigan, M.         1.000        0.009        0.000
+  857                    Kerrigan, F.         1.000        0.009        0.000
+  257                      Abdous, M.         1.000        0.009        0.000
+  220                     Shih, T.-Y.         1.000        0.009        0.000
+   57               Gummerus, Johanna         1.000        0.009        0.000
+  860                 Khiaonarong, T.         1.000        0.009        0.000
+  974                  Lindberg, Nina         1.000        0.009        0.000
+  874               King, John Leslie         1.000        0.009        0.000
+  850                    Kawakami, T.         1.000        0.009        0.000
+ 1554                   Yang, Heng-Li         1.000        0.009        0.000
+  716                Hidalgo, Antonio         1.000        0.009        0.000
+  441                    Chang, Y. B.         1.000        0.009        0.000
+ 1056                    Meyer, M. H.         1.000        0.009        0.000
+  467                Chiang, Chun-Hao         1.000        0.009        0.000
+  193                Nambisan, Satish         1.000        0.009        0.000
+   68                      Savory, C.         1.000        0.009        0.000
+  972                       Lin, Yong         1.000        0.009        0.000
+  270                   Aitamurto, T.         1.000        0.009        0.000
+  885                        Koch, A.         1.000        0.009        0.000
+ 1037              McLoughlin, Damien         1.000        0.009        0.000
+ 1088                    Myers, M. D.         1.000        0.009        0.000
+  687              Handrich, Matthias         1.000        0.009        0.000
+  777                        Igel, B.         1.000        0.009        0.000
+ 1017                 Markard, Jochen         1.000        0.009        0.000
+  868                   Kim, Moon-Soo         1.000        0.009        0.000
+  479                Choudhury, Vivek         1.000        0.009        0.000
+ 1182                    Petrillo, A.         1.000        0.009        0.000
+ 1383                      Sultan, F.         1.000        0.009        0.000
+ 1296           Schuhmacher, Monika C         1.000        0.009        0.000
+ 1135                     Oh, Lih-Bin         1.000        0.009        0.000
+ 1048                  Menor, Larry J         1.000        0.009        0.000
+  798                    Jacob, Frank         1.000        0.009        0.000
+  499                        Cruz, S.         1.000        0.009        0.000
+  298                   Ashenbaum, B.         1.000        0.009        0.000
+  902                 Kuester, Sabine         1.000        0.009        0.000
+  865                      Kim, Kibae         1.000        0.009        0.000
+ 1042                  Melton, Horace         1.000        0.009        0.000
+  894                   Kornum, Niels         1.000        0.009        0.000
+  594                   Fishenden, J.         1.000        0.009        0.000
+  443                   Chee-Wooi, H.         1.000        0.009        0.000
+ 1057                       Mezei, J.         1.000        0.009        0.000
+  146                   Hull, Frank M         1.000        0.009        0.000
+  509                  Dalli, Daniele         1.000        0.009        0.000
+ 1311                    Shainesh, G.         1.000        0.009        0.000
+ 1212                     Quaddus, M.         1.000        0.009        0.000
+  511                  Daniels, P. W.         1.000        0.009        0.000
+  512                      Das, S. R.         1.000        0.009        0.000
+  652                Gounaris, Spiros         1.000        0.009        0.000
+  878                   Kiviniemi, V.         1.000        0.009        0.000
+  315                         Bao, J.         1.000        0.009        0.000
+ 1306                    Sense, A. J.         1.000        0.009        0.000
+  505                 D'Alvano, Luigi         1.000        0.009        0.000
+  494            Corrocher, Nicoletta         1.000        0.009        0.000
+ 1221           Ramachandran, Vandana         1.000        0.009        0.000
+  921             Lanestedt, Gjermund         1.000        0.009        0.000
+ 1123              Numprasertchai, S.         1.000        0.009        0.000
+ 1424                     Trott, Paul         1.000        0.009        0.000
+  323              Baskerville, R. L.         1.000        0.009        0.000
+  524                      DeTore, A.         1.000        0.009        0.000
+ 1052                 Merschbrock, C.         1.000        0.009        0.000
+ 1115                       Nikou, S.         1.000        0.009        0.000
+  728                      Hofman, W.         1.000        0.009        0.000
+ 1318                  Shibeika, Amna         1.000        0.009        0.000
+  517                   De Felice, F.         1.000        0.009        0.000
+  882                     Kljajic, M.         1.000        0.009        0.000
+ 1333                    Singh, Vibha         1.000        0.009        0.000
+ 1460               Viljakainen, Anna         1.000        0.009        0.000
+  533                  Diffley, Sarah         1.000        0.009        0.000
+  936                    Lee, Hyejung         1.000        0.009        0.000
+ 1237                        Rice, J.         1.000        0.009        0.000
+  737                  Hong, Seunghye         1.000        0.009        0.000
+  437                    Chang, H. J.         1.000        0.009        0.000
+  927                   Laukkanen, T.         1.000        0.009        0.000
+ 1141                 Omachonu, V. K.         1.000        0.009        0.000
+  340            Ben Letaifa, Soumaya         1.000        0.009        0.000
+ 1181                     Petrick, I.         1.000        0.009        0.000
+  492                     Conrick, M.         1.000        0.009        0.000
+  743                 Hsiao, Shu-Ling         1.000        0.009        0.000
+  744                 Hsieh, Pei-Hung         1.000        0.009        0.000
+  747                      Hsu, Cheng         1.000        0.009        0.000
+ 1148                    Ozyilmaz, A.         1.000        0.009        0.000
+ 1349                     Sok-Gee, C.         1.000        0.009        0.000
+  698                    Harty, Chris         1.000        0.009        0.000
+ 1151                      Pan, J.-N.         1.000        0.009        0.000
+  701               Heidenreich, Sven         1.000        0.009        0.000
+ 1453                     Venters, W.         1.000        0.009        0.000
+ 1455                   Verna, Carlos         1.000        0.009        0.000
+  893             Koritos, Christos D         1.000        0.009        0.000
+  956                   Liao, Shuling         1.000        0.009        0.000
+  755                       Huang, F.         1.000        0.009        0.000
+ 1358              Srinivasan, Ananth         1.000        0.009        0.000
+ 1259                     R�nning, R.         1.000        0.009        0.000
+  959                    Liebenau, J.         1.000        0.009        0.000
+ 1361           Srivastava, Shirish C         1.000        0.009        0.000
+  912                  Kuusisto, Jari         1.000        0.009        0.000
+ 1363                  Stahlecker, T.         1.000        0.009        0.000
+  562                Einspruch, N. G.         1.000        0.009        0.000
+ 1216             Raddats, Chris Owen         1.000        0.009        0.000
+ 1366                 Standing, Susan         1.000        0.009        0.000
+ 1267                   Salle, Robert         1.000        0.009        0.000
+  567                  Ellonen, H.-K.         1.000        0.009        0.000
+  969                 Lin, Sheng-Chih         1.000        0.009        0.000
+  218                Schultz, Carsten         1.000        0.009        0.000
+  569                  Engberg, L. A.         1.000        0.009        0.000
+ 1172                 Pelkonen, Antti         1.000        0.009        0.000
+  571                   Engwall, Mats         1.000        0.009        0.000
+ 1174                      Pepper, M.         1.000        0.009        0.000
+ 1375               Streukens, Sandra         1.000        0.009        0.000
+ 1276                       Sarbu, M.         1.000        0.009        0.000
+ 1152                   Pandya, A. M.         1.000        0.009        0.000
+  576                       Ess�n, A.         1.000        0.009        0.000
+ 1379                     Subbiah, A.         1.000        0.009        0.000
+ 1005                   Mahr, Dominik         1.000        0.009        0.000
+ 1381                   Suh, Yongyoon         1.000        0.009        0.000
+ 1382                     Sukkird, V.         1.000        0.009        0.000
+  731                 Hogstrom, Claes         1.000        0.009        0.000
+  809                Jeppesen, Lars B         1.000        0.009        0.000
+  984                  Loebler, Helge         1.000        0.009        0.000
+  283         Alvarez-Gonz�lez, J. A.         1.000        0.009        0.000
+  886            Koch, Daniel Jeffrey         1.000        0.009        0.000
+  486                       Cocca, S.         1.000        0.009        0.000
+  587                  Fedorowicz, J.         1.000        0.009        0.000
+  965                   Lin, Kwei-Jay         1.000        0.009        0.000
+  841                Karahanna, Elena         1.000        0.009        0.000
+  440                   Chang, Soo Ho         1.000        0.009        0.000
+ 1494                   Warlow, A. J.         1.000        0.009        0.000
+ 1395              Tajar, Abdelouahid         1.000        0.009        0.000
+  392                 Burnes, Bernard         1.000        0.009        0.000
+  393                   Burton, Jamie         1.000        0.009        0.000
+ 1147                     Ozdemir, S.         1.000        0.009        0.000
+ 1598                         Zhu, Z.         1.000        0.009        0.000
+  998                      L�bler, H.         1.000        0.009        0.000
+  599                     Fortune, J.         1.000        0.009        0.000
+ 1401                         Tan, Y.         1.000        0.009        0.000
+  600                      Foss, Lene         1.000        0.009        0.000
+ 1503               Webster, C. W. R.         1.000        0.009        0.000
+  604                     Francis, D.         1.000        0.009        0.000
+ 1256                 Rust, Roland T.         1.000        0.009        0.000
+ 1406                   Teoh, Say Yen         1.000        0.009        0.000
+ 1507      Weissenberger-Eibl, Marion         1.000        0.009        0.000
+ 1008                  Mandeville, T.         1.000        0.009        0.000
+  557                  Echeverri, Per         1.000        0.009        0.000
+ 1410                    Thompson, M.         1.000        0.009        0.000
+  410                   Candi, Marina         1.000        0.009        0.000
+  610                  Fuglsang, Lars         1.000        0.009        0.000
+  611                  Fujigaki, Yuko         1.000        0.009        0.000
+  613                    Fukimaga, Y.         1.000        0.009        0.000
+ 1114                     Nielsen, P.         1.000        0.009        0.000
+ 1065                      Miozzo, M.         1.000        0.009        0.000
+ 1417                  Tongur, Stefan         1.000        0.009        0.000
+  616                     Gago, David         1.000        0.009        0.000
+ 1118                        Niwa, K.         1.000        0.009        0.000
+  718                    Hilman, Haim         1.000        0.009        0.000
+  920              Landau, Jonathan S         1.000        0.009        0.000
+ 1121                 Nordin, Fredrik         1.000        0.009        0.000
+  521                   Delen, Dursun         1.000        0.009        0.000
+ 1474                  Waite, Kathryn         1.000        0.009        0.000
+ 1425               Truffer, Bernhard         1.000        0.009        0.000
+  674           Gyrd-Jones, Richard I         1.000        0.009        0.000
+  525                    Dholakia, N.         1.000        0.009        0.000
+  726          Hofer, Katharina Maria         1.000        0.009        0.000
+ 1479                 Walter, Zhiping         1.000        0.009        0.000
+ 1205                   Prindible, M.         1.000        0.009        0.000
+ 1506                   Weinstein, O.         1.000        0.009        0.000
+  832          Kaliappen, Narentheren         1.000        0.009        0.000
+  706                 Helfert, Markus         1.000        0.009        0.000
+  407                  Camacho, J. A.         1.000        0.009        0.000
+  433                     Chan, C.-C.         1.000        0.009        0.000
+  434            Chan, Wai Kin Victor         1.000        0.009        0.000
+ 1437                    Tuunanen, T.         1.000        0.009        0.000
+ 1087                 Munkvold, B. E.         1.000        0.009        0.000
+  637                Gilsanz, Ainhize         1.000        0.009        0.000
+ 1039               Meijerink, Jeroen         1.000        0.009        0.000
+  739                  Howard, Joanna         1.000        0.009        0.000
+ 1342                    Smith, C. F.         1.000        0.009        0.000
+  691                   Harmon, R. R.         1.000        0.009        0.000
+ 1244                   Rodriguez, M.         1.000        0.009        0.000
+  418                   Carroll, Noel         1.000        0.009        0.000
+  644        Goldschmidt-Clermont, P.         1.000        0.009        0.000
+  846                     Kasabov, E.         1.000        0.009        0.000
+ 1047                 Mengiste, S. A.         1.000        0.009        0.000
+  647                    Gong, Xiaoye         1.000        0.009        0.000
+ 1550                     Xu, Xiaofei         1.000        0.009        0.000
+  649              Gopal, Anandasivam         1.000        0.009        0.000
+  750                  Hsuan, Juliana         1.000        0.009        0.000
+  801                 Jain, Radhika P         1.000        0.009        0.000
+  403                       Cai, Shun         1.000        0.009        0.000
+ 1255                       Runde, J.         1.000        0.009        0.000
+  266               Aggarwal, Rebecca         1.000        0.009        0.000
+  655                      Graham, G.         1.000        0.009        0.000
+ 1370                  Stevens, D. P.         1.000        0.009        0.000
+ 1459               Viglia, Giampaolo         1.000        0.009        0.000
+ 1159                      Pasini, P.         1.000        0.009        0.000
+ 1060                   Miller, H. G.         1.000        0.009        0.000
+ 1262       Saemundsson, Rognvaldur J         1.000        0.009        0.000
+  711                 Henrichs, R. B.         1.000        0.009        0.000
+ 1514                  Wiesner, S. A.         1.000        0.009        0.000
+ 1365                 Standing, Craig         1.000        0.009        0.000
+  363                    Bolisani, E.         1.000        0.009        0.000
+  565                 Elizondo, A. M.         1.000        0.009        0.000
+ 1331                 Singh, Abhijeet         1.000        0.009        0.000
+ 1068                Miyazaki, Kumiko         1.000        0.009        0.000
+  681                Hambleton, Robin         1.000        0.009        0.000
+  669                 Guan, Jiancheng         1.000        0.009        0.000
+  570                Engelst�tter, B.         1.000        0.009        0.000
+  771                    Hyytinen, K.         1.000        0.009        0.000
+  572                      Enz, M. G.         1.000        0.009        0.000
+ 1475                   Walker, R. H.         1.000        0.009        0.000
+ 1175                   Pera, Rebecca         1.000        0.009        0.000
+  700                          He, W.         1.000        0.009        0.000
+  677                        Hahn, M.         1.000        0.009        0.000
+ 1203         Prebensen, Nina Katrine         1.000        0.009        0.000
+  991                          Lu, T.         1.000        0.009        0.000
+ 1167                     Paulino, S.         1.000        0.009        0.000
+ 1394                    S�rensen, L.         1.000        0.009        0.000
+ 1582                        Zhai, J.         1.000        0.009        0.000
+ 1284                       Sato, Ryo         1.000        0.009        0.000
+  884                  Ko, Hsien-Tang         1.000        0.009        0.000
+  383                   Brown, Louise         1.000        0.009        0.000
+  986                Long, Andrew L S         1.000        0.009        0.000
+  586                    Faulkner, P.         1.000        0.009        0.000
+  386                Bruns, Katherina         1.000        0.009        0.000
+ 1190                        Pitt, M.         1.000        0.009        0.000
+ 1241                  Roberts, S. D.         1.000        0.009        0.000
+  588                    Fei, Yan-Lin         1.000        0.009        0.000
+ 1104                    Nejad, M. G.         1.000        0.009        0.000
+  830                 Kahn, Kenneth B         1.000        0.009        0.000
+ 1369          Steinmueller, W Edward         1.000        0.009        0.000
+  694                  Harrison, Tina         1.000        0.009        0.000
+  745                 Hsieh, Pei-Shan         1.000        0.009        0.000
+  696             Hartline, Michael D         1.000        0.009        0.000
+  900               Krumwiede, Dennis         1.000        0.009        0.000
+ 1600                Zirulia, Lorenzo         1.000        0.009        0.000
+ 1150                        Paik, J.         1.000        0.009        0.000
+ 1201                    Potts, Jason         1.000        0.009        0.000
+  776                     Ibrahim, O.         1.000        0.009        0.000
+ 1110                Nguyen, H. T. N.         1.000        0.009        0.000
+ 1116                   Nilsson, Elin         1.000        0.009        0.000
+  961                     Lim, Ming K         1.000        0.009        0.000
+  535                 Dismukes, J. P.         1.000        0.009        0.000
+ 1444                Valovirta, Ville         1.000        0.009        0.000
+  607                   Frenken, Koen         1.000        0.009        0.000
+  770                    Hwang, P.-R.         1.000        0.009        0.000
+  759                 Huang, Ming-Hui         1.000        0.009        0.000
+ 1549                   Xu, Xiangxuan         1.000        0.009        0.000
+ 1599         Zippel-Schultz, Bettina         1.000        0.009        0.000
+ 1539                          Wu, X.         1.000        0.009        0.000
+  538          Dong, Ching-Shen James         1.000        0.009        0.000
+ 1033                 McCole, Patrick         1.000        0.009        0.000
+  746                  Hsieh, Yen-Hao         1.000        0.009        0.000
+ 1536                  Wu, Liang-Hong         1.000        0.009        0.000
+ 1535                 Wu, Liang-Chuan         1.000        0.009        0.000
+ 1170                     Peffers, K.         1.000        0.009        0.000
+  757                       Huang, L.         1.000        0.009        0.000
+ 1585                  Zhang, Wenhong         1.000        0.009        0.000
+  281                  Altmann, Joern         1.000        0.009        0.000
+  280                       Alter, S.         0.000        0.000        0.000
+  429                      Cecere, G.         0.000        0.000        0.000
+ 1445                  Valtakoski, A.         0.000        0.000        0.000
+ 1258                    Ryzhkova, N.         0.000        0.000        0.000
+  928                 Layton, Roger A         0.000        0.000        0.000
+  424             Castellacci, Fulvio         0.000        0.000        0.000
+ 1026                   Maskus, K. E.         0.000        0.000        0.000
+  930                   Lee, B. C. Y.         0.000        0.000        0.000
+   92               Atuahene-Gima, K.         0.000        0.000        0.000
+  431             Chairatana, Pun-Arj         0.000        0.000        0.000
+  815          Johannessen, Jon-Arild         0.000        0.000        0.000
+ 1431                    Tu, Hung-Jen         0.000        0.000        0.000
+ 1283                  Sato, C. E. Y.         0.000        0.000        0.000
+  862                      Kihara, Y.         0.000        0.000        0.000
+ 1438                  Tuurnas, Sanna         0.000        0.000        0.000
+  261                    Adham, K. A.         0.000        0.000        0.000
+  351                     Best, M. L.         0.000        0.000        0.000
+ 1529         Wonglimpiyarat, Jarunee         0.000        0.000        0.000
+  855                  Kerkhof, Marco         0.000        0.000        0.000
+  641                Gobble, M. A. M.         0.000        0.000        0.000
+  405              Calabrese, Armando         0.000        0.000        0.000
+ 1345                       Smits, R.         0.000        0.000        0.000
+  945               Leonardi, Paul M.         0.000        0.000        0.000
+ 1341                   Smith, Anne M         0.000        0.000        0.000
+ 1343                    Smith, D. J.         0.000        0.000        0.000
+ 1325                Siddiquee, N. A.         0.000        0.000        0.000
+ 1049             Mention, Anne-Laure         0.000        0.000        0.000
+   98                      Barras, R.         0.000        0.000        0.000
+ 1527                     Wong, D. H.         0.000        0.000        0.000
+  551                   Dutton, W. H.         0.000        0.000        0.000
+  640               Glushko, Robert J         0.000        0.000        0.000
+ 1054                 Metcalfe, J. S.         0.000        0.000        0.000
+  955              Liao, Chien Hsiang         0.000        0.000        0.000
+ 1357                     Spremic, M.         0.000        0.000        0.000
+  756                 Huang, Hui-Ling         0.000        0.000        0.000
+ 1096                    Nardelli, G.         0.000        0.000        0.000
+ 1454                Verleye, Katrien         0.000        0.000        0.000
+  308                    Bader, M. A.         0.000        0.000        0.000
+ 1111               Nicholls, Richard         0.000        0.000        0.000
+ 1162                      Pateli, A.         0.000        0.000        0.000
+  762                     Huggins, R.         0.000        0.000        0.000
+ 1014                    Marciano, C.         0.000        0.000        0.000
+  113                 Consoli, Davide         0.000        0.000        0.000
+ 1066                    Miscione, G.         0.000        0.000        0.000
+ 1518                   Wild, Peter J         0.000        0.000        0.000
+  617                      Gaimon, C.         0.000        0.000        0.000
+  518                de Grandbois, Y.         0.000        0.000        0.000
+  619                     Gallouj, C.         0.000        0.000        0.000
+ 1423                Trigo, Alexandre         0.000        0.000        0.000
+  872                    Kinder, Tony         0.000        0.000        0.000
+  523                       Desai, D.         0.000        0.000        0.000
+  773                    H�ritier, A.         0.000        0.000        0.000
+ 1125                  Nyberg, Daniel         0.000        0.000        0.000
+ 1577                      Zagler, M.         0.000        0.000        0.000
+ 1228                      Ratten, V.         0.000        0.000        0.000
+ 1178                  Perez, Carlota         0.000        0.000        0.000
+ 1530                        Wood, P.         0.000        0.000        0.000
+ 1080                     Moyo, L. M.         0.000        0.000        0.000
+ 1131                     Ogilvie, T.         0.000        0.000        0.000
+  380                Broeckelmann, P.         0.000        0.000        0.000
+ 1021                     Martini, M.         0.000        0.000        0.000
+ 1059                   Michalski, T.         0.000        0.000        0.000
+ 1086                  Multisilta, J.         0.000        0.000        0.000
+ 1487                       Wang, Kai         0.000        0.000        0.000
+ 1137               Ojiako, Udechukwu         0.000        0.000        0.000
+  487                  Cochoy, Franck         0.000        0.000        0.000
+ 1064                 Miocevic, Dario         0.000        0.000        0.000
+  388                    Br�chner, J.         0.000        0.000        0.000
+  339               Beltramini, R. F.         0.000        0.000        0.000
+ 1142                       Opitz, M.         0.000        0.000        0.000
+ 1093                    Nahuis, Roel         0.000        0.000        0.000
+  994                    Lyons, M. H.         0.000        0.000        0.000
+ 1396                 Takagi, Hideaki         0.000        0.000        0.000
+  394                Busquets, Javier         0.000        0.000        0.000
+ 1398                  Tallon, Paul P         0.000        0.000        0.000
+  923                   Larson, R. C.         0.000        0.000        0.000
+  498                    Cromer, Cory         0.000        0.000        0.000
+ 1601           Zittrain, Jonathan L.         0.000        0.000        0.000
+  851                        Keen, J.         0.000        0.000        0.000
+  501                    Cunha, A. B.         0.000        0.000        0.000
+ 1153                   Parast, M. M.         0.000        0.000        0.000
+ 1605                                         0.000        0.000        0.000
+
+
+DESCRIPTIVE STATISTICS
+
+                            1            2            3
+                       Degree    NrmDegree        Share
+                 ------------ ------------ ------------
+    1      Mean         2.947        0.026        0.001
+    2   Std Dev         2.736        0.024        0.001
+    3       Sum      4730.000       42.127        1.000
+    4  Variance         7.486        0.001        0.000
+    5       SSQ     25954.000        2.059        0.001
+    6     MCSSQ     12014.498        0.953        0.001
+    7  Euc Norm       161.102        1.435        0.034
+    8   Minimum         0.000        0.000        0.000
+    9   Maximum        33.000        0.294        0.007
+   10  N of Obs      1605.000     1605.000     1605.000
+
+
+Network Centralization = 0.27%
+Blau Heterogeneity = 0.12%.  Normalized (IQV) = 0.05%
+
+Note: For valued data, the normalized centrality may be larger than 100.
+      Also, the centralization statistic is divided by the maximum value in the input dataset.
+
+Actor-by-centrality matrix saved as dataset P1_P2_P3_authors_X_authors-deg
+
+----------------------------------------
+Running time:  00:00:01
+Output generated:  17 nov. 16 18:07:26
+UCINET 6.620 Copyright (c) 1992-2016 Analytic Technologies
+

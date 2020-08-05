@@ -1,0 +1,58 @@
+﻿FREEMAN'S DEGREE CENTRALITY MEASURES:
+--------------------------------------------------------------------------------
+
+Diagonal valid?                         NO
+Model:                                  SYMMETRIC
+Input dataset:                          P1_authors_X_authors (D:\UCINET\15112016MILENA\P1_authors_X_authors)
+
+
+                                         1            2            3
+                                    Degree    NrmDegree        Share
+                              ------------ ------------ ------------
+   10     Kingmanbrundage, J         2.000       11.765        0.111
+    4          Buzzacchi, L.         2.000       11.765        0.111
+    3              Bowen, D.         2.000       11.765        0.111
+    5         Colombo, M. G.         2.000       11.765        0.111
+    7          George, W. R.         2.000       11.765        0.111
+   13           Mariotti, S.         2.000       11.765        0.111
+   11          Latour, M. S.         1.000        5.882        0.056
+    6        Evangelista, R.         1.000        5.882        0.056
+   17            Sirilli, G.         1.000        5.882        0.056
+   12  Manopichetwattana, V.         1.000        5.882        0.056
+    9            Khan, A. M.         1.000        5.882        0.056
+   16         Roberts, S. D.         1.000        5.882        0.056
+    2      Beltramini, R. F.         0.000        0.000        0.000
+    1             Barras, R.         0.000        0.000        0.000
+   15             Miles, Ian         0.000        0.000        0.000
+   14        Metcalfe, J. S.         0.000        0.000        0.000
+    8         Kerkhof, Marco         0.000        0.000        0.000
+   18           Smith, D. J.         0.000        0.000        0.000
+
+
+DESCRIPTIVE STATISTICS
+
+                            1            2            3
+                       Degree    NrmDegree        Share
+                 ------------ ------------ ------------
+    1      Mean         1.000        5.882        0.056
+    2   Std Dev         0.816        4.803        0.045
+    3       Sum        18.000      105.882        1.000
+    4  Variance         0.667       23.068        0.002
+    5       SSQ        30.000     1038.062        0.093
+    6     MCSSQ        12.000      415.225        0.037
+    7  Euc Norm         5.477       32.219        0.304
+    8   Minimum         0.000        0.000        0.000
+    9   Maximum         2.000       11.765        0.111
+   10  N of Obs        18.000       18.000       18.000
+
+
+Network Centralization = 6.62%
+Blau Heterogeneity = 9.26%.  Normalized (IQV) = 3.92%
+
+Actor-by-centrality matrix saved as dataset P1_authors_X_authors-deg
+
+----------------------------------------
+Running time:  00:00:01
+Output generated:  17 nov. 16 18:04:38
+UCINET 6.620 Copyright (c) 1992-2016 Analytic Technologies
+
