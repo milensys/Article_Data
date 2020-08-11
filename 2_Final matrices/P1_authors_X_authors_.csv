@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5025ffe272e1bb84a1bb740cde5d82de9d76337bb8cab3492140f996722ce22
-size 953
+,"Barras, R.","Beltramini, R. F.","Bowen, D.","Buzzacchi, L.","Colombo, M. G.","Evangelista, R.","George, W. R.","Kerkhof, Marco","Khan, A. M.","Kingmanbrundage, J","Latour, M. S.","Manopichetwattana, V.","Mariotti, S.","Metcalfe, J. S.","Miles, Ian","Roberts, S. D.","Sirilli, G.","Smith, D. J."
+"Barras, R.",2,,,,,,,,,,,,,,,,,
+"Beltramini, R. F.",,1,,,,,,,,,,,,,,,,
+"Bowen, D.",,,1,,,,1,,,1,,,,,,,,
+"Buzzacchi, L.",,,,1,1,,,,,,,,1,,,,,
+"Colombo, M. G.",,,,1,1,,,,,,,,1,,,,,
+"Evangelista, R.",,,,,,1,,,,,,,,,,,1,
+"George, W. R.",,,1,,,,1,,,1,,,,,,,,
+"Kerkhof, Marco",,,,,,,,1,,,,,,,,,,
+"Khan, A. M.",,,,,,,,,1,,,1,,,,,,
+"Kingmanbrundage, J",,,1,,,,1,,,1,,,,,,,,
+"Latour, M. S.",,,,,,,,,,,1,,,,,1,,
+"Manopichetwattana, V.",,,,,,,,,1,,,1,,,,,,
+"Mariotti, S.",,,,1,1,,,,,,,,1,,,,,
+"Metcalfe, J. S.",,,,,,,,,,,,,,1,,,,
+"Miles, Ian",,,,,,,,,,,,,,,1,,,
+"Roberts, S. D.",,,,,,,,,,,1,,,,,1,,
+"Sirilli, G.",,,,,,1,,,,,,,,,,,1,
+"Smith, D. J.",,,,,,,,,,,,,,,,,,1
