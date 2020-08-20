@@ -1,0 +1,39 @@
+Id,Label,timeset,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,pageranks,Clustering Coefficient,Cluster,clustering,eigencentrality,isometric_z_value
+Innovation in services,Innovation in services,,0,8,8,0,9,9,1,1,1,0,0,0.537574,0,0.018184,0,0,0,0,0
+"Barras, R.","Barras, R.",,8,0,8,10,0,10,0,0,0,0,0.506464,0,0,0.069186,0,0,0,1,0
+"Buzzacchi, L.","Buzzacchi, L.",,4,0,4,4,0,4,0,0,0,0,0.332753,0,0,0.030562,0,0,0,0.5,0
+"Colombo, M. G.","Colombo, M. G.",,4,0,4,4,0,4,0,0,0,0,0.332753,0,0,0.030562,0,0,0,0.5,0
+"Evangelista, R.","Evangelista, R.",,3,0,3,3,0,3,0,0,0,0,0.202704,0,1,0.030415,0,0,0,0.375,0
+"Kerkhof, Marco","Kerkhof, Marco",,5,0,5,5,0,5,0,0,0,0,0.366454,0,0,0.03608,0,0,0,0.625,0
+"Mariotti, S.","Mariotti, S.",,4,0,4,4,0,4,0,0,0,0,0.332753,0,0,0.030562,0,0,0,0.5,0
+"Miles, Ian","Miles, Ian",,4,0,4,4,0,4,0,0,0,0,0.302165,0,1,0.02876,0,0,0,0.5,0
+"Sirilli, G.","Sirilli, G.",,3,0,3,3,0,3,0,0,0,0,0.202704,0,1,0.030415,0,0,0,0.375,0
+Adoption and diffusion,Adoption and diffusion,,0,7,7,0,7,7,1,1,1,0,0,0.460474,1,0.018184,0,0,0,0,0
+"Latour, M. S.","Latour, M. S.",,3,0,3,3,0,3,0,0,0,0,0.201005,0,1,0.026829,0,0,0,0.375,0
+"Roberts, S. D.","Roberts, S. D.",,3,0,3,3,0,3,0,0,0,0,0.201005,0,1,0.026829,0,0,0,0.375,0
+Consumer/customer/user,Consumer/customer/user,,0,6,6,0,6,6,1,1,1,0,0,0.297978,2,0.018184,0,0,0,0,0
+"Bowen, D.","Bowen, D.",,3,0,3,3,0,3,0,0,0,0,0.084774,0,2,0.029772,0,0,0,0.375,0
+"George, W. R.","George, W. R.",,3,0,3,3,0,3,0,0,0,0,0.084774,0,2,0.029772,0,0,0,0.375,0
+"Kingmanbrundage, J","Kingmanbrundage, J",,3,0,3,3,0,3,0,0,0,0,0.084774,0,2,0.029772,0,0,0,0.375,0
+Service sector/Service industries,Service sector/Service industries,,0,6,6,0,6,6,1,1,1,0,0,0.350288,1,0.018184,0,0,0,0,0
+Information Technology,Information Technology,,0,5,5,0,5,5,1,1,1,0,0,0.390071,0,0.018184,0,0,0,0,0
+Reverse product cycle theory,Reverse product cycle theory,,0,2,2,0,3,3,1,1,1,0,0,0.181971,0,0.018184,0,0,0,0,0
+Service innovation,Service innovation,,0,4,4,0,4,4,1,1,1,0,0,0.153464,1,0.018184,0,0,0,0,0
+"Beltramini, R. F.","Beltramini, R. F.",,1,0,1,1,0,1,0,0,0,0,0.031992,0,1,0.022047,0,0,0,0.125,0
+Service system,Service system,,0,4,4,0,4,4,1,1,1,0,0,0.055666,2,0.018184,0,0,0,0,0
+"Smith, D. J.","Smith, D. J.",,3,0,3,3,0,3,0,0,0,0,0.012709,0,2,0.052946,0,0,0,0.375,0
+Absorptive capacity/ACAP,Absorptive capacity/ACAP,,0,3,3,0,3,3,1,1,1,0,0,0.2081,0,0.018184,0,0,0,0,0
+Complex service systems,Complex service systems,,0,1,1,0,1,1,1,1,1,0,0,0.002649,2,0.018184,0,0,0,0,0
+Generation of new types of services,Generation of new types of services,,0,1,1,0,1,1,1,1,1,0,0,0.105579,0,0.018184,0,0,0,0,0
+Institutional,Institutional,,0,1,1,0,1,1,1,1,1,0,0,0,3,0.018184,0,1,0,0,0
+"Metcalfe, J. S.","Metcalfe, J. S.",,4,0,4,4,0,4,0,0,0,0,0,0,3,0.079983,0,1,0,0.5,0
+National government,National government,,0,1,1,0,1,1,1,1,1,0,0,0,3,0.018184,0,1,0,0,0
+National systems of innovation,National systems of innovation,,0,1,1,0,1,1,1,1,1,0,0,0,3,0.018184,0,1,0,0,0
+Product-service innovation,Product-service innovation,,0,2,2,0,2,2,1,1,1,0,0,0,4,0.018184,0,2,0,0,0
+"Khan, A. M.","Khan, A. M.",,1,0,1,1,0,1,0,0,0,0,0,0,4,0.025909,0,2,0,0.125,0
+"Manopichetwattana, V.","Manopichetwattana, V.",,1,0,1,1,0,1,0,0,0,0,0,0,4,0.025909,0,2,0,0.125,0
+Quality of service,Quality of service,,0,1,1,0,1,1,1,1,1,0,0,0.002649,2,0.018184,0,0,0,0,0
+Schumpeterian,Schumpeterian,,0,1,1,0,1,1,1,1,1,0,0,0.105579,0,0.018184,0,0,0,0,0
+Service logic,Service logic,,0,3,3,0,3,3,1,1,1,0,0,0.053017,2,0.018184,0,0,0,0,0
+Technological innovation,Technological innovation,,0,2,2,0,2,2,1,1,1,0,0,0.084513,1,0.018184,0,0,0,0,0
+Technology policy,Technology policy,,0,1,1,0,1,1,1,1,1,0,0,0,3,0.018184,0,1,0,0,0
