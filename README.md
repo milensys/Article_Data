@@ -4,7 +4,7 @@
 
 This repository provides raw and processed data concerning an intellectual and community structure analysis over time. 
 
-Authors have performed eight iterations of a ten-step methodological process combining quantitative and qualitative methods based on text mining, network analytics, and grounded theory analysis, to capture latent research topics, theories and authors over time. 
+A ten-step methodological process combine quantitative and qualitative methods based on text mining, network analytics, and grounded theory analysis, to capture latent research topics, theories and authors over time. 
 
 The cleaned corpus has allowed us to quantitatively examine 796 English articles, published in 277 peer-reviewed journals, indexed in WoS and Scopus, which synthesises the intellectual structure of these areas of research between 1986 and 2015. A qualitative analysis completed this process.
 
