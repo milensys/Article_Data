@@ -11,8 +11,7 @@ The cleaned corpus has allowed us to quantitatively examine 796 English articles
 Global repository content:
 
 
-* Raw data (ISI Web of Science and Scopus)
-* Processed data
+* Raw data and processed data (ISI Web of Science and Scopus)
 * Text mining and factor analysis with multi-dimensional scaling
 * Network analytics: supplementary networks measures (modularity, eigenvector centrality...) 
 * Visualisations: Force Atlas 2 and others
