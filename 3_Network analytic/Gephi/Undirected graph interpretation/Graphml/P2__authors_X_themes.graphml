@@ -1,0 +1,4847 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="Degree" attr.type="int" for="node" id="degree"/>
+<key attr.name="Weighted Degree" attr.type="double" for="node" id="weighted degree"/>
+<key attr.name="Eccentricity" attr.type="double" for="node" id="eccentricity"/>
+<key attr.name="Closeness Centrality" attr.type="double" for="node" id="closnesscentrality"/>
+<key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="harmonicclosnesscentrality"/>
+<key attr.name="Betweenness Centrality" attr.type="double" for="node" id="betweenesscentrality"/>
+<key attr.name="Authority" attr.type="float" for="node" id="authority"/>
+<key attr.name="Hub" attr.type="float" for="node" id="hub"/>
+<key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+<key attr.name="Clustering Coefficient" attr.type="double" for="node" id="clustering coefficient"/>
+<key attr.name="PageRank" attr.type="double" for="node" id="pageranks"/>
+<key attr.name="Component ID" attr.type="int" for="node" id="componentnumber"/>
+<key attr.name="Cluster" attr.type="int" for="node" id="cluster"/>
+<key attr.name="Eigenvector Centrality" attr.type="double" for="node" id="eigencentrality"/>
+<graph edgedefault="undirected">
+<node id="Service innovation">
+<data key="label">Service innovation</data>
+<data key="degree">68</data>
+<data key="weighted degree">78.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.5157894736842106</data>
+<data key="harmonicclosnesscentrality">0.6700680272108831</data>
+<data key="betweenesscentrality">2809.534034464296</data>
+<data key="authority">0.4941042</data>
+<data key="hub">0.1785711</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.06396504258001512</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">1.0</data>
+<data key="size">120.0</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">317.07297</data>
+<data key="y">142.64699</data>
+</node>
+<node id="Gallouj, Faiz">
+<data key="label">Gallouj, Faiz</data>
+<data key="degree">8</data>
+<data key="weighted degree">13.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4117647058823529</data>
+<data key="harmonicclosnesscentrality">0.45827664399092977</data>
+<data key="betweenesscentrality">465.6672917951639</data>
+<data key="authority">0.03119633</data>
+<data key="hub">0.08632004</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0097823803289718</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18047517645455474</data>
+<data key="size">45.953163</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-216.55779</data>
+<data key="y">-722.69055</data>
+</node>
+<node id="Lievens, Annouk">
+<data key="label">Lievens, Annouk</data>
+<data key="degree">10</data>
+<data key="weighted degree">17.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4523076923076923</data>
+<data key="harmonicclosnesscentrality">0.49115646258503376</data>
+<data key="betweenesscentrality">263.59361236099926</data>
+<data key="authority">0.05784245</data>
+<data key="hub">0.16004923</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.009793144360813287</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.3269533440879641</data>
+<data key="size">59.187958</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">129.34967</data>
+<data key="y">380.29376</data>
+</node>
+<node id="Atuahene-Gima, K.">
+<data key="label">Atuahene-Gima, K.</data>
+<data key="degree">7</data>
+<data key="weighted degree">8.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4523076923076923</data>
+<data key="harmonicclosnesscentrality">0.4818594104308386</data>
+<data key="betweenesscentrality">112.01021717253415</data>
+<data key="authority">0.057354726</data>
+<data key="hub">0.15869969</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006776756873086255</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.3225538883122863</data>
+<data key="size">58.79045</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">-680.0265</data>
+<data key="y">-349.64896</data>
+</node>
+<node id="de Ruyter, K.">
+<data key="label">de Ruyter, K.</data>
+<data key="degree">5</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4310850439882698</data>
+<data key="harmonicclosnesscentrality">0.4633786848072562</data>
+<data key="betweenesscentrality">29.90878147462001</data>
+<data key="authority">0.047981594</data>
+<data key="hub">0.13276486</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005026651570905097</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.2669003027522009</data>
+<data key="size">53.761963</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">379.75687</data>
+<data key="y">-146.39095</data>
+</node>
+<node id="Lee, Jungwoo">
+<data key="label">Lee, Jungwoo</data>
+<data key="degree">7</data>
+<data key="weighted degree">9.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4117647058823529</data>
+<data key="harmonicclosnesscentrality">0.4554421768707486</data>
+<data key="betweenesscentrality">212.63568278396832</data>
+<data key="authority">0.040809494</data>
+<data key="hub">0.112919964</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.007693660934057681</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.2286815802414513</data>
+<data key="size">50.308773</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">969.0802</data>
+<data key="y">-44.716686</data>
+</node>
+<node id="Lemmink, J.">
+<data key="label">Lemmink, J.</data>
+<data key="degree">7</data>
+<data key="weighted degree">9.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.44680851063829785</data>
+<data key="harmonicclosnesscentrality">0.4784580498866209</data>
+<data key="betweenesscentrality">91.2056938882495</data>
+<data key="authority">0.054286513</data>
+<data key="hub">0.15021044</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006743546168773124</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.3034841248244353</data>
+<data key="size">57.067436</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">-97.30816</data>
+<data key="y">-487.74255</data>
+</node>
+<node id="Moenaert, R. K.">
+<data key="label">Moenaert, R. K.</data>
+<data key="degree">5</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4310850439882698</data>
+<data key="harmonicclosnesscentrality">0.4633786848072562</data>
+<data key="betweenesscentrality">78.87110660139486</data>
+<data key="authority">0.042244874</data>
+<data key="hub">0.11689123</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005398525014823321</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.23547659521333236</data>
+<data key="size">50.922726</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">53.58551</data>
+<data key="y">196.82599</data>
+</node>
+<node id="Sundbo, Jon">
+<data key="label">Sundbo, Jon</data>
+<data key="degree">5</data>
+<data key="weighted degree">7.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.44144144144144143</data>
+<data key="harmonicclosnesscentrality">0.4693877551020406</data>
+<data key="betweenesscentrality">74.81017303250472</data>
+<data key="authority">0.03550651</data>
+<data key="hub">0.098246194</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00530514360122652</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.20054114358583736</data>
+<data key="size">47.76619</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-69.66902</data>
+<data key="y">-642.6696</data>
+</node>
+<node id="Andersen, B.">
+<data key="label">Andersen, B.</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4362017804154303</data>
+<data key="harmonicclosnesscentrality">0.470408163265306</data>
+<data key="betweenesscentrality">163.01239266956918</data>
+<data key="authority">0.039329734</data>
+<data key="hub">0.108824566</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006261159564452644</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.22425889311421954</data>
+<data key="size">49.909164</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-965.2631</data>
+<data key="y">34.27441</data>
+</node>
+<node id="Andreassen, Tor Wallin">
+<data key="label">Andreassen, Tor Wallin</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38992042440318303</data>
+<data key="harmonicclosnesscentrality">0.4286848072562364</data>
+<data key="betweenesscentrality">4.829499265392407</data>
+<data key="authority">0.028101878</data>
+<data key="hub">0.07775798</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0033951526837011857</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.15591194925252203</data>
+<data key="size">43.73379</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">542.20996</data>
+<data key="y">-79.79648</data>
+</node>
+<node id="Barkema, H. G.">
+<data key="label">Barkema, H. G.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38181818181818183</data>
+<data key="harmonicclosnesscentrality">0.4234693877551027</data>
+<data key="betweenesscentrality">7.310456830698641</data>
+<data key="authority">0.02934824</data>
+<data key="hub">0.08120672</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003430103720473229</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16293769609741315</data>
+<data key="size">44.36859</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">528.4677</data>
+<data key="y">-241.44315</data>
+</node>
+<node id="Bessant, J.">
+<data key="label">Bessant, J.</data>
+<data key="degree">7</data>
+<data key="weighted degree">7.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.44410876132930516</data>
+<data key="harmonicclosnesscentrality">0.4775510204081631</data>
+<data key="betweenesscentrality">160.36063471065657</data>
+<data key="authority">0.05002306</data>
+<data key="hub">0.1384133</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.007300148173346708</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.28137883231421223</data>
+<data key="size">55.070145</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">1068.915</data>
+<data key="y">416.80676</data>
+</node>
+<node id="Blazevic, V.">
+<data key="label">Blazevic, V.</data>
+<data key="degree">8</data>
+<data key="weighted degree">8.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.44680851063829785</data>
+<data key="harmonicclosnesscentrality">0.48208616780045327</data>
+<data key="betweenesscentrality">142.3502154343152</data>
+<data key="authority">0.04864346</data>
+<data key="hub">0.13459572</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00783845385172938</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.2752178453957789</data>
+<data key="size">54.51348</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">123.253334</data>
+<data key="y">592.46826</data>
+</node>
+<node id="Boden, M.">
+<data key="label">Boden, M.</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4362017804154303</data>
+<data key="harmonicclosnesscentrality">0.470408163265306</data>
+<data key="betweenesscentrality">163.01239266956918</data>
+<data key="authority">0.039329734</data>
+<data key="hub">0.108824566</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006261159564452644</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.22425889311421954</data>
+<data key="size">49.909164</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-723.6178</data>
+<data key="y">-23.544636</data>
+</node>
+<node id="Braithwaite, C.">
+<data key="label">Braithwaite, C.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4117647058823529</data>
+<data key="harmonicclosnesscentrality">0.45294784580498904</data>
+<data key="betweenesscentrality">59.707398621578115</data>
+<data key="authority">0.025488205</data>
+<data key="hub">0.070525445</data>
+<data key="modularity_class">3</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005334035191979366</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.14701422417471208</data>
+<data key="size">42.929848</data>
+<data key="r">46</data>
+<data key="g">144</data>
+<data key="b">114</data>
+<data key="x">-120.65724</data>
+<data key="y">781.2906</data>
+</node>
+<node id="DeTore, A.">
+<data key="label">DeTore, A.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.40273972602739727</data>
+<data key="harmonicclosnesscentrality">0.44013605442176923</data>
+<data key="betweenesscentrality">81.09505953970316</data>
+<data key="authority">0.03207099</data>
+<data key="hub">0.088740356</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004684538860560216</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.17873605679161983</data>
+<data key="size">45.79603</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">503.1952</data>
+<data key="y">-540.6141</data>
+</node>
+<node id="Dholakia, N.">
+<data key="label">Dholakia, N.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4260869565217391</data>
+<data key="harmonicclosnesscentrality">0.4543083900226759</data>
+<data key="betweenesscentrality">13.214931227174883</data>
+<data key="authority">0.033045888</data>
+<data key="hub">0.09143773</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034438345057394132</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18374109652114703</data>
+<data key="size">46.24825</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-489.82806</data>
+<data key="y">-9.006932</data>
+</node>
+<node id="Dos Santos, Brian L">
+<data key="label">Dos Santos, Brian L</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4260869565217391</data>
+<data key="harmonicclosnesscentrality">0.4587301587301589</data>
+<data key="betweenesscentrality">56.48319572557365</data>
+<data key="authority">0.03303519</data>
+<data key="hub">0.09140799</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004541726716012538</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18614463583932717</data>
+<data key="size">46.465416</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">737.3118</data>
+<data key="y">532.80786</data>
+</node>
+<node id="Eastwood, D.">
+<data key="label">Eastwood, D.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.392</data>
+<data key="harmonicclosnesscentrality">0.4332199546485267</data>
+<data key="betweenesscentrality">27.688359715823218</data>
+<data key="authority">0.028897466</data>
+<data key="hub">0.079959385</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00438863164608929</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16105377425622752</data>
+<data key="size">44.19837</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1107.5726</data>
+<data key="y">12.224996</data>
+</node>
+<node id="Fox, J.">
+<data key="label">Fox, J.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4260869565217391</data>
+<data key="harmonicclosnesscentrality">0.4543083900226759</data>
+<data key="betweenesscentrality">13.214931227174883</data>
+<data key="authority">0.033045888</data>
+<data key="hub">0.09143773</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034438345057394132</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18374109652114703</data>
+<data key="size">46.24825</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-377.7746</data>
+<data key="y">89.82574</data>
+</node>
+<node id="Frambach, R. T.">
+<data key="label">Frambach, R. T.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38181818181818183</data>
+<data key="harmonicclosnesscentrality">0.4234693877551027</data>
+<data key="betweenesscentrality">7.310456830698641</data>
+<data key="authority">0.02934824</data>
+<data key="hub">0.08120672</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003430103720473229</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16293769609741315</data>
+<data key="size">44.36859</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">940.22614</data>
+<data key="y">-221.22206</data>
+</node>
+<node id="Frambach, RT">
+<data key="label">Frambach, RT</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38181818181818183</data>
+<data key="harmonicclosnesscentrality">0.4234693877551027</data>
+<data key="betweenesscentrality">7.310456830698641</data>
+<data key="authority">0.02934824</data>
+<data key="hub">0.08120672</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003430103720473229</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16293769609741315</data>
+<data key="size">44.36859</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1098.377</data>
+<data key="y">-129.42474</data>
+</node>
+<node id="Francis, D.">
+<data key="label">Francis, D.</data>
+<data key="degree">7</data>
+<data key="weighted degree">7.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.44410876132930516</data>
+<data key="harmonicclosnesscentrality">0.4775510204081631</data>
+<data key="betweenesscentrality">160.36063471065657</data>
+<data key="authority">0.05002306</data>
+<data key="hub">0.1384133</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.007300148173346708</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.28137883231421223</data>
+<data key="size">55.070145</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">789.1582</data>
+<data key="y">304.55457</data>
+</node>
+<node id="Gann, R.">
+<data key="label">Gann, R.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4260869565217391</data>
+<data key="harmonicclosnesscentrality">0.4543083900226759</data>
+<data key="betweenesscentrality">13.214931227174883</data>
+<data key="authority">0.033045888</data>
+<data key="hub">0.09143773</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034438345057394132</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18374109652114703</data>
+<data key="size">46.24825</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-123.55827</data>
+<data key="y">238.9092</data>
+</node>
+<node id="Ghijsen, P.">
+<data key="label">Ghijsen, P.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.40273972602739727</data>
+<data key="harmonicclosnesscentrality">0.4437641723356014</data>
+<data key="betweenesscentrality">37.10353320978855</data>
+<data key="authority">0.030724097</data>
+<data key="hub">0.085013404</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005057603963933775</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.17306011727333498</data>
+<data key="size">45.283188</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">525.2828</data>
+<data key="y">-392.723</data>
+</node>
+<node id="Hackney, R.">
+<data key="label">Hackney, R.</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.42120343839541546</data>
+<data key="harmonicclosnesscentrality">0.46099773242630393</data>
+<data key="betweenesscentrality">45.31699428420739</data>
+<data key="authority">0.042141728</data>
+<data key="hub">0.11660596</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005859575115244816</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.23560734589295687</data>
+<data key="size">50.93454</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">692.68787</data>
+<data key="y">141.75424</data>
+</node>
+<node id="Halsall, D.">
+<data key="label">Halsall, D.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4117647058823529</data>
+<data key="harmonicclosnesscentrality">0.45294784580498904</data>
+<data key="betweenesscentrality">59.707398621578115</data>
+<data key="authority">0.025488205</data>
+<data key="hub">0.070525445</data>
+<data key="modularity_class">3</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005334035191979366</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.14701422417471208</data>
+<data key="size">42.929848</data>
+<data key="r">46</data>
+<data key="g">144</data>
+<data key="b">114</data>
+<data key="x">253.03467</data>
+<data key="y">795.6923</data>
+</node>
+<node id="Halsall, J.">
+<data key="label">Halsall, J.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4117647058823529</data>
+<data key="harmonicclosnesscentrality">0.45294784580498904</data>
+<data key="betweenesscentrality">59.707398621578115</data>
+<data key="authority">0.025488205</data>
+<data key="hub">0.070525445</data>
+<data key="modularity_class">3</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005334035191979366</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.14701422417471208</data>
+<data key="size">42.929848</data>
+<data key="r">46</data>
+<data key="g">144</data>
+<data key="b">114</data>
+<data key="x">-2.680224</data>
+<data key="y">678.8867</data>
+</node>
+<node id="Heiskanen, E.">
+<data key="label">Heiskanen, E.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4117647058823529</data>
+<data key="harmonicclosnesscentrality">0.44727891156462624</data>
+<data key="betweenesscentrality">11.821308904119126</data>
+<data key="authority">0.02879603</data>
+<data key="hub">0.07967841</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034507051860874086</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16182575206576158</data>
+<data key="size">44.26812</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">550.83856</data>
+<data key="y">232.57518</data>
+</node>
+<node id="Henrichs, R. B.">
+<data key="label">Henrichs, R. B.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38992042440318303</data>
+<data key="harmonicclosnesscentrality">0.4286848072562364</data>
+<data key="betweenesscentrality">4.829499265392407</data>
+<data key="authority">0.028101878</data>
+<data key="hub">0.07775798</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0033951526837011857</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.15591194925252203</data>
+<data key="size">43.73379</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">684.9341</data>
+<data key="y">-27.076063</data>
+</node>
+<node id="Howells, J.">
+<data key="label">Howells, J.</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4362017804154303</data>
+<data key="harmonicclosnesscentrality">0.470408163265306</data>
+<data key="betweenesscentrality">163.01239266956918</data>
+<data key="authority">0.039329734</data>
+<data key="hub">0.108824566</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006261159564452644</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.22425889311421954</data>
+<data key="size">49.909164</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-879.3919</data>
+<data key="y">-110.24292</data>
+</node>
+<node id="Hull, Frank M">
+<data key="label">Hull, Frank M</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3798449612403101</data>
+<data key="harmonicclosnesscentrality">0.42176870748299383</data>
+<data key="betweenesscentrality">16.837786061780808</data>
+<data key="authority">0.024288097</data>
+<data key="hub">0.06720519</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00353455086361096</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.1350408700463423</data>
+<data key="size">41.84802</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">483.06506</data>
+<data key="y">-701.5374</data>
+</node>
+<node id="Héritier, A.">
+<data key="label">Héritier, A.</data>
+<data key="degree">8</data>
+<data key="weighted degree">8.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.44680851063829785</data>
+<data key="harmonicclosnesscentrality">0.4820861678004531</data>
+<data key="betweenesscentrality">182.5438709586455</data>
+<data key="authority">0.045420934</data>
+<data key="hub">0.12567918</data>
+<data key="modularity_class">3</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.007861868141217657</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.2586982805995003</data>
+<data key="size">53.02088</data>
+<data key="r">46</data>
+<data key="g">144</data>
+<data key="b">114</data>
+<data key="x">-26.452003</data>
+<data key="y">517.9598</data>
+</node>
+<node id="Igel, B.">
+<data key="label">Igel, B.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.42857142857142855</data>
+<data key="harmonicclosnesscentrality">0.4588435374149661</data>
+<data key="betweenesscentrality">29.940783204295368</data>
+<data key="authority">0.03483482</data>
+<data key="hub">0.09638773</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004278204058865575</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.19424539657113787</data>
+<data key="size">47.19735</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">-137.85797</data>
+<data key="y">-60.808517</data>
+</node>
+<node id="Jalas, M.">
+<data key="label">Jalas, M.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4117647058823529</data>
+<data key="harmonicclosnesscentrality">0.44727891156462624</data>
+<data key="betweenesscentrality">11.821308904119126</data>
+<data key="authority">0.02879603</data>
+<data key="hub">0.07967841</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034507051860874086</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16182575206576158</data>
+<data key="size">44.26812</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">-43.699116</data>
+<data key="y">356.37085</data>
+</node>
+<node id="Johnson, L. W.">
+<data key="label">Johnson, L. W.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4140845070422535</data>
+<data key="harmonicclosnesscentrality">0.4518140589569164</data>
+<data key="betweenesscentrality">28.50461298007721</data>
+<data key="authority">0.03021084</data>
+<data key="hub">0.08359314</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00434514197909429</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.17056869967134544</data>
+<data key="size">45.05808</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">476.4378</data>
+<data key="y">368.58405</data>
+</node>
+<node id="Kleijnen, M.">
+<data key="label">Kleijnen, M.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38992042440318303</data>
+<data key="harmonicclosnesscentrality">0.4286848072562364</data>
+<data key="betweenesscentrality">4.829499265392407</data>
+<data key="authority">0.028101878</data>
+<data key="hub">0.07775798</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0033951526837011857</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.15591194925252203</data>
+<data key="size">43.73379</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">124.76733</data>
+<data key="y">-230.24522</data>
+</node>
+<node id="Klein, E.">
+<data key="label">Klein, E.</data>
+<data key="degree">8</data>
+<data key="weighted degree">8.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.44680851063829785</data>
+<data key="harmonicclosnesscentrality">0.48208616780045327</data>
+<data key="betweenesscentrality">142.3502154343152</data>
+<data key="authority">0.04864346</data>
+<data key="hub">0.13459572</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00783845385172938</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.2752178453957789</data>
+<data key="size">54.51348</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">441.86172</data>
+<data key="y">528.04065</data>
+</node>
+<node id="Lee, E.-J.">
+<data key="label">Lee, E.-J.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.392</data>
+<data key="harmonicclosnesscentrality">0.4332199546485267</data>
+<data key="betweenesscentrality">27.688359715823218</data>
+<data key="authority">0.028897466</data>
+<data key="hub">0.079959385</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00438863164608929</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16105377425622752</data>
+<data key="size">44.19837</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1048.7041</data>
+<data key="y">165.32552</data>
+</node>
+<node id="Lin, L. H.">
+<data key="label">Lin, L. H.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.42857142857142855</data>
+<data key="harmonicclosnesscentrality">0.4624716553287983</data>
+<data key="betweenesscentrality">34.420172860026724</data>
+<data key="authority">0.043164585</data>
+<data key="hub">0.1194361</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005021330923697666</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.24119599779956133</data>
+<data key="size">51.43949</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">178.08018</data>
+<data key="y">-632.3825</data>
+</node>
+<node id="Lu, Iuan-Yuan">
+<data key="label">Lu, Iuan-Yuan</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.42857142857142855</data>
+<data key="harmonicclosnesscentrality">0.4624716553287983</data>
+<data key="betweenesscentrality">34.420172860026724</data>
+<data key="authority">0.043164585</data>
+<data key="hub">0.1194361</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005021330923697666</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.24119599779956133</data>
+<data key="size">51.43949</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1.6022661</data>
+<data key="y">-347.89752</data>
+</node>
+<node id="Martini, M.">
+<data key="label">Martini, M.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.44680851063829785</data>
+<data key="harmonicclosnesscentrality">0.4727891156462583</data>
+<data key="betweenesscentrality">48.439190056742284</data>
+<data key="authority">0.046155576</data>
+<data key="hub">0.12771189</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005053420081443566</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.25964406838318127</data>
+<data key="size">53.10634</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-325.8863</data>
+<data key="y">-58.88889</data>
+</node>
+<node id="Meyer, M. H.">
+<data key="label">Meyer, M. H.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.40273972602739727</data>
+<data key="harmonicclosnesscentrality">0.44013605442176923</data>
+<data key="betweenesscentrality">81.09505953970316</data>
+<data key="authority">0.03207099</data>
+<data key="hub">0.088740356</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004684538860560216</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.17873605679161983</data>
+<data key="size">45.79603</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">791.1379</data>
+<data key="y">-436.2576</data>
+</node>
+<node id="Michalski, T.">
+<data key="label">Michalski, T.</data>
+<data key="degree">9</data>
+<data key="weighted degree">9.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.44954128440366975</data>
+<data key="harmonicclosnesscentrality">0.4866213151927435</data>
+<data key="betweenesscentrality">250.91768962737072</data>
+<data key="authority">0.04774544</data>
+<data key="hub">0.13211098</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00913559203778279</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.2708883593554604</data>
+<data key="size">54.1223</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">1188.8542</data>
+<data key="y">266.11383</data>
+</node>
+<node id="Miles, Ian">
+<data key="label">Miles, Ian</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4362017804154303</data>
+<data key="harmonicclosnesscentrality">0.470408163265306</data>
+<data key="betweenesscentrality">163.01239266956918</data>
+<data key="authority">0.039329734</data>
+<data key="hub">0.108824566</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006261159564452644</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.22425889311421954</data>
+<data key="size">49.909164</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1006.56635</data>
+<data key="y">-213.11371</data>
+</node>
+<node id="Miozzo, M.">
+<data key="label">Miozzo, M.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4164305949008499</data>
+<data key="harmonicclosnesscentrality">0.44909297052154235</data>
+<data key="betweenesscentrality">10.969844127972042</data>
+<data key="authority">0.031170093</data>
+<data key="hub">0.08624722</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003428363388014317</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.1749817127403733</data>
+<data key="size">45.45681</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">-451.76215</data>
+<data key="y">333.82806</data>
+</node>
+<node id="Nooteboom, B.">
+<data key="label">Nooteboom, B.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38181818181818183</data>
+<data key="harmonicclosnesscentrality">0.4234693877551027</data>
+<data key="betweenesscentrality">7.310456830698641</data>
+<data key="authority">0.02934824</data>
+<data key="hub">0.08120672</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003430103720473229</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16293769609741315</data>
+<data key="size">44.36859</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">667.31274</data>
+<data key="y">-336.88885</data>
+</node>
+<node id="Numprasertchai, S.">
+<data key="label">Numprasertchai, S.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.42857142857142855</data>
+<data key="harmonicclosnesscentrality">0.4588435374149661</data>
+<data key="betweenesscentrality">29.940783204295368</data>
+<data key="authority">0.03483482</data>
+<data key="hub">0.09638773</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004278204058865575</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.19424539657113787</data>
+<data key="size">47.19735</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">213.46931</data>
+<data key="y">-109.23991</data>
+</node>
+<node id="Ouwersloot, H">
+<data key="label">Ouwersloot, H</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4188034188034188</data>
+<data key="harmonicclosnesscentrality">0.45691609977324277</data>
+<data key="betweenesscentrality">60.55657154368277</data>
+<data key="authority">0.044308044</data>
+<data key="hub">0.12260027</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0059272359518875535</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.24767910162248008</data>
+<data key="size">52.02526</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">338.79126</data>
+<data key="y">-611.2459</data>
+</node>
+<node id="Pandya, A. M.">
+<data key="label">Pandya, A. M.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4260869565217391</data>
+<data key="harmonicclosnesscentrality">0.4543083900226759</data>
+<data key="betweenesscentrality">13.214931227174883</data>
+<data key="authority">0.033045888</data>
+<data key="hub">0.09143773</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034438345057394132</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18374109652114703</data>
+<data key="size">46.24825</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-38.4536</data>
+<data key="y">65.305145</data>
+</node>
+<node id="Peffers, K.">
+<data key="label">Peffers, K.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4260869565217391</data>
+<data key="harmonicclosnesscentrality">0.4587301587301589</data>
+<data key="betweenesscentrality">56.48319572557365</data>
+<data key="authority">0.03303519</data>
+<data key="hub">0.09140799</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004541726716012538</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18614463583932717</data>
+<data key="size">46.465416</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">279.07574</data>
+<data key="y">473.36273</data>
+</node>
+<node id="Ramirez, M.">
+<data key="label">Ramirez, M.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4164305949008499</data>
+<data key="harmonicclosnesscentrality">0.44909297052154235</data>
+<data key="betweenesscentrality">10.969844127972042</data>
+<data key="authority">0.031170093</data>
+<data key="hub">0.08624722</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003428363388014317</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.1749817127403733</data>
+<data key="size">45.45681</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">-287.03738</data>
+<data key="y">239.51416</data>
+</node>
+<node id="Royston, G.">
+<data key="label">Royston, G.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4117647058823529</data>
+<data key="harmonicclosnesscentrality">0.45294784580498904</data>
+<data key="betweenesscentrality">59.707398621578115</data>
+<data key="authority">0.025488205</data>
+<data key="hub">0.070525445</data>
+<data key="modularity_class">3</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005334035191979366</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.14701422417471208</data>
+<data key="size">42.929848</data>
+<data key="r">46</data>
+<data key="g">144</data>
+<data key="b">114</data>
+<data key="x">-272.1535</data>
+<data key="y">726.0311</data>
+</node>
+<node id="S'Jegers, R.">
+<data key="label">S'Jegers, R.</data>
+<data key="degree">1</data>
+<data key="weighted degree">1.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.34106728538283065</data>
+<data key="harmonicclosnesscentrality">0.3826530612244905</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="authority">0.013166171</data>
+<data key="hub">0.036430843</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0018123356185355019</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.07275274302146821</data>
+<data key="size">36.220078</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">937.18506</data>
+<data key="y">332.80966</data>
+</node>
+<node id="Semeijn, Janjaap">
+<data key="label">Semeijn, Janjaap</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.40273972602739727</data>
+<data key="harmonicclosnesscentrality">0.4437641723356014</data>
+<data key="betweenesscentrality">37.10353320978855</data>
+<data key="authority">0.030724097</data>
+<data key="hub">0.085013404</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005057603963933775</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.17306011727333498</data>
+<data key="size">45.283188</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">648.80225</data>
+<data key="y">-506.41168</data>
+</node>
+<node id="Sharma, S. K.">
+<data key="label">Sharma, S. K.</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.42120343839541546</data>
+<data key="harmonicclosnesscentrality">0.46099773242630393</data>
+<data key="betweenesscentrality">45.31699428420739</data>
+<data key="authority">0.042141728</data>
+<data key="hub">0.11660596</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005859575115244816</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.23560734589295687</data>
+<data key="size">50.93454</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">630.0331</data>
+<data key="y">412.04114</data>
+</node>
+<node id="Shur, A.">
+<data key="label">Shur, A.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4260869565217391</data>
+<data key="harmonicclosnesscentrality">0.4543083900226759</data>
+<data key="betweenesscentrality">13.214931227174883</data>
+<data key="authority">0.033045888</data>
+<data key="hub">0.09143773</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034438345057394132</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18374109652114703</data>
+<data key="size">46.24825</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-25.833803</data>
+<data key="y">-194.12021</data>
+</node>
+<node id="Sultan, F.">
+<data key="label">Sultan, F.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38992042440318303</data>
+<data key="harmonicclosnesscentrality">0.4286848072562364</data>
+<data key="betweenesscentrality">4.829499265392407</data>
+<data key="authority">0.028101878</data>
+<data key="hub">0.07775798</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0033951526837011857</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.15591194925252203</data>
+<data key="size">43.73379</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">564.12463</data>
+<data key="y">67.65777</data>
+</node>
+<node id="Timonen, P.">
+<data key="label">Timonen, P.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4117647058823529</data>
+<data key="harmonicclosnesscentrality">0.44727891156462624</data>
+<data key="betweenesscentrality">11.821308904119126</data>
+<data key="authority">0.02879603</data>
+<data key="hub">0.07967841</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034507051860874086</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16182575206576158</data>
+<data key="size">44.26812</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">888.76904</data>
+<data key="y">180.80879</data>
+</node>
+<node id="van Birgelen, M.">
+<data key="label">van Birgelen, M.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.40273972602739727</data>
+<data key="harmonicclosnesscentrality">0.4437641723356014</data>
+<data key="betweenesscentrality">37.10353320978855</data>
+<data key="authority">0.030724097</data>
+<data key="hub">0.085013404</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005057603963933775</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.17306011727333498</data>
+<data key="size">45.283188</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1022.7441</data>
+<data key="y">-402.10956</data>
+</node>
+<node id="van Riel, A.C.R.">
+<data key="label">van Riel, A.C.R.</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4188034188034188</data>
+<data key="harmonicclosnesscentrality">0.45691609977324277</data>
+<data key="betweenesscentrality">60.55657154368277</data>
+<data key="authority">0.044308044</data>
+<data key="hub">0.12260027</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0059272359518875535</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.24767910162248008</data>
+<data key="size">52.02526</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">140.45224</data>
+<data key="y">-885.765</data>
+</node>
+<node id="Von Glahn, L.">
+<data key="label">Von Glahn, L.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4260869565217391</data>
+<data key="harmonicclosnesscentrality">0.4543083900226759</data>
+<data key="betweenesscentrality">13.214931227174883</data>
+<data key="authority">0.033045888</data>
+<data key="hub">0.09143773</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034438345057394132</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18374109652114703</data>
+<data key="size">46.24825</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-218.14763</data>
+<data key="y">84.2537</data>
+</node>
+<node id="Walker, R. H.">
+<data key="label">Walker, R. H.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4140845070422535</data>
+<data key="harmonicclosnesscentrality">0.4518140589569164</data>
+<data key="betweenesscentrality">28.50461298007721</data>
+<data key="authority">0.03021084</data>
+<data key="hub">0.08359314</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00434514197909429</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.17056869967134544</data>
+<data key="size">45.05808</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-199.01569</data>
+<data key="y">489.10684</data>
+</node>
+<node id="Walker, Richard M">
+<data key="label">Walker, Richard M</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.40054495912806537</data>
+<data key="harmonicclosnesscentrality">0.44365079365079413</data>
+<data key="betweenesscentrality">58.042351319384004</data>
+<data key="authority">0.027316423</data>
+<data key="hub">0.07558425</data>
+<data key="modularity_class">3</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00524639551739004</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.15485943121561963</data>
+<data key="size">43.63869</data>
+<data key="r">46</data>
+<data key="g">144</data>
+<data key="b">114</data>
+<data key="x">454.8909</data>
+<data key="y">707.98334</data>
+</node>
+<node id="Wedel, M.">
+<data key="label">Wedel, M.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38181818181818183</data>
+<data key="harmonicclosnesscentrality">0.4234693877551027</data>
+<data key="betweenesscentrality">7.310456830698641</data>
+<data key="authority">0.02934824</data>
+<data key="hub">0.08120672</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003430103720473229</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16293769609741315</data>
+<data key="size">44.36859</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">673.11365</data>
+<data key="y">-187.95802</data>
+</node>
+<node id="Wu, G.-C.">
+<data key="label">Wu, G.-C.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.42857142857142855</data>
+<data key="harmonicclosnesscentrality">0.4624716553287983</data>
+<data key="betweenesscentrality">34.420172860026724</data>
+<data key="authority">0.043164585</data>
+<data key="hub">0.1194361</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005021330923697666</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.24119599779956133</data>
+<data key="size">51.43949</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">90.62342</data>
+<data key="y">-495.06976</data>
+</node>
+<node id="Xu, HA">
+<data key="label">Xu, HA</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.42120343839541546</data>
+<data key="harmonicclosnesscentrality">0.46099773242630393</data>
+<data key="betweenesscentrality">45.31699428420739</data>
+<data key="authority">0.042141728</data>
+<data key="hub">0.11660596</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005859575115244816</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.23560734589295687</data>
+<data key="size">50.93454</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">826.8376</data>
+<data key="y">43.1282</data>
+</node>
+<node id="Zaas, B.">
+<data key="label">Zaas, B.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4260869565217391</data>
+<data key="harmonicclosnesscentrality">0.4543083900226759</data>
+<data key="betweenesscentrality">13.214931227174883</data>
+<data key="authority">0.033045888</data>
+<data key="hub">0.09143773</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034438345057394132</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18374109652114703</data>
+<data key="size">46.24825</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">66.0178</data>
+<data key="y">-56.703274</data>
+</node>
+<node id="ICT/digital technology/IT">
+<data key="label">ICT/digital technology/IT</data>
+<data key="degree">54</data>
+<data key="weighted degree">58.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4666666666666667</data>
+<data key="harmonicclosnesscentrality">0.6048752834467118</data>
+<data key="betweenesscentrality">2083.8330359024385</data>
+<data key="authority">0.35084805</data>
+<data key="hub">0.12679769</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.05314432657216017</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.7270645685314608</data>
+<data key="size">95.339355</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-954.6801</data>
+<data key="y">440.49115</data>
+</node>
+<node id="Evangelista, R.">
+<data key="label">Evangelista, R.</data>
+<data key="degree">6</data>
+<data key="weighted degree">13.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.44410876132930516</data>
+<data key="harmonicclosnesscentrality">0.4739229024943307</data>
+<data key="betweenesscentrality">106.03248562478223</data>
+<data key="authority">0.035083026</data>
+<data key="hub">0.09707398</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006182352127959821</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.20161330950192702</data>
+<data key="size">47.86306</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-852.864</data>
+<data key="y">-276.47772</data>
+</node>
+<node id="Lyytinen, Kalle">
+<data key="label">Lyytinen, Kalle</data>
+<data key="degree">7</data>
+<data key="weighted degree">8.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.44144144144144143</data>
+<data key="harmonicclosnesscentrality">0.47585034013605426</data>
+<data key="betweenesscentrality">163.09668693371012</data>
+<data key="authority">0.03900081</data>
+<data key="hub">0.10791469</data>
+<data key="modularity_class">5</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.007077206570690728</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.22248750546071497</data>
+<data key="size">49.74912</data>
+<data key="r">255</data>
+<data key="g">92</data>
+<data key="b">129</data>
+<data key="x">820.529</data>
+<data key="y">-122.04093</data>
+</node>
+<node id="Sirilli, G.">
+<data key="label">Sirilli, G.</data>
+<data key="degree">6</data>
+<data key="weighted degree">10.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.44410876132930516</data>
+<data key="harmonicclosnesscentrality">0.4739229024943307</data>
+<data key="betweenesscentrality">106.03248562478223</data>
+<data key="authority">0.035083026</data>
+<data key="hub">0.09707398</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006182352127959821</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.20161330950192702</data>
+<data key="size">47.86306</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-244.26782</data>
+<data key="y">-573.1228</data>
+</node>
+<node id="Walsham, G.">
+<data key="label">Walsham, G.</data>
+<data key="degree">2</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-699.3841</data>
+<data key="y">162.31277</data>
+</node>
+<node id="Barney, J. B.">
+<data key="label">Barney, J. B.</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.40054495912806537</data>
+<data key="harmonicclosnesscentrality">0.44807256235827697</data>
+<data key="betweenesscentrality">87.68100477544463</data>
+<data key="authority">0.031847913</data>
+<data key="hub">0.088122316</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006171726303082704</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18248991591542382</data>
+<data key="size">46.1352</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-146.48288</data>
+<data key="y">642.527</data>
+</node>
+<node id="Barrett, Michael">
+<data key="label">Barrett, Michael</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1071.8148</data>
+<data key="y">240.0481</data>
+</node>
+<node id="Barua, Anitesh">
+<data key="label">Barua, Anitesh</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4362017804154303</data>
+<data key="harmonicclosnesscentrality">0.46678004535147377</data>
+<data key="betweenesscentrality">46.28149405493771</data>
+<data key="authority">0.03929845</data>
+<data key="hub">0.108738</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005155476963203121</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.22196027082416778</data>
+<data key="size">49.701477</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-424.10712</data>
+<data key="y">491.48196</data>
+</node>
+<node id="Bitner, Mary Jo">
+<data key="label">Bitner, Mary Jo</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.44144144144144143</data>
+<data key="harmonicclosnesscentrality">0.4693877551020407</data>
+<data key="betweenesscentrality">79.2075976301649</data>
+<data key="authority">0.033536352</data>
+<data key="hub">0.09279442</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005308765634121002</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.19071596719769118</data>
+<data key="size">46.878452</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-507.45993</data>
+<data key="y">-254.97302</data>
+</node>
+<node id="Brown, Stephen W">
+<data key="label">Brown, Stephen W</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.44144144144144143</data>
+<data key="harmonicclosnesscentrality">0.4693877551020407</data>
+<data key="betweenesscentrality">79.2075976301649</data>
+<data key="authority">0.033536352</data>
+<data key="hub">0.09279442</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005308765634121002</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.19071596719769118</data>
+<data key="size">46.878452</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-1166.3463</data>
+<data key="y">-170.48047</data>
+</node>
+<node id="Butler, B S">
+<data key="label">Butler, B S</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-832.1961</data>
+<data key="y">93.67785</data>
+</node>
+<node id="Cappleman, S.">
+<data key="label">Cappleman, S.</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1190.5377</data>
+<data key="y">344.3379</data>
+</node>
+<node id="Carte, T A">
+<data key="label">Carte, T A</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-817.9493</data>
+<data key="y">222.41112</data>
+</node>
+<node id="Croes, H J P">
+<data key="label">Croes, H J P</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-674.4965</data>
+<data key="y">603.3191</data>
+</node>
+<node id="Jasperson, J">
+<data key="label">Jasperson, J</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-944.5303</data>
+<data key="y">191.09338</data>
+</node>
+<node id="Meuter, M. L.">
+<data key="label">Meuter, M. L.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.44144144144144143</data>
+<data key="harmonicclosnesscentrality">0.4693877551020407</data>
+<data key="betweenesscentrality">79.2075976301649</data>
+<data key="authority">0.033536352</data>
+<data key="hub">0.09279442</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005308765634121002</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.19071596719769118</data>
+<data key="size">46.878452</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-717.5521</data>
+<data key="y">-189.74783</data>
+</node>
+<node id="Moyo, L. M.">
+<data key="label">Moyo, L. M.</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3202614379084967</data>
+<data key="harmonicclosnesscentrality">0.3624716553287988</data>
+<data key="betweenesscentrality">4.406472803916787</data>
+<data key="authority">0.010763846</data>
+<data key="hub">0.029783137</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0027437404424529143</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.06281433387165616</data>
+<data key="size">35.322105</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-571.4541</data>
+<data key="y">721.1921</data>
+</node>
+<node id="Muhanna, W. A.">
+<data key="label">Muhanna, W. A.</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.40054495912806537</data>
+<data key="harmonicclosnesscentrality">0.44807256235827697</data>
+<data key="betweenesscentrality">87.68100477544463</data>
+<data key="authority">0.031847913</data>
+<data key="hub">0.088122316</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006171726303082704</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18248991591542382</data>
+<data key="size">46.1352</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-880.82</data>
+<data key="y">657.3675</data>
+</node>
+<node id="Orlikowski, Wanda J.">
+<data key="label">Orlikowski, Wanda J.</data>
+<data key="degree">1</data>
+<data key="weighted degree">1.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3188720173535792</data>
+<data key="harmonicclosnesscentrality">0.35793650793650855</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="authority">0.009349037</data>
+<data key="hub">0.025868408</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0018493036494460326</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.05407138626607234</data>
+<data key="size">34.53215</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1177.9795</data>
+<data key="y">472.52377</data>
+</node>
+<node id="Ray, G.">
+<data key="label">Ray, G.</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.40054495912806537</data>
+<data key="harmonicclosnesscentrality">0.44807256235827697</data>
+<data key="betweenesscentrality">87.68100477544463</data>
+<data key="authority">0.031847913</data>
+<data key="hub">0.088122316</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006171726303082704</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.18248991591542382</data>
+<data key="size">46.1352</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-422.48178</data>
+<data key="y">686.6054</data>
+</node>
+<node id="Rose, Gregory M">
+<data key="label">Rose, Gregory M</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3941018766756032</data>
+<data key="harmonicclosnesscentrality">0.4352607709750573</data>
+<data key="betweenesscentrality">10.346607449286976</data>
+<data key="authority">0.02560833</data>
+<data key="hub">0.07085774</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0034681932979509916</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.1448780322462483</data>
+<data key="size">42.73684</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-293.32687</data>
+<data key="y">385.97278</data>
+</node>
+<node id="Saunders, C S">
+<data key="label">Saunders, C S</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1252.5006</data>
+<data key="y">0.54738575</data>
+</node>
+<node id="Savona, Maria">
+<data key="label">Savona, Maria</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.35766423357664234</data>
+<data key="harmonicclosnesscentrality">0.40056689342403684</data>
+<data key="betweenesscentrality">20.26303578140217</data>
+<data key="authority">0.015858445</data>
+<data key="hub">0.043879736</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003600608498603002</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.09347576032373497</data>
+<data key="size">38.09247</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-393.2913</data>
+<data key="y">-435.86703</data>
+</node>
+<node id="Shoib, G.">
+<data key="label">Shoib, G.</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-540.1248</data>
+<data key="y">586.698</data>
+</node>
+<node id="Smits, R.">
+<data key="label">Smits, R.</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4140845070422535</data>
+<data key="harmonicclosnesscentrality">0.4522675736961455</data>
+<data key="betweenesscentrality">180.20241039480499</data>
+<data key="authority">0.029568309</data>
+<data key="hub">0.0818147</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006135200081710197</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.16964230770454916</data>
+<data key="size">44.974373</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-587.8013</data>
+<data key="y">-125.281166</data>
+</node>
+<node id="Susarla, Anjana">
+<data key="label">Susarla, Anjana</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4362017804154303</data>
+<data key="harmonicclosnesscentrality">0.46678004535147377</data>
+<data key="betweenesscentrality">46.28149405493771</data>
+<data key="authority">0.03929845</data>
+<data key="hub">0.108738</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005155476963203121</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.22196027082416778</data>
+<data key="size">49.701477</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-505.5601</data>
+<data key="y">168.94963</data>
+</node>
+<node id="Whinston, Andrew B">
+<data key="label">Whinston, Andrew B</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4362017804154303</data>
+<data key="harmonicclosnesscentrality">0.46678004535147377</data>
+<data key="betweenesscentrality">46.28149405493771</data>
+<data key="authority">0.03929845</data>
+<data key="hub">0.108738</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005155476963203121</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.22196027082416778</data>
+<data key="size">49.701477</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1124.7373</data>
+<data key="y">88.681526</data>
+</node>
+<node id="Zagler, M.">
+<data key="label">Zagler, M.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4164305949008499</data>
+<data key="harmonicclosnesscentrality">0.44954648526077123</data>
+<data key="betweenesscentrality">40.31661162137164</data>
+<data key="authority">0.02574933</data>
+<data key="hub">0.0712478</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004368797135882164</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.1474766895144641</data>
+<data key="size">42.971634</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-447.55023</data>
+<data key="y">-163.14458</data>
+</node>
+<node id="Zheng, W J">
+<data key="label">Zheng, W J</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3594132029339853</data>
+<data key="harmonicclosnesscentrality">0.4026077097505675</data>
+<data key="betweenesscentrality">1.6702834910451703</data>
+<data key="authority">0.019327506</data>
+<data key="hub">0.053478584</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002665613866331604</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10987640946802722</data>
+<data key="size">39.574326</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1232.2714</data>
+<data key="y">206.51373</data>
+</node>
+<node id="Market">
+<data key="label">Market</data>
+<data key="degree">51</data>
+<data key="weighted degree">56.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4608150470219436</data>
+<data key="harmonicclosnesscentrality">0.594557823129252</data>
+<data key="betweenesscentrality">1983.896335609358</data>
+<data key="authority">0.37157613</data>
+<data key="hub">0.134289</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.04895577468286258</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.7549383742404595</data>
+<data key="size">97.85786</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">293.7741</data>
+<data key="y">-378.02734</data>
+</node>
+<node id="Freel, M. S.">
+<data key="label">Freel, M. S.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3491686460807601</data>
+<data key="harmonicclosnesscentrality">0.3916099773242636</data>
+<data key="betweenesscentrality">22.39159933490845</data>
+<data key="authority">0.013598865</data>
+<data key="hub">0.0376279</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0035838816714098107</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.07849475239879136</data>
+<data key="size">36.738884</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-532.4631</data>
+<data key="y">-433.03336</data>
+</node>
+<node id="Lusch, R. F.">
+<data key="label">Lusch, R. F.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3188720173535792</data>
+<data key="harmonicclosnesscentrality">0.36349206349206403</data>
+<data key="betweenesscentrality">144.5</data>
+<data key="authority">0.010121333</data>
+<data key="hub">0.028005697</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005189646570918828</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.058557994554371384</data>
+<data key="size">34.93753</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">818.3504</data>
+<data key="y">-668.11865</data>
+</node>
+<node id="Vargo, S. L.">
+<data key="label">Vargo, S. L.</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3188720173535792</data>
+<data key="harmonicclosnesscentrality">0.36349206349206403</data>
+<data key="betweenesscentrality">144.5</data>
+<data key="authority">0.010121333</data>
+<data key="hub">0.028005697</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005189646570918828</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.058557994554371384</data>
+<data key="size">34.93753</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">729.7373</data>
+<data key="y">-749.24054</data>
+</node>
+<node id="Yang, H D">
+<data key="label">Yang, H D</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3542168674698795</data>
+<data key="harmonicclosnesscentrality">0.4082766439909302</data>
+<data key="betweenesscentrality">47.631055401858596</data>
+<data key="authority">0.019673303</data>
+<data key="hub">0.054436114</data>
+<data key="modularity_class">5</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005425106217872637</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.11261109599268755</data>
+<data key="size">39.82141</data>
+<data key="r">255</data>
+<data key="g">92</data>
+<data key="b">129</data>
+<data key="x">810.24725</data>
+<data key="y">-264.57394</data>
+</node>
+<node id="Yoo, Youngjin">
+<data key="label">Yoo, Youngjin</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3542168674698795</data>
+<data key="harmonicclosnesscentrality">0.4082766439909302</data>
+<data key="betweenesscentrality">47.631055401858596</data>
+<data key="authority">0.019673303</data>
+<data key="hub">0.054436114</data>
+<data key="modularity_class">5</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005425106217872637</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.11261109599268755</data>
+<data key="size">39.82141</data>
+<data key="r">255</data>
+<data key="g">92</data>
+<data key="b">129</data>
+<data key="x">1214.5791</data>
+<data key="y">-218.46597</data>
+</node>
+<node id="Management">
+<data key="label">Management</data>
+<data key="degree">52</data>
+<data key="weighted degree">55.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4666666666666667</data>
+<data key="harmonicclosnesscentrality">0.5992063492063491</data>
+<data key="betweenesscentrality">1750.8222738744512</data>
+<data key="authority">0.37447125</data>
+<data key="hub">0.13533524</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.04998430536969527</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.7630325322657084</data>
+<data key="size">98.58919</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-668.59784</data>
+<data key="y">372.558</data>
+</node>
+<node id="Elfring, T.">
+<data key="label">Elfring, T.</data>
+<data key="degree">7</data>
+<data key="weighted degree">7.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.392</data>
+<data key="harmonicclosnesscentrality">0.44092970521541996</data>
+<data key="betweenesscentrality">205.04570084970123</data>
+<data key="authority">0.026396362</data>
+<data key="hub">0.07303809</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00772814971585707</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.15366900399741684</data>
+<data key="size">43.53113</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-419.71582</data>
+<data key="y">-530.99774</data>
+</node>
+<node id="van der Aa, Wietze">
+<data key="label">van der Aa, Wietze</data>
+<data key="degree">7</data>
+<data key="weighted degree">7.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.392</data>
+<data key="harmonicclosnesscentrality">0.44092970521541996</data>
+<data key="betweenesscentrality">205.04570084970123</data>
+<data key="authority">0.026396362</data>
+<data key="hub">0.07303809</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00772814971585707</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.15366900399741684</data>
+<data key="size">43.53113</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-1260.7391</data>
+<data key="y">-270.0421</data>
+</node>
+<node id="Consumer/customer/user">
+<data key="label">Consumer/customer/user</data>
+<data key="degree">43</data>
+<data key="weighted degree">44.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.4310850439882698</data>
+<data key="harmonicclosnesscentrality">0.5523809523809526</data>
+<data key="betweenesscentrality">1087.3957876347372</data>
+<data key="authority">0.32480156</data>
+<data key="hub">0.11738457</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.03950832721991794</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.6598735966943918</data>
+<data key="size">89.26843</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">-240.34604</data>
+<data key="y">-306.3535</data>
+</node>
+<node id="Service sector/Service industries">
+<data key="label">Service sector/Service industries</data>
+<data key="degree">27</data>
+<data key="weighted degree">31.0</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3838120104438642</data>
+<data key="harmonicclosnesscentrality">0.4705215419501137</data>
+<data key="betweenesscentrality">724.8483183454754</data>
+<data key="authority">0.19080077</data>
+<data key="hub">0.06895617</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.025748754861198285</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.3946667770984858</data>
+<data key="size">65.30609</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-608.54083</data>
+<data key="y">-592.1697</data>
+</node>
+<node id="Tether, Bruce S">
+<data key="label">Tether, Bruce S</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.2854368932038835</data>
+<data key="harmonicclosnesscentrality">0.32165532879818653</data>
+<data key="betweenesscentrality">147.65189904038888</data>
+<data key="authority">0.006544991</data>
+<data key="hub">0.018109776</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004776544953131483</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.0405459445551519</data>
+<data key="size">33.31008</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-943.94006</data>
+<data key="y">-476.59155</data>
+</node>
+<node id="Weinstein, O.">
+<data key="label">Weinstein, O.</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.28654970760233917</data>
+<data key="harmonicclosnesscentrality">0.3261904761904768</data>
+<data key="betweenesscentrality">41.241028670692536</data>
+<data key="authority">0.0069238734</data>
+<data key="hub">0.01915814</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005503650709910648</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.04387730909880091</data>
+<data key="size">33.611084</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-749.5325</data>
+<data key="y">-666.0434</data>
+</node>
+<node id="Adoption and diffusion">
+<data key="label">Adoption and diffusion</data>
+<data key="degree">33</data>
+<data key="weighted degree">34.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.38181818181818183</data>
+<data key="harmonicclosnesscentrality">0.48741496598639517</data>
+<data key="betweenesscentrality">480.49609659828093</data>
+<data key="authority">0.23571008</data>
+<data key="hub">0.08518653</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.031187731556302955</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.4751825549540054</data>
+<data key="size">72.58097</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1292.6062</data>
+<data key="y">83.62699</data>
+</node>
+<node id="Innovation in services">
+<data key="label">Innovation in services</data>
+<data key="degree">11</data>
+<data key="weighted degree">16.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.34265734265734266</data>
+<data key="harmonicclosnesscentrality">0.38684807256235826</data>
+<data key="betweenesscentrality">175.75500573051673</data>
+<data key="authority">0.053483214</data>
+<data key="hub">0.019329056</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.012192888522262413</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.11778423750119085</data>
+<data key="size">40.288822</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-729.0453</data>
+<data key="y">-514.5548</data>
+</node>
+<node id="Complex/complexity">
+<data key="label">Complex/complexity</data>
+<data key="degree">11</data>
+<data key="weighted degree">11.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.34106728538283065</data>
+<data key="harmonicclosnesscentrality">0.3859410430839004</data>
+<data key="betweenesscentrality">62.20510378923832</data>
+<data key="authority">0.085280284</data>
+<data key="hub">0.030820597</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.010540375914829314</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.17523374351697946</data>
+<data key="size">45.47958</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">286.7532</data>
+<data key="y">649.97</data>
+</node>
+<node id="Service provider/provision">
+<data key="label">Service provider/provision</data>
+<data key="degree">8</data>
+<data key="weighted degree">8.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3273942093541203</data>
+<data key="harmonicclosnesscentrality">0.36213151927437653</data>
+<data key="betweenesscentrality">25.47960161258926</data>
+<data key="authority">0.05309467</data>
+<data key="hub">0.0191886</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.008425202081493634</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.10963449255821539</data>
+<data key="size">39.552467</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-298.43375</data>
+<data key="y">585.3265</data>
+</node>
+<node id="e-service/m-service">
+<data key="label">e-service/m-service</data>
+<data key="degree">10</data>
+<data key="weighted degree">10.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.34106728538283065</data>
+<data key="harmonicclosnesscentrality">0.38310657596371905</data>
+<data key="betweenesscentrality">63.886327445219734</data>
+<data key="authority">0.07617738</data>
+<data key="hub">0.027530786</data>
+<data key="modularity_class">5</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.009665106607265864</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.1574140713080486</data>
+<data key="size">43.869514</data>
+<data key="r">255</data>
+<data key="g">92</data>
+<data key="b">129</data>
+<data key="x">1438.6926</data>
+<data key="y">-32.518276</data>
+</node>
+<node id="Web service innovation/web innovation/web based">
+<data key="label">Web service innovation/web innovation/web based</data>
+<data key="degree">9</data>
+<data key="weighted degree">9.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3259423503325942</data>
+<data key="harmonicclosnesscentrality">0.36485260770975086</data>
+<data key="betweenesscentrality">22.44806310843046</data>
+<data key="authority">0.067135885</data>
+<data key="hub">0.024263177</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00884234627170264</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.13564681550237329</data>
+<data key="size">41.902767</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1530.333</data>
+<data key="y">-341.3942</data>
+</node>
+<node id="Institutional">
+<data key="label">Institutional</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3333333333333333</data>
+<data key="harmonicclosnesscentrality">0.363265306122449</data>
+<data key="betweenesscentrality">30.003221203364763</data>
+<data key="authority">0.038858615</data>
+<data key="hub">0.014043649</data>
+<data key="modularity_class">5</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006498446056490887</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.08232961921271886</data>
+<data key="size">37.085377</data>
+<data key="r">255</data>
+<data key="g">92</data>
+<data key="b">129</data>
+<data key="x">1091.6989</data>
+<data key="y">-268.20422</data>
+</node>
+<node id="KIBS">
+<data key="label">KIBS</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.31210191082802546</data>
+<data key="harmonicclosnesscentrality">0.34240362811791386</data>
+<data key="betweenesscentrality">133.669108794528</data>
+<data key="authority">0.032870762</data>
+<data key="hub">0.011879606</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.007017661551945233</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.0703804809702886</data>
+<data key="size">36.005733</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-609.1651</data>
+<data key="y">59.108944</data>
+</node>
+<node id="Den Hertog, Pim">
+<data key="label">Den Hertog, Pim</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">7.0</data>
+<data key="closnesscentrality">0.24540901502504173</data>
+<data key="harmonicclosnesscentrality">0.2684969225785557</data>
+<data key="betweenesscentrality">6.663379416214806</data>
+<data key="authority">0.002049965</data>
+<data key="hub">0.0056721424</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004152547706324746</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.015060837310615525</data>
+<data key="size">31.007418</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1370.1604</data>
+<data key="y">-198.99939</data>
+</node>
+<node id="Wood, P.">
+<data key="label">Wood, P.</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">7.0</data>
+<data key="closnesscentrality">0.23902439024390243</data>
+<data key="harmonicclosnesscentrality">0.2563654033041793</data>
+<data key="betweenesscentrality">0.16666666666666666</data>
+<data key="authority">0.0017518187</data>
+<data key="hub">0.004847194</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0030003690835016562</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.012150715279639953</data>
+<data key="size">30.744478</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1059.7438</data>
+<data key="y">-79.24197</data>
+</node>
+<node id="Knowledge-intensive services (KIS)">
+<data key="label">Knowledge-intensive services (KIS)</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.31210191082802546</data>
+<data key="harmonicclosnesscentrality">0.34240362811791386</data>
+<data key="betweenesscentrality">133.669108794528</data>
+<data key="authority">0.032870762</data>
+<data key="hub">0.011879606</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.007017661551945233</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.0703804809702886</data>
+<data key="size">36.005733</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1419.8981</data>
+<data key="y">-81.20408</data>
+</node>
+<node id="New service development">
+<data key="label">New service development</data>
+<data key="degree">5</data>
+<data key="weighted degree">5.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3188720173535792</data>
+<data key="harmonicclosnesscentrality">0.34342403628117923</data>
+<data key="betweenesscentrality">4.430903614995027</data>
+<data key="authority">0.045810163</data>
+<data key="hub">0.01655598</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.005339808808517452</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.09115965075540328</data>
+<data key="size">37.8832</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">68.9563</data>
+<data key="y">-762.90656</data>
+</node>
+<node id="Public service innovation">
+<data key="label">Public service innovation</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3202614379084967</data>
+<data key="harmonicclosnesscentrality">0.35068027210884367</data>
+<data key="betweenesscentrality">7.425049868912823</data>
+<data key="authority">0.035639133</data>
+<data key="hub">0.012880097</data>
+<data key="modularity_class">3</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006372313766820992</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.07609178009600738</data>
+<data key="size">36.52177</data>
+<data key="r">46</data>
+<data key="g">144</data>
+<data key="b">114</data>
+<data key="x">626.7961</data>
+<data key="y">665.2335</data>
+</node>
+<node id="Public services">
+<data key="label">Public services</data>
+<data key="degree">6</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3202614379084967</data>
+<data key="harmonicclosnesscentrality">0.35068027210884367</data>
+<data key="betweenesscentrality">7.425049868912823</data>
+<data key="authority">0.035639133</data>
+<data key="hub">0.012880097</data>
+<data key="modularity_class">3</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.006372313766820992</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.07609178009600738</data>
+<data key="size">36.52177</data>
+<data key="r">46</data>
+<data key="g">144</data>
+<data key="b">114</data>
+<data key="x">136.2109</data>
+<data key="y">737.29443</data>
+</node>
+<node id="Technological innovation">
+<data key="label">Technological innovation</data>
+<data key="degree">4</data>
+<data key="weighted degree">6.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3188720173535792</data>
+<data key="harmonicclosnesscentrality">0.3405895691609977</data>
+<data key="betweenesscentrality">4.528028689003716</data>
+<data key="authority">0.02508516</data>
+<data key="hub">0.009065885</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.00464498000509073</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.05415633298979711</data>
+<data key="size">34.539825</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-1093.7422</data>
+<data key="y">-396.3107</data>
+</node>
+<node id="Business model">
+<data key="label">Business model</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3161290322580645</data>
+<data key="harmonicclosnesscentrality">0.3370748299319728</data>
+<data key="betweenesscentrality">1.5943689656600881</data>
+<data key="authority">0.030151442</data>
+<data key="hub">0.010896833</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0036514353299302665</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.060920071505397126</data>
+<data key="size">35.150955</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">844.1125</data>
+<data key="y">455.36234</data>
+</node>
+<node id="Competition">
+<data key="label">Competition</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.31343283582089554</data>
+<data key="harmonicclosnesscentrality">0.3336734693877551</data>
+<data key="betweenesscentrality">1.515026691632685</data>
+<data key="authority">0.023219941</data>
+<data key="hub">0.008391764</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003808776052621682</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.04744721244400386</data>
+<data key="size">33.933636</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">591.1436</data>
+<data key="y">548.88367</data>
+</node>
+<node id="Digital/ICT/ITservice innovation">
+<data key="label">Digital/ICT/ITservice innovation</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3202614379084967</data>
+<data key="harmonicclosnesscentrality">0.34501133786848076</data>
+<data key="betweenesscentrality">6.517065890489907</data>
+<data key="authority">0.029857274</data>
+<data key="hub">0.010790535</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0046786818366225495</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.060855010102183506</data>
+<data key="size">35.145077</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1397.0382</data>
+<data key="y">222.20398</data>
+</node>
+<node id="e-Service innovation/Mobile service innovation">
+<data key="label">e-Service innovation/Mobile service innovation</data>
+<data key="degree">4</data>
+<data key="weighted degree">4.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3202614379084967</data>
+<data key="harmonicclosnesscentrality">0.34501133786848076</data>
+<data key="betweenesscentrality">2.7001676130070345</data>
+<data key="authority">0.041389156</data>
+<data key="hub">0.0149581805</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.004377371844009772</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.08419935410816237</data>
+<data key="size">37.254314</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">1529.6366</data>
+<data key="y">452.50366</data>
+</node>
+<node id="Health-care">
+<data key="label">Health-care</data>
+<data key="degree">7</data>
+<data key="weighted degree">7.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3107822410147992</data>
+<data key="harmonicclosnesscentrality">0.3470521541950114</data>
+<data key="betweenesscentrality">15.26515370625342</data>
+<data key="authority">0.040291946</data>
+<data key="hub">0.014561637</data>
+<data key="modularity_class">3</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.007268827652413636</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.08650846089950336</data>
+<data key="size">37.46295</data>
+<data key="r">46</data>
+<data key="g">144</data>
+<data key="b">114</data>
+<data key="x">-392.5522</data>
+<data key="y">824.0027</data>
+</node>
+<node id="Value co-production">
+<data key="label">Value co-production</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2876712328767123</data>
+<data key="harmonicclosnesscentrality">0.31496598639455753</data>
+<data key="betweenesscentrality">26.301352303349066</data>
+<data key="authority">0.011188604</data>
+<data key="hub">0.004043611</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0040691278366592094</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.026203762463994567</data>
+<data key="size">32.014217</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-1531.9846</data>
+<data key="y">-246.38446</data>
+</node>
+<node id="Consumer Theory">
+<data key="label">Consumer Theory</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2934131736526946</data>
+<data key="harmonicclosnesscentrality">0.31473922902494317</data>
+<data key="betweenesscentrality">3.0660114839696466</data>
+<data key="authority">0.0077770045</data>
+<data key="hub">0.0028106442</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003223899037151624</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.018222213531492178</data>
+<data key="size">31.293058</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-430.77438</data>
+<data key="y">-810.55975</data>
+</node>
+<node id="Inter-organizational">
+<data key="label">Inter-organizational</data>
+<data key="degree">1</data>
+<data key="weighted degree">1.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22239031770045387</data>
+<data key="harmonicclosnesscentrality">0.2396825396825393</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="authority">0.001335257</data>
+<data key="hub">4.8256933E-4</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002367608838559628</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.003911095232523547</data>
+<data key="size">30.0</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-717.7657</data>
+<data key="y">-752.0214</data>
+</node>
+<node id="Intra-organizational">
+<data key="label">Intra-organizational</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.31343283582089554</data>
+<data key="harmonicclosnesscentrality">0.3308390022675737</data>
+<data key="betweenesscentrality">0.4742465897306746</data>
+<data key="authority">0.020419128</data>
+<data key="hub">0.007379547</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0027651618858816605</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.040903015727629104</data>
+<data key="size">33.342346</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-179.54015</data>
+<data key="y">338.68185</data>
+</node>
+<node id="Lancasterian">
+<data key="label">Lancasterian</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2934131736526946</data>
+<data key="harmonicclosnesscentrality">0.31473922902494317</data>
+<data key="betweenesscentrality">3.0660114839696466</data>
+<data key="authority">0.0077770045</data>
+<data key="hub">0.0028106442</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003223899037151624</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.018222213531492178</data>
+<data key="size">31.293058</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-455.4361</data>
+<data key="y">-690.6972</data>
+</node>
+<node id="neo-Schumpeterian theory">
+<data key="label">neo-Schumpeterian theory</data>
+<data key="degree">1</data>
+<data key="weighted degree">1.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2922465208747515</data>
+<data key="harmonicclosnesscentrality">0.31020408163265295</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="authority">0.0063644513</data>
+<data key="hub">0.0023001393</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.002053632342274547</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.013934417386407017</data>
+<data key="size">30.905642</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-319.82614</data>
+<data key="y">-885.25696</data>
+</node>
+<node id="Product-service innovation">
+<data key="label">Product-service innovation</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3094736842105263</data>
+<data key="harmonicclosnesscentrality">0.3257369614512471</data>
+<data key="betweenesscentrality">0.14285714285714285</data>
+<data key="authority">0.020410735</data>
+<data key="hub">0.0073765093</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0027878884903918422</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.04090088341729296</data>
+<data key="size">33.34215</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">1299.9022</data>
+<data key="y">364.403</data>
+</node>
+<node id="Resource-based theory">
+<data key="label">Resource-based theory</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2888015717092338</data>
+<data key="harmonicclosnesscentrality">0.31485260770975054</data>
+<data key="betweenesscentrality">0.5</data>
+<data key="authority">0.019492194</data>
+<data key="hub">0.0070445444</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003638719986339287</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.04128770220996439</data>
+<data key="size">33.3771</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-742.5403</data>
+<data key="y">716.8182</data>
+</node>
+<node id="Service delivery system">
+<data key="label">Service delivery system</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3147751605995717</data>
+<data key="harmonicclosnesscentrality">0.33537414965986395</data>
+<data key="betweenesscentrality">0.5768181818181818</data>
+<data key="authority">0.03164845</data>
+<data key="hub">0.0114378575</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003513825004471348</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.06418016602005829</data>
+<data key="size">35.445515</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">944.1214</data>
+<data key="y">512.553</data>
+</node>
+<node id="Service encounter">
+<data key="label">Service encounter</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3094736842105263</data>
+<data key="harmonicclosnesscentrality">0.3274376417233561</data>
+<data key="betweenesscentrality">0.6000000000000001</data>
+<data key="authority">0.020525547</data>
+<data key="hub">0.007418015</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0037232067554391042</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.04248234188837508</data>
+<data key="size">33.485043</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">-797.3406</data>
+<data key="y">-426.63605</data>
+</node>
+<node id="Service management">
+<data key="label">Service management</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2832369942196532</data>
+<data key="harmonicclosnesscentrality">0.30612244897959157</data>
+<data key="betweenesscentrality">0.14285714285714285</data>
+<data key="authority">0.010770384</data>
+<data key="hub">0.0038924653</data>
+<data key="modularity_class">0</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0028918317233590537</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.02399973775035125</data>
+<data key="size">31.815077</data>
+<data key="r">234</data>
+<data key="g">134</data>
+<data key="b">21</data>
+<data key="x">-1210.0942</data>
+<data key="y">-508.19223</data>
+</node>
+<node id="Service platform">
+<data key="label">Service platform</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2888015717092338</data>
+<data key="harmonicclosnesscentrality">0.30793650793650784</data>
+<data key="betweenesscentrality">0.25</data>
+<data key="authority">0.013085791</data>
+<data key="hub">0.0047292584</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003005924371692889</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.026291742688582084</data>
+<data key="size">32.022167</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1008.7472</data>
+<data key="y">-548.4332</data>
+</node>
+<node id="Service system">
+<data key="label">Service system</data>
+<data key="degree">1</data>
+<data key="weighted degree">1.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2922465208747515</data>
+<data key="harmonicclosnesscentrality">0.30941043083900216</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="authority">0.008325661</data>
+<data key="hub">0.0030089284</data>
+<data key="modularity_class">2</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0019484846941072377</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.016885787521316212</data>
+<data key="size">31.172308</data>
+<data key="r">198</data>
+<data key="g">134</data>
+<data key="b">233</data>
+<data key="x">1228.6426</data>
+<data key="y">-92.721985</data>
+</node>
+<node id="Service-Dominant Logic">
+<data key="label">Service-Dominant Logic</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">7.0</data>
+<data key="closnesscentrality">0.24297520661157024</data>
+<data key="harmonicclosnesscentrality">0.26702299967606047</data>
+<data key="betweenesscentrality">0.3333333333333333</data>
+<data key="authority">0.0041297674</data>
+<data key="hub">0.0014925139</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003955794669205218</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.010144386687076998</data>
+<data key="size">30.563198</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">1026.2887</data>
+<data key="y">-735.61426</data>
+</node>
+<node id="Standard">
+<data key="label">Standard</data>
+<data key="degree">3</data>
+<data key="weighted degree">3.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.3094736842105263</data>
+<data key="harmonicclosnesscentrality">0.3293650793650793</data>
+<data key="betweenesscentrality">1.870941188461087</data>
+<data key="authority">0.015983902</data>
+<data key="hub">0.0057766405</data>
+<data key="modularity_class">5</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0037196474766524974</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.034456913341845904</data>
+<data key="size">32.75992</data>
+<data key="r">255</data>
+<data key="g">92</data>
+<data key="b">129</data>
+<data key="x">903.6155</data>
+<data key="y">-355.16702</data>
+</node>
+<node id="Sustainability">
+<data key="label">Sustainability</data>
+<data key="degree">1</data>
+<data key="weighted degree">1.0</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2934131736526946</data>
+<data key="harmonicclosnesscentrality">0.3090702947845804</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="authority">0.0060323244</data>
+<data key="hub">0.0021801037</data>
+<data key="modularity_class">4</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.0020572384539515112</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.012797709302184641</data>
+<data key="size">30.802937</data>
+<data key="r">95</data>
+<data key="g">198</data>
+<data key="b">19</data>
+<data key="x">-1053.1862</data>
+<data key="y">-319.73096</data>
+</node>
+<node id="Value co-creation">
+<data key="label">Value co-creation</data>
+<data key="degree">2</data>
+<data key="weighted degree">2.0</data>
+<data key="eccentricity">7.0</data>
+<data key="closnesscentrality">0.24297520661157024</data>
+<data key="harmonicclosnesscentrality">0.26702299967606047</data>
+<data key="betweenesscentrality">0.3333333333333333</data>
+<data key="authority">0.0041297674</data>
+<data key="hub">0.0014925139</data>
+<data key="modularity_class">1</data>
+<data key="clustering coefficient">0.0</data>
+<data key="pageranks">0.003955794669205218</data>
+<data key="componentnumber">0</data>
+<data key="cluster">0</data>
+<data key="eigencentrality">0.010144386687076998</data>
+<data key="size">30.563198</data>
+<data key="r">0</data>
+<data key="g">202</data>
+<data key="b">255</data>
+<data key="x">605.13794</data>
+<data key="y">-820.06085</data>
+</node>
+<edge id="507" source="Service innovation" target="Gallouj, Faiz">
+<data key="weight">2.0</data>
+</edge>
+<edge id="508" source="Service innovation" target="Lievens, Annouk">
+<data key="weight">4.0</data>
+</edge>
+<edge id="509" source="Service innovation" target="Atuahene-Gima, K.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="510" source="Service innovation" target="de Ruyter, K.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="511" source="Service innovation" target="Lee, Jungwoo">
+<data key="weight">2.0</data>
+</edge>
+<edge id="512" source="Service innovation" target="Lemmink, J.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="513" source="Service innovation" target="Moenaert, R. K.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="514" source="Service innovation" target="Sundbo, Jon">
+<data key="weight">2.0</data>
+</edge>
+<edge id="515" source="Service innovation" target="Andersen, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="516" source="Service innovation" target="Andreassen, Tor Wallin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="517" source="Service innovation" target="Barkema, H. G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="518" source="Service innovation" target="Bessant, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="519" source="Service innovation" target="Blazevic, V.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="520" source="Service innovation" target="Boden, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="521" source="Service innovation" target="Braithwaite, C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="522" source="Service innovation" target="DeTore, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="523" source="Service innovation" target="Dholakia, N.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="524" source="Service innovation" target="Dos Santos, Brian L">
+<data key="weight">1.0</data>
+</edge>
+<edge id="525" source="Service innovation" target="Eastwood, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="526" source="Service innovation" target="Fox, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="527" source="Service innovation" target="Frambach, R. T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="528" source="Service innovation" target="Frambach, RT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="529" source="Service innovation" target="Francis, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="530" source="Service innovation" target="Gann, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="531" source="Service innovation" target="Ghijsen, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="532" source="Service innovation" target="Hackney, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="533" source="Service innovation" target="Halsall, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="534" source="Service innovation" target="Halsall, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="535" source="Service innovation" target="Heiskanen, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="536" source="Service innovation" target="Henrichs, R. B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="537" source="Service innovation" target="Howells, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="538" source="Service innovation" target="Hull, Frank M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="539" source="Service innovation" target="Héritier, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="540" source="Service innovation" target="Igel, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="541" source="Service innovation" target="Jalas, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="542" source="Service innovation" target="Johnson, L. W.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="543" source="Service innovation" target="Kleijnen, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="544" source="Service innovation" target="Klein, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="545" source="Service innovation" target="Lee, E.-J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="546" source="Service innovation" target="Lin, L. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="547" source="Service innovation" target="Lu, Iuan-Yuan">
+<data key="weight">1.0</data>
+</edge>
+<edge id="548" source="Service innovation" target="Martini, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="549" source="Service innovation" target="Meyer, M. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="550" source="Service innovation" target="Michalski, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="551" source="Service innovation" target="Miles, Ian">
+<data key="weight">1.0</data>
+</edge>
+<edge id="552" source="Service innovation" target="Miozzo, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="553" source="Service innovation" target="Nooteboom, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="554" source="Service innovation" target="Numprasertchai, S.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="555" source="Service innovation" target="Ouwersloot, H">
+<data key="weight">1.0</data>
+</edge>
+<edge id="556" source="Service innovation" target="Pandya, A. M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="557" source="Service innovation" target="Peffers, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="558" source="Service innovation" target="Ramirez, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="559" source="Service innovation" target="Royston, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="560" source="Service innovation" target="S'Jegers, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="561" source="Service innovation" target="Semeijn, Janjaap">
+<data key="weight">1.0</data>
+</edge>
+<edge id="562" source="Service innovation" target="Sharma, S. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="563" source="Service innovation" target="Shur, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="564" source="Service innovation" target="Sultan, F.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="565" source="Service innovation" target="Timonen, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="566" source="Service innovation" target="van Birgelen, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="567" source="Service innovation" target="van Riel, A.C.R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="568" source="Service innovation" target="Von Glahn, L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="569" source="Service innovation" target="Walker, R. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="570" source="Service innovation" target="Walker, Richard M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="571" source="Service innovation" target="Wedel, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="572" source="Service innovation" target="Wu, G.-C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="573" source="Service innovation" target="Xu, HA">
+<data key="weight">1.0</data>
+</edge>
+<edge id="574" source="Service innovation" target="Zaas, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="575" source="ICT/digital technology/IT" target="Lievens, Annouk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="576" source="ICT/digital technology/IT" target="Evangelista, R.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="577" source="ICT/digital technology/IT" target="Atuahene-Gima, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="578" source="ICT/digital technology/IT" target="Lyytinen, Kalle">
+<data key="weight">1.0</data>
+</edge>
+<edge id="579" source="ICT/digital technology/IT" target="Sirilli, G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="580" source="ICT/digital technology/IT" target="Walsham, G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="581" source="ICT/digital technology/IT" target="Andersen, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="582" source="ICT/digital technology/IT" target="Barney, J. B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="583" source="ICT/digital technology/IT" target="Barrett, Michael">
+<data key="weight">1.0</data>
+</edge>
+<edge id="584" source="ICT/digital technology/IT" target="Barua, Anitesh">
+<data key="weight">1.0</data>
+</edge>
+<edge id="585" source="ICT/digital technology/IT" target="Bessant, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="586" source="ICT/digital technology/IT" target="Bitner, Mary Jo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="587" source="ICT/digital technology/IT" target="Blazevic, V.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="588" source="ICT/digital technology/IT" target="Boden, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="589" source="ICT/digital technology/IT" target="Braithwaite, C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="590" source="ICT/digital technology/IT" target="Brown, Stephen W">
+<data key="weight">1.0</data>
+</edge>
+<edge id="591" source="ICT/digital technology/IT" target="Butler, B S">
+<data key="weight">1.0</data>
+</edge>
+<edge id="592" source="ICT/digital technology/IT" target="Cappleman, S.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="593" source="ICT/digital technology/IT" target="Carte, T A">
+<data key="weight">1.0</data>
+</edge>
+<edge id="594" source="ICT/digital technology/IT" target="Croes, H J P">
+<data key="weight">1.0</data>
+</edge>
+<edge id="595" source="ICT/digital technology/IT" target="Dos Santos, Brian L">
+<data key="weight">1.0</data>
+</edge>
+<edge id="596" source="ICT/digital technology/IT" target="Francis, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="597" source="ICT/digital technology/IT" target="Halsall, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="598" source="ICT/digital technology/IT" target="Halsall, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="599" source="ICT/digital technology/IT" target="Heiskanen, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="600" source="ICT/digital technology/IT" target="Howells, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="601" source="ICT/digital technology/IT" target="Héritier, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="602" source="ICT/digital technology/IT" target="Jalas, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="603" source="ICT/digital technology/IT" target="Jasperson, J">
+<data key="weight">1.0</data>
+</edge>
+<edge id="604" source="ICT/digital technology/IT" target="Johnson, L. W.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="605" source="ICT/digital technology/IT" target="Klein, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="606" source="ICT/digital technology/IT" target="Martini, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="607" source="ICT/digital technology/IT" target="Meuter, M. L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="608" source="ICT/digital technology/IT" target="Michalski, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="609" source="ICT/digital technology/IT" target="Miles, Ian">
+<data key="weight">1.0</data>
+</edge>
+<edge id="610" source="ICT/digital technology/IT" target="Miozzo, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="611" source="ICT/digital technology/IT" target="Moyo, L. M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="612" source="ICT/digital technology/IT" target="Muhanna, W. A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="613" source="ICT/digital technology/IT" target="Orlikowski, Wanda J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="614" source="ICT/digital technology/IT" target="Peffers, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="615" source="ICT/digital technology/IT" target="Ramirez, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="616" source="ICT/digital technology/IT" target="Ray, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="617" source="ICT/digital technology/IT" target="Rose, Gregory M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="618" source="ICT/digital technology/IT" target="Royston, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="619" source="ICT/digital technology/IT" target="Saunders, C S">
+<data key="weight">1.0</data>
+</edge>
+<edge id="620" source="ICT/digital technology/IT" target="Savona, Maria">
+<data key="weight">1.0</data>
+</edge>
+<edge id="621" source="ICT/digital technology/IT" target="Shoib, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="622" source="ICT/digital technology/IT" target="Smits, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="623" source="ICT/digital technology/IT" target="Susarla, Anjana">
+<data key="weight">1.0</data>
+</edge>
+<edge id="624" source="ICT/digital technology/IT" target="Timonen, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="625" source="ICT/digital technology/IT" target="Walker, R. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="626" source="ICT/digital technology/IT" target="Whinston, Andrew B">
+<data key="weight">1.0</data>
+</edge>
+<edge id="627" source="ICT/digital technology/IT" target="Zagler, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="628" source="ICT/digital technology/IT" target="Zheng, W J">
+<data key="weight">1.0</data>
+</edge>
+<edge id="629" source="Market" target="Gallouj, Faiz">
+<data key="weight">1.0</data>
+</edge>
+<edge id="630" source="Market" target="Lievens, Annouk">
+<data key="weight">3.0</data>
+</edge>
+<edge id="631" source="Market" target="Evangelista, R.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="632" source="Market" target="Atuahene-Gima, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="633" source="Market" target="de Ruyter, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="634" source="Market" target="Lee, Jungwoo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="635" source="Market" target="Lemmink, J.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="636" source="Market" target="Lyytinen, Kalle">
+<data key="weight">1.0</data>
+</edge>
+<edge id="637" source="Market" target="Moenaert, R. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="638" source="Market" target="Sirilli, G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="639" source="Market" target="Sundbo, Jon">
+<data key="weight">1.0</data>
+</edge>
+<edge id="640" source="Market" target="Barkema, H. G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="641" source="Market" target="Barua, Anitesh">
+<data key="weight">1.0</data>
+</edge>
+<edge id="642" source="Market" target="Bessant, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="643" source="Market" target="Bitner, Mary Jo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="644" source="Market" target="Blazevic, V.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="645" source="Market" target="Brown, Stephen W">
+<data key="weight">1.0</data>
+</edge>
+<edge id="646" source="Market" target="DeTore, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="647" source="Market" target="Dholakia, N.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="648" source="Market" target="Dos Santos, Brian L">
+<data key="weight">1.0</data>
+</edge>
+<edge id="649" source="Market" target="Fox, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="650" source="Market" target="Frambach, R. T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="651" source="Market" target="Frambach, RT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="652" source="Market" target="Francis, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="653" source="Market" target="Freel, M. S.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="654" source="Market" target="Gann, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="655" source="Market" target="Hull, Frank M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="656" source="Market" target="Héritier, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="657" source="Market" target="Igel, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="658" source="Market" target="Klein, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="659" source="Market" target="Lusch, R. F.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="660" source="Market" target="Martini, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="661" source="Market" target="Meuter, M. L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="662" source="Market" target="Meyer, M. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="663" source="Market" target="Michalski, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="664" source="Market" target="Nooteboom, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="665" source="Market" target="Numprasertchai, S.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="666" source="Market" target="Ouwersloot, H">
+<data key="weight">1.0</data>
+</edge>
+<edge id="667" source="Market" target="Pandya, A. M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="668" source="Market" target="Peffers, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="669" source="Market" target="Shur, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="670" source="Market" target="Susarla, Anjana">
+<data key="weight">1.0</data>
+</edge>
+<edge id="671" source="Market" target="van Riel, A.C.R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="672" source="Market" target="Vargo, S. L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="673" source="Market" target="Von Glahn, L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="674" source="Market" target="Wedel, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="675" source="Market" target="Whinston, Andrew B">
+<data key="weight">1.0</data>
+</edge>
+<edge id="676" source="Market" target="Yang, H D">
+<data key="weight">1.0</data>
+</edge>
+<edge id="677" source="Market" target="Yoo, Youngjin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="678" source="Market" target="Zaas, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="679" source="Market" target="Zagler, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="680" source="Management" target="Lievens, Annouk">
+<data key="weight">3.0</data>
+</edge>
+<edge id="681" source="Management" target="Atuahene-Gima, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="682" source="Management" target="de Ruyter, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="683" source="Management" target="Lemmink, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="684" source="Management" target="Lyytinen, Kalle">
+<data key="weight">1.0</data>
+</edge>
+<edge id="685" source="Management" target="Moenaert, R. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="686" source="Management" target="Sundbo, Jon">
+<data key="weight">1.0</data>
+</edge>
+<edge id="687" source="Management" target="Walsham, G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="688" source="Management" target="Andersen, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="689" source="Management" target="Barney, J. B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="690" source="Management" target="Barrett, Michael">
+<data key="weight">1.0</data>
+</edge>
+<edge id="691" source="Management" target="Barua, Anitesh">
+<data key="weight">1.0</data>
+</edge>
+<edge id="692" source="Management" target="Bessant, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="693" source="Management" target="Blazevic, V.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="694" source="Management" target="Boden, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="695" source="Management" target="Butler, B S">
+<data key="weight">1.0</data>
+</edge>
+<edge id="696" source="Management" target="Cappleman, S.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="697" source="Management" target="Carte, T A">
+<data key="weight">1.0</data>
+</edge>
+<edge id="698" source="Management" target="Croes, H J P">
+<data key="weight">1.0</data>
+</edge>
+<edge id="699" source="Management" target="Dholakia, N.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="700" source="Management" target="Elfring, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="701" source="Management" target="Fox, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="702" source="Management" target="Francis, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="703" source="Management" target="Gann, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="704" source="Management" target="Hackney, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="705" source="Management" target="Howells, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="706" source="Management" target="Igel, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="707" source="Management" target="Jasperson, J">
+<data key="weight">1.0</data>
+</edge>
+<edge id="708" source="Management" target="Klein, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="709" source="Management" target="Lin, L. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="710" source="Management" target="Lu, Iuan-Yuan">
+<data key="weight">1.0</data>
+</edge>
+<edge id="711" source="Management" target="Michalski, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="712" source="Management" target="Miles, Ian">
+<data key="weight">1.0</data>
+</edge>
+<edge id="713" source="Management" target="Muhanna, W. A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="714" source="Management" target="Numprasertchai, S.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="715" source="Management" target="Pandya, A. M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="716" source="Management" target="Ray, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="717" source="Management" target="Rose, Gregory M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="718" source="Management" target="Saunders, C S">
+<data key="weight">1.0</data>
+</edge>
+<edge id="719" source="Management" target="Sharma, S. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="720" source="Management" target="Shoib, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="721" source="Management" target="Shur, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="722" source="Management" target="Smits, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="723" source="Management" target="Susarla, Anjana">
+<data key="weight">1.0</data>
+</edge>
+<edge id="724" source="Management" target="van der Aa, Wietze">
+<data key="weight">1.0</data>
+</edge>
+<edge id="725" source="Management" target="Von Glahn, L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="726" source="Management" target="Walker, Richard M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="727" source="Management" target="Whinston, Andrew B">
+<data key="weight">1.0</data>
+</edge>
+<edge id="728" source="Management" target="Wu, G.-C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="729" source="Management" target="Xu, HA">
+<data key="weight">1.0</data>
+</edge>
+<edge id="730" source="Management" target="Zaas, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="731" source="Management" target="Zheng, W J">
+<data key="weight">1.0</data>
+</edge>
+<edge id="732" source="Consumer/customer/user" target="Lievens, Annouk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="733" source="Consumer/customer/user" target="Evangelista, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="734" source="Consumer/customer/user" target="Atuahene-Gima, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="735" source="Consumer/customer/user" target="de Ruyter, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="736" source="Consumer/customer/user" target="Lee, Jungwoo">
+<data key="weight">2.0</data>
+</edge>
+<edge id="737" source="Consumer/customer/user" target="Lemmink, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="738" source="Consumer/customer/user" target="Moenaert, R. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="739" source="Consumer/customer/user" target="Sirilli, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="740" source="Consumer/customer/user" target="Andreassen, Tor Wallin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="741" source="Consumer/customer/user" target="Barney, J. B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="742" source="Consumer/customer/user" target="Barua, Anitesh">
+<data key="weight">1.0</data>
+</edge>
+<edge id="743" source="Consumer/customer/user" target="Bitner, Mary Jo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="744" source="Consumer/customer/user" target="Brown, Stephen W">
+<data key="weight">1.0</data>
+</edge>
+<edge id="745" source="Consumer/customer/user" target="DeTore, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="746" source="Consumer/customer/user" target="Eastwood, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="747" source="Consumer/customer/user" target="Elfring, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="748" source="Consumer/customer/user" target="Ghijsen, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="749" source="Consumer/customer/user" target="Hackney, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="750" source="Consumer/customer/user" target="Henrichs, R. B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="751" source="Consumer/customer/user" target="Héritier, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="752" source="Consumer/customer/user" target="Kleijnen, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="753" source="Consumer/customer/user" target="Lee, E.-J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="754" source="Consumer/customer/user" target="Lin, L. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="755" source="Consumer/customer/user" target="Lu, Iuan-Yuan">
+<data key="weight">1.0</data>
+</edge>
+<edge id="756" source="Consumer/customer/user" target="Martini, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="757" source="Consumer/customer/user" target="Meuter, M. L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="758" source="Consumer/customer/user" target="Meyer, M. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="759" source="Consumer/customer/user" target="Miozzo, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="760" source="Consumer/customer/user" target="Muhanna, W. A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="761" source="Consumer/customer/user" target="Ouwersloot, H">
+<data key="weight">1.0</data>
+</edge>
+<edge id="762" source="Consumer/customer/user" target="Ramirez, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="763" source="Consumer/customer/user" target="Ray, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="764" source="Consumer/customer/user" target="Semeijn, Janjaap">
+<data key="weight">1.0</data>
+</edge>
+<edge id="765" source="Consumer/customer/user" target="Sharma, S. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="766" source="Consumer/customer/user" target="Smits, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="767" source="Consumer/customer/user" target="Sultan, F.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="768" source="Consumer/customer/user" target="Susarla, Anjana">
+<data key="weight">1.0</data>
+</edge>
+<edge id="769" source="Consumer/customer/user" target="van Birgelen, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="770" source="Consumer/customer/user" target="van der Aa, Wietze">
+<data key="weight">1.0</data>
+</edge>
+<edge id="771" source="Consumer/customer/user" target="van Riel, A.C.R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="772" source="Consumer/customer/user" target="Whinston, Andrew B">
+<data key="weight">1.0</data>
+</edge>
+<edge id="773" source="Consumer/customer/user" target="Wu, G.-C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="774" source="Consumer/customer/user" target="Xu, HA">
+<data key="weight">1.0</data>
+</edge>
+<edge id="775" source="Service sector/Service industries" target="Gallouj, Faiz">
+<data key="weight">2.0</data>
+</edge>
+<edge id="776" source="Service sector/Service industries" target="Evangelista, R.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="777" source="Service sector/Service industries" target="Atuahene-Gima, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="778" source="Service sector/Service industries" target="Lemmink, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="779" source="Service sector/Service industries" target="Sirilli, G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="780" source="Service sector/Service industries" target="Andersen, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="781" source="Service sector/Service industries" target="Bitner, Mary Jo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="782" source="Service sector/Service industries" target="Boden, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="783" source="Service sector/Service industries" target="Brown, Stephen W">
+<data key="weight">1.0</data>
+</edge>
+<edge id="784" source="Service sector/Service industries" target="Elfring, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="785" source="Service sector/Service industries" target="Ghijsen, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="786" source="Service sector/Service industries" target="Howells, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="787" source="Service sector/Service industries" target="Lin, L. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="788" source="Service sector/Service industries" target="Lu, Iuan-Yuan">
+<data key="weight">1.0</data>
+</edge>
+<edge id="789" source="Service sector/Service industries" target="Martini, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="790" source="Service sector/Service industries" target="Meuter, M. L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="791" source="Service sector/Service industries" target="Miles, Ian">
+<data key="weight">1.0</data>
+</edge>
+<edge id="792" source="Service sector/Service industries" target="Ouwersloot, H">
+<data key="weight">1.0</data>
+</edge>
+<edge id="793" source="Service sector/Service industries" target="Savona, Maria">
+<data key="weight">1.0</data>
+</edge>
+<edge id="794" source="Service sector/Service industries" target="Semeijn, Janjaap">
+<data key="weight">1.0</data>
+</edge>
+<edge id="795" source="Service sector/Service industries" target="Tether, Bruce S">
+<data key="weight">1.0</data>
+</edge>
+<edge id="796" source="Service sector/Service industries" target="van Birgelen, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="797" source="Service sector/Service industries" target="van der Aa, Wietze">
+<data key="weight">1.0</data>
+</edge>
+<edge id="798" source="Service sector/Service industries" target="van Riel, A.C.R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="799" source="Service sector/Service industries" target="Weinstein, O.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="800" source="Service sector/Service industries" target="Wu, G.-C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="801" source="Service sector/Service industries" target="Zagler, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="802" source="Adoption and diffusion" target="de Ruyter, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="803" source="Adoption and diffusion" target="Lee, Jungwoo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="804" source="Adoption and diffusion" target="Lemmink, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="805" source="Adoption and diffusion" target="Lyytinen, Kalle">
+<data key="weight">2.0</data>
+</edge>
+<edge id="806" source="Adoption and diffusion" target="Andreassen, Tor Wallin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="807" source="Adoption and diffusion" target="Barkema, H. G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="808" source="Adoption and diffusion" target="Bessant, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="809" source="Adoption and diffusion" target="Eastwood, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="810" source="Adoption and diffusion" target="Frambach, R. T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="811" source="Adoption and diffusion" target="Frambach, RT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="812" source="Adoption and diffusion" target="Francis, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="813" source="Adoption and diffusion" target="Hackney, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="814" source="Adoption and diffusion" target="Heiskanen, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="815" source="Adoption and diffusion" target="Henrichs, R. B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="816" source="Adoption and diffusion" target="Jalas, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="817" source="Adoption and diffusion" target="Johnson, L. W.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="818" source="Adoption and diffusion" target="Kleijnen, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="819" source="Adoption and diffusion" target="Lee, E.-J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="820" source="Adoption and diffusion" target="Lin, L. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="821" source="Adoption and diffusion" target="Lu, Iuan-Yuan">
+<data key="weight">1.0</data>
+</edge>
+<edge id="822" source="Adoption and diffusion" target="Nooteboom, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="823" source="Adoption and diffusion" target="Ouwersloot, H">
+<data key="weight">1.0</data>
+</edge>
+<edge id="824" source="Adoption and diffusion" target="Rose, Gregory M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="825" source="Adoption and diffusion" target="Sharma, S. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="826" source="Adoption and diffusion" target="Sultan, F.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="827" source="Adoption and diffusion" target="Timonen, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="828" source="Adoption and diffusion" target="van Riel, A.C.R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="829" source="Adoption and diffusion" target="Walker, R. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="830" source="Adoption and diffusion" target="Wedel, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="831" source="Adoption and diffusion" target="Wu, G.-C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="832" source="Adoption and diffusion" target="Xu, HA">
+<data key="weight">1.0</data>
+</edge>
+<edge id="833" source="Adoption and diffusion" target="Yang, H D">
+<data key="weight">1.0</data>
+</edge>
+<edge id="834" source="Adoption and diffusion" target="Yoo, Youngjin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="835" source="Innovation in services" target="Gallouj, Faiz">
+<data key="weight">4.0</data>
+</edge>
+<edge id="836" source="Innovation in services" target="Evangelista, R.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="837" source="Innovation in services" target="Sirilli, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="838" source="Innovation in services" target="Sundbo, Jon">
+<data key="weight">2.0</data>
+</edge>
+<edge id="839" source="Innovation in services" target="Elfring, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="840" source="Innovation in services" target="Freel, M. S.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="841" source="Innovation in services" target="Savona, Maria">
+<data key="weight">1.0</data>
+</edge>
+<edge id="842" source="Innovation in services" target="Smits, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="843" source="Innovation in services" target="Tether, Bruce S">
+<data key="weight">1.0</data>
+</edge>
+<edge id="844" source="Innovation in services" target="van der Aa, Wietze">
+<data key="weight">1.0</data>
+</edge>
+<edge id="845" source="Innovation in services" target="Weinstein, O.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="846" source="Complex/complexity" target="Lievens, Annouk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="847" source="Complex/complexity" target="Barney, J. B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="848" source="Complex/complexity" target="Blazevic, V.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="849" source="Complex/complexity" target="Freel, M. S.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="850" source="Complex/complexity" target="Hackney, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="851" source="Complex/complexity" target="Klein, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="852" source="Complex/complexity" target="Muhanna, W. A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="853" source="Complex/complexity" target="Ray, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="854" source="Complex/complexity" target="Sharma, S. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="855" source="Complex/complexity" target="Walker, Richard M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="856" source="Complex/complexity" target="Xu, HA">
+<data key="weight">1.0</data>
+</edge>
+<edge id="857" source="Service provider/provision" target="Barua, Anitesh">
+<data key="weight">1.0</data>
+</edge>
+<edge id="858" source="Service provider/provision" target="Héritier, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="859" source="Service provider/provision" target="Johnson, L. W.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="860" source="Service provider/provision" target="Moyo, L. M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="861" source="Service provider/provision" target="Susarla, Anjana">
+<data key="weight">1.0</data>
+</edge>
+<edge id="862" source="Service provider/provision" target="Walker, R. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="863" source="Service provider/provision" target="Whinston, Andrew B">
+<data key="weight">1.0</data>
+</edge>
+<edge id="864" source="Service provider/provision" target="Zagler, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="865" source="e-service/m-service" target="Lievens, Annouk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="866" source="e-service/m-service" target="Lyytinen, Kalle">
+<data key="weight">1.0</data>
+</edge>
+<edge id="867" source="e-service/m-service" target="Blazevic, V.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="868" source="e-service/m-service" target="Ghijsen, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="869" source="e-service/m-service" target="Klein, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="870" source="e-service/m-service" target="Michalski, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="871" source="e-service/m-service" target="Semeijn, Janjaap">
+<data key="weight">1.0</data>
+</edge>
+<edge id="872" source="e-service/m-service" target="van Birgelen, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="873" source="e-service/m-service" target="Yang, H D">
+<data key="weight">1.0</data>
+</edge>
+<edge id="874" source="e-service/m-service" target="Yoo, Youngjin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="875" source="Web service innovation/web innovation/web based" target="Lee, Jungwoo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="876" source="Web service innovation/web innovation/web based" target="Ghijsen, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="877" source="Web service innovation/web innovation/web based" target="Hackney, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="878" source="Web service innovation/web innovation/web based" target="Igel, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="879" source="Web service innovation/web innovation/web based" target="Numprasertchai, S.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="880" source="Web service innovation/web innovation/web based" target="Semeijn, Janjaap">
+<data key="weight">1.0</data>
+</edge>
+<edge id="881" source="Web service innovation/web innovation/web based" target="Sharma, S. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="882" source="Web service innovation/web innovation/web based" target="van Birgelen, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="883" source="Web service innovation/web innovation/web based" target="Xu, HA">
+<data key="weight">1.0</data>
+</edge>
+<edge id="884" source="Institutional" target="Gallouj, Faiz">
+<data key="weight">1.0</data>
+</edge>
+<edge id="885" source="Institutional" target="Lyytinen, Kalle">
+<data key="weight">1.0</data>
+</edge>
+<edge id="886" source="Institutional" target="Sundbo, Jon">
+<data key="weight">1.0</data>
+</edge>
+<edge id="887" source="Institutional" target="Héritier, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="888" source="Institutional" target="Yang, H D">
+<data key="weight">1.0</data>
+</edge>
+<edge id="889" source="Institutional" target="Yoo, Youngjin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="890" source="KIBS" target="Andersen, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="891" source="KIBS" target="Boden, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="892" source="KIBS" target="Den Hertog, Pim">
+<data key="weight">1.0</data>
+</edge>
+<edge id="893" source="KIBS" target="Howells, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="894" source="KIBS" target="Miles, Ian">
+<data key="weight">1.0</data>
+</edge>
+<edge id="895" source="KIBS" target="Wood, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="896" source="Knowledge-intensive services (KIS)" target="Andersen, B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="897" source="Knowledge-intensive services (KIS)" target="Boden, M.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="898" source="Knowledge-intensive services (KIS)" target="Den Hertog, Pim">
+<data key="weight">1.0</data>
+</edge>
+<edge id="899" source="Knowledge-intensive services (KIS)" target="Howells, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="900" source="Knowledge-intensive services (KIS)" target="Miles, Ian">
+<data key="weight">1.0</data>
+</edge>
+<edge id="901" source="Knowledge-intensive services (KIS)" target="Wood, P.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="902" source="New service development" target="Atuahene-Gima, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="903" source="New service development" target="Lemmink, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="904" source="New service development" target="Hull, Frank M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="905" source="New service development" target="Ouwersloot, H">
+<data key="weight">1.0</data>
+</edge>
+<edge id="906" source="New service development" target="van Riel, A.C.R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="907" source="Public service innovation" target="Braithwaite, C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="908" source="Public service innovation" target="Halsall, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="909" source="Public service innovation" target="Halsall, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="910" source="Public service innovation" target="Héritier, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="911" source="Public service innovation" target="Royston, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="912" source="Public service innovation" target="Walker, Richard M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="913" source="Public services" target="Braithwaite, C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="914" source="Public services" target="Halsall, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="915" source="Public services" target="Halsall, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="916" source="Public services" target="Héritier, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="917" source="Public services" target="Royston, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="918" source="Public services" target="Walker, Richard M">
+<data key="weight">1.0</data>
+</edge>
+<edge id="919" source="Technological innovation" target="Evangelista, R.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="920" source="Technological innovation" target="Sirilli, G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="921" source="Technological innovation" target="Elfring, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="922" source="Technological innovation" target="van der Aa, Wietze">
+<data key="weight">1.0</data>
+</edge>
+<edge id="923" source="Business model" target="Bessant, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="924" source="Business model" target="Francis, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="925" source="Business model" target="Michalski, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="926" source="Competition" target="Dos Santos, Brian L">
+<data key="weight">1.0</data>
+</edge>
+<edge id="927" source="Competition" target="Michalski, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="928" source="Competition" target="Peffers, K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="929" source="Digital/ICT/ITservice innovation" target="Lee, Jungwoo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="930" source="Digital/ICT/ITservice innovation" target="Eastwood, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="931" source="Digital/ICT/ITservice innovation" target="Lee, E.-J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="932" source="Digital/ICT/ITservice innovation" target="Michalski, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="933" source="e-Service innovation/Mobile service innovation" target="Lievens, Annouk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="934" source="e-Service innovation/Mobile service innovation" target="Blazevic, V.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="935" source="e-Service innovation/Mobile service innovation" target="Klein, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="936" source="e-Service innovation/Mobile service innovation" target="Michalski, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="937" source="Health-care" target="Barney, J. B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="938" source="Health-care" target="Braithwaite, C.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="939" source="Health-care" target="Halsall, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="940" source="Health-care" target="Halsall, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="941" source="Health-care" target="Muhanna, W. A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="942" source="Health-care" target="Ray, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="943" source="Health-care" target="Royston, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="944" source="Value co-production" target="Den Hertog, Pim">
+<data key="weight">1.0</data>
+</edge>
+<edge id="945" source="Value co-production" target="Elfring, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="946" source="Value co-production" target="van der Aa, Wietze">
+<data key="weight">1.0</data>
+</edge>
+<edge id="947" source="Consumer Theory" target="Gallouj, Faiz">
+<data key="weight">1.0</data>
+</edge>
+<edge id="948" source="Consumer Theory" target="Weinstein, O.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="949" source="Inter-organizational" target="Tether, Bruce S">
+<data key="weight">1.0</data>
+</edge>
+<edge id="950" source="Intra-organizational" target="Lievens, Annouk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="951" source="Intra-organizational" target="Moenaert, R. K.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="952" source="Lancasterian" target="Gallouj, Faiz">
+<data key="weight">1.0</data>
+</edge>
+<edge id="953" source="Lancasterian" target="Weinstein, O.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="954" source="neo-Schumpeterian theory" target="Gallouj, Faiz">
+<data key="weight">1.0</data>
+</edge>
+<edge id="955" source="Product-service innovation" target="Bessant, J.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="956" source="Product-service innovation" target="Francis, D.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="957" source="Resource-based theory" target="Barney, J. B.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="958" source="Resource-based theory" target="Muhanna, W. A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="959" source="Resource-based theory" target="Ray, G.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="960" source="Service delivery system" target="Lievens, Annouk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="961" source="Service delivery system" target="Blazevic, V.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="962" source="Service delivery system" target="Klein, E.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="963" source="Service encounter" target="Bitner, Mary Jo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="964" source="Service encounter" target="Brown, Stephen W">
+<data key="weight">1.0</data>
+</edge>
+<edge id="965" source="Service encounter" target="Meuter, M. L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="966" source="Service management" target="Elfring, T.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="967" source="Service management" target="van der Aa, Wietze">
+<data key="weight">1.0</data>
+</edge>
+<edge id="968" source="Service platform" target="DeTore, A.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="969" source="Service platform" target="Meyer, M. H.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="970" source="Service system" target="Lee, Jungwoo">
+<data key="weight">1.0</data>
+</edge>
+<edge id="971" source="Service-Dominant Logic" target="Lusch, R. F.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="972" source="Service-Dominant Logic" target="Vargo, S. L.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="973" source="Standard" target="Lyytinen, Kalle">
+<data key="weight">1.0</data>
+</edge>
+<edge id="974" source="Standard" target="Yang, H D">
+<data key="weight">1.0</data>
+</edge>
+<edge id="975" source="Standard" target="Yoo, Youngjin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="976" source="Sustainability" target="Smits, R.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="977" source="Value co-creation" target="Lusch, R. F.">
+<data key="weight">1.0</data>
+</edge>
+<edge id="978" source="Value co-creation" target="Vargo, S. L.">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

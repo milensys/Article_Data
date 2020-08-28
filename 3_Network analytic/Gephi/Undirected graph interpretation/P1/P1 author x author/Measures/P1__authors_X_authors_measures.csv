@@ -1,0 +1,19 @@
+Id,Label,timeset,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,Clustering Coefficient,pageranks,componentnumber,Cluster,clustering,triangles,eigencentrality
+"Barras, R.","Barras, R.",,0,0,0,0,0,0,0,0,0,0,0.011651,0,5,0,0,0
+"Beltramini, R. F.","Beltramini, R. F.",,0,0,0,0,0,0,0,0,1,0,0.011651,1,6,0,0,0
+"Bowen, D.","Bowen, D.",,2,2,1,1,1,0,0.408248,0.408248,2,1,0.077508,2,0,1,1,1
+"George, W. R.","George, W. R.",,2,2,1,1,1,0,0.408248,0.408248,2,1,0.077508,2,0,1,1,1
+"Kingmanbrundage, J","Kingmanbrundage, J",,2,2,1,1,1,0,0.408248,0.408248,2,1,0.077508,2,0,1,1,1
+"Buzzacchi, L.","Buzzacchi, L.",,2,2,1,1,1,0,0.408248,0.408248,3,1,0.077508,3,1,1,1,1
+"Colombo, M. G.","Colombo, M. G.",,2,2,1,1,1,0,0.408248,0.408248,3,1,0.077508,3,1,1,1,1
+"Mariotti, S.","Mariotti, S.",,2,2,1,1,1,0,0.408248,0.408248,3,1,0.077508,3,1,1,1,1
+"Evangelista, R.","Evangelista, R.",,1,1,1,1,1,0,0,0,4,0,0.077508,4,2,0,0,0.056348
+"Sirilli, G.","Sirilli, G.",,1,1,1,1,1,0,0,0,4,0,0.077508,4,2,0,0,0.056348
+"Kerkhof, Marco","Kerkhof, Marco",,0,0,0,0,0,0,0,0,5,0,0.011651,5,7,0,0,0
+"Khan, A. M.","Khan, A. M.",,1,1,1,1,1,0,0,0,6,0,0.077508,6,3,0,0,0.056348
+"Manopichetwattana, V.","Manopichetwattana, V.",,1,1,1,1,1,0,0,0,6,0,0.077508,6,3,0,0,0.056348
+"Latour, M. S.","Latour, M. S.",,1,1,1,1,1,0,0,0,7,0,0.077508,7,4,0,0,0.056348
+"Roberts, S. D.","Roberts, S. D.",,1,1,1,1,1,0,0,0,7,0,0.077508,7,4,0,0,0.056348
+"Metcalfe, J. S.","Metcalfe, J. S.",,0,0,0,0,0,0,0,0,8,0,0.011651,8,8,0,0,0
+"Miles, Ian","Miles, Ian",,0,0,0,0,0,0,0,0,9,0,0.011651,9,9,0,0,0
+"Smith, D. J.","Smith, D. J.",,0,0,0,0,0,0,0,0,10,0,0.011651,10,10,0,0,0

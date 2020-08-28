@@ -1,0 +1,1511 @@
+Id,Label,timeset,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,Clustering Coefficient,pageranks,componentnumber,Cluster,clustering,triangles,eigencentrality,Lineage,IsOrigin,IsAncestor,IsDescendant,DistanceAncestor,DistanceDescendant
+"Spohrer, Jim","Spohrer, Jim",,21,54,7,0.300509,0.388391,2572.016667,0.048962,0.048962,0,0.175439,0.000848,0,0,0.157895,30,0.449953,Unrelated,false,false,false,0,0
+"Vargo, Stephen","Vargo, Stephen",,15,52,8,0.256894,0.346308,2934.633333,0.019476,0.019476,0,0.307692,0.000667,0,0,0.263736,24,0.314602,Unrelated,false,false,false,0,0
+"Demirkan, Haluk","Demirkan, Haluk",,29,55,6,0.354,0.452731,8382.383333,0.165172,0.165172,0,0.150997,0.001104,0,0,0.140212,53,0.796255,Unrelated,false,false,false,0,0
+"Lusch, Robert","Lusch, Robert",,13,40,8,0.25142,0.328888,770.5,0.017911,0.017911,0,0.327273,0.000541,0,0,0.272727,18,0.268716,Unrelated,false,false,false,0,0
+"Maglio, Paul P.","Maglio, Paul P.",,23,52,7,0.307826,0.40534,4036.4,0.054332,0.054332,0,0.190476,0.000954,0,0,0.17316,40,0.541771,Unrelated,false,false,false,0,0
+"Chesbrough, Henry","Chesbrough, Henry",,3,5,8,0.231373,0.265517,0,0.004784,0.004784,0,0,0.000134,0,0,0,0,0.052117,Unrelated,false,false,false,0,0
+"Gruhl, Daniel","Gruhl, Daniel",,8,11,8,0.240489,0.29659,28.5,0.01343,0.01343,0,0.6,0.000327,0,0,0.619048,13,0.163765,Unrelated,false,false,false,0,0
+"Ager, Tryg","Ager, Tryg",,6,6,8,0.232283,0.273991,0,0.007578,0.007578,0,1,0.000256,0,0,0.9,9,0.095131,Unrelated,false,false,false,0,0
+"Allen, D.","Allen, D.",,7,7,7,0.277429,0.325962,0.25,0.028948,0.028948,0,0.9,0.000305,0,0,0.8,12,0.192753,Unrelated,false,false,false,0,0
+"Anderson, Laura C","Anderson, Laura C",,6,6,8,0.232283,0.273991,0,0.007578,0.007578,0,1,0.000256,0,0,0.9,9,0.095131,Unrelated,false,false,false,0,0
+"Bailey, John","Bailey, John",,5,5,8,0.239513,0.288115,0,0.011406,0.011406,0,1,0.000204,0,0,0.666667,4,0.13218,Unrelated,false,false,false,0,0
+"Bess, C.","Bess, C.",,7,7,7,0.277429,0.325962,0.25,0.028948,0.028948,0,0.9,0.000305,0,0,0.8,12,0.192753,Unrelated,false,false,false,0,0
+"Caswell, Nathan","Caswell, Nathan",,5,5,8,0.246175,0.299697,0,0.011997,0.011997,0,1,0.000207,0,0,0.5,3,0.149736,Unrelated,false,false,false,0,0
+"Giuiusa, Alessio","Giuiusa, Alessio",,5,5,7,0.276562,0.320312,0,0.023191,0.023191,0,1,0.0002,0,0,0.666667,4,0.152698,Unrelated,false,false,false,0,0
+"Ing, David","Ing, David",,5,5,7,0.276562,0.320312,0,0.023191,0.023191,0,1,0.0002,0,0,0.666667,4,0.152698,Unrelated,false,false,false,0,0
+"Kreulen, J. T.","Kreulen, J. T.",,5,5,8,0.239513,0.288115,0,0.011187,0.011187,0,1,0.000228,0,0,0.666667,4,0.125927,Unrelated,false,false,false,0,0
+"Akaka, Melissa Archpru","Akaka, Melissa Archpru",,9,30,8,0.245833,0.306289,53.2,0.013036,0.013036,0,0.761905,0.0004,0,0,0.678571,19,0.206709,Unrelated,false,false,false,0,0
+"Barrett, Michael","Barrett, Michael",,11,19,9,0.209964,0.278423,1111,0.002613,0.002613,1,0.277778,0.000522,0,0,0.222222,10,0.101823,Unrelated,false,false,false,0,0
+"Davidson, Elizabeth J.","Davidson, Elizabeth J.",,8,13,9,0.208973,0.269007,434.5,0.00251,0.00251,1,0.266667,0.00052,0,0,0.380952,8,0.081942,Unrelated,false,false,false,0,0
+"Kelleher, Carol","Kelleher, Carol",,10,12,8,0.246175,0.309114,350,0.013004,0.013004,0,0.571429,0.000449,0,0,0.444444,16,0.208664,Unrelated,false,false,false,0,0
+"Prabhu, Jaideep","Prabhu, Jaideep",,9,11,9,0.20922,0.271832,692,0.002541,0.002541,1,0.428571,0.000398,0,0,0.5,14,0.094311,Unrelated,false,false,false,0,0
+"Tanniru, Mohan","Tanniru, Mohan",,6,8,9,0.206534,0.256295,351,0.003725,0.003725,0,0.166667,0.00045,0,0,0.3,3,0.075191,Unrelated,false,false,false,0,0
+"Corsaro, Daniela","Corsaro, Daniela",,8,8,8,0.245492,0.303464,0,0.012753,0.012753,0,1,0.000329,0,0,0.809524,17,0.200258,Unrelated,false,false,false,0,0
+"Lyytinen, Kalle","Lyytinen, Kalle",,17,46,5,0.435185,0.584397,645.333333,0,0,313,0.114286,0.000729,1,1,0.1,12,0.129236,Unrelated,false,false,false,0,0
+"Yoo, Youngjin","Yoo, Youngjin",,11,27,5,0.38843,0.495745,160.166667,0,0,313,0.333333,0.000452,1,1,0.266667,12,0.098427,Unrelated,false,false,false,0,0
+"Hanseth, Ole","Hanseth, Ole",,11,19,6,0.356061,0.486525,341,0,0,313,0.166667,0.000673,1,1,0.133333,6,0.064719,Unrelated,false,false,false,0,0
+"Henfridsson, Ola","Henfridsson, Ola",,6,13,6,0.333333,0.419149,135.333333,0,0,313,0.166667,0.000245,1,1,0.3,3,0.049288,Unrelated,false,false,false,0,0
+"Sørensen, C.","Sørensen, C.",,9,15,4,0.391667,0.469858,492.5,0,0,313,0.238095,0.000393,1,1,0.357143,10,0.067362,Unrelated,false,false,false,0,0
+"Rose, Gregory M","Rose, Gregory M",,4,11,6,0.30719,0.36773,0,0,0,313,1,0.000172,1,1,0.666667,2,0.028468,Unrelated,false,false,false,0,0
+"Boland, Richard J., Jr.","Boland, Richard J., Jr.",,6,10,6,0.324138,0.410284,0,0,0,313,1,0.000238,1,1,0.7,7,0.063801,Unrelated,false,false,false,0,0
+"Carlo, Jessica Luo","Carlo, Jessica Luo",,4,8,6,0.30719,0.36773,0,0,0,313,1,0.000172,1,1,0.666667,2,0.028468,Unrelated,false,false,false,0,0
+"Majchrzak, Ann","Majchrzak, Ann",,10,12,6,0.333333,0.452837,172,0,0,313,0.428571,0.0004,1,1,0.333333,12,0.087836,Unrelated,false,false,false,0,0
+"Boland, R. J.","Boland, R. J.",,6,6,6,0.324138,0.410284,0,0,0,313,1,0.000238,1,1,0.7,7,0.063801,Unrelated,false,false,false,0,0
+"Eriksson, Owen","Eriksson, Owen",,4,4,6,0.30719,0.36773,0,0,0,313,1,0.000172,1,1,0.666667,2,0.028468,Unrelated,false,false,false,0,0
+"King, John Leslie","King, John Leslie",,3,3,6,0.305195,0.357092,0,0,0,313,0,0.000136,1,1,0,0,0.022805,Unrelated,false,false,false,0,0
+"Knutsen, Lars A","Knutsen, Lars A",,3,3,6,0.305195,0.357092,0,0,0,313,0,0.000136,1,1,0,0,0.022805,Unrelated,false,false,false,0,0
+"Lindgren, Rikard","Lindgren, Rikard",,4,4,6,0.30719,0.36773,0,0,0,313,1,0.000172,1,1,0.666667,2,0.028468,Unrelated,false,false,false,0,0
+"Brown, Stephen W","Brown, Stephen W",,15,30,6,0.338432,0.402448,6278.833333,0.15418,0.15418,2,0.371795,0.000634,0,0,0.318681,29,0.523746,Unrelated,false,false,false,0,0
+"Bitner, Mary Jo","Bitner, Mary Jo",,13,25,6,0.308901,0.370904,263,0.130739,0.130739,2,0.454545,0.000573,0,0,0.378788,25,0.436255,Unrelated,false,false,false,0,0
+"Ostrom, Amy L","Ostrom, Amy L",,27,37,6,0.329609,0.430697,5056.761905,0.388707,0.388707,2,0.253333,0.001097,0,0,0.233846,76,1,Unrelated,false,false,false,0,0
+"Kauffman, Robert J.","Kauffman, Robert J.",,12,20,7,0.286408,0.350915,494.533333,0.038868,0.038868,0,0.377778,0.000445,0,0,0.309091,17,0.284846,Unrelated,false,false,false,0,0
+"Daim, T. U.","Daim, T. U.",,9,13,7,0.283654,0.340086,696,0.024834,0.024834,0,0.238095,0.000459,0,0,0.357143,10,0.182272,Unrelated,false,false,false,0,0
+"Bardhan, Indranil R.","Bardhan, Indranil R.",,8,10,7,0.266566,0.31664,350,0.025391,0.025391,0,0.466667,0.000297,0,0,0.52381,11,0.163686,Unrelated,false,false,false,0,0
+"Goul, Michael","Goul, Michael",,10,13,6,0.307292,0.362429,49.666667,0.116173,0.116173,2,0.75,0.000396,0,0,0.583333,21,0.397262,Unrelated,false,false,false,0,0
+"Kannan, P. K.","Kannan, P. K.",,8,10,7,0.266968,0.317581,522,0.025402,0.025402,0,0.466667,0.000295,0,0,0.52381,11,0.165383,Unrelated,false,false,false,0,0
+"Sougstad, Ryan","Sougstad, Ryan",,6,9,7,0.265766,0.31099,0,0.024901,0.024901,0,1,0.000226,0,0,0.8,8,0.155526,Unrelated,false,false,false,0,0
+"Burkhard, Kevin A","Burkhard, Kevin A",,9,9,6,0.306759,0.359605,0.166667,0.113726,0.113726,2,0.952381,0.00036,0,0,0.785714,22,0.385007,Unrelated,false,false,false,0,0
+"Delen, Dursun","Delen, Dursun",,3,3,7,0.261834,0.296395,0,0.01614,0.01614,0,0,0.000132,0,0,0,0,0.084812,Unrelated,false,false,false,0,0
+"Fill, Hans-Georg","Fill, Hans-Georg",,7,7,7,0.281847,0.332553,0,0.03138,0.03138,0,1,0.000277,0,0,0.8,12,0.223693,Unrelated,false,false,false,0,0
+"Harmon, R. R.","Harmon, R. R.",,3,3,7,0.261834,0.296395,0,0.01614,0.01614,0,0,0.000132,0,0,0,0,0.084812,Unrelated,false,false,false,0,0
+"Jetter, A.","Jetter, A.",,5,5,7,0.281847,0.328787,0,0.023876,0.023876,0,1,0.00021,0,0,0.666667,4,0.166686,Unrelated,false,false,false,0,0
+"Karagiannis, Dimitris","Karagiannis, Dimitris",,7,7,7,0.281847,0.332553,0,0.03138,0.03138,0,1,0.000277,0,0,0.8,12,0.223693,Unrelated,false,false,false,0,0
+"Keith, Mark","Keith, Mark",,4,4,7,0.262222,0.29922,0,0.027492,0.027492,2,1,0.000165,0,0,0.333333,1,0.124534,Unrelated,false,false,false,0,0
+"Nambisan, Satish","Nambisan, Satish",,3,5,9,0.201136,0.235297,0,0.00175,0.00175,0,0,0.000135,0,0,0,0,0.032867,Unrelated,false,false,false,0,0
+"Chandler, Jennifer D.","Chandler, Jennifer D.",,3,3,9,0.201136,0.235297,0,0.00175,0.00175,0,0,0.000135,0,0,0,0,0.032867,Unrelated,false,false,false,0,0
+"Loebler, Helge","Loebler, Helge",,3,3,9,0.201136,0.235297,0,0.00175,0.00175,0,0,0.000135,0,0,0,0,0.032867,Unrelated,false,false,false,0,0
+"Cefkin, Melissa","Cefkin, Melissa",,8,10,8,0.238544,0.29094,698,0.00612,0.00612,0,0.066667,0.000813,0,0,0.285714,6,0.082218,Unrelated,false,false,false,0,0
+"Kieliszewski, Cheryl A","Kieliszewski, Cheryl A",,4,4,8,0.237265,0.279641,0,0.005907,0.005907,0,1,0.000221,0,0,0.666667,2,0.073449,Unrelated,false,false,false,0,0
+"Gallouj, Faiz","Gallouj, Faiz",,11,29,8,0.243466,0.310122,3937.5,0.006539,0.006539,3,0.166667,0.000594,0,0,0.133333,6,0.108828,Unrelated,false,false,false,0,0
+"Miles, Ian","Miles, Ian",,18,34,9,0.203448,0.284257,2666.5,0.000892,0.000892,3,0.175,0.000843,0,0,0.154412,21,0.152897,Unrelated,false,false,false,0,0
+"Rubalcaba, Luis","Rubalcaba, Luis",,14,31,7,0.290164,0.35269,3650.5,0.028332,0.028332,3,0.19697,0.00065,0,0,0.166667,13,0.177897,Unrelated,false,false,false,0,0
+"Sundbo, Jon","Sundbo, Jon",,11,21,7,0.286408,0.339978,2439,0.027238,0.027238,2,0.222222,0.000693,0,0,0.177778,8,0.150375,Unrelated,false,false,false,0,0
+"Savona, Maria","Savona, Maria",,6,13,9,0.197765,0.238588,695,0.000659,0.000659,3,0.166667,0.000351,0,0,0.4,4,0.028543,Unrelated,false,false,false,0,0
+"Desmarchelier, Benoit","Desmarchelier, Benoit",,4,7,9,0.196231,0.228701,0,0.000717,0.000717,3,1,0.000183,0,0,0.666667,2,0.026236,Unrelated,false,false,false,0,0
+"Djellal, Faridah","Djellal, Faridah",,5,8,9,0.2,0.245651,8.5,0.000796,0.000796,3,0.666667,0.000224,0,0,0.5,3,0.047504,Unrelated,false,false,false,0,0
+"Stare, Metka","Stare, Metka",,7,9,8,0.234437,0.277637,350,0.003859,0.003859,3,0.4,0.000381,0,0,0.466667,7,0.056426,Unrelated,false,false,false,0,0
+"Chang, Yuan-Chieh","Chang, Yuan-Chieh",,6,8,10,0.170029,0.214479,350,0.000099,0.000099,3,0.333333,0.000249,0,0,0.5,5,0.039219,Unrelated,false,false,false,0,0
+"Amanatidou, Effie","Amanatidou, Effie",,9,9,10,0.170192,0.22107,1.5,0.000176,0.000176,3,0.714286,0.000452,0,0,0.75,21,0.091438,Unrelated,false,false,false,0,0
+"Andersen, B.","Andersen, B.",,5,5,10,0.16954,0.20977,0,0.000108,0.000108,3,1,0.000211,0,0,0.833333,5,0.03996,Unrelated,false,false,false,0,0
+"Boden, M.","Boden, M.",,5,5,10,0.16954,0.20977,0,0.000108,0.000108,3,1,0.000211,0,0,0.833333,5,0.03996,Unrelated,false,false,false,0,0
+"Giesecke, Susanne","Giesecke, Susanne",,9,9,10,0.170192,0.22107,1.5,0.000176,0.000176,3,0.714286,0.000452,0,0,0.75,21,0.091438,Unrelated,false,false,false,0,0
+"Heller-Schuh, Barbara","Heller-Schuh, Barbara",,9,9,10,0.170192,0.22107,1.5,0.000176,0.000176,3,0.714286,0.000452,0,0,0.75,21,0.091438,Unrelated,false,false,false,0,0
+"Howells, J.","Howells, J.",,5,5,10,0.16954,0.20977,0,0.000108,0.000108,3,1,0.000211,0,0,0.833333,5,0.03996,Unrelated,false,false,false,0,0
+"Hung, S.-C.","Hung, S.-C.",,4,4,10,0.169703,0.208829,0,0.000097,0.000097,3,1,0.000174,0,0,0.666667,2,0.033022,Unrelated,false,false,false,0,0
+"Jesus Nieto, Maria","Jesus Nieto, Maria",,4,4,10,0.169378,0.206946,0,0.000097,0.000097,3,1,0.000218,0,0,0.666667,2,0.030469,Unrelated,false,false,false,0,0
+"Tsou, Hung Tai","Tsou, Hung Tai",,8,29,2,0.6875,0.772727,29.5,0,0,4,0.266667,0.000328,2,6,0.47619,10,0.032539,Unrelated,false,false,false,0,0
+"Chen, Ja-Shen","Chen, Ja-Shen",,9,23,3,0.647059,0.787879,26,0,0,4,0.238095,0.000467,2,6,0.428571,12,0.034033,Unrelated,false,false,false,0,0
+"Cheng, Colin C J","Cheng, Colin C J",,6,10,3,0.52381,0.636364,19,0,0,4,0.166667,0.000246,2,6,0.5,5,0.018762,Unrelated,false,false,false,0,0
+"Hsu, Hsuan-Yu","Hsu, Hsuan-Yu",,4,7,3,0.478261,0.545455,0,0,0,4,1,0.000169,2,6,1,3,0.014359,Unrelated,false,false,false,0,0
+"Ching, Russell K H","Ching, Russell K H",,4,4,3,0.5,0.560606,0,0,0,4,1,0.000178,2,6,1,3,0.017238,Unrelated,false,false,false,0,0
+"Huang, Astrid Ya-Hui","Huang, Astrid Ya-Hui",,4,4,3,0.5,0.560606,0,0,0,4,1,0.000178,2,6,1,3,0.017238,Unrelated,false,false,false,0,0
+"Liao, Wen-Hsuan","Liao, Wen-Hsuan",,4,4,3,0.5,0.560606,0,0,0,4,1,0.000178,2,6,1,3,0.017238,Unrelated,false,false,false,0,0
+"Edvardsson, Bo","Edvardsson, Bo",,21,38,5,0.540541,0.694583,600.166667,0,0,25,0.122807,0.001113,3,2,0.110526,21,0.162912,Unrelated,false,false,false,0,0
+"Grönroos, Christian","Grönroos, Christian",,11,17,4,0.45977,0.55,346,0,0,25,0.222222,0.00054,3,2,0.177778,8,0.081297,Unrelated,false,false,false,0,0
+"Tronvoll, Bard","Tronvoll, Bard",,9,17,6,0.38835,0.494167,48.833333,0,0,25,0.333333,0.000441,3,2,0.464286,13,0.073369,Unrelated,false,false,false,0,0
+"Skålén, P.","Skålén, P.",,7,11,6,0.384615,0.47125,147,0,0,25,0.2,0.000378,3,2,0.4,6,0.045372,Unrelated,false,false,false,0,0
+"Enquist, Bo","Enquist, Bo",,5,7,6,0.366972,0.435833,76,0,0,25,0.333333,0.000218,3,2,0.5,3,0.035201,Unrelated,false,false,false,0,0
+"Gruber, Thorsten","Gruber, Thorsten",,5,8,6,0.363636,0.431667,1,0,0,25,0.666667,0.000267,3,2,0.666667,4,0.045821,Unrelated,false,false,false,0,0
+"Åkesson, Maria","Åkesson, Maria",,7,9,6,0.380952,0.469167,111,0,0,25,0.4,0.00029,3,2,0.533333,8,0.055956,Unrelated,false,false,false,0,0
+"Aal, Kotaiba Abdul","Aal, Kotaiba Abdul",,4,4,6,0.37037,0.429583,0,0,0,25,1,0.00019,3,2,0.666667,2,0.036517,Unrelated,false,false,false,0,0
+"Ding, Yi","Ding, Yi",,6,6,6,0.363636,0.44,0.333333,0,0,25,0.833333,0.000324,3,2,0.8,8,0.050362,Unrelated,false,false,false,0,0
+"Firth, Robert","Firth, Robert",,6,6,6,0.363636,0.44,0.333333,0,0,25,0.833333,0.000324,3,2,0.8,8,0.050362,Unrelated,false,false,false,0,0
+"Holmlid, Stefan","Holmlid, Stefan",,7,7,5,0.408163,0.48,1,0,0,25,0.7,0.000384,3,2,0.666667,10,0.064943,Unrelated,false,false,false,0,0
+"Kleinaltenkamp, Michael","Kleinaltenkamp, Michael",,6,6,6,0.366972,0.444167,0.333333,0,0,25,0.833333,0.000317,3,2,0.8,8,0.054893,Unrelated,false,false,false,0,0
+"Den Hertog, Pim","Den Hertog, Pim",,7,14,8,0.227506,0.26549,522.5,0.00348,0.00348,3,0.3,0.000325,0,0,0.466667,7,0.045901,Unrelated,false,false,false,0,0
+"Gallego, Jorge","Gallego, Jorge",,5,11,8,0.226633,0.258898,2,0.003412,0.003412,3,0.666667,0.000216,0,0,0.666667,4,0.039393,Unrelated,false,false,false,0,0
+"Michel, Stefan","Michel, Stefan",,7,14,7,0.280507,0.327361,297.5,0.051701,0.051701,2,0.7,0.000301,0,0,0.466667,7,0.178679,Unrelated,false,false,false,0,0
+"Reynoso, Javier","Reynoso, Javier",,10,14,7,0.275701,0.325478,1031,0.026765,0.026765,2,0.321429,0.000455,0,0,0.25,9,0.141801,Unrelated,false,false,false,0,0
+"Hipp, Christiane","Hipp, Christiane",,4,6,8,0.225478,0.253719,0,0.003102,0.003102,3,1,0.000175,0,0,0.666667,2,0.032135,Unrelated,false,false,false,0,0
+"Gago, David","Gago, David",,3,3,8,0.225191,0.250895,0,0.002768,0.002768,3,0,0.000139,0,0,0,0,0.025137,Unrelated,false,false,false,0,0
+"Eaton, B.","Eaton, B.",,5,5,5,0.313333,0.368085,0,0,0,313,1,0.000206,1,1,0.833333,5,0.03599,Unrelated,false,false,false,0,0
+"Elaluf-Calderwood, S.","Elaluf-Calderwood, S.",,5,5,5,0.313333,0.368085,0,0,0,313,1,0.000206,1,1,0.833333,5,0.03599,Unrelated,false,false,false,0,0
+"Gallan, Andrew S","Gallan, Andrew S",,15,21,7,0.275701,0.343651,586.261905,0.292571,0.292571,2,0.602564,0.000593,0,0,0.516484,47,0.646542,Unrelated,false,false,false,0,0
+"Kerr, Don","Kerr, Don",,5,5,4,0.44,0.560606,0.5,0,0,4,0.666667,0.00031,2,6,0.833333,5,0.016238,Unrelated,false,false,false,0,0
+"Gummesson, Evert","Gummesson, Evert",,6,16,5,0.357143,0.42375,241,0,0,25,0.166667,0.00025,3,2,0.4,4,0.028791,Unrelated,false,false,false,0,0
+"Polese, Francesco","Polese, Francesco",,6,8,6,0.27972,0.353333,144,0,0,25,0.5,0.000254,3,2,0.7,7,0.024034,Unrelated,false,false,false,0,0
+"Diaz-Mendez, Montserrat","Diaz-Mendez, Montserrat",,4,4,6,0.266667,0.309583,0,0,0,25,1,0.000171,3,2,1,3,0.011494,Unrelated,false,false,false,0,0
+"Díaz-Méndez, M.","Díaz-Méndez, M.",,4,4,6,0.266667,0.309583,0,0,0,25,1,0.000171,3,2,1,3,0.011494,Unrelated,false,false,false,0,0
+"Orlikowski, Wanda J.","Orlikowski, Wanda J.",,6,18,10,0.174384,0.215604,176,0.000348,0.000348,1,0.5,0.000284,0,0,0.6,6,0.033087,Unrelated,false,false,false,0,0
+"Scott, Susan V.","Scott, Susan V.",,3,9,11,0.148615,0.171449,0,0.000034,0.000034,1,0,0.00014,0,0,1,1,0.008083,Unrelated,false,false,false,0,0
+"Oborn, Eivor","Oborn, Eivor",,6,9,10,0.174729,0.217487,4.5,0.000568,0.000568,1,0.666667,0.000298,0,0,0.7,7,0.041619,Unrelated,false,false,false,0,0
+"Parasuraman, A.","Parasuraman, A.",,20,32,7,0.260677,0.34852,2507.5,0.06701,0.06701,5,0.169935,0.001036,0,0,0.152047,26,0.290454,Unrelated,false,false,false,0,0
+"Ordanini, Andrea","Ordanini, Andrea",,7,18,8,0.208235,0.254735,177.5,0.008804,0.008804,5,0.3,0.000495,0,0,0.466667,7,0.059981,Unrelated,false,false,false,0,0
+"Meyer, Jeffrey","Meyer, Jeffrey",,7,9,8,0.207991,0.253793,0,0.01075,0.01075,5,1,0.000303,0,0,0.933333,14,0.085849,Unrelated,false,false,false,0,0
+"Rubera, Gaia","Rubera, Gaia",,4,7,8,0.207503,0.24626,0,0.007408,0.007408,5,1,0.000203,0,0,0.666667,2,0.047045,Unrelated,false,false,false,0,0
+"Voss, Christopher A","Voss, Christopher A",,7,9,7,0.255411,0.310856,176,0.055893,0.055893,5,0.6,0.000309,0,0,0.6,9,0.175278,Unrelated,false,false,false,0,0
+"Berry, Leonard L","Berry, Leonard L",,7,7,8,0.207991,0.253793,0,0.01075,0.01075,5,1,0.000303,0,0,0.933333,14,0.085849,Unrelated,false,false,false,0,0
+"Bolton, Ruth N","Bolton, Ruth N",,7,7,8,0.207991,0.253793,0,0.01075,0.01075,5,1,0.000303,0,0,0.933333,14,0.085849,Unrelated,false,false,false,0,0
+"Bowen, David E","Bowen, David E",,6,6,7,0.255043,0.308031,0,0.055407,0.055407,5,1,0.000269,0,0,0.8,8,0.172014,Unrelated,false,false,false,0,0
+"Bridges, Cheryl H","Bridges, Cheryl H",,7,7,8,0.207991,0.253793,0,0.01075,0.01075,5,1,0.000303,0,0,0.933333,14,0.085849,Unrelated,false,false,false,0,0
+"Brohman, M Kathryn","Brohman, M Kathryn",,7,7,8,0.207991,0.253793,1,0.010021,0.010021,5,0.7,0.000395,0,0,0.733333,11,0.071807,Unrelated,false,false,false,0,0
+"Martin, Patrick","Martin, Patrick",,7,7,8,0.207991,0.253793,1,0.010021,0.010021,5,0.7,0.000395,0,0,0.733333,11,0.071807,Unrelated,false,false,false,0,0
+"Henten, A.","Henten, A.",,4,6,8,0.223203,0.248729,0,0.00295,0.00295,2,1,0.00024,0,0,0.666667,2,0.025251,Unrelated,false,false,false,0,0
+"Yuan, Soe-Tsyr","Yuan, Soe-Tsyr",,9,21,1,1,1,16,0,0,6,0.190476,0.000458,4,14,0.392857,11,0.029212,Unrelated,false,false,false,0,0
+"Tung, Wei-Feng","Tung, Wei-Feng",,6,12,2,0.7,0.785714,1,0,0,6,0.666667,0.000333,4,14,0.8,8,0.021717,Unrelated,false,false,false,0,0
+"Fei, Yan-Lin","Fei, Yan-Lin",,3,3,2,0.538462,0.571429,0,0,0,6,0,0.000143,4,14,1,1,0.008882,Unrelated,false,false,false,0,0
+"Hsieh, Pei-Hung","Hsieh, Pei-Hung",,3,3,2,0.538462,0.571429,0,0,0,6,0,0.000143,4,14,1,1,0.008882,Unrelated,false,false,false,0,0
+"Hsieh, Yen-Hao","Hsieh, Yen-Hao",,3,3,2,0.538462,0.571429,0,0,0,6,0,0.000143,4,14,1,1,0.008882,Unrelated,false,false,false,0,0
+"Hung, Patrick","Hung, Patrick",,5,5,2,0.636364,0.714286,0,0,0,6,1,0.000256,4,14,1,6,0.018921,Unrelated,false,false,false,0,0
+"Cadwallader, Susan","Cadwallader, Susan",,5,5,7,0.249296,0.291552,0,0.056256,0.056256,2,1,0.000206,0,0,0.666667,4,0.159944,Unrelated,false,false,false,0,0
+"Jarvis, Cheryl Burke","Jarvis, Cheryl Burke",,5,5,7,0.249296,0.291552,0,0.056256,0.056256,2,1,0.000206,0,0,0.666667,4,0.159944,Unrelated,false,false,false,0,0
+"Evangelista, R.","Evangelista, R.",,5,16,10,0.16573,0.19348,176,0.000072,0.000072,3,0.333333,0.000228,0,0,0.666667,4,0.014064,Unrelated,false,false,false,0,0
+"Sirilli, G.","Sirilli, G.",,3,9,11,0.142283,0.158661,0,0.000007,0.000007,3,0,0.000138,0,0,1,1,0.005652,Unrelated,false,false,false,0,0
+"Cainelli, Giulio","Cainelli, Giulio",,4,4,10,0.165575,0.190656,0,0.000071,0.000071,3,1,0.000188,0,0,1,3,0.011981,Unrelated,false,false,false,0,0
+"Bygstad, Bendik","Bygstad, Bendik",,7,13,7,0.284848,0.385917,142,0,0,313,0.1,0.000298,1,1,0.333333,5,0.033271,Unrelated,false,false,false,0,0
+"Braa, J.","Braa, J.",,6,6,7,0.268571,0.348683,0.333333,0,0,313,0.833333,0.00034,1,1,0.8,8,0.03048,Unrelated,false,false,false,0,0
+"Grisot, M.","Grisot, M.",,4,4,7,0.265537,0.327406,0,0,0,313,1,0.000237,1,1,0.666667,2,0.017479,Unrelated,false,false,false,0,0
+"Heywood, A.","Heywood, A.",,6,6,7,0.268571,0.348683,0.333333,0,0,313,0.833333,0.00034,1,1,0.8,8,0.03048,Unrelated,false,false,false,0,0
+"Lievens, Annouk","Lievens, Annouk",,9,18,4,0.428571,0.548611,103,0,0,12,0.142857,0.000417,5,4,0.357143,10,0.033549,Unrelated,false,false,false,0,0
+"de Ruyter, K.","de Ruyter, K.",,6,8,4,0.413793,0.493056,63,0,0,12,0.333333,0.000271,5,4,0.6,6,0.025197,Unrelated,false,false,false,0,0
+"Lemmink, J.","Lemmink, J.",,6,8,3,0.510638,0.5625,140,0,0,12,0.333333,0.000283,5,4,0.5,5,0.039945,Unrelated,false,false,false,0,0
+"Moenaert, R. K.","Moenaert, R. K.",,4,7,5,0.307692,0.374306,0,0,0,12,1,0.000217,5,4,1,3,0.012649,Unrelated,false,false,false,0,0
+"Blazevic, V.","Blazevic, V.",,4,4,5,0.307692,0.374306,0,0,0,12,1,0.000176,5,4,1,3,0.013392,Unrelated,false,false,false,0,0
+"Klein, E.","Klein, E.",,4,4,5,0.307692,0.374306,0,0,0,12,1,0.000176,5,4,1,3,0.013392,Unrelated,false,false,false,0,0
+"Mahr, Dominik","Mahr, Dominik",,3,3,5,0.303797,0.353472,0,0,0,12,0,0.000139,5,4,1,1,0.009385,Unrelated,false,false,false,0,0
+"Shirahada, Kunio","Shirahada, Kunio",,16,20,7,0.255411,0.328275,525.428571,0.282138,0.282138,2,0.505495,0.000759,0,0,0.438095,46,0.598504,Unrelated,false,false,false,0,0
+"Giraldo, Mario","Giraldo, Mario",,16,18,7,0.255411,0.328275,523.428571,0.283437,0.283437,2,0.527473,0.00066,0,0,0.457143,48,0.604103,Unrelated,false,false,false,0,0
+"Anderson, Laurel","Anderson, Laurel",,13,13,7,0.25431,0.319801,1.428571,0.274244,0.274244,2,0.818182,0.000521,0,0,0.681818,45,0.579638,Unrelated,false,false,false,0,0
+"Corus, Canan","Corus, Canan",,13,13,7,0.25431,0.319801,1.428571,0.274244,0.274244,2,0.818182,0.000521,0,0,0.681818,45,0.579638,Unrelated,false,false,false,0,0
+"Fisk, Raymond P","Fisk, Raymond P",,13,13,7,0.25431,0.319801,1.428571,0.274244,0.274244,2,0.818182,0.000521,0,0,0.681818,45,0.579638,Unrelated,false,false,false,0,0
+"Agarwal, Renu","Agarwal, Renu",,8,16,2,0.75,0.833333,14.333333,0,0,7,0.4,0.000395,6,9,0.571429,12,0.034227,Unrelated,false,false,false,0,0
+"Choi, Jisun","Choi, Jisun",,9,13,2,0.818182,0.888889,18.333333,0,0,7,0.380952,0.000466,6,9,0.535714,15,0.039844,Unrelated,false,false,false,0,0
+"Selen, Willem","Selen, Willem",,6,12,2,0.642857,0.722222,0.333333,0,0,7,0.833333,0.000316,6,9,0.9,9,0.027789,Unrelated,false,false,false,0,0
+"Gao, G.","Gao, G.",,4,4,3,0.473684,0.555556,0,0,0,7,1,0.000179,6,9,1,3,0.013132,Unrelated,false,false,false,0,0
+"Goh, J. M.","Goh, J. M.",,4,4,3,0.473684,0.555556,0,0,0,7,1,0.000179,6,9,1,3,0.013132,Unrelated,false,false,false,0,0
+"Walsham, G.","Walsham, G.",,5,7,10,0.174041,0.211838,0,0.000317,0.000317,1,1,0.000244,0,0,0.833333,5,0.028002,Unrelated,false,false,false,0,0
+"Cappleman, S.","Cappleman, S.",,5,5,10,0.174041,0.211838,0,0.000317,0.000317,1,1,0.000244,0,0,0.833333,5,0.028002,Unrelated,false,false,false,0,0
+"Andersen-Gott, M.","Andersen-Gott, M.",,4,4,8,0.22381,0.281358,0,0,0,313,1,0.000172,1,1,1,3,0.012475,Unrelated,false,false,false,0,0
+"Ghinea, G.","Ghinea, G.",,4,4,8,0.22381,0.281358,0,0,0,313,1,0.000172,1,1,1,3,0.012475,Unrelated,false,false,false,0,0
+"Lanestedt, Gjermund","Lanestedt, Gjermund",,3,3,8,0.222749,0.270719,0,0,0,313,0,0.000135,1,1,1,1,0.008637,Unrelated,false,false,false,0,0
+"van der Aa, Wietze","van der Aa, Wietze",,5,7,9,0.18612,0.210999,176,0.000381,0.000381,3,0.333333,0.000215,0,0,0.666667,4,0.016454,Unrelated,false,false,false,0,0
+"de Jong, Mark W","de Jong, Mark W",,4,4,9,0.185924,0.208174,0,0.000377,0.000377,3,1,0.000175,0,0,1,3,0.014353,Unrelated,false,false,false,0,0
+"Gummerus, Johanna","Gummerus, Johanna",,3,7,5,0.31746,0.351667,0,0,0,25,0,0.000141,3,2,0,0,0.015362,Unrelated,false,false,false,0,0
+"Guest, Duncan","Guest, Duncan",,4,4,5,0.32,0.364167,0,0,0,25,1,0.000179,3,2,0.666667,2,0.020029,Unrelated,false,false,false,0,0
+"Holmqvist, Jonas","Holmqvist, Jonas",,4,4,5,0.32,0.364167,0,0,0,25,1,0.000179,3,2,0.666667,2,0.020029,Unrelated,false,false,false,0,0
+"Ghazawneh, A.","Ghazawneh, A.",,3,6,7,0.251337,0.291945,0,0,0,313,0,0.000134,1,1,1,1,0.010134,Unrelated,false,false,false,0,0
+"Benaroch, Michel","Benaroch, Michel",,4,4,8,0.223203,0.253181,0,0.004209,0.004209,0,1,0.000166,0,0,0.666667,2,0.039352,Unrelated,false,false,false,0,0
+"Dai, Qizhi","Dai, Qizhi",,4,4,8,0.223203,0.253181,0,0.004209,0.004209,0,1,0.000166,0,0,0.666667,2,0.039352,Unrelated,false,false,false,0,0
+"Kowalkowski, Christian","Kowalkowski, Christian",,6,13,1,1,1,1,0,0,8,0.666667,0.000236,7,41,0.8,8,0.020413,Unrelated,false,false,false,0,0
+"Kindström, D.","Kindström, D.",,6,9,1,1,1,1,0,0,8,0.666667,0.000236,7,41,0.8,8,0.020413,Unrelated,false,false,false,0,0
+"Brehme, P.-O.","Brehme, P.-O.",,4,4,2,0.666667,0.75,0,0,0,8,1,0.000166,7,41,1,3,0.012412,Unrelated,false,false,false,0,0
+"Carlborg, Per","Carlborg, Per",,5,5,2,0.8,0.875,0,0,0,8,1,0.0002,7,41,1,6,0.017252,Unrelated,false,false,false,0,0
+"Kindstrom, Daniel","Kindstrom, Daniel",,5,5,2,0.8,0.875,0,0,0,8,1,0.0002,7,41,1,6,0.017252,Unrelated,false,false,false,0,0
+"Lee, Jungwoo","Lee, Jungwoo",,7,13,1,1,1,8,0,0,9,0.2,0.000281,8,24,0.466667,7,0.018855,Unrelated,false,false,false,0,0
+"Berente, Nicholas","Berente, Nicholas",,4,4,2,0.625,0.7,0,0,0,9,1,0.00017,8,24,1,3,0.010646,Unrelated,false,false,false,0,0
+"Eastwood, D.","Eastwood, D.",,4,4,2,0.625,0.7,0,0,0,9,1,0.00017,8,24,1,3,0.010646,Unrelated,false,false,false,0,0
+"Lee, E.-J.","Lee, E.-J.",,4,4,2,0.625,0.7,0,0,0,9,1,0.00017,8,24,1,3,0.010646,Unrelated,false,false,false,0,0
+"Lee, Hyejung","Lee, Hyejung",,3,3,2,0.555556,0.6,0,0,0,9,0,0.000133,8,24,1,1,0.00697,Unrelated,false,false,false,0,0
+"Lee, Jaegul","Lee, Jaegul",,4,4,2,0.625,0.7,0,0,0,9,1,0.00017,8,24,1,3,0.010646,Unrelated,false,false,false,0,0
+"Markeset, T.","Markeset, T.",,4,13,1,1,1,0,0,0,10,1,0.000173,9,112,1,3,0.007876,Unrelated,false,false,false,0,0
+"Panesar, S. S.","Panesar, S. S.",,4,13,1,1,1,0,0,0,10,1,0.000173,9,112,1,3,0.007876,Unrelated,false,false,false,0,0
+"Kumar, R.","Kumar, R.",,4,4,1,1,1,0,0,0,10,1,0.000173,9,112,1,3,0.007876,Unrelated,false,false,false,0,0
+"Nicolajsen, Hanne Westh","Nicolajsen, Hanne Westh",,4,12,1,1,1,1,0,0,11,0,0.000279,10,113,0.666667,2,0.005702,Unrelated,false,false,false,0,0
+"Scupola, Ada","Scupola, Ada",,3,9,2,0.666667,0.75,0,0,0,11,0,0.000159,10,113,1,1,0.004258,Unrelated,false,false,false,0,0
+"Rai, Arun","Rai, Arun",,10,16,6,0.281437,0.395745,402,0,0,278,0.142857,0.000659,1,1,0.111111,4,0.037855,Unrelated,false,false,false,0,0
+"Sambamurthy, Vallabh","Sambamurthy, Vallabh",,7,11,7,0.229268,0.32614,176,0,0,278,0.2,0.000427,1,1,0.4,6,0.023589,Unrelated,false,false,false,0,0
+"Mathiassen, Lars","Mathiassen, Lars",,5,7,5,0.330986,0.386879,420,0,0,278,0.333333,0.000234,1,1,0.5,3,0.026475,Unrelated,false,false,false,0,0
+"Du, S.","Du, S.",,5,5,7,0.222749,0.290679,0,0,0,278,1,0.000272,1,1,0.833333,5,0.019813,Unrelated,false,false,false,0,0
+"Im, G.","Im, G.",,5,5,7,0.222749,0.290679,0,0,0,278,1,0.000272,1,1,0.833333,5,0.019813,Unrelated,false,false,false,0,0
+"Lewis, Mark O","Lewis, Mark O",,4,4,6,0.265537,0.31773,0,0,0,278,1,0.000195,1,1,0.666667,2,0.016177,Unrelated,false,false,false,0,0
+"Landau, Jonathan S","Landau, Jonathan S",,3,3,5,0.283133,0.315248,0,0,0,313,0,0.000136,1,1,1,1,0.013148,Unrelated,false,false,false,0,0
+"Hogstrom, Claes","Hogstrom, Claes",,3,3,7,0.28169,0.325655,0,0,0,25,0,0.000141,3,2,1,1,0.013732,Unrelated,false,false,false,0,0
+"van Riel, A.C.R.","van Riel, A.C.R.",,14,21,4,0.533333,0.690972,181,0,0,12,0.30303,0.000536,5,4,0.25641,20,0.124161,Unrelated,false,false,false,0,0
+"Semeijn, Janjaap","Semeijn, Janjaap",,8,13,5,0.393443,0.525694,45,0,0,12,0.333333,0.000362,5,4,0.47619,10,0.047996,Unrelated,false,false,false,0,0
+"Beckers, Sander F M","Beckers, Sander F M",,8,8,5,0.380952,0.511806,0,0,0,12,1,0.000281,5,4,0.952381,20,0.08867,Unrelated,false,false,false,0,0
+"Bouzaabia, Olfa","Bouzaabia, Olfa",,4,4,5,0.369231,0.442361,0,0,0,12,1,0.00017,5,4,0.666667,2,0.03015,Unrelated,false,false,false,0,0
+"Calabretta, Giulia","Calabretta, Giulia",,8,8,5,0.380952,0.511806,0,0,0,12,1,0.000281,5,4,0.952381,20,0.08867,Unrelated,false,false,false,0,0
+"Driessen, Paul H","Driessen, Paul H",,8,8,5,0.380952,0.511806,0,0,0,12,1,0.000281,5,4,0.952381,20,0.08867,Unrelated,false,false,false,0,0
+"Hammedi, Wafa","Hammedi, Wafa",,5,5,5,0.375,0.463194,0,0,0,12,1,0.000205,5,4,0.833333,5,0.037134,Unrelated,false,false,false,0,0
+"Henseler, Jorg","Henseler, Jorg",,5,5,5,0.375,0.463194,0,0,0,12,1,0.000205,5,4,0.833333,5,0.037134,Unrelated,false,false,false,0,0
+"Hillebrand, Bas","Hillebrand, Bas",,8,8,5,0.380952,0.511806,0,0,0,12,1,0.000281,5,4,0.952381,20,0.08867,Unrelated,false,false,false,0,0
+"Humphreys, Ashlee","Humphreys, Ashlee",,8,8,5,0.380952,0.511806,0,0,0,12,1,0.000281,5,4,0.952381,20,0.08867,Unrelated,false,false,false,0,0
+"Krafft, Manfred","Krafft, Manfred",,8,8,5,0.380952,0.511806,0,0,0,12,1,0.000281,5,4,0.952381,20,0.08867,Unrelated,false,false,false,0,0
+"Verma, Rohit","Verma, Rohit",,8,15,2,0.875,0.928571,16,0,0,13,0.2,0.000465,11,15,0.428571,9,0.023162,Unrelated,false,false,false,0,0
+Rajagopal,Rajagopal,,4,7,3,0.538462,0.619048,0,0,0,13,1,0.000233,11,15,1,3,0.010926,Unrelated,false,false,false,0,0
+"Roth, Aleda V","Roth, Aleda V",,5,7,2,0.636364,0.714286,6,0,0,13,0.333333,0.000323,11,15,0.666667,4,0.013834,Unrelated,false,false,false,0,0
+"Karniouchina, EV","Karniouchina, EV",,4,4,3,0.538462,0.619048,0,0,0,13,1,0.000233,11,15,1,3,0.010926,Unrelated,false,false,false,0,0
+"Lee, Min Kyung","Lee, Min Kyung",,4,4,2,0.583333,0.642857,0,0,0,13,1,0.000204,11,15,1,3,0.012242,Unrelated,false,false,false,0,0
+"Xu, Xin","Xu, Xin",,7,18,1,1,1,4,0,0,14,0.6,0.000362,12,25,0.733333,11,0.029308,Unrelated,false,false,false,0,0
+"Venkatesh, Viswanath","Venkatesh, Viswanath",,6,15,2,0.833333,0.9,0,0,0,14,1,0.000249,12,25,1,10,0.027455,Unrelated,false,false,false,0,0
+"Hong, Se-Joon","Hong, Se-Joon",,6,11,2,0.833333,0.9,0,0,0,14,1,0.000249,12,25,1,10,0.027455,Unrelated,false,false,false,0,0
+"Tam, Kar Yan","Tam, Kar Yan",,6,11,2,0.833333,0.9,0,0,0,14,1,0.000249,12,25,1,10,0.027455,Unrelated,false,false,false,0,0
+"Thong, James Y L","Thong, James Y L",,6,10,2,0.833333,0.9,0,0,0,14,1,0.000249,12,25,1,10,0.027455,Unrelated,false,false,false,0,0
+"Boudreau, Kevin J","Boudreau, Kevin J",,3,7,1,1,1,0,0,0,15,0,0.000139,13,217,1,1,0.003684,Unrelated,false,false,false,0,0
+"Jeppesen, Lars B","Jeppesen, Lars B",,3,3,1,1,1,0,0,0,15,0,0.000139,13,217,1,1,0.003684,Unrelated,false,false,false,0,0
+"Bouwman, Harry","Bouwman, Harry",,7,11,1,1,1,8,0,0,293,0.2,0.00041,14,40,0.466667,7,0.017088,Unrelated,false,false,false,0,0
+"de Reuver, Mark","de Reuver, Mark",,3,5,2,0.555556,0.6,0,0,0,293,0,0.000149,14,40,1,1,0.006726,Unrelated,false,false,false,0,0
+"Guldemond, Nick","Guldemond, Nick",,4,4,2,0.625,0.7,0,0,0,293,1,0.000234,14,40,1,3,0.009663,Unrelated,false,false,false,0,0
+"Jaiswal, M.","Jaiswal, M.",,4,4,2,0.625,0.7,0,0,0,293,1,0.000234,14,40,1,3,0.009663,Unrelated,false,false,false,0,0
+"Chae, Bongsug (Kevin)","Chae, Bongsug (Kevin)",,3,8,1,1,1,0,0,0,16,0,0.000139,15,218,1,1,0.003684,Unrelated,false,false,false,0,0
+"Chae, B.","Chae, B.",,3,6,1,1,1,0,0,0,16,0,0.000139,15,218,1,1,0.003684,Unrelated,false,false,false,0,0
+"Krumwiede, Dennis","Krumwiede, Dennis",,3,3,4,0.354839,0.416667,0,0,0,4,0,0.000134,2,6,1,1,0.006611,Unrelated,false,false,false,0,0
+"Liao, Shuling","Liao, Shuling",,3,3,4,0.354839,0.416667,0,0,0,4,0,0.000134,2,6,1,1,0.006611,Unrelated,false,false,false,0,0
+"Choi, Jae","Choi, Jae",,5,5,3,0.529412,0.62963,0,0,0,7,1,0.000251,6,9,1,6,0.019658,Unrelated,false,false,false,0,0
+"Jain, Hemant K","Jain, Hemant K",,5,5,3,0.529412,0.62963,0,0,0,7,1,0.000251,6,9,1,6,0.019658,Unrelated,false,false,false,0,0
+"Cusumano, Michael A","Cusumano, Michael A",,3,8,1,1,1,0,0,0,17,0,0.000139,16,219,1,1,0.003684,Unrelated,false,false,false,0,0
+"Gawer, Annabelle","Gawer, Annabelle",,3,6,1,1,1,0,0,0,17,0,0.000139,16,219,1,1,0.003684,Unrelated,false,false,false,0,0
+"Basoglu, N.","Basoglu, N.",,4,4,8,0.221527,0.249132,0,0.002689,0.002689,0,1,0.000224,0,0,1,3,0.027016,Unrelated,false,false,false,0,0
+"Iskin, I.","Iskin, I.",,4,4,8,0.221527,0.249132,0,0.002689,0.002689,0,1,0.000224,0,0,1,3,0.027016,Unrelated,false,false,false,0,0
+"Gebauer, Heiko","Gebauer, Heiko",,8,12,5,0.4,0.503889,153,0,0,18,0.266667,0.000316,17,3,0.428571,9,0.058431,Unrelated,false,false,false,0,0
+"Witell, Lars","Witell, Lars",,12,17,4,0.508475,0.619444,147.5,0,0,18,0.422222,0.000479,17,3,0.345455,19,0.133224,Unrelated,false,false,false,0,0
+"Gustafsson, Anders","Gustafsson, Anders",,9,12,4,0.483871,0.569444,66.5,0,0,18,0.761905,0.000375,17,3,0.714286,20,0.116739,Unrelated,false,false,false,0,0
+"Lightfoot, Howard W","Lightfoot, Howard W",,5,7,6,0.3,0.377778,56,0,0,18,0.333333,0.000262,17,3,0.666667,4,0.017818,Unrelated,false,false,false,0,0
+"Fleisch, E.","Fleisch, E.",,5,5,6,0.294118,0.366667,0,0,0,18,1,0.000201,17,3,1,6,0.022255,Unrelated,false,false,false,0,0
+"Friedli, T.","Friedli, T.",,5,5,6,0.294118,0.366667,0,0,0,18,1,0.000201,17,3,1,6,0.022255,Unrelated,false,false,false,0,0
+"Krempl, R.","Krempl, R.",,5,5,6,0.294118,0.366667,0,0,0,18,1,0.000201,17,3,1,6,0.022255,Unrelated,false,false,false,0,0
+"Hilton, Toni","Hilton, Toni",,10,15,5,0.405405,0.535556,81,0,0,18,0.464286,0.000371,17,3,0.361111,13,0.095541,Unrelated,false,false,false,0,0
+"Frow, Pennie","Frow, Pennie",,9,12,5,0.405405,0.524444,39,0,0,18,0.619048,0.00038,17,3,0.642857,18,0.091738,Unrelated,false,false,false,0,0
+"Hughes, Tim","Hughes, Tim",,5,8,6,0.29703,0.376667,0,0,0,18,1,0.000198,17,3,0.833333,5,0.028062,Unrelated,false,false,false,0,0
+"McColl-Kennedy, Janet R","McColl-Kennedy, Janet R",,13,15,4,0.517241,0.638889,209,0,0,18,0.454545,0.000511,17,3,0.378788,25,0.167363,Unrelated,false,false,false,0,0
+"Payne, Adrian","Payne, Adrian",,9,12,5,0.405405,0.524444,39,0,0,18,0.619048,0.00038,17,3,0.642857,18,0.091738,Unrelated,false,false,false,0,0
+"Brozovic, Danilo","Brozovic, Danilo",,7,7,5,0.38961,0.485556,0,0,0,18,1,0.000269,17,3,0.866667,13,0.080648,Unrelated,false,false,false,0,0
+"Davidson, Anthony","Davidson, Anthony",,7,7,5,0.38961,0.485556,0,0,0,18,1,0.000269,17,3,0.866667,13,0.080648,Unrelated,false,false,false,0,0
+"Little, E.","Little, E.",,5,5,6,0.29703,0.376667,0,0,0,18,1,0.000198,17,3,0.833333,5,0.028062,Unrelated,false,false,false,0,0
+"Marandi, Ebi","Marandi, Ebi",,5,5,6,0.29703,0.376667,0,0,0,18,1,0.000198,17,3,0.833333,5,0.028062,Unrelated,false,false,false,0,0
+"Hurmelinna-Laukkanen, Pia","Hurmelinna-Laukkanen, Pia",,7,12,1,1,1,6.5,0,0,19,0.3,0.000407,18,26,0.533333,8,0.019056,Unrelated,false,false,false,0,0
+"Ritala, Paavo","Ritala, Paavo",,4,7,2,0.625,0.7,0,0,0,19,1,0.000189,18,26,1,3,0.010669,Unrelated,false,false,false,0,0
+"Blomqvist, K.","Blomqvist, K.",,4,4,2,0.625,0.7,0,0,0,19,1,0.000189,18,26,1,3,0.010669,Unrelated,false,false,false,0,0
+"Johnston, Wesley J","Johnston, Wesley J",,5,5,2,0.714286,0.8,0.5,0,0,19,0.666667,0.000322,18,26,0.833333,5,0.01311,Unrelated,false,false,false,0,0
+"Lin, Chiu Hui","Lin, Chiu Hui",,9,13,1,1,1,14.333333,0,0,20,0.285714,0.000434,19,20,0.464286,13,0.033649,Unrelated,false,false,false,0,0
+"Wu, Chih-Wen","Wu, Chih-Wen",,4,6,2,0.583333,0.642857,0,0,0,20,1,0.000178,19,20,1,3,0.013465,Unrelated,false,false,false,0,0
+"Cheng, Yi-Han","Cheng, Yi-Han",,4,4,2,0.583333,0.642857,0,0,0,20,1,0.000178,19,20,1,3,0.013465,Unrelated,false,false,false,0,0
+"Hsu, Shu-Chuan","Hsu, Shu-Chuan",,6,6,2,0.7,0.785714,0.333333,0,0,20,0.833333,0.000315,19,20,0.9,9,0.024535,Unrelated,false,false,false,0,0
+"Lin, Che-Hung","Lin, Che-Hung",,6,6,2,0.7,0.785714,0.333333,0,0,20,0.833333,0.000315,19,20,0.9,9,0.024535,Unrelated,false,false,false,0,0
+"Lin, Tingling","Lin, Tingling",,3,3,2,0.538462,0.571429,0,0,0,20,0,0.00014,19,20,1,1,0.009448,Unrelated,false,false,false,0,0
+"Maull, Roger","Maull, Roger",,5,12,1,1,1,0.5,0,0,21,0.666667,0.000265,20,72,0.833333,5,0.011786,Unrelated,false,false,false,0,0
+"Ng, Irene C L","Ng, Irene C L",,5,12,1,1,1,0.5,0,0,21,0.666667,0.000265,20,72,0.833333,5,0.011786,Unrelated,false,false,false,0,0
+"Smith, Laura","Smith, Laura",,4,8,2,0.75,0.833333,0,0,0,21,1,0.00019,20,72,1,3,0.009543,Unrelated,false,false,false,0,0
+"Kandampully, Jay","Kandampully, Jay",,7,9,8,0.21798,0.251365,350,0.003323,0.003323,2,0.4,0.000374,0,0,0.533333,8,0.038359,Unrelated,false,false,false,0,0
+"Ben Letaifa, Soumaya","Ben Letaifa, Soumaya",,3,3,8,0.216381,0.238183,0,0.002615,0.002615,2,0,0.000138,0,0,0,0,0.019828,Unrelated,false,false,false,0,0
+"Fan, Xiucheng","Fan, Xiucheng",,5,5,8,0.217445,0.245716,0,0.003259,0.003259,2,1,0.000247,0,0,0.833333,5,0.032832,Unrelated,false,false,false,0,0
+"Richey, Robert Glenn, Jr","Richey, Robert Glenn, Jr",,12,17,2,0.857143,0.916667,34,0,0,22,0.377778,0.000476,21,5,0.309091,17,0.088207,Unrelated,false,false,false,0,0
+"Tokman, Mert","Tokman, Mert",,10,15,2,0.75,0.833333,22,0,0,22,0.428571,0.000387,21,5,0.527778,19,0.070843,Unrelated,false,false,false,0,0
+"Adams, Frank G","Adams, Frank G",,6,6,3,0.545455,0.638889,0,0,0,22,1,0.000258,21,5,0.9,9,0.038148,Unrelated,false,false,false,0,0
+"Autry, Chad W","Autry, Chad W",,6,6,3,0.545455,0.638889,0,0,0,22,1,0.000258,21,5,0.9,9,0.038148,Unrelated,false,false,false,0,0
+"Beitelspacher, Lauren Skinner","Beitelspacher, Lauren Skinner",,7,7,2,0.631579,0.708333,0,0,0,22,1,0.000279,21,5,0.933333,14,0.058514,Unrelated,false,false,false,0,0
+"Dalela, Vivek","Dalela, Vivek",,4,4,2,0.545455,0.583333,0,0,0,22,1,0.000166,21,5,0.666667,2,0.029197,Unrelated,false,false,false,0,0
+"Gabler, Colin B","Gabler, Colin B",,6,6,3,0.545455,0.638889,0,0,0,22,1,0.000258,21,5,0.9,9,0.038148,Unrelated,false,false,false,0,0
+"Harvey, Michael G","Harvey, Michael G",,7,7,2,0.631579,0.708333,0,0,0,22,1,0.000279,21,5,0.933333,14,0.058514,Unrelated,false,false,false,0,0
+"Hilton, Chadwick B","Hilton, Chadwick B",,7,7,2,0.631579,0.708333,0,0,0,22,1,0.000279,21,5,0.933333,14,0.058514,Unrelated,false,false,false,0,0
+"Banker, Rajiv","Banker, Rajiv",,4,4,8,0.188,0.24501,0,0,0,278,1,0.000237,1,1,1,3,0.010623,Unrelated,false,false,false,0,0
+"Chellappa, Ramnath K","Chellappa, Ramnath K",,4,4,8,0.188,0.24501,0,0,0,278,1,0.000237,1,1,1,3,0.010623,Unrelated,false,false,false,0,0
+"Savory, C.","Savory, C.",,3,7,1,1,1,0,0,0,23,0,0.000139,22,220,1,1,0.003684,Unrelated,false,false,false,0,0
+"Fortune, J.","Fortune, J.",,3,3,1,1,1,0,0,0,23,0,0.000139,22,220,1,1,0.003684,Unrelated,false,false,false,0,0
+"Sawatani, Yuriko","Sawatani, Yuriko",,9,13,2,0.818182,0.888889,15.25,0,0,24,0.428571,0.000496,23,10,0.571429,16,0.051958,Unrelated,false,false,false,0,0
+"Kajikawa, Yuya","Kajikawa, Yuya",,9,12,2,0.818182,0.888889,6.25,0,0,24,0.571429,0.000411,23,10,0.678571,19,0.057502,Unrelated,false,false,false,0,0
+"Sakata, Ichiro","Sakata, Ichiro",,9,12,2,0.818182,0.888889,6.25,0,0,24,0.571429,0.000411,23,10,0.678571,19,0.057502,Unrelated,false,false,false,0,0
+"Akiyama, Masanori","Akiyama, Masanori",,7,7,2,0.692308,0.777778,0.25,0,0,24,0.9,0.000336,23,10,0.933333,14,0.047085,Unrelated,false,false,false,0,0
+"Fujigaki, Yuko","Fujigaki, Yuko",,3,3,3,0.473684,0.518519,0,0,0,24,0,0.000146,23,10,1,1,0.011454,Unrelated,false,false,false,0,0
+"Ghijsen, P.","Ghijsen, P.",,4,4,6,0.289157,0.363889,0,0,0,12,1,0.000216,5,4,1,3,0.013824,Unrelated,false,false,false,0,0
+"Belal, H. M.","Belal, H. M.",,4,4,8,0.203917,0.237033,0,0.030555,0.030555,2,1,0.000219,0,0,0.666667,2,0.066188,Unrelated,false,false,false,0,0
+"Cova, Bernard","Cova, Bernard",,5,7,7,0.285714,0.347738,39,0,0,25,0.333333,0.000372,3,2,0.666667,4,0.015403,Unrelated,false,false,false,0,0
+"Echeverri, Per","Echeverri, Per",,3,3,7,0.27972,0.318571,0,0,0,25,0,0.000145,3,2,1,1,0.009999,Unrelated,false,false,false,0,0
+"Tiwana, Amrit","Tiwana, Amrit",,4,9,1,1,1,0,0,0,26,1,0.000173,24,114,1,3,0.007876,Unrelated,false,false,false,0,0
+"Bush, Ashley A.","Bush, Ashley A.",,4,7,1,1,1,0,0,0,26,1,0.000173,24,114,1,3,0.007876,Unrelated,false,false,false,0,0
+"Konsynski, Benn","Konsynski, Benn",,4,4,1,1,1,0,0,0,26,1,0.000173,24,114,1,3,0.007876,Unrelated,false,false,false,0,0
+"Bahn†, K. D.","Bahn†, K. D.",,4,4,3,0.461538,0.527778,0,0,0,22,1,0.000168,21,5,1,3,0.018359,Unrelated,false,false,false,0,0
+"Granzin, K. L.","Granzin, K. L.",,4,4,3,0.461538,0.527778,0,0,0,22,1,0.000168,21,5,1,3,0.018359,Unrelated,false,false,false,0,0
+"Truong, Yann","Truong, Yann",,4,10,1,1,1,0,0,0,27,1,0.000173,25,115,1,3,0.007876,Unrelated,false,false,false,0,0
+"Palmer, Mark","Palmer, Mark",,4,8,1,1,1,0,0,0,27,1,0.000173,25,115,1,3,0.007876,Unrelated,false,false,false,0,0
+"Simmons, Geoff","Simmons, Geoff",,4,8,1,1,1,0,0,0,27,1,0.000173,25,115,1,3,0.007876,Unrelated,false,false,false,0,0
+"Uchihira, N.","Uchihira, N.",,13,17,1,1,1,29.5,0,0,28,0.381818,0.000586,26,7,0.318182,21,0.105185,Unrelated,false,false,false,0,0
+"Kim, S. K.","Kim, S. K.",,6,8,2,0.611111,0.681818,0,0,0,28,1,0.000239,26,7,0.9,9,0.04258,Unrelated,false,false,false,0,0
+"Beiter, K. A.","Beiter, K. A.",,6,6,2,0.611111,0.681818,0,0,0,28,1,0.000239,26,7,0.9,9,0.04258,Unrelated,false,false,false,0,0
+"Ishii, K.","Ishii, K.",,6,6,2,0.611111,0.681818,0,0,0,28,1,0.000239,26,7,0.9,9,0.04258,Unrelated,false,false,false,0,0
+"Ishimatsu, H.","Ishimatsu, H.",,9,9,2,0.733333,0.818182,1.5,0,0,28,0.714286,0.000447,26,7,0.75,21,0.077842,Unrelated,false,false,false,0,0
+"Kageyama, Y.","Kageyama, Y.",,9,9,2,0.733333,0.818182,1.5,0,0,28,0.714286,0.000447,26,7,0.75,21,0.077842,Unrelated,false,false,false,0,0
+"Kakutani, Y.","Kakutani, Y.",,9,9,2,0.733333,0.818182,1.5,0,0,28,0.714286,0.000447,26,7,0.75,21,0.077842,Unrelated,false,false,false,0,0
+"Kyoya, Y.","Kyoya, Y.",,6,6,2,0.611111,0.681818,0,0,0,28,1,0.000239,26,7,0.9,9,0.04258,Unrelated,false,false,false,0,0
+"Visintin, Filippo","Visintin, Filippo",,6,10,3,0.6,0.703704,18.5,0,0,206,0.333333,0.000379,27,11,0.6,6,0.018284,Unrelated,false,false,false,0,0
+"Rapaccini, Mario","Rapaccini, Mario",,7,9,2,0.692308,0.777778,20.333333,0,0,206,0.5,0.000376,27,11,0.666667,10,0.027811,Unrelated,false,false,false,0,0
+"Bau, M.","Bau, M.",,5,5,4,0.428571,0.564815,0.5,0,0,206,0.666667,0.000331,27,11,0.833333,5,0.012529,Unrelated,false,false,false,0,0
+"Walker, Richard M","Walker, Richard M",,5,10,1,1,1,0.5,0,0,29,0.666667,0.000207,28,73,0.833333,5,0.012646,Unrelated,false,false,false,0,0
+"Avellaneda, Claudia N","Avellaneda, Claudia N",,5,8,1,1,1,0.5,0,0,29,0.666667,0.000207,28,73,0.833333,5,0.012646,Unrelated,false,false,false,0,0
+"Berry, Frances S","Berry, Frances S",,4,4,2,0.75,0.833333,0,0,0,29,1,0.00017,28,73,1,3,0.009784,Unrelated,false,false,false,0,0
+"Damanpour, F.","Damanpour, F.",,4,4,2,0.75,0.833333,0,0,0,29,1,0.00017,28,73,1,3,0.009784,Unrelated,false,false,false,0,0
+"Wang, Huaiqing","Wang, Huaiqing",,6,12,1,1,1,0.333333,0,0,30,0.833333,0.000327,29,42,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Hua, Zhongsheng","Hua, Zhongsheng",,6,10,1,1,1,0.333333,0,0,30,0.833333,0.000327,29,42,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Yan, Jiaqi","Yan, Jiaqi",,6,10,1,1,1,0.333333,0,0,30,0.833333,0.000327,29,42,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Wuenderlich, Nancy V","Wuenderlich, Nancy V",,11,13,4,0.454545,0.575,84,0,0,18,0.416667,0.000715,17,3,0.333333,15,0.115948,Unrelated,false,false,false,0,0
+"Aksoy, Lerzan","Aksoy, Lerzan",,8,8,4,0.434783,0.525,0,0,0,18,1,0.00034,17,3,0.857143,18,0.107777,Unrelated,false,false,false,0,0
+"Brady, Michael K","Brady, Michael K",,8,8,4,0.434783,0.525,0,0,0,18,1,0.00034,17,3,0.857143,18,0.107777,Unrelated,false,false,false,0,0
+"Gremyr, Ida","Gremyr, Ida",,5,5,5,0.348837,0.415,0,0,0,18,1,0.000202,17,3,0.833333,5,0.033867,Unrelated,false,false,false,0,0
+"Lofberg, Nina","Lofberg, Nina",,5,5,5,0.348837,0.415,0,0,0,18,1,0.000202,17,3,0.833333,5,0.033867,Unrelated,false,false,false,0,0
+"Löfberg, N.","Löfberg, N.",,5,5,5,0.348837,0.415,0,0,0,18,1,0.000202,17,3,0.833333,5,0.033867,Unrelated,false,false,false,0,0
+"Woodside, Arch G","Woodside, Arch G",,6,10,1,1,1,3.5,0,0,373,0.333333,0.000507,30,43,0.6,6,0.01338,Unrelated,false,false,false,0,0
+"Huan, Tzung-Cheng","Huan, Tzung-Cheng",,5,5,2,0.8,0.875,0.5,0,0,373,0.666667,0.00037,30,43,0.833333,5,0.011744,Unrelated,false,false,false,0,0
+"Andreassen, Tor Wallin","Andreassen, Tor Wallin",,5,7,5,0.307692,0.384722,23,0,0,12,0.333333,0.000307,5,4,0.666667,4,0.013278,Unrelated,false,false,false,0,0
+"Kleijnen, M.","Kleijnen, M.",,4,4,5,0.303797,0.363889,0,0,0,12,1,0.00019,5,4,1,3,0.0117,Unrelated,false,false,false,0,0
+"Araujo, Luis","Araujo, Luis",,3,6,1,1,1,0,0,0,31,0,0.000139,31,221,1,1,0.003684,Unrelated,false,false,false,0,0
+"Spring, Martin","Spring, Martin",,3,6,1,1,1,0,0,0,31,0,0.000139,31,221,1,1,0.003684,Unrelated,false,false,false,0,0
+"Arduini, Davide","Arduini, Davide",,6,9,1,1,1,0,0,0,32,1,0.000229,32,44,1,10,0.026377,Unrelated,false,false,false,0,0
+"Zanfei, Antonello","Zanfei, Antonello",,6,9,1,1,1,0,0,0,32,1,0.000229,32,44,1,10,0.026377,Unrelated,false,false,false,0,0
+"Belotti, Federico","Belotti, Federico",,6,6,1,1,1,0,0,0,32,1,0.000229,32,44,1,10,0.026377,Unrelated,false,false,false,0,0
+"Denni, Mario","Denni, Mario",,6,6,1,1,1,0,0,0,32,1,0.000229,32,44,1,10,0.026377,Unrelated,false,false,false,0,0
+"Giungato, Gerolamo","Giungato, Gerolamo",,6,6,1,1,1,0,0,0,32,1,0.000229,32,44,1,10,0.026377,Unrelated,false,false,false,0,0
+"Arts, Koen","Arts, Koen",,7,9,2,0.727273,0.8125,15,0,0,65,0.4,0.000276,33,12,0.6,9,0.026665,Unrelated,false,false,false,0,0
+"van der Wal, Rene","van der Wal, Rene",,7,9,2,0.727273,0.8125,15,0,0,65,0.4,0.000313,33,12,0.6,9,0.025621,Unrelated,false,false,false,0,0
+"Adams, William M","Adams, William M",,4,4,2,0.571429,0.625,0,0,0,65,1,0.000171,33,12,1,3,0.014533,Unrelated,false,false,false,0,0
+"Banks, Ken","Banks, Ken",,5,5,3,0.5,0.625,0,0,0,65,1,0.000201,33,12,1,6,0.017753,Unrelated,false,false,false,0,0
+"Homans, Hilary","Homans, Hilary",,5,5,3,0.5,0.625,0,0,0,65,1,0.000201,33,12,1,6,0.017753,Unrelated,false,false,false,0,0
+"Maffey, Georgina","Maffey, Georgina",,5,5,3,0.5,0.625,0,0,0,65,1,0.000201,33,12,1,6,0.017753,Unrelated,false,false,false,0,0
+"Atuahene-Gima, K.","Atuahene-Gima, K.",,2,4,0,0,0,0,0,0,33,0,0.000099,34,337,0,0,0.001287,Unrelated,false,false,false,0,0
+"Ballantyne, David","Ballantyne, David",,6,8,6,0.30303,0.396111,29,0,0,18,0.5,0.000362,17,3,0.7,7,0.037824,Unrelated,false,false,false,0,0
+"Krishnan, V. V.","Krishnan, V. V.",,4,4,8,0.210965,0.236568,0,0.00275,0.00275,0,1,0.000166,0,0,1,3,0.02542,Unrelated,false,false,false,0,0
+"Lin, S. S. J.","Lin, S. S. J.",,4,4,8,0.210965,0.236568,0,0.00275,0.00275,0,1,0.000166,0,0,1,3,0.02542,Unrelated,false,false,false,0,0
+"Barile, Sergio","Barile, Sergio",,6,9,7,0.224719,0.298571,19,0,0,25,0.666667,0.000291,3,2,0.8,8,0.021093,Unrelated,false,false,false,0,0
+"Saviano, Marialuisa","Saviano, Marialuisa",,6,9,7,0.224719,0.298571,19,0,0,25,0.666667,0.000291,3,2,0.8,8,0.021093,Unrelated,false,false,false,0,0
+"Di Nauta, Primiano","Di Nauta, Primiano",,5,5,7,0.223464,0.286071,0,0,0,25,1,0.000218,3,2,1,6,0.01855,Unrelated,false,false,false,0,0
+"Barlatier, Pierre-Jean","Barlatier, Pierre-Jean",,4,8,1,1,1,0,0,0,34,1,0.000173,35,116,1,3,0.007876,Unrelated,false,false,false,0,0
+"Giannopoulou, Eleni","Giannopoulou, Eleni",,4,8,1,1,1,0,0,0,34,1,0.000173,35,116,1,3,0.007876,Unrelated,false,false,false,0,0
+"Gryszkiewicz, Lidia","Gryszkiewicz, Lidia",,4,8,1,1,1,0,0,0,34,1,0.000173,35,116,1,3,0.007876,Unrelated,false,false,false,0,0
+"Barras, R.","Barras, R.",,2,4,0,0,0,0,0,0,35,0,0.000099,36,338,0,0,0.001287,Unrelated,false,false,false,0,0
+"Barua, Anitesh","Barua, Anitesh",,4,8,1,1,1,0,0,0,36,1,0.000173,37,117,1,3,0.007876,Unrelated,false,false,false,0,0
+"Susarla, Anjana","Susarla, Anjana",,4,8,1,1,1,0,0,0,36,1,0.000173,37,117,1,3,0.007876,Unrelated,false,false,false,0,0
+"Whinston, Andrew B","Whinston, Andrew B",,4,8,1,1,1,0,0,0,36,1,0.000173,37,117,1,3,0.007876,Unrelated,false,false,false,0,0
+"Benbasat, I.","Benbasat, I.",,5,8,1,1,1,0.5,0,0,37,0.666667,0.00034,38,74,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Cenfetelli, R. T.","Cenfetelli, R. T.",,5,8,1,1,1,0.5,0,0,37,0.666667,0.00034,38,74,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Berg, D.","Berg, D.",,4,6,2,0.75,0.833333,2,0,0,63,0,0.000276,39,75,0.666667,2,0.00638,Unrelated,false,false,false,0,0
+"Tien, James M","Tien, James M",,4,6,2,0.75,0.833333,2,0,0,63,0,0.000198,39,75,0.666667,2,0.006871,Unrelated,false,false,false,0,0
+"Bryson, John R","Bryson, John R",,5,7,1,1,1,2,0,0,270,0.333333,0.000271,40,105,0.666667,4,0.009905,Unrelated,false,false,false,0,0
+"Daniels, P. W.","Daniels, P. W.",,3,3,2,0.6,0.666667,0,0,0,270,0,0.000145,40,105,1,1,0.005157,Unrelated,false,false,false,0,0
+"Love, James H","Love, James H",,4,4,2,0.75,0.833333,0,0,0,270,1,0.000228,40,105,1,3,0.007865,Unrelated,false,false,false,0,0
+"Chang, Ching-Hsun","Chang, Ching-Hsun",,5,7,2,0.714286,0.8,4,0,0,55,0.333333,0.000208,41,28,0.666667,4,0.012672,Unrelated,false,false,false,0,0
+"Lin, Ming-Ji James","Lin, Ming-Ji James",,6,8,2,0.833333,0.9,6,0,0,55,0.333333,0.000243,41,28,0.6,6,0.016346,Unrelated,false,false,false,0,0
+"Chen, Yu-Shan","Chen, Yu-Shan",,4,4,2,0.625,0.7,0,0,0,55,1,0.000169,41,28,1,3,0.010597,Unrelated,false,false,false,0,0
+"Hwang, P.-R.","Hwang, P.-R.",,3,3,3,0.454545,0.533333,0,0,0,55,0,0.000135,41,28,1,1,0.005538,Unrelated,false,false,false,0,0
+"Chen, Min-Nan","Chen, Min-Nan",,4,4,11,0.145559,0.172126,0,0.000011,0.000011,3,1,0.000171,0,0,1,3,0.012688,Unrelated,false,false,false,0,0
+"Linton, Jonathan D","Linton, Jonathan D",,4,4,11,0.145559,0.172126,0,0.000011,0.000011,3,1,0.000171,0,0,1,3,0.012688,Unrelated,false,false,false,0,0
+"Chiu, Yen-Ting Helena","Chiu, Yen-Ting Helena",,5,7,1,1,1,2,0,0,321,0.333333,0.000271,42,108,0.666667,4,0.009905,Unrelated,false,false,false,0,0
+"Fang, S.-C.","Fang, S.-C.",,4,4,2,0.75,0.833333,0,0,0,321,1,0.000228,42,108,1,3,0.007865,Unrelated,false,false,false,0,0
+"Hofer, Katharina Maria","Hofer, Katharina Maria",,3,3,2,0.6,0.666667,0,0,0,321,0,0.000145,42,108,1,1,0.005157,Unrelated,false,false,false,0,0
+"Consoli, Davide","Consoli, Davide",,2,4,0,0,0,0,0,0,38,0,0.000099,43,339,0,0,0.001287,Unrelated,false,false,false,0,0
+"Deokar, Amit V","Deokar, Amit V",,3,6,1,1,1,0,0,0,39,0,0.000139,44,222,1,1,0.003684,Unrelated,false,false,false,0,0
+"El-Gayar, Omar F","El-Gayar, Omar F",,3,6,1,1,1,0,0,0,39,0,0.000139,44,222,1,1,0.003684,Unrelated,false,false,false,0,0
+"Dobrzykowski, David D","Dobrzykowski, David D",,7,9,1,1,1,6.5,0,0,256,0.3,0.000483,45,38,0.533333,8,0.018171,Unrelated,false,false,false,0,0
+"Hong, P. C.","Hong, P. C.",,4,4,2,0.625,0.7,0,0,0,256,1,0.000248,45,38,1,3,0.00982,Unrelated,false,false,false,0,0
+"Jitpaiboon, Thawatchai","Jitpaiboon, Thawatchai",,5,5,2,0.714286,0.8,0.5,0,0,256,0.666667,0.000342,45,38,0.833333,5,0.012963,Unrelated,false,false,false,0,0
+"Doloreux, David","Doloreux, David",,3,6,1,1,1,0,0,0,40,0,0.000139,46,223,1,1,0.003684,Unrelated,false,false,false,0,0
+"Shearmur, R.","Shearmur, R.",,3,6,1,1,1,0,0,0,40,0,0.000139,46,223,1,1,0.003684,Unrelated,false,false,false,0,0
+"Dos Santos, Brian L","Dos Santos, Brian L",,6,8,1,1,1,3.5,0,0,376,0.333333,0.000507,47,71,0.6,6,0.01338,Unrelated,false,false,false,0,0
+"Fichman, Robert G","Fichman, Robert G",,5,5,2,0.8,0.875,0.5,0,0,376,0.666667,0.00037,47,71,0.833333,5,0.011744,Unrelated,false,false,false,0,0
+"Camen, Carolina","Camen, Carolina",,4,4,7,0.272109,0.317321,0,0,0,25,1,0.000173,3,2,1,3,0.011868,Unrelated,false,false,false,0,0
+"Johnson, Mikael","Johnson, Mikael",,4,4,7,0.272109,0.317321,0,0,0,25,1,0.000173,3,2,1,3,0.011868,Unrelated,false,false,false,0,0
+"Freel, M. S.","Freel, M. S.",,4,6,1,1,1,0,0,0,41,1,0.000173,48,118,1,3,0.007876,Unrelated,false,false,false,0,0
+"Jack, Sarah","Jack, Sarah",,4,4,1,1,1,0,0,0,41,1,0.000173,48,118,1,3,0.007876,Unrelated,false,false,false,0,0
+"Jackson, Paul R","Jackson, Paul R",,4,4,1,1,1,0,0,0,41,1,0.000173,48,118,1,3,0.007876,Unrelated,false,false,false,0,0
+"Ganz, Walter","Ganz, Walter",,7,9,3,0.5625,0.722222,8.333333,0,0,206,0.5,0.000365,27,11,0.666667,10,0.02578,Unrelated,false,false,false,0,0
+"Burger, Thomas","Burger, Thomas",,6,6,3,0.529412,0.666667,0.333333,0,0,206,0.833333,0.000322,27,11,0.9,9,0.02344,Unrelated,false,false,false,0,0
+"Cocca, S.","Cocca, S.",,3,3,4,0.375,0.453704,0,0,0,206,0,0.000144,27,11,1,1,0.007819,Unrelated,false,false,false,0,0
+"Geum, Y.","Geum, Y.",,6,10,2,0.666667,0.75,1.666667,0,0,42,0.833333,0.000284,49,13,0.9,9,0.027699,Unrelated,false,false,false,0,0
+"Kim, Jieun","Kim, Jieun",,9,11,2,0.888889,0.9375,16.333333,0,0,42,0.380952,0.00044,49,13,0.535714,15,0.042212,Unrelated,false,false,false,0,0
+"Lee, Sungjoo","Lee, Sungjoo",,6,10,2,0.666667,0.75,1.666667,0,0,42,0.833333,0.000284,49,13,0.9,9,0.027699,Unrelated,false,false,false,0,0
+"Park, Yongtae","Park, Yongtae",,6,10,2,0.666667,0.75,1.666667,0,0,42,0.833333,0.000284,49,13,0.9,9,0.027699,Unrelated,false,false,false,0,0
+"Khalik, Mahmoud","Khalik, Mahmoud",,5,5,8,0.204152,0.239857,0,0.034424,0.034424,2,1,0.000235,0,0,0.833333,5,0.077831,Unrelated,false,false,false,0,0
+"Manjarres, Ricardo","Manjarres, Ricardo",,5,5,8,0.204152,0.239857,0,0.034424,0.034424,2,1,0.000235,0,0,0.833333,5,0.077831,Unrelated,false,false,false,0,0
+"Heinonen, Kristina","Heinonen, Kristina",,4,7,1,1,1,0,0,0,43,1,0.000233,50,119,1,3,0.007069,Unrelated,false,false,false,0,0
+"Strandvik, Tore","Strandvik, Tore",,4,7,1,1,1,0,0,0,43,1,0.000233,50,119,1,3,0.007069,Unrelated,false,false,false,0,0
+"Hollebeek, Linda D","Hollebeek, Linda D",,7,9,1,1,1,6,0,0,44,0.4,0.000273,51,27,0.6,9,0.023272,Unrelated,false,false,false,0,0
+"Breidbach, Christoph Friedrich","Breidbach, Christoph Friedrich",,4,4,2,0.625,0.7,0,0,0,44,1,0.000168,51,27,1,3,0.011278,Unrelated,false,false,false,0,0
+"Brodie, Roderick","Brodie, Roderick",,4,4,2,0.625,0.7,0,0,0,44,1,0.000168,51,27,1,3,0.011278,Unrelated,false,false,false,0,0
+"Brodie, Roderick J","Brodie, Roderick J",,5,5,2,0.714286,0.8,0,0,0,44,1,0.000201,51,27,1,6,0.017219,Unrelated,false,false,false,0,0
+"Ilic, Ana","Ilic, Ana",,5,5,2,0.714286,0.8,0,0,0,44,1,0.000201,51,27,1,6,0.017219,Unrelated,false,false,false,0,0
+"Juric, Biljana","Juric, Biljana",,5,5,2,0.714286,0.8,0,0,0,44,1,0.000201,51,27,1,6,0.017219,Unrelated,false,false,false,0,0
+"Hull, Frank M","Hull, Frank M",,3,5,2,0.666667,0.75,0,0,0,45,0,0.000137,52,120,1,1,0.004351,Unrelated,false,false,false,0,0
+"Storey, Chris","Storey, Chris",,4,6,1,1,1,1,0,0,45,0,0.000177,52,120,0.666667,2,0.006286,Unrelated,false,false,false,0,0
+"Izquierdo-Yusta, Alicia","Izquierdo-Yusta, Alicia",,5,10,1,1,1,0,0,0,46,1,0.000203,53,76,1,6,0.014913,Unrelated,false,false,false,0,0
+"Jiménez-Zarco, A. I.","Jiménez-Zarco, A. I.",,5,10,1,1,1,0,0,0,46,1,0.000203,53,76,1,6,0.014913,Unrelated,false,false,false,0,0
+"Martínez-Ruiz, M. P.","Martínez-Ruiz, M. P.",,5,10,1,1,1,0,0,0,46,1,0.000203,53,76,1,6,0.014913,Unrelated,false,false,false,0,0
+"Pilar Martinez-Ruiz, Maria","Pilar Martinez-Ruiz, Maria",,5,10,1,1,1,0,0,0,46,1,0.000203,53,76,1,6,0.014913,Unrelated,false,false,false,0,0
+"Jaeger, Angela","Jaeger, Angela",,6,10,1,1,1,0,0,0,47,1,0.000229,54,45,1,10,0.026377,Unrelated,false,false,false,0,0
+"Kinkel, Steffen","Kinkel, Steffen",,6,10,1,1,1,0,0,0,47,1,0.000229,54,45,1,10,0.026377,Unrelated,false,false,false,0,0
+"Kirner, Eva","Kirner, Eva",,6,10,1,1,1,0,0,0,47,1,0.000229,54,45,1,10,0.026377,Unrelated,false,false,false,0,0
+"Armbruster, Heidi","Armbruster, Heidi",,6,6,1,1,1,0,0,0,47,1,0.000229,54,45,1,10,0.026377,Unrelated,false,false,false,0,0
+"Jäger, A.","Jäger, A.",,6,6,1,1,1,0,0,0,47,1,0.000229,54,45,1,10,0.026377,Unrelated,false,false,false,0,0
+"Janssen, Marijn","Janssen, Marijn",,5,7,1,1,1,2,0,0,307,0.333333,0.000271,55,77,0.666667,4,0.009905,Unrelated,false,false,false,0,0
+"Grönlund, A.","Grönlund, A.",,4,4,2,0.75,0.833333,0,0,0,307,1,0.000228,55,77,1,3,0.007865,Unrelated,false,false,false,0,0
+"Kuk, George","Kuk, George",,3,3,2,0.6,0.666667,0,0,0,307,0,0.000145,55,77,1,1,0.005157,Unrelated,false,false,false,0,0
+"Jayaraman, K.","Jayaraman, K.",,7,9,3,0.52381,0.666667,18,0,0,48,0.4,0.000329,56,8,0.6,9,0.02958,Unrelated,false,false,false,0,0
+"Rahman, Syed Abidur","Rahman, Syed Abidur",,7,10,2,0.647059,0.727273,12,0,0,48,0.6,0.000284,56,8,0.733333,11,0.037276,Unrelated,false,false,false,0,0
+"Taghizadeh, Seyedeh Khadijeh","Taghizadeh, Seyedeh Khadijeh",,7,10,2,0.647059,0.727273,12,0,0,48,0.6,0.000284,56,8,0.733333,11,0.037276,Unrelated,false,false,false,0,0
+"Ismail, I.","Ismail, I.",,5,5,3,0.478261,0.575758,0,0,0,48,1,0.000208,56,8,1,6,0.024128,Unrelated,false,false,false,0,0
+"Kiumarsi, S.","Kiumarsi, S.",,4,4,4,0.366667,0.469697,0,0,0,48,1,0.000218,56,8,1,3,0.011316,Unrelated,false,false,false,0,0
+"Fujita, K.","Fujita, K.",,5,5,3,0.529412,0.62963,0,0,0,24,1,0.000213,23,10,1,6,0.029188,Unrelated,false,false,false,0,0
+"Ittipanuvat, V.","Ittipanuvat, V.",,5,5,3,0.529412,0.62963,0,0,0,24,1,0.000213,23,10,1,6,0.029188,Unrelated,false,false,false,0,0
+"Kallio, Katri","Kallio, Katri",,3,6,1,1,1,0,0,0,49,0,0.000139,57,224,1,1,0.003684,Unrelated,false,false,false,0,0
+"Lappalainen, Inka","Lappalainen, Inka",,3,6,1,1,1,0,0,0,49,0,0.000139,57,224,1,1,0.003684,Unrelated,false,false,false,0,0
+"Bilgihan, A.","Bilgihan, A.",,4,4,9,0.179331,0.198825,0,0.00036,0.00036,2,1,0.000227,0,0,1,3,0.011986,Unrelated,false,false,false,0,0
+"Kuusela, Hannu","Kuusela, Hannu",,5,8,8,0.211722,0.240806,87.5,0.00281,0.00281,0,0.666667,0.0002,0,0,0.833333,5,0.03042,Unrelated,false,false,false,0,0
+"Saarijärvi, Hannu","Saarijärvi, Hannu",,5,8,8,0.211722,0.240806,87.5,0.00281,0.00281,0,0.666667,0.0002,0,0,0.833333,5,0.03042,Unrelated,false,false,false,0,0
+"Karia, Noorliza","Karia, Noorliza",,5,8,1,1,1,0,0,0,50,1,0.000203,58,78,1,6,0.014913,Unrelated,false,false,false,0,0
+"Wong, Chee Yew","Wong, Chee Yew",,5,8,1,1,1,0,0,0,50,1,0.000203,58,78,1,6,0.014913,Unrelated,false,false,false,0,0
+"Asaari, M. H. A. H.","Asaari, M. H. A. H.",,5,5,1,1,1,0,0,0,50,1,0.000203,58,78,1,6,0.014913,Unrelated,false,false,false,0,0
+"Lai, Kee-hung","Lai, Kee-hung",,5,5,1,1,1,0,0,0,50,1,0.000203,58,78,1,6,0.014913,Unrelated,false,false,false,0,0
+"Helkkula, Anu","Helkkula, Anu",,4,4,9,0.197987,0.229648,0,0.001408,0.001408,0,1,0.000215,0,0,0.666667,2,0.030575,Unrelated,false,false,false,0,0
+"Khan, A. M.","Khan, A. M.",,3,5,1,1,1,0,0,0,51,0,0.000139,59,225,1,1,0.003684,Unrelated,false,false,false,0,0
+"Manopichetwattana, V.","Manopichetwattana, V.",,3,3,1,1,1,0,0,0,51,0,0.000139,59,225,1,1,0.003684,Unrelated,false,false,false,0,0
+"Bhuyan, S. S.","Bhuyan, S. S.",,6,6,3,0.615385,0.729167,0.333333,0,0,42,0.833333,0.000316,49,13,0.9,9,0.025946,Unrelated,false,false,false,0,0
+"Chandak, A.","Chandak, A.",,6,6,3,0.615385,0.729167,0.333333,0,0,42,0.833333,0.000316,49,13,0.9,9,0.025946,Unrelated,false,false,false,0,0
+"Kuo, D. C.-L.","Kuo, D. C.-L.",,4,6,1,1,1,0,0,0,372,1,0.000233,60,121,1,3,0.007069,Unrelated,false,false,false,0,0
+"Chuang, L.-C.","Chuang, L.-C.",,4,4,1,1,1,0,0,0,372,1,0.000233,60,121,1,3,0.007069,Unrelated,false,false,false,0,0
+"Kuppelwieser, Volker G","Kuppelwieser, Volker G",,6,8,1,1,1,5,0,0,52,0.166667,0.000566,61,68,0.5,5,0.011704,Unrelated,false,false,false,0,0
+"Chiummo, Gabriel","Chiummo, Gabriel",,4,4,2,0.666667,0.75,0,0,0,52,1,0.000281,61,68,1,3,0.008472,Unrelated,false,false,false,0,0
+"Karjaluoto, H.","Karjaluoto, H.",,4,4,9,0.175074,0.193819,0,0.000549,0.000549,0,1,0.000167,0,0,1,3,0.012943,Unrelated,false,false,false,0,0
+"Lee, Jung Hoon","Lee, Jung Hoon",,6,8,1,1,1,4,0,0,53,0.333333,0.000304,62,66,0.6,6,0.014648,Unrelated,false,false,false,0,0
+"Hancock, Marguerite Gong","Hancock, Marguerite Gong",,4,4,2,0.666667,0.75,0,0,0,53,1,0.000181,62,66,1,3,0.00965,Unrelated,false,false,false,0,0
+"Hu, Mei-Chih","Hu, Mei-Chih",,4,4,2,0.666667,0.75,0,0,0,53,1,0.000181,62,66,1,3,0.00965,Unrelated,false,false,false,0,0
+"Kim, Kyung Kyu","Kim, Kyung Kyu",,4,4,2,0.666667,0.75,0,0,0,53,1,0.000223,62,66,1,3,0.008948,Unrelated,false,false,false,0,0
+"Legner, Christine","Legner, Christine",,5,7,1,1,1,3,0,0,329,0,0.000623,63,103,0.5,3,0.007289,Unrelated,false,false,false,0,0
+"Leimeister, Jan Marco","Leimeister, Jan Marco",,7,9,2,0.777778,0.857143,12,0,0,306,0.4,0.000327,64,16,0.6,9,0.023929,Unrelated,false,false,false,0,0
+"Moeslein, Kathrin M","Moeslein, Kathrin M",,6,8,2,0.7,0.785714,10,0,0,306,0.333333,0.000306,64,16,0.6,6,0.017975,Unrelated,false,false,false,0,0
+"Boehmann, Tilo","Boehmann, Tilo",,4,4,2,0.583333,0.642857,0,0,0,306,1,0.000182,64,16,1,3,0.012897,Unrelated,false,false,false,0,0
+"Duennebeil, Sebastian","Duennebeil, Sebastian",,5,5,3,0.538462,0.666667,0,0,0,306,1,0.000243,64,16,1,6,0.016347,Unrelated,false,false,false,0,0
+"Krcmar, Helmut","Krcmar, Helmut",,5,5,3,0.538462,0.666667,0,0,0,306,1,0.000243,64,16,1,6,0.016347,Unrelated,false,false,false,0,0
+"Li, L.","Li, L.",,8,10,1,1,1,8,0,0,54,0.466667,0.000398,65,21,0.619048,13,0.03302,Unrelated,false,false,false,0,0
+"Dai, C.","Dai, C.",,6,6,2,0.75,0.833333,0,0,0,54,1,0.000274,65,21,1,10,0.027347,Unrelated,false,false,false,0,0
+"Jones, J. D.","Jones, J. D.",,4,4,2,0.6,0.666667,0,0,0,54,1,0.000222,65,21,1,3,0.012226,Unrelated,false,false,false,0,0
+Luo Junwei,Luo Junwei,,6,6,2,0.75,0.833333,0,0,0,54,1,0.000274,65,21,1,10,0.027347,Unrelated,false,false,false,0,0
+"Lyu, C.","Lyu, C.",,6,6,2,0.75,0.833333,0,0,0,54,1,0.000274,65,21,1,10,0.027347,Unrelated,false,false,false,0,0
+"Baines, Tim","Baines, Tim",,4,4,7,0.234375,0.291429,0,0,0,18,1,0.000225,17,3,1,3,0.008856,Unrelated,false,false,false,0,0
+"Lin, Fu-Ren","Lin, Fu-Ren",,5,7,1,1,1,3,0,0,229,0,0.000447,66,79,0.5,3,0.00789,Unrelated,false,false,false,0,0
+"Hsieh, Pei-Shan","Hsieh, Pei-Shan",,3,3,2,0.6,0.666667,0,0,0,229,0,0.000175,66,79,1,1,0.004851,Unrelated,false,false,false,0,0
+"Chen, Chih-Cheng Volvic","Chen, Chih-Cheng Volvic",,4,4,3,0.555556,0.666667,0,0,0,55,1,0.00017,41,28,1,3,0.009915,Unrelated,false,false,false,0,0
+"Chen, Chih-Jou","Chen, Chih-Jou",,4,4,3,0.555556,0.666667,0,0,0,55,1,0.00017,41,28,1,3,0.009915,Unrelated,false,false,false,0,0
+"Liu, Hong-Cheng","Liu, Hong-Cheng",,7,9,2,0.777778,0.857143,0.25,0,0,66,0.9,0.000324,67,19,0.933333,14,0.039765,Unrelated,false,false,false,0,0
+"Wang, Chuan-Chung","Wang, Chuan-Chung",,9,11,1,1,1,10.25,0,0,66,0.47619,0.0004,67,19,0.607143,17,0.046599,Unrelated,false,false,false,0,0
+"Chen, Ming-Chao","Chen, Ming-Chao",,7,7,2,0.777778,0.857143,0.25,0,0,66,0.9,0.000324,67,19,0.933333,14,0.039765,Unrelated,false,false,false,0,0
+"Liu, Chun Hsien","Liu, Chun Hsien",,7,7,2,0.777778,0.857143,0.25,0,0,66,0.9,0.000324,67,19,0.933333,14,0.039765,Unrelated,false,false,false,0,0
+"Lyons, Kelly","Lyons, Kelly",,3,6,1,1,1,0,0,0,56,0,0.000139,68,226,1,1,0.003684,Unrelated,false,false,false,0,0
+"Tracy, Stephen","Tracy, Stephen",,3,6,1,1,1,0,0,0,56,0,0.000139,68,226,1,1,0.003684,Unrelated,false,false,false,0,0
+"Dougherty, Deborah J","Dougherty, Deborah J",,6,6,7,0.255435,0.33308,0,0,0,313,1,0.000258,1,1,0.9,9,0.036784,Unrelated,false,false,false,0,0
+"Faraj, Samer","Faraj, Samer",,6,6,7,0.255435,0.33308,0,0,0,313,1,0.000258,1,1,0.9,9,0.036784,Unrelated,false,false,false,0,0
+"Griffith, Terri L","Griffith, Terri L",,6,6,7,0.255435,0.33308,0,0,0,313,1,0.000258,1,1,0.9,9,0.036784,Unrelated,false,false,false,0,0
+"Malsbender, A.","Malsbender, A.",,9,11,1,1,1,20,0,0,57,0.047619,0.00105,69,17,0.285714,8,0.020941,Unrelated,false,false,false,0,0
+"Becker, Joerg","Becker, Joerg",,4,4,2,0.583333,0.642857,0,0,0,57,1,0.000252,69,17,1,3,0.011603,Unrelated,false,false,false,0,0
+"Hofmann, S.","Hofmann, S.",,4,4,2,0.583333,0.642857,0,0,0,57,1,0.000252,69,17,1,3,0.011603,Unrelated,false,false,false,0,0
+"Markkula, Jouni","Markkula, Jouni",,7,9,1,1,1,6,0,0,58,0.4,0.000318,70,29,0.6,9,0.02206,Unrelated,false,false,false,0,0
+"Annanpera, Elina","Annanpera, Elina",,4,4,2,0.625,0.7,0,0,0,58,1,0.000175,70,29,1,3,0.011109,Unrelated,false,false,false,0,0
+"Heikkilä, J.","Heikkilä, J.",,5,5,2,0.714286,0.8,0,0,0,58,1,0.000241,70,29,1,6,0.016036,Unrelated,false,false,false,0,0
+"Heikkilä, M.","Heikkilä, M.",,5,5,2,0.714286,0.8,0,0,0,58,1,0.000241,70,29,1,6,0.016036,Unrelated,false,false,false,0,0
+"Liukkunen, Kari","Liukkunen, Kari",,4,4,2,0.625,0.7,0,0,0,58,1,0.000175,70,29,1,3,0.011109,Unrelated,false,false,false,0,0
+"Markus, M. L.","Markus, M. L.",,7,9,1,1,1,9,0,0,300,0.1,0.000761,71,30,0.4,6,0.014289,Unrelated,false,false,false,0,0
+"Kim, H. G.","Kim, H. G.",,4,4,2,0.625,0.7,0,0,0,300,1,0.0003,71,30,1,3,0.009204,Unrelated,false,false,false,0,0
+"McDermott, Christopher M","McDermott, Christopher M",,3,6,1,1,1,0,0,0,59,0,0.000139,72,227,1,1,0.003684,Unrelated,false,false,false,0,0
+"Prajogo, Daniel I","Prajogo, Daniel I",,3,6,1,1,1,0,0,0,59,0,0.000139,72,227,1,1,0.003684,Unrelated,false,false,false,0,0
+"Meyer, Martin","Meyer, Martin",,9,11,1,1,1,12.333333,0,0,210,0.380952,0.000425,73,18,0.535714,15,0.038357,Unrelated,false,false,false,0,0
+"Alefantos, Tassos","Alefantos, Tassos",,5,5,2,0.636364,0.714286,0,0,0,210,1,0.000211,73,18,1,6,0.020474,Unrelated,false,false,false,0,0
+"Edgar, David","Edgar, David",,5,5,2,0.636364,0.714286,0,0,0,210,1,0.000211,73,18,1,6,0.020474,Unrelated,false,false,false,0,0
+"Grant, Kevin","Grant, Kevin",,5,5,2,0.636364,0.714286,0,0,0,210,1,0.000211,73,18,1,6,0.020474,Unrelated,false,false,false,0,0
+"Maniatopoulos, Gregory","Maniatopoulos, Gregory",,6,6,2,0.7,0.785714,0.333333,0,0,210,0.833333,0.000313,73,18,0.9,9,0.025322,Unrelated,false,false,false,0,0
+"Martin, Mike","Martin, Mike",,6,6,2,0.7,0.785714,0.333333,0,0,210,0.833333,0.000313,73,18,0.9,9,0.025322,Unrelated,false,false,false,0,0
+"Misuraca, Gianluca","Misuraca, Gianluca",,6,8,1,1,1,4,0,0,331,0.333333,0.000373,74,46,0.6,6,0.01379,Unrelated,false,false,false,0,0
+"Alfano, G.","Alfano, G.",,4,4,2,0.666667,0.75,0,0,0,331,1,0.000238,74,46,1,3,0.008816,Unrelated,false,false,false,0,0
+"Codagnone, Cristiano","Codagnone, Cristiano",,4,4,2,0.666667,0.75,0,0,0,331,1,0.000238,74,46,1,3,0.008816,Unrelated,false,false,false,0,0
+"Koelling, Marcus","Koelling, Marcus",,4,4,3,0.466667,0.571429,0,0,0,306,1,0.000224,64,16,1,3,0.009422,Unrelated,false,false,false,0,0
+"Mukhopadhyay, T.","Mukhopadhyay, T.",,6,8,1,1,1,4,0,0,288,0.333333,0.000373,75,63,0.6,6,0.01379,Unrelated,false,false,false,0,0
+"Ghose, A.","Ghose, A.",,4,4,2,0.666667,0.75,0,0,0,288,1,0.000238,75,63,1,3,0.008816,Unrelated,false,false,false,0,0
+"Kim, Sang-Hun","Kim, Sang-Hun",,4,4,2,0.666667,0.75,0,0,0,288,1,0.000238,75,63,1,3,0.008816,Unrelated,false,false,false,0,0
+"Ndubisi, Nelson Oly","Ndubisi, Nelson Oly",,5,7,1,1,1,2,0,0,227,0.333333,0.000271,76,80,0.666667,4,0.009905,Unrelated,false,false,false,0,0
+"Agarwal, James","Agarwal, James",,3,3,2,0.6,0.666667,0,0,0,227,0,0.000145,76,80,1,1,0.005157,Unrelated,false,false,false,0,0
+"Capel, C. M.","Capel, C. M.",,4,4,2,0.75,0.833333,0,0,0,227,1,0.000228,76,80,1,3,0.007865,Unrelated,false,false,false,0,0
+"Neely, Andy","Neely, Andy",,4,6,1,1,1,1,0,0,332,0,0.00042,77,215,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"O'Driscoll, Aidan","O'Driscoll, Aidan",,7,9,1,1,1,6.5,0,0,60,0.3,0.000407,78,31,0.533333,8,0.019056,Unrelated,false,false,false,0,0
+"Campbell, Norah","Campbell, Norah",,5,5,2,0.714286,0.8,0.5,0,0,60,0.666667,0.000322,78,31,0.833333,5,0.01311,Unrelated,false,false,false,0,0
+"Claudy, Marius C","Claudy, Marius C",,4,4,2,0.625,0.7,0,0,0,60,1,0.000189,78,31,1,3,0.010669,Unrelated,false,false,false,0,0
+"Garcia, Rosanna","Garcia, Rosanna",,4,4,2,0.625,0.7,0,0,0,60,1,0.000189,78,31,1,3,0.010669,Unrelated,false,false,false,0,0
+"Ojanen, V.","Ojanen, V.",,6,8,1,1,1,4,0,0,363,0.333333,0.000373,79,64,0.6,6,0.01379,Unrelated,false,false,false,0,0
+"Ahonen, T.","Ahonen, T.",,4,4,2,0.666667,0.75,0,0,0,363,1,0.000238,79,64,1,3,0.008816,Unrelated,false,false,false,0,0
+"Chai, K. H.","Chai, K. H.",,4,4,2,0.666667,0.75,0,0,0,363,1,0.000238,79,64,1,3,0.008816,Unrelated,false,false,false,0,0
+"Paton, R. A.","Paton, R. A.",,5,7,1,1,1,2,0,0,356,0.333333,0.000389,80,110,0.666667,4,0.009299,Unrelated,false,false,false,0,0
+"Gegenhuber, T.","Gegenhuber, T.",,4,4,2,0.75,0.833333,0,0,0,356,1,0.000259,80,110,1,3,0.00776,Unrelated,false,false,false,0,0
+"Pekkarinen, Saara","Pekkarinen, Saara",,6,8,1,1,1,3,0,0,322,0.5,0.000285,81,47,0.7,7,0.016922,Unrelated,false,false,false,0,0
+"Harmaakorpi, V.","Harmaakorpi, V.",,5,5,2,0.8,0.875,0,0,0,322,1,0.000244,81,47,1,6,0.014737,Unrelated,false,false,false,0,0
+"Hennala, Lea","Hennala, Lea",,5,5,2,0.8,0.875,0,0,0,322,1,0.000244,81,47,1,6,0.014737,Unrelated,false,false,false,0,0
+"Lin, Yong","Lin, Yong",,3,3,2,0.571429,0.625,0,0,0,322,0,0.00014,81,47,1,1,0.006403,Unrelated,false,false,false,0,0
+"Dubiel, A.","Dubiel, A.",,6,6,10,0.1737,0.212308,0,0.000351,0.000351,1,1,0.000265,0,0,1,10,0.036093,Unrelated,false,false,false,0,0
+"Ernst, H.","Ernst, H.",,6,6,10,0.1737,0.212308,0,0.000351,0.000351,1,1,0.000265,0,0,1,10,0.036093,Unrelated,false,false,false,0,0
+"Kahle, H. N.","Kahle, H. N.",,6,6,10,0.1737,0.212308,0,0.000351,0.000351,1,1,0.000265,0,0,1,10,0.036093,Unrelated,false,false,false,0,0
+"Thurasamy, Ramayah","Thurasamy, Ramayah",,9,11,3,0.647059,0.787879,28.333333,0,0,48,0.380952,0.000421,56,8,0.535714,15,0.044864,Unrelated,false,false,false,0,0
+"Ahmad, Noor Hazlina","Ahmad, Noor Hazlina",,5,5,3,0.52381,0.606061,0,0,0,48,1,0.000208,56,8,1,6,0.026685,Unrelated,false,false,false,0,0
+"Russo-Spena, Tiziana","Russo-Spena, Tiziana",,6,8,1,1,1,4,0,0,317,0.333333,0.000373,82,69,0.6,6,0.01379,Unrelated,false,false,false,0,0
+"Casbarra, Claudia","Casbarra, Claudia",,4,4,2,0.666667,0.75,0,0,0,317,1,0.000238,82,69,1,3,0.008816,Unrelated,false,false,false,0,0
+"Colurcio, Maria","Colurcio, Maria",,4,4,2,0.666667,0.75,0,0,0,317,1,0.000238,82,69,1,3,0.008816,Unrelated,false,false,false,0,0
+"Schultz, Carsten","Schultz, Carsten",,3,5,1,1,1,0,0,0,380,0,0.000242,83,336,1,1,0.00312,Unrelated,false,false,false,0,0
+"Shih, T.-Y.","Shih, T.-Y.",,3,5,1,1,1,0,0,0,61,0,0.000139,84,228,1,1,0.003684,Unrelated,false,false,false,0,0
+"Chan, C.-C.","Chan, C.-C.",,3,3,1,1,1,0,0,0,61,0,0.000139,84,228,1,1,0.003684,Unrelated,false,false,false,0,0
+"Sparrow, J.","Sparrow, J.",,4,6,1,1,1,0,0,0,220,1,0.000233,85,122,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lancaster, N.","Lancaster, N.",,4,4,1,1,1,0,0,0,220,1,0.000233,85,122,1,3,0.007069,Unrelated,false,false,false,0,0
+"Dos Santos, A. M.","Dos Santos, A. M.",,4,4,9,0.190323,0.214201,0,0.000418,0.000418,3,1,0.000228,0,0,1,3,0.014168,Unrelated,false,false,false,0,0
+"Kahn, Kenneth B","Kahn, Kenneth B",,3,3,2,0.666667,0.75,0,0,0,45,0,0.000137,52,120,1,1,0.004351,Unrelated,false,false,false,0,0
+"Sun, Yaowu","Sun, Yaowu",,6,8,1,1,1,3,0,0,62,0.5,0.000285,86,48,0.7,7,0.016922,Unrelated,false,false,false,0,0
+"Fang, Y.","Fang, Y.",,5,5,2,0.8,0.875,0,0,0,62,1,0.000244,86,48,1,6,0.014737,Unrelated,false,false,false,0,0
+"Gong, Xiaoye","Gong, Xiaoye",,3,3,2,0.571429,0.625,0,0,0,62,0,0.00014,86,48,1,1,0.006403,Unrelated,false,false,false,0,0
+"Lim, K. H.","Lim, K. H.",,5,5,2,0.8,0.875,0,0,0,62,1,0.000244,86,48,1,6,0.014737,Unrelated,false,false,false,0,0
+"Teo, Hock-Hai","Teo, Hock-Hai",,5,7,1,1,1,2,0,0,371,0.333333,0.000389,87,111,0.666667,4,0.009299,Unrelated,false,false,false,0,0
+"Kankanhalli, Atreyi","Kankanhalli, Atreyi",,4,4,2,0.75,0.833333,0,0,0,371,1,0.000259,87,111,1,3,0.00776,Unrelated,false,false,false,0,0
+"Tether, Bruce S","Tether, Bruce S",,3,5,1,1,1,0,0,0,308,0,0.000242,88,326,1,1,0.00312,Unrelated,false,false,false,0,0
+"Colomo-Palacios, Ricardo","Colomo-Palacios, Ricardo",,6,6,4,0.458333,0.606061,0.333333,0,0,48,0.833333,0.000312,56,8,0.9,9,0.02631,Unrelated,false,false,false,0,0
+"Gopi, M.","Gopi, M.",,6,6,4,0.458333,0.606061,0.333333,0,0,48,0.833333,0.000312,56,8,0.9,9,0.02631,Unrelated,false,false,false,0,0
+"Goldschmidt-Clermont, P.","Goldschmidt-Clermont, P.",,3,3,3,0.5,0.611111,0,0,0,63,0,0.000141,39,75,1,1,0.004445,Unrelated,false,false,false,0,0
+"Toivonen, Marja","Toivonen, Marja",,4,6,1,1,1,1,0,0,64,0,0.000279,89,123,0.666667,2,0.005702,Unrelated,false,false,false,0,0
+"Hyytinen, K.","Hyytinen, K.",,3,3,2,0.666667,0.75,0,0,0,64,0,0.000159,89,123,1,1,0.004258,Unrelated,false,false,false,0,0
+"Elfring, T.","Elfring, T.",,3,3,10,0.157054,0.171325,0,0.000037,0.000037,3,0,0.000136,0,0,1,1,0.005897,Unrelated,false,false,false,0,0
+"Edwards, Peter","Edwards, Peter",,5,5,3,0.5,0.625,0,0,0,65,1,0.00024,33,12,1,6,0.016585,Unrelated,false,false,false,0,0
+"Galán-Díaz, C.","Galán-Díaz, C.",,5,5,3,0.5,0.625,0,0,0,65,1,0.00024,33,12,1,6,0.016585,Unrelated,false,false,false,0,0
+"Hsuan, Juliana","Hsuan, Juliana",,3,3,8,0.203682,0.229782,0,0.005462,0.005462,5,0,0.000137,0,0,1,1,0.020868,Unrelated,false,false,false,0,0
+"Huang, Pi-Yun","Huang, Pi-Yun",,4,4,2,0.583333,0.642857,0,0,0,66,1,0.000174,67,19,1,3,0.0151,Unrelated,false,false,false,0,0
+"Lin, Shang-Ping","Lin, Shang-Ping",,4,4,2,0.583333,0.642857,0,0,0,66,1,0.000174,67,19,1,3,0.0151,Unrelated,false,false,false,0,0
+"Wang, Zhongjie","Wang, Zhongjie",,7,9,1,1,1,10,0,0,375,0,0.001078,90,32,0.333333,5,0.012156,Unrelated,false,false,false,0,0
+"Zhu, Q.","Zhu, Q.",,8,10,1,1,1,14,0,0,348,0.066667,0.000969,91,22,0.333333,7,0.017059,Unrelated,false,false,false,0,0
+"Chen, Junsong","Chen, Junsong",,4,4,2,0.6,0.666667,0,0,0,348,1,0.000317,91,22,1,3,0.009958,Unrelated,false,false,false,0,0
+"Fredberg, T.","Fredberg, T.",,5,5,7,0.28169,0.342321,0,0,0,25,1,0.000204,3,2,1,6,0.021784,Unrelated,false,false,false,0,0
+"Ihlström Eriksson, C.","Ihlström Eriksson, C.",,5,5,7,0.28169,0.342321,0,0,0,25,1,0.000204,3,2,1,6,0.021784,Unrelated,false,false,false,0,0
+"Kalling, T.","Kalling, T.",,5,5,7,0.28169,0.342321,0,0,0,25,1,0.000204,3,2,1,6,0.021784,Unrelated,false,false,false,0,0
+"Aaltonen, Aleksi","Aaltonen, Aleksi",,4,4,1,1,1,0,0,0,67,1,0.000173,92,124,1,3,0.007876,Unrelated,false,false,false,0,0
+"Kallinikos, Jannis","Kallinikos, Jannis",,4,4,1,1,1,0,0,0,67,1,0.000173,92,124,1,3,0.007876,Unrelated,false,false,false,0,0
+"Marton, Attila","Marton, Attila",,4,4,1,1,1,0,0,0,67,1,0.000173,92,124,1,3,0.007876,Unrelated,false,false,false,0,0
+"Abdous, M.","Abdous, M.",,3,3,1,1,1,0,0,0,68,0,0.000139,93,229,1,1,0.003684,Unrelated,false,false,false,0,0
+"He, W.","He, W.",,3,3,1,1,1,0,0,0,68,0,0.000139,93,229,1,1,0.003684,Unrelated,false,false,false,0,0
+"Adel, R.","Adel, R.",,3,3,1,1,1,0,0,0,351,0,0.000242,94,230,1,1,0.00312,Unrelated,false,false,false,0,0
+"Adham, K. A.","Adham, K. A.",,2,2,0,0,0,0,0,0,69,0,0.000099,95,340,0,0,0.001287,Unrelated,false,false,false,0,0
+"Agarwal, N. K.","Agarwal, N. K.",,4,4,1,1,1,0,0,0,70,1,0.000173,96,125,1,3,0.007876,Unrelated,false,false,false,0,0
+"Ikeda, M.","Ikeda, M.",,4,4,1,1,1,0,0,0,70,1,0.000173,96,125,1,3,0.007876,Unrelated,false,false,false,0,0
+"Islam, M. A.","Islam, M. A.",,4,4,1,1,1,0,0,0,70,1,0.000173,96,125,1,3,0.007876,Unrelated,false,false,false,0,0
+"Ageron, B.","Ageron, B.",,4,4,1,1,1,0,0,0,71,1,0.000233,97,126,1,3,0.007069,Unrelated,false,false,false,0,0
+"Dominguez-Pery, C","Dominguez-Pery, C",,4,4,1,1,1,0,0,0,71,1,0.000233,97,126,1,3,0.007069,Unrelated,false,false,false,0,0
+"Aggarwal, Rebecca","Aggarwal, Rebecca",,3,3,1,1,1,0,0,0,72,0,0.000139,98,231,1,1,0.003684,Unrelated,false,false,false,0,0
+"Lim, Ming K","Lim, Ming K",,3,3,1,1,1,0,0,0,72,0,0.000139,98,231,1,1,0.003684,Unrelated,false,false,false,0,0
+"Ahas, Rein","Ahas, Rein",,5,5,1,1,1,0.5,0,0,315,0.666667,0.00034,99,107,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Kuusik, Andres","Kuusik, Andres",,5,5,1,1,1,0.5,0,0,315,0.666667,0.00034,99,107,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Aitamurto, T.","Aitamurto, T.",,3,3,1,1,1,0,0,0,73,0,0.000139,100,232,1,1,0.003684,Unrelated,false,false,false,0,0
+"Lewis, S. C.","Lewis, S. C.",,3,3,1,1,1,0,0,0,73,0,0.000139,100,232,1,1,0.003684,Unrelated,false,false,false,0,0
+"Akpinar, Fatma","Akpinar, Fatma",,4,4,1,1,1,0,0,0,74,1,0.000233,101,127,1,3,0.007069,Unrelated,false,false,false,0,0
+"Baysan, Serdar","Baysan, Serdar",,4,4,1,1,1,0,0,0,74,1,0.000233,101,127,1,3,0.007069,Unrelated,false,false,false,0,0
+"Alam, Gazi Mahabubul","Alam, Gazi Mahabubul",,6,6,1,1,1,6,0,0,369,0,0.000843,102,49,0.4,4,0.009633,Unrelated,false,false,false,0,0
+"Alhava, O.","Alhava, O.",,4,4,1,1,1,0,0,0,75,1,0.000173,103,128,1,3,0.007876,Unrelated,false,false,false,0,0
+"Kiviniemi, A.","Kiviniemi, A.",,4,4,1,1,1,0,0,0,75,1,0.000173,103,128,1,3,0.007876,Unrelated,false,false,false,0,0
+"Laine, E.","Laine, E.",,4,4,1,1,1,0,0,0,75,1,0.000173,103,128,1,3,0.007876,Unrelated,false,false,false,0,0
+"Alt, R.","Alt, R.",,4,4,1,1,1,0,0,0,76,1,0.000233,104,129,1,3,0.007069,Unrelated,false,false,false,0,0
+"Eckert, C.","Eckert, C.",,4,4,1,1,1,0,0,0,76,1,0.000233,104,129,1,3,0.007069,Unrelated,false,false,false,0,0
+"Alter, S.","Alter, S.",,2,2,0,0,0,0,0,0,77,0,0.000099,105,341,0,0,0.001287,Unrelated,false,false,false,0,0
+"Altmann, Joern","Altmann, Joern",,3,3,1,1,1,0,0,0,78,0,0.000139,106,233,1,1,0.003684,Unrelated,false,false,false,0,0
+"Kim, Kibae","Kim, Kibae",,3,3,1,1,1,0,0,0,78,0,0.000139,106,233,1,1,0.003684,Unrelated,false,false,false,0,0
+"Alvarez-Gonzalez, L. I.","Alvarez-Gonzalez, L. I.",,4,4,1,1,1,1,0,0,262,0,0.00042,107,130,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Alvarez-González, J. A.","Alvarez-González, J. A.",,3,3,1,1,1,0,0,0,79,0,0.000139,108,234,1,1,0.003684,Unrelated,false,false,false,0,0
+"González-Morales, M. O.","González-Morales, M. O.",,3,3,1,1,1,0,0,0,79,0,0.000139,108,234,1,1,0.003684,Unrelated,false,false,false,0,0
+"Alzahrani, A.","Alzahrani, A.",,4,4,1,1,1,1,0,0,251,0,0.00042,109,209,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Angelidou, M.","Angelidou, M.",,4,4,1,1,1,0,0,0,80,1,0.000233,110,131,1,3,0.007069,Unrelated,false,false,false,0,0
+"Gountaras, N.","Gountaras, N.",,4,4,1,1,1,0,0,0,80,1,0.000233,110,131,1,3,0.007069,Unrelated,false,false,false,0,0
+"Arai, Tamio","Arai, Tamio",,4,4,1,1,1,0,0,0,287,1,0.000233,111,132,1,3,0.007069,Unrelated,false,false,false,0,0
+"Hara, Tatsunori","Hara, Tatsunori",,4,4,1,1,1,0,0,0,287,1,0.000233,111,132,1,3,0.007069,Unrelated,false,false,false,0,0
+"Aron, R.","Aron, R.",,5,5,1,1,1,0,0,0,81,1,0.000247,112,81,1,6,0.013764,Unrelated,false,false,false,0,0
+"Dutta, S.","Dutta, S.",,5,5,1,1,1,0,0,0,81,1,0.000247,112,81,1,6,0.013764,Unrelated,false,false,false,0,0
+"Janakiraman, R.","Janakiraman, R.",,5,5,1,1,1,0,0,0,81,1,0.000247,112,81,1,6,0.013764,Unrelated,false,false,false,0,0
+"Artto, K.","Artto, K.",,6,6,1,1,1,0,0,0,352,1,0.000265,113,50,1,10,0.02475,Unrelated,false,false,false,0,0
+"Hellström, M.","Hellström, M.",,6,6,1,1,1,0,0,0,352,1,0.000265,113,50,1,10,0.02475,Unrelated,false,false,false,0,0
+"Kujala, J.","Kujala, J.",,6,6,1,1,1,0,0,0,352,1,0.000265,113,50,1,10,0.02475,Unrelated,false,false,false,0,0
+"Kujala, S.","Kujala, S.",,6,6,1,1,1,0,0,0,352,1,0.000265,113,50,1,10,0.02475,Unrelated,false,false,false,0,0
+"Arvanitis, S.","Arvanitis, S.",,4,4,1,1,1,0,0,0,82,1,0.000173,114,133,1,3,0.007876,Unrelated,false,false,false,0,0
+"Diamantopoulou, V.","Diamantopoulou, V.",,4,4,1,1,1,0,0,0,82,1,0.000173,114,133,1,3,0.007876,Unrelated,false,false,false,0,0
+"Loukis, E.","Loukis, E.",,4,4,1,1,1,0,0,0,82,1,0.000173,114,133,1,3,0.007876,Unrelated,false,false,false,0,0
+"Ashenbaum, B.","Ashenbaum, B.",,3,3,1,1,1,0,0,0,83,0,0.000139,115,235,1,1,0.003684,Unrelated,false,false,false,0,0
+"Azadegan, A.","Azadegan, A.",,3,3,1,1,1,0,0,0,83,0,0.000139,115,235,1,1,0.003684,Unrelated,false,false,false,0,0
+"Ashill, Nicholas J","Ashill, Nicholas J",,5,5,1,1,1,0.5,0,0,353,0.666667,0.00034,116,82,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Jackson, Eric","Jackson, Eric",,5,5,1,1,1,0.5,0,0,353,0.666667,0.00034,116,82,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Asmussen, Bjoern","Asmussen, Bjoern",,5,5,1,1,1,0,0,0,84,1,0.000247,117,83,1,6,0.013764,Unrelated,false,false,false,0,0
+"Farquhar, Jillian","Farquhar, Jillian",,5,5,1,1,1,0,0,0,84,1,0.000247,117,83,1,6,0.013764,Unrelated,false,false,false,0,0
+"Harridge-March, Sally","Harridge-March, Sally",,5,5,1,1,1,0,0,0,84,1,0.000247,117,83,1,6,0.013764,Unrelated,false,false,false,0,0
+"Audretsch, David B","Audretsch, David B",,5,5,1,1,1,0.5,0,0,85,0.666667,0.00034,118,84,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Martinez-Fuentes, Clara","Martinez-Fuentes, Clara",,5,5,1,1,1,0.5,0,0,85,0.666667,0.00034,118,84,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Aveiro, D.","Aveiro, D.",,4,4,1,1,1,1,0,0,318,0,0.00042,119,134,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Azorín, J. A.","Azorín, J. A.",,3,3,1,1,1,0,0,0,243,0,0.000242,120,236,1,1,0.00312,Unrelated,false,false,false,0,0
+"Ba, S.","Ba, S.",,4,4,1,1,1,1,0,0,299,0,0.00042,121,213,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Bacile, Todd J","Bacile, Todd J",,4,4,1,1,1,1,0,0,370,0,0.00042,122,135,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Bader, M. A.","Bader, M. A.",,2,2,0,0,0,0,0,0,86,0,0.000099,123,342,0,0,0.001287,Unrelated,false,false,false,0,0
+"Banerjee, Dipyaman","Banerjee, Dipyaman",,5,5,1,1,1,0,0,0,87,1,0.000203,124,85,1,6,0.014913,Unrelated,false,false,false,0,0
+"Beloglazov, Anton","Beloglazov, Anton",,5,5,1,1,1,0,0,0,87,1,0.000203,124,85,1,6,0.014913,Unrelated,false,false,false,0,0
+"Buyya, Rajkumar","Buyya, Rajkumar",,5,5,1,1,1,0,0,0,87,1,0.000203,124,85,1,6,0.014913,Unrelated,false,false,false,0,0
+"Hartman, Alan","Hartman, Alan",,5,5,1,1,1,0,0,0,87,1,0.000203,124,85,1,6,0.014913,Unrelated,false,false,false,0,0
+"Bao, J.","Bao, J.",,3,3,1,1,1,0,0,0,88,0,0.000139,125,237,1,1,0.003684,Unrelated,false,false,false,0,0
+"Lu, T.","Lu, T.",,3,3,1,1,1,0,0,0,88,0,0.000139,125,237,1,1,0.003684,Unrelated,false,false,false,0,0
+"Barahona, J. C.","Barahona, J. C.",,3,3,1,1,1,0,0,0,89,0,0.000139,126,238,1,1,0.003684,Unrelated,false,false,false,0,0
+"Elizondo, A. M.","Elizondo, A. M.",,3,3,1,1,1,0,0,0,89,0,0.000139,126,238,1,1,0.003684,Unrelated,false,false,false,0,0
+"Barkema, H. G.","Barkema, H. G.",,6,6,1,1,1,0.333333,0,0,230,0.833333,0.000327,127,51,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Frambach, R. T.","Frambach, R. T.",,6,6,1,1,1,0.333333,0,0,230,0.833333,0.000327,127,51,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Frambach, RT","Frambach, RT",,6,6,1,1,1,0.333333,0,0,230,0.833333,0.000327,127,51,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Barlow, J.","Barlow, J.",,4,4,1,1,1,0,0,0,90,1,0.000173,128,136,1,3,0.007876,Unrelated,false,false,false,0,0
+"Bayer, S.","Bayer, S.",,4,4,1,1,1,0,0,0,90,1,0.000173,128,136,1,3,0.007876,Unrelated,false,false,false,0,0
+"Curry, R.","Curry, R.",,4,4,1,1,1,0,0,0,90,1,0.000173,128,136,1,3,0.007876,Unrelated,false,false,false,0,0
+"Barney, J. B.","Barney, J. B.",,4,4,1,1,1,1,0,0,261,0,0.00042,129,137,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Baron, Steve","Baron, Steve",,4,4,1,1,1,0,0,0,346,1,0.000233,130,138,1,3,0.007069,Unrelated,false,false,false,0,0
+"Hunter-Jones, Philippa","Hunter-Jones, Philippa",,4,4,1,1,1,0,0,0,346,1,0.000233,130,138,1,3,0.007069,Unrelated,false,false,false,0,0
+"Barrutia, Jose M","Barrutia, Jose M",,3,3,1,1,1,0,0,0,91,0,0.000139,131,239,1,1,0.003684,Unrelated,false,false,false,0,0
+"Gilsanz, Ainhize","Gilsanz, Ainhize",,3,3,1,1,1,0,0,0,91,0,0.000139,131,239,1,1,0.003684,Unrelated,false,false,false,0,0
+"Bascavusoglu-Moreau, E.","Bascavusoglu-Moreau, E.",,4,4,1,1,1,0,0,0,217,1,0.000233,132,139,1,3,0.007069,Unrelated,false,false,false,0,0
+"Hughes, Alan","Hughes, Alan",,4,4,1,1,1,0,0,0,217,1,0.000233,132,139,1,3,0.007069,Unrelated,false,false,false,0,0
+"Baskerville, R. L.","Baskerville, R. L.",,3,3,1,1,1,0,0,0,222,0,0.000242,133,240,1,1,0.00312,Unrelated,false,false,false,0,0
+"Batchuluun, A.","Batchuluun, A.",,4,4,1,1,1,0,0,0,92,1,0.000173,134,140,1,3,0.007876,Unrelated,false,false,false,0,0
+"Batnasan, J.","Batnasan, J.",,4,4,1,1,1,0,0,0,92,1,0.000173,134,140,1,3,0.007876,Unrelated,false,false,false,0,0
+"Chen, J. K. C.","Chen, J. K. C.",,4,4,1,1,1,0,0,0,92,1,0.000173,134,140,1,3,0.007876,Unrelated,false,false,false,0,0
+"Battistella, L. F.","Battistella, L. F.",,4,4,1,1,1,0,0,0,357,1,0.000233,135,141,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lübeck, R. M.","Lübeck, R. M.",,4,4,1,1,1,0,0,0,357,1,0.000233,135,141,1,3,0.007069,Unrelated,false,false,false,0,0
+"Baxter, D.","Baxter, D.",,6,6,1,1,1,0,0,0,93,1,0.000265,136,52,1,10,0.02475,Unrelated,false,false,false,0,0
+"Doultsinou, A.","Doultsinou, A.",,6,6,1,1,1,0,0,0,93,1,0.000265,136,52,1,10,0.02475,Unrelated,false,false,false,0,0
+"Gao, J.","Gao, J.",,6,6,1,1,1,0,0,0,93,1,0.000265,136,52,1,10,0.02475,Unrelated,false,false,false,0,0
+"Kalta, M.","Kalta, M.",,6,6,1,1,1,0,0,0,93,1,0.000265,136,52,1,10,0.02475,Unrelated,false,false,false,0,0
+"Beltramini, R. F.","Beltramini, R. F.",,2,2,0,0,0,0,0,0,94,0,0.000099,137,343,0,0,0.001287,Unrelated,false,false,false,0,0
+"Bergek, Anna","Bergek, Anna",,6,6,1,1,1,0,0,0,265,1,0.000265,138,53,1,10,0.02475,Unrelated,false,false,false,0,0
+"Carlsson, Bo","Carlsson, Bo",,6,6,1,1,1,0,0,0,265,1,0.000265,138,53,1,10,0.02475,Unrelated,false,false,false,0,0
+"Jacobsson, Staffan","Jacobsson, Staffan",,6,6,1,1,1,0,0,0,265,1,0.000265,138,53,1,10,0.02475,Unrelated,false,false,false,0,0
+"Lindmark, Sven","Lindmark, Sven",,6,6,1,1,1,0,0,0,265,1,0.000265,138,53,1,10,0.02475,Unrelated,false,false,false,0,0
+"Berkhout, F.","Berkhout, F.",,4,4,1,1,1,1,0,0,314,0,0.00042,139,214,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Bertino, Elisa","Bertino, Elisa",,4,4,1,1,1,0,0,0,204,1,0.000233,140,142,1,3,0.007069,Unrelated,false,false,false,0,0
+"Brunswicker, Sabine","Brunswicker, Sabine",,4,4,1,1,1,0,0,0,204,1,0.000233,140,142,1,3,0.007069,Unrelated,false,false,false,0,0
+"Bertram, M.","Bertram, M.",,5,5,1,1,1,3,0,0,338,0,0.000623,141,86,0.5,3,0.007289,Unrelated,false,false,false,0,0
+"Bessant, J.","Bessant, J.",,3,3,1,1,1,0,0,0,95,0,0.000139,142,241,1,1,0.003684,Unrelated,false,false,false,0,0
+"Francis, D.","Francis, D.",,3,3,1,1,1,0,0,0,95,0,0.000139,142,241,1,1,0.003684,Unrelated,false,false,false,0,0
+"Best, M. L.","Best, M. L.",,2,2,0,0,0,0,0,0,96,0,0.000099,143,344,0,0,0.001287,Unrelated,false,false,false,0,0
+"Bjørn-Andersen, N.","Bjørn-Andersen, N.",,4,4,1,1,1,1,0,0,275,0,0.00042,144,143,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Blaabjerg, Steen","Blaabjerg, Steen",,5,5,1,1,1,3,0,0,224,0,0.000623,145,87,0.5,3,0.007289,Unrelated,false,false,false,0,0
+"Blasco-Arcas, Lorena","Blasco-Arcas, Lorena",,4,4,1,1,1,0,0,0,97,1,0.000173,146,144,1,3,0.007876,Unrelated,false,false,false,0,0
+"Hernandez-Ortega, Blanca","Hernandez-Ortega, Blanca",,4,4,1,1,1,0,0,0,97,1,0.000173,146,144,1,3,0.007876,Unrelated,false,false,false,0,0
+"Jimenez-Martinez, Julio","Jimenez-Martinez, Julio",,4,4,1,1,1,0,0,0,97,1,0.000173,146,144,1,3,0.007876,Unrelated,false,false,false,0,0
+"Blocker, Christopher P","Blocker, Christopher P",,5,5,1,1,1,0,0,0,98,1,0.000203,147,88,1,6,0.014913,Unrelated,false,false,false,0,0
+"Boutin, P. J.","Boutin, P. J.",,5,5,1,1,1,0,0,0,98,1,0.000203,147,88,1,6,0.014913,Unrelated,false,false,false,0,0
+"Boutin, Philip J, Jr","Boutin, Philip J, Jr",,5,5,1,1,1,0,0,0,98,1,0.000203,147,88,1,6,0.014913,Unrelated,false,false,false,0,0
+"Flint, Daniel John","Flint, Daniel John",,5,5,1,1,1,0,0,0,98,1,0.000203,147,88,1,6,0.014913,Unrelated,false,false,false,0,0
+"Bolisani, E.","Bolisani, E.",,3,3,1,1,1,0,0,0,281,0,0.000242,148,320,1,1,0.00312,Unrelated,false,false,false,0,0
+"Bowen, D.","Bowen, D.",,4,4,1,1,1,0,0,0,99,1,0.000173,149,145,1,3,0.007876,Unrelated,false,false,false,0,0
+"George, W. R.","George, W. R.",,4,4,1,1,1,0,0,0,99,1,0.000173,149,145,1,3,0.007876,Unrelated,false,false,false,0,0
+"Kingmanbrundage, J","Kingmanbrundage, J",,4,4,1,1,1,0,0,0,99,1,0.000173,149,145,1,3,0.007876,Unrelated,false,false,false,0,0
+"Braithwaite, C.","Braithwaite, C.",,5,5,1,1,1,0,0,0,100,1,0.000247,150,89,1,6,0.013764,Unrelated,false,false,false,0,0
+"Halsall, D.","Halsall, D.",,5,5,1,1,1,0,0,0,100,1,0.000247,150,89,1,6,0.013764,Unrelated,false,false,false,0,0
+"Halsall, J.","Halsall, J.",,5,5,1,1,1,0,0,0,100,1,0.000247,150,89,1,6,0.013764,Unrelated,false,false,false,0,0
+"Bratt, Cecilia","Bratt, Cecilia",,6,6,1,1,1,0.333333,0,0,101,0.833333,0.000327,151,62,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Broman, Goran","Broman, Goran",,6,6,1,1,1,0.333333,0,0,101,0.833333,0.000327,151,62,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Hallstedt, Sophie","Hallstedt, Sophie",,6,6,1,1,1,0.333333,0,0,101,0.833333,0.000327,151,62,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Brenner, Walter","Brenner, Walter",,7,7,1,1,1,1,0,0,325,0.7,0.000411,152,33,0.8,12,0.028651,Unrelated,false,false,false,0,0
+"Hamel, Florian","Hamel, Florian",,7,7,1,1,1,1,0,0,325,0.7,0.000411,152,33,0.8,12,0.028651,Unrelated,false,false,false,0,0
+"Herz, Thomas Ph","Herz, Thomas Ph",,7,7,1,1,1,1,0,0,325,0.7,0.000411,152,33,0.8,12,0.028651,Unrelated,false,false,false,0,0
+"Broeckelmann, P.","Broeckelmann, P.",,2,2,0,0,0,0,0,0,102,0,0.000099,153,345,0,0,0.001287,Unrelated,false,false,false,0,0
+"Brown, Louise","Brown, Louise",,3,3,1,1,1,0,0,0,238,0,0.000242,154,305,1,1,0.00312,Unrelated,false,false,false,0,0
+"Brudvig, Susan","Brudvig, Susan",,7,7,1,1,1,0.25,0,0,103,0.9,0.00033,155,34,0.933333,14,0.036501,Unrelated,false,false,false,0,0
+"Castaldo, Sandro","Castaldo, Sandro",,7,7,1,1,1,0.25,0,0,103,0.9,0.00033,155,34,0.933333,14,0.036501,Unrelated,false,false,false,0,0
+"Grosso, Monica","Grosso, Monica",,7,7,1,1,1,0.25,0,0,103,0.9,0.00033,155,34,0.933333,14,0.036501,Unrelated,false,false,false,0,0
+"Hofacker, Charles F","Hofacker, Charles F",,7,7,1,1,1,0.25,0,0,103,0.9,0.00033,155,34,0.933333,14,0.036501,Unrelated,false,false,false,0,0
+"Bruns, Katherina","Bruns, Katherina",,3,3,1,1,1,0,0,0,104,0,0.000139,156,242,1,1,0.003684,Unrelated,false,false,false,0,0
+"Jacob, Frank","Jacob, Frank",,3,3,1,1,1,0,0,0,104,0,0.000139,156,242,1,1,0.003684,Unrelated,false,false,false,0,0
+"Bröchner, J.","Bröchner, J.",,2,2,0,0,0,0,0,0,105,0,0.000099,157,346,0,0,0.001287,Unrelated,false,false,false,0,0
+"Burlat, Patrick","Burlat, Patrick",,4,4,1,1,1,1,0,0,246,0,0.00042,158,207,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Burnes, Bernard","Burnes, Bernard",,3,3,1,1,1,0,0,0,106,0,0.000139,159,243,1,1,0.003684,Unrelated,false,false,false,0,0
+"Choi, Hwanho","Choi, Hwanho",,3,3,1,1,1,0,0,0,106,0,0.000139,159,243,1,1,0.003684,Unrelated,false,false,false,0,0
+"Burton, Jamie","Burton, Jamie",,3,3,1,1,1,0,0,0,254,0,0.000242,160,310,1,1,0.00312,Unrelated,false,false,false,0,0
+"Busquets, Javier","Busquets, Javier",,2,2,0,0,0,0,0,0,107,0,0.000099,161,347,0,0,0.001287,Unrelated,false,false,false,0,0
+"Butler, B S","Butler, B S",,7,7,1,1,1,0.25,0,0,108,0.9,0.00033,162,39,0.933333,14,0.036501,Unrelated,false,false,false,0,0
+"Carte, T A","Carte, T A",,7,7,1,1,1,0.25,0,0,108,0.9,0.00033,162,39,0.933333,14,0.036501,Unrelated,false,false,false,0,0
+"Croes, H J P","Croes, H J P",,7,7,1,1,1,0.25,0,0,108,0.9,0.00033,162,39,0.933333,14,0.036501,Unrelated,false,false,false,0,0
+"Jasperson, J","Jasperson, J",,7,7,1,1,1,0.25,0,0,108,0.9,0.00033,162,39,0.933333,14,0.036501,Unrelated,false,false,false,0,0
+"Buzzacchi, L.","Buzzacchi, L.",,4,4,1,1,1,0,0,0,109,1,0.000173,163,146,1,3,0.007876,Unrelated,false,false,false,0,0
+"Colombo, M. G.","Colombo, M. G.",,4,4,1,1,1,0,0,0,109,1,0.000173,163,146,1,3,0.007876,Unrelated,false,false,false,0,0
+"Mariotti, S.","Mariotti, S.",,4,4,1,1,1,0,0,0,109,1,0.000173,163,146,1,3,0.007876,Unrelated,false,false,false,0,0
+"Cabello-Medina, Carmen","Cabello-Medina, Carmen",,4,4,1,1,1,0,0,0,110,1,0.000173,164,147,1,3,0.007876,Unrelated,false,false,false,0,0
+"Carmona-Lavado, Antonio","Carmona-Lavado, Antonio",,4,4,1,1,1,0,0,0,110,1,0.000173,164,147,1,3,0.007876,Unrelated,false,false,false,0,0
+"Cuevas-Rodriguez, Gloria","Cuevas-Rodriguez, Gloria",,4,4,1,1,1,0,0,0,110,1,0.000173,164,147,1,3,0.007876,Unrelated,false,false,false,0,0
+"Cabiddu, Francesca","Cabiddu, Francesca",,3,3,1,1,1,0,0,0,111,0,0.000139,165,244,1,1,0.003684,Unrelated,false,false,false,0,0
+"Di Guardo, Maria Chiara","Di Guardo, Maria Chiara",,3,3,1,1,1,0,0,0,111,0,0.000139,165,244,1,1,0.003684,Unrelated,false,false,false,0,0
+"Caceres, Rafael","Caceres, Rafael",,4,4,1,1,1,0,0,0,112,1,0.000173,166,148,1,3,0.007876,Unrelated,false,false,false,0,0
+"Cáceres, R.","Cáceres, R.",,4,4,1,1,1,0,0,0,112,1,0.000173,166,148,1,3,0.007876,Unrelated,false,false,false,0,0
+"Guzmán, J.","Guzmán, J.",,4,4,1,1,1,0,0,0,112,1,0.000173,166,148,1,3,0.007876,Unrelated,false,false,false,0,0
+"Cai, H.","Cai, H.",,4,4,1,1,1,0,0,0,113,1,0.000173,167,149,1,3,0.007876,Unrelated,false,false,false,0,0
+"Chung, J.-Y.","Chung, J.-Y.",,4,4,1,1,1,0,0,0,113,1,0.000173,167,149,1,3,0.007876,Unrelated,false,false,false,0,0
+"Hui, Su","Hui, Su",,4,4,1,1,1,0,0,0,113,1,0.000173,167,149,1,3,0.007876,Unrelated,false,false,false,0,0
+"Cai, Shun","Cai, Shun",,3,3,1,1,1,0,0,0,310,0,0.000242,168,245,1,1,0.00312,Unrelated,false,false,false,0,0
+"Calabrese, Armando","Calabrese, Armando",,2,2,0,0,0,0,0,0,114,0,0.000099,169,348,0,0,0.001287,Unrelated,false,false,false,0,0
+"Camacho, J. A.","Camacho, J. A.",,3,3,1,1,1,0,0,0,268,0,0.000242,170,316,1,1,0.00312,Unrelated,false,false,false,0,0
+"Candi, Marina","Candi, Marina",,3,3,1,1,1,0,0,0,274,0,0.000242,171,246,1,1,0.00312,Unrelated,false,false,false,0,0
+"Caniels, Marjolein C J","Caniels, Marjolein C J",,5,5,1,1,1,0,0,0,115,1,0.000247,172,90,1,6,0.013764,Unrelated,false,false,false,0,0
+"Caniëls, M. C. J.","Caniëls, M. C. J.",,5,5,1,1,1,0,0,0,115,1,0.000247,172,90,1,6,0.013764,Unrelated,false,false,false,0,0
+"Kesidou, Effie","Kesidou, Effie",,5,5,1,1,1,0,0,0,115,1,0.000247,172,90,1,6,0.013764,Unrelated,false,false,false,0,0
+"Carroll, Noel","Carroll, Noel",,3,3,1,1,1,0,0,0,116,0,0.000139,173,247,1,1,0.003684,Unrelated,false,false,false,0,0
+"Helfert, Markus","Helfert, Markus",,3,3,1,1,1,0,0,0,116,0,0.000139,173,247,1,1,0.003684,Unrelated,false,false,false,0,0
+"Cassab, H.","Cassab, H.",,3,3,1,1,1,0,0,0,324,0,0.000242,174,248,1,1,0.00312,Unrelated,false,false,false,0,0
+"Casselman, R Mitch","Casselman, R Mitch",,5,5,1,1,1,3,0,0,234,0,0.000623,175,91,0.5,3,0.007289,Unrelated,false,false,false,0,0
+"Castellacci, Fulvio","Castellacci, Fulvio",,2,2,0,0,0,0,0,0,117,0,0.000099,176,349,0,0,0.001287,Unrelated,false,false,false,0,0
+"Castro, L. M.","Castro, L. M.",,4,4,1,1,1,1,0,0,219,0,0.00042,177,202,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Castro-Lucas, Cristina","Castro-Lucas, Cristina",,6,6,1,1,1,0,0,0,248,1,0.000265,178,54,1,10,0.02475,Unrelated,false,false,false,0,0
+"Diallo, Mbaye Fall","Diallo, Mbaye Fall",,6,6,1,1,1,0,0,0,248,1,0.000265,178,54,1,10,0.02475,Unrelated,false,false,false,0,0
+"Leo, Pierre-Yves","Leo, Pierre-Yves",,6,6,1,1,1,0,0,0,248,1,0.000265,178,54,1,10,0.02475,Unrelated,false,false,false,0,0
+"Léo, P. Y.","Léo, P. Y.",,6,6,1,1,1,0,0,0,248,1,0.000265,178,54,1,10,0.02475,Unrelated,false,false,false,0,0
+"Ceccagnoli, Marco","Ceccagnoli, Marco",,5,5,1,1,1,0,0,0,359,1,0.000247,179,92,1,6,0.013764,Unrelated,false,false,false,0,0
+"Forman, Chris","Forman, Chris",,5,5,1,1,1,0,0,0,359,1,0.000247,179,92,1,6,0.013764,Unrelated,false,false,false,0,0
+"Huang, Peng","Huang, Peng",,5,5,1,1,1,0,0,0,359,1,0.000247,179,92,1,6,0.013764,Unrelated,false,false,false,0,0
+"Cecere, G.","Cecere, G.",,2,2,0,0,0,0,0,0,118,0,0.000099,180,350,0,0,0.001287,Unrelated,false,false,false,0,0
+"Chairatana, Pun-Arj","Chairatana, Pun-Arj",,2,2,0,0,0,0,0,0,119,0,0.000099,181,351,0,0,0.001287,Unrelated,false,false,false,0,0
+"Chaiyawat, T.","Chaiyawat, T.",,5,5,1,1,1,0.5,0,0,120,0.666667,0.00034,182,93,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Gowanit, C.","Gowanit, C.",,5,5,1,1,1,0.5,0,0,120,0.666667,0.00034,182,93,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Chan, Wai Kin Victor","Chan, Wai Kin Victor",,3,3,1,1,1,0,0,0,121,0,0.000139,183,249,1,1,0.003684,Unrelated,false,false,false,0,0
+"Hsu, Cheng","Hsu, Cheng",,3,3,1,1,1,0,0,0,121,0,0.000139,183,249,1,1,0.003684,Unrelated,false,false,false,0,0
+"Chang, H. J.","Chang, H. J.",,3,3,1,1,1,0,0,0,239,0,0.000242,184,250,1,1,0.00312,Unrelated,false,false,false,0,0
+"Chang, Hung-Fan","Chang, Hung-Fan",,4,4,1,1,1,0,0,0,122,1,0.000233,185,150,1,3,0.007069,Unrelated,false,false,false,0,0
+"Luo, Chih-Ming Arthur","Luo, Chih-Ming Arthur",,4,4,1,1,1,0,0,0,122,1,0.000233,185,150,1,3,0.007069,Unrelated,false,false,false,0,0
+"Chang, R. M.","Chang, R. M.",,7,7,1,1,1,1,0,0,123,0.7,0.000411,186,37,0.8,12,0.028651,Unrelated,false,false,false,0,0
+"Han, K.","Han, K.",,7,7,1,1,1,1,0,0,123,0.7,0.000411,186,37,0.8,12,0.028651,Unrelated,false,false,false,0,0
+"Im, K. S.","Im, K. S.",,7,7,1,1,1,1,0,0,123,0.7,0.000411,186,37,0.8,12,0.028651,Unrelated,false,false,false,0,0
+"Chang, Soo Ho","Chang, Soo Ho",,3,3,1,1,1,0,0,0,124,0,0.000139,187,251,1,1,0.003684,Unrelated,false,false,false,0,0
+"Lin, Kwei-Jay","Lin, Kwei-Jay",,3,3,1,1,1,0,0,0,124,0,0.000139,187,251,1,1,0.003684,Unrelated,false,false,false,0,0
+"Chang, Y. B.","Chang, Y. B.",,3,3,1,1,1,0,0,0,125,0,0.000139,188,252,1,1,0.003684,Unrelated,false,false,false,0,0
+"Gurbaxani, V.","Gurbaxani, V.",,3,3,1,1,1,0,0,0,125,0,0.000139,188,252,1,1,0.003684,Unrelated,false,false,false,0,0
+"Chaparro-Pelaez, Julian","Chaparro-Pelaez, Julian",,4,4,1,1,1,1,0,0,242,0,0.00042,189,151,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Chee-Wooi, H.","Chee-Wooi, H.",,3,3,1,1,1,0,0,0,292,0,0.000242,190,253,1,1,0.00312,Unrelated,false,false,false,0,0
+"Chen, Chi-Kuang","Chen, Chi-Kuang",,6,6,1,1,1,1.5,0,0,343,0.5,0.000455,191,65,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"Chen, Kuan-Chung","Chen, Kuan-Chung",,6,6,1,1,1,1.5,0,0,343,0.5,0.000455,191,65,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"Chen, G.","Chen, G.",,5,5,1,1,1,0,0,0,126,1,0.000203,192,94,1,6,0.014913,Unrelated,false,false,false,0,0
+"Cheung, W.","Cheung, W.",,5,5,1,1,1,0,0,0,126,1,0.000203,192,94,1,6,0.014913,Unrelated,false,false,false,0,0
+"Chu, S.-C.","Chu, S.-C.",,5,5,1,1,1,0,0,0,126,1,0.000203,192,94,1,6,0.014913,Unrelated,false,false,false,0,0
+"Leung, J.","Leung, J.",,5,5,1,1,1,0,0,0,126,1,0.000203,192,94,1,6,0.014913,Unrelated,false,false,false,0,0
+"Chen, H.","Chen, H.",,5,5,1,1,1,0,0,0,127,1,0.000203,193,95,1,6,0.014913,Unrelated,false,false,false,0,0
+"Chen, Haozhe","Chen, Haozhe",,5,5,1,1,1,0,0,0,127,1,0.000203,193,95,1,6,0.014913,Unrelated,false,false,false,0,0
+"Daugherty, Patricia J","Daugherty, Patricia J",,5,5,1,1,1,0,0,0,127,1,0.000203,193,95,1,6,0.014913,Unrelated,false,false,false,0,0
+"Ferrin, Bruce G","Ferrin, Bruce G",,5,5,1,1,1,0,0,0,127,1,0.000203,193,95,1,6,0.014913,Unrelated,false,false,false,0,0
+"Chen, Kuo-Min","Chen, Kuo-Min",,5,5,1,1,1,0.5,0,0,128,0.666667,0.00034,194,104,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Liu, Ren-Jye","Liu, Ren-Jye",,5,5,1,1,1,0.5,0,0,128,0.666667,0.00034,194,104,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Chen, R.-H.","Chen, R.-H.",,4,4,1,1,1,0,0,0,129,1,0.000173,195,152,1,3,0.007876,Unrelated,false,false,false,0,0
+"Chiu, K. K.-S.","Chiu, K. K.-S.",,4,4,1,1,1,0,0,0,129,1,0.000173,195,152,1,3,0.007876,Unrelated,false,false,false,0,0
+"Lin, Jwu-Rong","Lin, Jwu-Rong",,4,4,1,1,1,0,0,0,129,1,0.000173,195,152,1,3,0.007876,Unrelated,false,false,false,0,0
+"Chen, Shin-Horng","Chen, Shin-Horng",,4,4,1,1,1,1,0,0,350,0,0.00042,196,153,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Chen, Yuh-Jen","Chen, Yuh-Jen",,4,4,1,1,1,0,0,0,360,1,0.000233,197,154,1,3,0.007069,Unrelated,false,false,false,0,0
+"Chen, Yuh-Min","Chen, Yuh-Min",,4,4,1,1,1,0,0,0,360,1,0.000233,197,154,1,3,0.007069,Unrelated,false,false,false,0,0
+"Cheng, L.-H.","Cheng, L.-H.",,5,5,1,1,1,0,0,0,130,1,0.000203,198,96,1,6,0.014913,Unrelated,false,false,false,0,0
+"Chiu, Wen-Ta","Chiu, Wen-Ta",,5,5,1,1,1,0,0,0,130,1,0.000203,198,96,1,6,0.014913,Unrelated,false,false,false,0,0
+"Li, E. Y.","Li, E. Y.",,5,5,1,1,1,0,0,0,130,1,0.000203,198,96,1,6,0.014913,Unrelated,false,false,false,0,0
+"Lin, Yu-Ting","Lin, Yu-Ting",,5,5,1,1,1,0,0,0,130,1,0.000203,198,96,1,6,0.014913,Unrelated,false,false,false,0,0
+"Chi, L.","Chi, L.",,5,5,1,1,1,0,0,0,131,1,0.000203,199,97,1,6,0.014913,Unrelated,false,false,false,0,0
+"Datta, A.","Datta, A.",,5,5,1,1,1,0,0,0,131,1,0.000203,199,97,1,6,0.014913,Unrelated,false,false,false,0,0
+"Han, S.","Han, S.",,5,5,1,1,1,0,0,0,131,1,0.000203,199,97,1,6,0.014913,Unrelated,false,false,false,0,0
+"Joshi, K. D.","Joshi, K. D.",,5,5,1,1,1,0,0,0,131,1,0.000203,199,97,1,6,0.014913,Unrelated,false,false,false,0,0
+"Chi-Shiun, Lai","Chi-Shiun, Lai",,4,4,1,1,1,1,0,0,289,0,0.00042,200,155,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Chiang, Chun-Hao","Chiang, Chun-Hao",,3,3,1,1,1,0,0,0,132,0,0.000139,201,254,1,1,0.003684,Unrelated,false,false,false,0,0
+"Hsu, Chien-Lung","Hsu, Chien-Lung",,3,3,1,1,1,0,0,0,132,0,0.000139,201,254,1,1,0.003684,Unrelated,false,false,false,0,0
+"Chih, Wen Hai","Chih, Wen Hai",,4,4,1,1,1,0,0,0,368,1,0.000233,202,156,1,3,0.007069,Unrelated,false,false,false,0,0
+"Huang, Ling Chu","Huang, Ling Chu",,4,4,1,1,1,0,0,0,368,1,0.000233,202,156,1,3,0.007069,Unrelated,false,false,false,0,0
+"Choi, Byounggu","Choi, Byounggu",,4,4,1,1,1,0,0,0,133,1,0.000233,203,157,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lee, Jae-Nam","Lee, Jae-Nam",,4,4,1,1,1,0,0,0,133,1,0.000233,203,157,1,3,0.007069,Unrelated,false,false,false,0,0
+"Choi, X. G. S.","Choi, X. G. S.",,8,8,1,1,1,0.2,0,0,134,0.933333,0.000338,204,23,0.952381,20,0.061673,Unrelated,false,false,false,0,0
+"Galletta, Dennis","Galletta, Dennis",,8,8,1,1,1,0.2,0,0,134,0.933333,0.000338,204,23,0.952381,20,0.061673,Unrelated,false,false,false,0,0
+"Ge, Xin","Ge, Xin",,8,8,1,1,1,0.2,0,0,134,0.933333,0.000338,204,23,0.952381,20,0.061673,Unrelated,false,false,false,0,0
+"Li, Jin","Li, Jin",,8,8,1,1,1,0.2,0,0,134,0.933333,0.000338,204,23,0.952381,20,0.061673,Unrelated,false,false,false,0,0
+"Li, Jun","Li, Jun",,8,8,1,1,1,0.2,0,0,134,0.933333,0.000338,204,23,0.952381,20,0.061673,Unrelated,false,false,false,0,0
+"Chong, Alain Yee-Loong","Chong, Alain Yee-Loong",,4,4,1,1,1,1,0,0,378,0,0.00042,205,216,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Chou, Seng-Cho T","Chou, Seng-Cho T",,5,5,1,1,1,3,0,0,340,0,0.000623,206,109,0.5,3,0.007289,Unrelated,false,false,false,0,0
+"Choudhury, Vivek","Choudhury, Vivek",,3,3,1,1,1,0,0,0,135,0,0.000139,207,255,1,1,0.003684,Unrelated,false,false,false,0,0
+"Karahanna, Elena","Karahanna, Elena",,3,3,1,1,1,0,0,0,135,0,0.000139,207,255,1,1,0.003684,Unrelated,false,false,false,0,0
+"Chuang, Shu-Hui","Chuang, Shu-Hui",,3,3,1,1,1,0,0,0,136,0,0.000139,208,256,1,1,0.003684,Unrelated,false,false,false,0,0
+"Lin, Hong-Nan","Lin, Hong-Nan",,3,3,1,1,1,0,0,0,136,0,0.000139,208,256,1,1,0.003684,Unrelated,false,false,false,0,0
+"Chumpitaz Caceres, Ruben","Chumpitaz Caceres, Ruben",,4,4,1,1,1,0,0,0,137,1,0.000233,209,158,1,3,0.007069,Unrelated,false,false,false,0,0
+"Cáceres, R. C.","Cáceres, R. C.",,4,4,1,1,1,0,0,0,137,1,0.000233,209,158,1,3,0.007069,Unrelated,false,false,false,0,0
+"Cochoy, Franck","Cochoy, Franck",,2,2,0,0,0,0,0,0,138,0,0.000099,210,352,0,0,0.001287,Unrelated,false,false,false,0,0
+"Conrick, M.","Conrick, M.",,3,3,1,1,1,0,0,0,139,0,0.000139,211,257,1,1,0.003684,Unrelated,false,false,false,0,0
+"Essén, A.","Essén, A.",,3,3,1,1,1,0,0,0,139,0,0.000139,211,257,1,1,0.003684,Unrelated,false,false,false,0,0
+"Corrigan, M.","Corrigan, M.",,3,3,1,1,1,0,0,0,216,0,0.000242,212,301,1,1,0.00312,Unrelated,false,false,false,0,0
+"Corrocher, Nicoletta","Corrocher, Nicoletta",,3,3,1,1,1,0,0,0,381,0,0.000242,213,258,1,1,0.00312,Unrelated,false,false,false,0,0
+"Cromer, Cory","Cromer, Cory",,2,2,0,0,0,0,0,0,140,0,0.000099,214,353,0,0,0.001287,Unrelated,false,false,false,0,0
+"Cruz, S.","Cruz, S.",,3,3,1,1,1,0,0,0,245,0,0.000242,215,259,1,1,0.00312,Unrelated,false,false,false,0,0
+"Cunha, A. B.","Cunha, A. B.",,2,2,0,0,0,0,0,0,141,0,0.000099,216,354,0,0,0.001287,Unrelated,false,false,false,0,0
+"D'Alvano, Luigi","D'Alvano, Luigi",,3,3,1,1,1,0,0,0,142,0,0.000139,217,260,1,1,0.003684,Unrelated,false,false,false,0,0
+"Hidalgo, Antonio","Hidalgo, Antonio",,3,3,1,1,1,0,0,0,142,0,0.000139,217,260,1,1,0.003684,Unrelated,false,false,false,0,0
+"Dalli, Daniele","Dalli, Daniele",,3,3,1,1,1,0,0,0,143,0,0.000139,218,261,1,1,0.003684,Unrelated,false,false,false,0,0
+"Galvagno, Marco","Galvagno, Marco",,3,3,1,1,1,0,0,0,143,0,0.000139,218,261,1,1,0.003684,Unrelated,false,false,false,0,0
+"Das, S. R.","Das, S. R.",,3,3,1,1,1,0,0,0,144,0,0.000139,219,262,1,1,0.003684,Unrelated,false,false,false,0,0
+"Joshi, M. P.","Joshi, M. P.",,3,3,1,1,1,0,0,0,144,0,0.000139,219,262,1,1,0.003684,Unrelated,false,false,false,0,0
+"de Castro, C. C.","de Castro, C. C.",,6,6,1,1,1,1.5,0,0,267,0.5,0.000455,220,55,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"Figueira, M.","Figueira, M.",,6,6,1,1,1,1.5,0,0,267,0.5,0.000455,220,55,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"De Felice, F.","De Felice, F.",,3,3,1,1,1,0,0,0,247,0,0.000242,221,307,1,1,0.00312,Unrelated,false,false,false,0,0
+"de Grandbois, Y.","de Grandbois, Y.",,2,2,0,0,0,0,0,0,145,0,0.000099,222,355,0,0,0.001287,Unrelated,false,false,false,0,0
+"Dedene, Guido","Dedene, Guido",,6,6,1,1,1,6,0,0,328,0,0.000843,223,56,0.4,4,0.009633,Unrelated,false,false,false,0,0
+"Desai, D.","Desai, D.",,2,2,0,0,0,0,0,0,146,0,0.000099,224,356,0,0,0.001287,Unrelated,false,false,false,0,0
+"DeTore, A.","DeTore, A.",,3,3,1,1,1,0,0,0,215,0,0.000242,225,300,1,1,0.00312,Unrelated,false,false,false,0,0
+"Dholakia, N.","Dholakia, N.",,3,3,1,1,1,0,0,0,240,0,0.000242,226,306,1,1,0.00312,Unrelated,false,false,false,0,0
+"Di Benedetto, A.","Di Benedetto, A.",,4,4,1,1,1,1,0,0,226,0,0.00042,227,204,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Diaz-Martin, Ana M","Diaz-Martin, Ana M",,7,7,1,1,1,3,0,0,236,0.4,0.000576,228,35,0.6,9,0.02017,Unrelated,false,false,false,0,0
+"Díaz-Martín, A. M.","Díaz-Martín, A. M.",,7,7,1,1,1,3,0,0,236,0.4,0.000576,228,35,0.6,9,0.02017,Unrelated,false,false,false,0,0
+"Diffley, Sarah","Diffley, Sarah",,3,3,1,1,1,0,0,0,207,0,0.000242,229,298,1,1,0.00312,Unrelated,false,false,false,0,0
+"Dismukes, J. P.","Dismukes, J. P.",,3,3,1,1,1,0,0,0,285,0,0.000242,230,321,1,1,0.00312,Unrelated,false,false,false,0,0
+"Dong, Beibei","Dong, Beibei",,4,4,1,1,1,0,0,0,382,1,0.000233,231,159,1,3,0.007069,Unrelated,false,false,false,0,0
+"Evans, Kenneth R","Evans, Kenneth R",,4,4,1,1,1,0,0,0,382,1,0.000233,231,159,1,3,0.007069,Unrelated,false,false,false,0,0
+"Dong, Ching-Shen James","Dong, Ching-Shen James",,3,3,1,1,1,0,0,0,296,0,0.000242,232,263,1,1,0.00312,Unrelated,false,false,false,0,0
+"Dong, S.","Dong, S.",,4,4,1,1,1,0,0,0,147,1,0.000173,233,160,1,3,0.007876,Unrelated,false,false,false,0,0
+"Johar, Monica S","Johar, Monica S",,4,4,1,1,1,0,0,0,147,1,0.000173,233,160,1,3,0.007876,Unrelated,false,false,false,0,0
+"Kumar, Ram L","Kumar, Ram L",,4,4,1,1,1,0,0,0,147,1,0.000173,233,160,1,3,0.007876,Unrelated,false,false,false,0,0
+"Dragoicea, Monica","Dragoicea, Monica",,6,6,1,1,1,0.333333,0,0,244,0.833333,0.000327,234,57,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Drəgoicea, M.","Drəgoicea, M.",,6,6,1,1,1,0.333333,0,0,244,0.833333,0.000327,234,57,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"E Cunha, J. F.","E Cunha, J. F.",,6,6,1,1,1,0.333333,0,0,244,0.833333,0.000327,234,57,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Drennan, Judy","Drennan, Judy",,4,4,1,1,1,0,0,0,283,1,0.000233,235,161,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lings, Ian","Lings, Ian",,4,4,1,1,1,0,0,0,283,1,0.000233,235,161,1,3,0.007069,Unrelated,false,false,false,0,0
+"Dutton, W. H.","Dutton, W. H.",,2,2,0,0,0,0,0,0,148,0,0.000099,236,357,0,0,0.001287,Unrelated,false,false,false,0,0
+"Ehrenthal, Joachim C F","Ehrenthal, Joachim C F",,4,4,1,1,1,0,0,0,149,1,0.000173,237,162,1,3,0.007876,Unrelated,false,false,false,0,0
+"Gruen, Thomas W","Gruen, Thomas W",,4,4,1,1,1,0,0,0,149,1,0.000173,237,162,1,3,0.007876,Unrelated,false,false,false,0,0
+"Hofstetter, Joerg S","Hofstetter, Joerg S",,4,4,1,1,1,0,0,0,149,1,0.000173,237,162,1,3,0.007876,Unrelated,false,false,false,0,0
+"Einspruch, N. G.","Einspruch, N. G.",,3,3,1,1,1,0,0,0,237,0,0.000242,238,264,1,1,0.00312,Unrelated,false,false,false,0,0
+"Ellis, Nick","Ellis, Nick",,4,4,1,1,1,0,0,0,150,1,0.000233,239,163,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lindsay, Val","Lindsay, Val",,4,4,1,1,1,0,0,0,150,1,0.000233,239,163,1,3,0.007069,Unrelated,false,false,false,0,0
+"Ellonen, H.-K.","Ellonen, H.-K.",,3,3,1,1,1,0,0,0,151,0,0.000139,240,265,1,1,0.003684,Unrelated,false,false,false,0,0
+"Karhu, P.","Karhu, P.",,3,3,1,1,1,0,0,0,151,0,0.000139,240,265,1,1,0.003684,Unrelated,false,false,false,0,0
+"Embi, M. R. B.","Embi, M. R. B.",,3,3,1,1,1,0,0,0,260,0,0.000242,241,313,1,1,0.00312,Unrelated,false,false,false,0,0
+"Engberg, L. A.","Engberg, L. A.",,3,3,1,1,1,0,0,0,152,0,0.000139,242,266,1,1,0.003684,Unrelated,false,false,false,0,0
+"Larsen, J. N.","Larsen, J. N.",,3,3,1,1,1,0,0,0,152,0,0.000139,242,266,1,1,0.003684,Unrelated,false,false,false,0,0
+"Engelstätter, B.","Engelstätter, B.",,3,3,1,1,1,0,0,0,279,0,0.000242,243,318,1,1,0.00312,Unrelated,false,false,false,0,0
+"Engwall, Mats","Engwall, Mats",,3,3,1,1,1,0,0,0,316,0,0.000242,244,329,1,1,0.00312,Unrelated,false,false,false,0,0
+"Enz, M. G.","Enz, M. G.",,3,3,1,1,1,0,0,0,153,0,0.000139,245,267,1,1,0.003684,Unrelated,false,false,false,0,0
+"Lambert, D. M.","Lambert, D. M.",,3,3,1,1,1,0,0,0,153,0,0.000139,245,267,1,1,0.003684,Unrelated,false,false,false,0,0
+"Ericson, A.","Ericson, A.",,4,4,1,1,1,0,0,0,233,1,0.000233,246,164,1,3,0.007069,Unrelated,false,false,false,0,0
+"Larsson, T. C.","Larsson, T. C.",,4,4,1,1,1,0,0,0,233,1,0.000233,246,164,1,3,0.007069,Unrelated,false,false,false,0,0
+"Estelami, H.","Estelami, H.",,3,3,1,1,1,0,0,0,228,0,0.000242,247,268,1,1,0.00312,Unrelated,false,false,false,0,0
+"Ettouzani, Younes","Ettouzani, Younes",,4,4,1,1,1,1,0,0,213,0,0.00042,248,165,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Evanschitzky, Heiner","Evanschitzky, Heiner",,7,7,1,1,1,1,0,0,154,0.7,0.000411,249,36,0.8,12,0.028651,Unrelated,false,false,false,0,0
+"Iyer, Gopalkrishnan R","Iyer, Gopalkrishnan R",,7,7,1,1,1,1,0,0,154,0.7,0.000411,249,36,0.8,12,0.028651,Unrelated,false,false,false,0,0
+"Kenning, Peter","Kenning, Peter",,7,7,1,1,1,1,0,0,154,0.7,0.000411,249,36,0.8,12,0.028651,Unrelated,false,false,false,0,0
+"Faulkner, P.","Faulkner, P.",,3,3,1,1,1,0,0,0,271,0,0.000242,250,317,1,1,0.00312,Unrelated,false,false,false,0,0
+"Fedorowicz, J.","Fedorowicz, J.",,3,3,1,1,1,0,0,0,155,0,0.000139,251,269,1,1,0.003684,Unrelated,false,false,false,0,0
+"Gogan, J. L.","Gogan, J. L.",,3,3,1,1,1,0,0,0,155,0,0.000139,251,269,1,1,0.003684,Unrelated,false,false,false,0,0
+"Fishenden, J.","Fishenden, J.",,3,3,1,1,1,0,0,0,312,0,0.000242,252,328,1,1,0.00312,Unrelated,false,false,false,0,0
+"Foss, Lene","Foss, Lene",,3,3,1,1,1,0,0,0,250,0,0.000242,253,308,1,1,0.00312,Unrelated,false,false,false,0,0
+"Fox, J.","Fox, J.",,6,6,1,1,1,1.5,0,0,333,0.5,0.000455,254,67,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"Gann, R.","Gann, R.",,6,6,1,1,1,1.5,0,0,333,0.5,0.000455,254,67,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"Freiling, Joerg","Freiling, Joerg",,4,4,1,1,1,0,0,0,156,1,0.000233,255,166,1,3,0.007069,Unrelated,false,false,false,0,0
+"Laudien, Sven M","Laudien, Sven M",,4,4,1,1,1,0,0,0,156,1,0.000233,255,166,1,3,0.007069,Unrelated,false,false,false,0,0
+"Frenken, Koen","Frenken, Koen",,3,3,1,1,1,0,0,0,214,0,0.000242,256,299,1,1,0.00312,Unrelated,false,false,false,0,0
+Frías-Jamilena D. M.,Frías-Jamilena D. M.,,4,4,1,1,1,1,0,0,269,0,0.00042,257,208,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Fuglsang, Lars","Fuglsang, Lars",,3,3,1,1,1,0,0,0,273,0,0.000242,258,270,1,1,0.00312,Unrelated,false,false,false,0,0
+"Fukimaga, Y.","Fukimaga, Y.",,3,3,1,1,1,0,0,0,280,0,0.000242,259,319,1,1,0.00312,Unrelated,false,false,false,0,0
+"Fukuda, Ken","Fukuda, Ken",,4,4,1,1,1,1,0,0,347,0,0.00042,260,167,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Gaimon, C.","Gaimon, C.",,2,2,0,0,0,0,0,0,157,0,0.000099,261,358,0,0,0.001287,Unrelated,false,false,false,0,0
+"Gallouj, C.","Gallouj, C.",,2,2,0,0,0,0,0,0,158,0,0.000099,262,359,0,0,0.001287,Unrelated,false,false,false,0,0
+"García-Goñi, M.","García-Goñi, M.",,3,3,1,1,1,0,0,0,355,0,0.000242,263,271,1,1,0.00312,Unrelated,false,false,false,0,0
+"García-Quevedo, J.","García-Quevedo, J.",,4,4,1,1,1,1,0,0,294,0,0.00042,264,168,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Garud, R.","Garud, R.",,4,4,1,1,1,0,0,0,159,1,0.000233,265,169,1,3,0.007069,Unrelated,false,false,false,0,0
+"Jain, S.","Jain, S.",,4,4,1,1,1,0,0,0,159,1,0.000233,265,169,1,3,0.007069,Unrelated,false,false,false,0,0
+"Ge, L.","Ge, L.",,4,4,1,1,1,0,0,0,160,1,0.000233,266,170,1,3,0.007069,Unrelated,false,false,false,0,0
+"Konana, P.","Konana, P.",,4,4,1,1,1,0,0,0,160,1,0.000233,266,170,1,3,0.007069,Unrelated,false,false,false,0,0
+"Glushko, Robert J","Glushko, Robert J",,2,2,0,0,0,0,0,0,161,0,0.000099,267,360,0,0,0.001287,Unrelated,false,false,false,0,0
+"Gobble, M. A. M.","Gobble, M. A. M.",,2,2,0,0,0,0,0,0,162,0,0.000099,268,361,0,0,0.001287,Unrelated,false,false,false,0,0
+"Gomes, Paulo J","Gomes, Paulo J",,5,5,1,1,1,0.5,0,0,163,0.666667,0.00034,269,98,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Lages, Luis Filipe","Lages, Luis Filipe",,5,5,1,1,1,0.5,0,0,163,0.666667,0.00034,269,98,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Gong, L.","Gong, L.",,4,4,1,1,1,0,0,0,164,1,0.000173,270,171,1,3,0.007876,Unrelated,false,false,false,0,0
+"Greeven, M.","Greeven, M.",,4,4,1,1,1,0,0,0,164,1,0.000173,270,171,1,3,0.007876,Unrelated,false,false,false,0,0
+"Jiang, S.","Jiang, S.",,4,4,1,1,1,0,0,0,164,1,0.000173,270,171,1,3,0.007876,Unrelated,false,false,false,0,0
+"Gopal, Anandasivam","Gopal, Anandasivam",,3,3,1,1,1,0,0,0,258,0,0.000242,271,272,1,1,0.00312,Unrelated,false,false,false,0,0
+"Gosain, S.","Gosain, S.",,4,4,1,1,1,0,0,0,165,1,0.000233,272,172,1,3,0.007069,Unrelated,false,false,false,0,0
+"Malhotra, A.","Malhotra, A.",,4,4,1,1,1,0,0,0,165,1,0.000233,272,172,1,3,0.007069,Unrelated,false,false,false,0,0
+"Gounaris, Spiros","Gounaris, Spiros",,3,3,1,1,1,0,0,0,166,0,0.000139,273,273,1,1,0.003684,Unrelated,false,false,false,0,0
+"Koritos, Christos D","Koritos, Christos D",,3,3,1,1,1,0,0,0,166,0,0.000139,273,273,1,1,0.003684,Unrelated,false,false,false,0,0
+"Graham, G.","Graham, G.",,3,3,1,1,1,0,0,0,167,0,0.000139,274,274,1,1,0.003684,Unrelated,false,false,false,0,0
+"Kerrigan, F.","Kerrigan, F.",,3,3,1,1,1,0,0,0,167,0,0.000139,274,274,1,1,0.003684,Unrelated,false,false,false,0,0
+"Gray, P. H.","Gray, P. H.",,4,4,1,1,1,0,0,0,277,1,0.000233,275,173,1,3,0.007069,Unrelated,false,false,false,0,0
+"Iyer, B.","Iyer, B.",,4,4,1,1,1,0,0,0,277,1,0.000233,275,173,1,3,0.007069,Unrelated,false,false,false,0,0
+"Gretzel, Ulrike","Gretzel, Ulrike",,5,5,1,1,1,0.5,0,0,362,0.666667,0.00034,276,106,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Koo, Chulmo","Koo, Chulmo",,5,5,1,1,1,0.5,0,0,362,0.666667,0.00034,276,106,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Griffy-Brown, Charla","Griffy-Brown, Charla",,4,4,1,1,1,1,0,0,225,0,0.00042,277,203,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Grin, John","Grin, John",,4,4,1,1,1,1,0,0,290,0,0.00042,278,174,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Guan, Jiancheng","Guan, Jiancheng",,3,3,1,1,1,0,0,0,379,0,0.000242,279,275,1,1,0.00312,Unrelated,false,false,false,0,0
+"Gyrd-Jones, Richard I","Gyrd-Jones, Richard I",,3,3,1,1,1,0,0,0,168,0,0.000139,280,276,1,1,0.003684,Unrelated,false,false,false,0,0
+"Kornum, Niels","Kornum, Niels",,3,3,1,1,1,0,0,0,168,0,0.000139,280,276,1,1,0.003684,Unrelated,false,false,false,0,0
+"Haas, Michael","Haas, Michael",,4,4,1,1,1,1,0,0,284,0,0.00042,281,175,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Hackney, R.","Hackney, R.",,4,4,1,1,1,1,0,0,364,0,0.00042,282,211,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Hahn, M.","Hahn, M.",,3,3,1,1,1,0,0,0,169,0,0.000139,283,277,1,1,0.003684,Unrelated,false,false,false,0,0
+"Löbler, H.","Löbler, H.",,3,3,1,1,1,0,0,0,169,0,0.000139,283,277,1,1,0.003684,Unrelated,false,false,false,0,0
+"Hambleton, Robin","Hambleton, Robin",,3,3,1,1,1,0,0,0,170,0,0.000139,284,278,1,1,0.003684,Unrelated,false,false,false,0,0
+"Howard, Joanna","Howard, Joanna",,3,3,1,1,1,0,0,0,170,0,0.000139,284,278,1,1,0.003684,Unrelated,false,false,false,0,0
+"Handrich, Matthias","Handrich, Matthias",,3,3,1,1,1,0,0,0,171,0,0.000139,285,279,1,1,0.003684,Unrelated,false,false,false,0,0
+"Heidenreich, Sven","Heidenreich, Sven",,3,3,1,1,1,0,0,0,171,0,0.000139,285,279,1,1,0.003684,Unrelated,false,false,false,0,0
+"Harjumaa, Marja","Harjumaa, Marja",,5,5,1,1,1,0.5,0,0,337,0.666667,0.00034,286,99,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Isomursu, Minna","Isomursu, Minna",,5,5,1,1,1,0.5,0,0,337,0.666667,0.00034,286,99,0.833333,5,0.01093,Unrelated,false,false,false,0,0
+"Harrison, J. C.","Harrison, J. C.",,4,4,1,1,1,1,0,0,323,0,0.00042,287,176,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Harrison, Tina","Harrison, Tina",,3,3,1,1,1,0,0,0,335,0,0.000242,288,332,1,1,0.00312,Unrelated,false,false,false,0,0
+"Hartley, S.","Hartley, S.",,4,4,1,1,1,1,0,0,208,0,0.00042,289,177,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Hartline, Michael D","Hartline, Michael D",,3,3,1,1,1,0,0,0,212,0,0.000242,290,280,1,1,0.00312,Unrelated,false,false,false,0,0
+"Harty, Chris","Harty, Chris",,3,3,1,1,1,0,0,0,286,0,0.000242,291,322,1,1,0.00312,Unrelated,false,false,false,0,0
+"Heiskanen, E.","Heiskanen, E.",,4,4,1,1,1,0,0,0,172,1,0.000233,292,178,1,3,0.007069,Unrelated,false,false,false,0,0
+"Jalas, M.","Jalas, M.",,4,4,1,1,1,0,0,0,172,1,0.000233,292,178,1,3,0.007069,Unrelated,false,false,false,0,0
+"Hekkert, M. P.","Hekkert, M. P.",,6,6,1,1,1,1.5,0,0,291,0.5,0.000455,293,58,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"Kuhlmann, S.","Kuhlmann, S.",,6,6,1,1,1,1.5,0,0,291,0.5,0.000455,293,58,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"Henrichs, R. B.","Henrichs, R. B.",,3,3,1,1,1,0,0,0,304,0,0.000242,294,281,1,1,0.00312,Unrelated,false,false,false,0,0
+"Hilman, Haim","Hilman, Haim",,3,3,1,1,1,0,0,0,173,0,0.000139,295,282,1,1,0.003684,Unrelated,false,false,false,0,0
+"Kaliappen, Narentheren","Kaliappen, Narentheren",,3,3,1,1,1,0,0,0,173,0,0.000139,295,282,1,1,0.003684,Unrelated,false,false,false,0,0
+"Hindman, Dustin","Hindman, Dustin",,4,4,1,1,1,1,0,0,297,0,0.00042,296,179,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Hinsch, M. E.","Hinsch, M. E.",,4,4,1,1,1,0,0,0,301,1,0.000233,297,180,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lüthje, C.","Lüthje, C.",,4,4,1,1,1,0,0,0,301,1,0.000233,297,180,1,3,0.007069,Unrelated,false,false,false,0,0
+"Hjalmarsson, A.","Hjalmarsson, A.",,6,6,1,1,1,0,0,0,174,1,0.000265,298,59,1,10,0.02475,Unrelated,false,false,false,0,0
+"Johannesson, P.","Johannesson, P.",,6,6,1,1,1,0,0,0,174,1,0.000265,298,59,1,10,0.02475,Unrelated,false,false,false,0,0
+"Juell-Skielse, E.","Juell-Skielse, E.",,6,6,1,1,1,0,0,0,174,1,0.000265,298,59,1,10,0.02475,Unrelated,false,false,false,0,0
+"Juell-Skielse, G.","Juell-Skielse, G.",,6,6,1,1,1,0,0,0,174,1,0.000265,298,59,1,10,0.02475,Unrelated,false,false,false,0,0
+"Ho, L.-A.","Ho, L.-A.",,4,4,1,1,1,0,0,0,175,1,0.000173,299,181,1,3,0.007876,Unrelated,false,false,false,0,0
+"Kuo, Tsung-Hsien","Kuo, Tsung-Hsien",,4,4,1,1,1,0,0,0,175,1,0.000173,299,181,1,3,0.007876,Unrelated,false,false,false,0,0
+"Kuo, Yen-Ku","Kuo, Yen-Ku",,4,4,1,1,1,0,0,0,175,1,0.000173,299,181,1,3,0.007876,Unrelated,false,false,false,0,0
+"Hofemann, S.","Hofemann, S.",,5,5,1,1,1,3,0,0,223,0,0.000623,300,100,0.5,3,0.007289,Unrelated,false,false,false,0,0
+"Hofman, Erwin","Hofman, Erwin",,3,3,1,1,1,0,0,0,211,0,0.000242,301,283,1,1,0.00312,Unrelated,false,false,false,0,0
+"Hofman, W.","Hofman, W.",,3,3,1,1,1,0,0,0,309,0,0.000242,302,327,1,1,0.00312,Unrelated,false,false,false,0,0
+"Holmström, J.","Holmström, J.",,4,4,1,1,1,1,0,0,235,0,0.00042,303,205,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Hong, Seunghye","Hong, Seunghye",,3,3,1,1,1,0,0,0,218,0,0.000242,304,302,1,1,0.00312,Unrelated,false,false,false,0,0
+"Hongting, T.","Hongting, T.",,4,4,1,1,1,1,0,0,377,0,0.00042,305,182,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Hsiao, Li-Chun","Hsiao, Li-Chun",,4,4,1,1,1,0,0,0,176,1,0.000233,306,183,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lai, Jung-Yu","Lai, Jung-Yu",,4,4,1,1,1,0,0,0,176,1,0.000233,306,183,1,3,0.007069,Unrelated,false,false,false,0,0
+"Hsiao, P.-I.","Hsiao, P.-I.",,4,4,1,1,1,1,0,0,367,0,0.00042,307,184,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Hsiao, Shu-Ling","Hsiao, Shu-Ling",,3,3,1,1,1,0,0,0,366,0,0.000242,308,284,1,1,0.00312,Unrelated,false,false,false,0,0
+"Hu, Yansong","Hu, Yansong",,3,3,1,1,1,0,0,0,209,0,0.000242,309,285,1,1,0.00312,Unrelated,false,false,false,0,0
+"Huang, F.","Huang, F.",,3,3,1,1,1,0,0,0,264,0,0.000242,310,314,1,1,0.00312,Unrelated,false,false,false,0,0
+"Huang, Hui-Ling","Huang, Hui-Ling",,2,2,0,0,0,0,0,0,177,0,0.000099,311,362,0,0,0.001287,Unrelated,false,false,false,0,0
+"Huang, L.","Huang, L.",,3,3,1,1,1,0,0,0,374,0,0.000242,312,335,1,1,0.00312,Unrelated,false,false,false,0,0
+"Huang, Ming-Hui","Huang, Ming-Hui",,3,3,1,1,1,0,0,0,272,0,0.000242,313,286,1,1,0.00312,Unrelated,false,false,false,0,0
+"Huggins, R.","Huggins, R.",,2,2,0,0,0,0,0,0,178,0,0.000099,314,363,0,0,0.001287,Unrelated,false,false,false,0,0
+"Hung, Chih-Young","Hung, Chih-Young",,4,4,1,1,1,0,0,0,341,1,0.000233,315,185,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lee, Wen-Yee","Lee, Wen-Yee",,4,4,1,1,1,0,0,0,341,1,0.000233,315,185,1,3,0.007069,Unrelated,false,false,false,0,0
+"Hänninen, S.","Hänninen, S.",,5,5,1,1,1,0,0,0,179,1,0.000247,316,101,1,6,0.013764,Unrelated,false,false,false,0,0
+"Ikävalko, J.","Ikävalko, J.",,5,5,1,1,1,0,0,0,179,1,0.000247,316,101,1,6,0.013764,Unrelated,false,false,false,0,0
+"Kauranen, I.","Kauranen, I.",,5,5,1,1,1,0,0,0,179,1,0.000247,316,101,1,6,0.013764,Unrelated,false,false,false,0,0
+"Héritier, A.","Héritier, A.",,2,2,0,0,0,0,0,0,180,0,0.000099,317,364,0,0,0.001287,Unrelated,false,false,false,0,0
+"Iacovone, L.","Iacovone, L.",,4,4,1,1,1,1,0,0,205,0,0.00042,318,201,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Ibert, Oliver","Ibert, Oliver",,4,4,1,1,1,1,0,0,221,0,0.00042,319,186,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Ibrahim, O.","Ibrahim, O.",,3,3,1,1,1,0,0,0,302,0,0.000242,320,324,1,1,0.00312,Unrelated,false,false,false,0,0
+"Igel, B.","Igel, B.",,3,3,1,1,1,0,0,0,232,0,0.000242,321,304,1,1,0.00312,Unrelated,false,false,false,0,0
+"Isaac, H.","Isaac, H.",,4,4,1,1,1,0,0,0,181,1,0.000173,322,187,1,3,0.007876,Unrelated,false,false,false,0,0
+"Kalika, M.","Kalika, M.",,4,4,1,1,1,0,0,0,181,1,0.000173,322,187,1,3,0.007876,Unrelated,false,false,false,0,0
+"Leclercq-Vandelannoitte, A.","Leclercq-Vandelannoitte, A.",,4,4,1,1,1,0,0,0,181,1,0.000173,322,187,1,3,0.007876,Unrelated,false,false,false,0,0
+"Jain, Radhika P","Jain, Radhika P",,3,3,1,1,1,0,0,0,259,0,0.000242,323,312,1,1,0.00312,Unrelated,false,false,false,0,0
+"Jaksic, Maja Levi","Jaksic, Maja Levi",,4,4,1,1,1,0,0,0,182,1,0.000173,324,188,1,3,0.007876,Unrelated,false,false,false,0,0
+"Manic, Bojana","Manic, Bojana",,4,4,1,1,1,0,0,0,182,1,0.000173,324,188,1,3,0.007876,Unrelated,false,false,false,0,0
+"Marinkovic, Sanja","Marinkovic, Sanja",,4,4,1,1,1,0,0,0,182,1,0.000173,324,188,1,3,0.007876,Unrelated,false,false,false,0,0
+"Johannessen, Jon-Arild","Johannessen, Jon-Arild",,2,2,0,0,0,0,0,0,183,0,0.000099,325,365,0,0,0.001287,Unrelated,false,false,false,0,0
+"Johnson, L. W.","Johnson, L. W.",,3,3,1,1,1,0,0,0,336,0,0.000242,326,333,1,1,0.00312,Unrelated,false,false,false,0,0
+"Kang, Jina","Kang, Jina",,3,3,1,1,1,0,0,0,184,0,0.000139,327,287,1,1,0.003684,Unrelated,false,false,false,0,0
+"Kang, K. H.","Kang, K. H.",,3,3,1,1,1,0,0,0,184,0,0.000139,327,287,1,1,0.003684,Unrelated,false,false,false,0,0
+"Karimi, Jahangir","Karimi, Jahangir",,3,3,1,1,1,0,0,0,339,0,0.000242,328,288,1,1,0.00312,Unrelated,false,false,false,0,0
+"Kasabov, E.","Kasabov, E.",,3,3,1,1,1,0,0,0,345,0,0.000242,329,289,1,1,0.00312,Unrelated,false,false,false,0,0
+"Kautonen, M.","Kautonen, M.",,4,4,1,1,1,0,0,0,185,1,0.000173,330,189,1,3,0.007876,Unrelated,false,false,false,0,0
+"Lyytinen, A.","Lyytinen, A.",,4,4,1,1,1,0,0,0,185,1,0.000173,330,189,1,3,0.007876,Unrelated,false,false,false,0,0
+"Marttila, L.","Marttila, L.",,4,4,1,1,1,0,0,0,185,1,0.000173,330,189,1,3,0.007876,Unrelated,false,false,false,0,0
+"Kawai, T.","Kawai, T.",,4,4,1,1,1,1,0,0,276,0,0.00042,331,190,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Kawakami, T.","Kawakami, T.",,3,3,1,1,1,0,0,0,241,0,0.000242,332,290,1,1,0.00312,Unrelated,false,false,false,0,0
+"Keen, J.","Keen, J.",,2,2,0,0,0,0,0,0,186,0,0.000099,333,366,0,0,0.001287,Unrelated,false,false,false,0,0
+"Kemppinen, J.","Kemppinen, J.",,4,4,1,1,1,1,0,0,330,0,0.00042,334,191,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Kerkhof, Marco","Kerkhof, Marco",,2,2,0,0,0,0,0,0,187,0,0.000099,335,367,0,0,0.001287,Unrelated,false,false,false,0,0
+"Khiaonarong, T.","Khiaonarong, T.",,3,3,1,1,1,0,0,0,188,0,0.000139,336,291,1,1,0.003684,Unrelated,false,false,false,0,0
+"Liebenau, J.","Liebenau, J.",,3,3,1,1,1,0,0,0,188,0,0.000139,336,291,1,1,0.003684,Unrelated,false,false,false,0,0
+"Kihara, Y.","Kihara, Y.",,2,2,0,0,0,0,0,0,189,0,0.000099,337,368,0,0,0.001287,Unrelated,false,false,false,0,0
+"Kim, Dan J","Kim, Dan J",,4,4,1,1,1,0,0,0,334,1,0.000233,338,192,1,3,0.007069,Unrelated,false,false,false,0,0
+"Kim, Young Hoon","Kim, Young Hoon",,4,4,1,1,1,0,0,0,334,1,0.000233,338,192,1,3,0.007069,Unrelated,false,false,false,0,0
+"Kim, Miri","Kim, Miri",,4,4,1,1,1,1,0,0,319,0,0.00042,339,212,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Kim, Moon-Soo","Kim, Moon-Soo",,3,3,1,1,1,0,0,0,303,0,0.000242,340,325,1,1,0.00312,Unrelated,false,false,false,0,0
+"Kim, Sojung","Kim, Sojung",,4,4,1,1,1,1,0,0,263,0,0.00042,341,193,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Kinder, Tony","Kinder, Tony",,2,2,0,0,0,0,0,0,190,0,0.000099,342,369,0,0,0.001287,Unrelated,false,false,false,0,0
+"Kiviniemi, V.","Kiviniemi, V.",,3,3,1,1,1,0,0,0,191,0,0.000139,343,292,1,1,0.003684,Unrelated,false,false,false,0,0
+"Laukkanen, T.","Laukkanen, T.",,3,3,1,1,1,0,0,0,191,0,0.000139,343,292,1,1,0.003684,Unrelated,false,false,false,0,0
+"Kljajić, M.","Kljajić, M.",,3,3,1,1,1,0,0,0,327,0,0.000242,344,331,1,1,0.00312,Unrelated,false,false,false,0,0
+"Ko, Hsien-Tang","Ko, Hsien-Tang",,3,3,1,1,1,0,0,0,192,0,0.000139,345,293,1,1,0.003684,Unrelated,false,false,false,0,0
+"Lu, Hsi-Peng","Lu, Hsi-Peng",,3,3,1,1,1,0,0,0,192,0,0.000139,345,293,1,1,0.003684,Unrelated,false,false,false,0,0
+"Koch, A.","Koch, A.",,3,3,1,1,1,0,0,0,298,0,0.000242,346,323,1,1,0.00312,Unrelated,false,false,false,0,0
+"Koch, Daniel Jeffrey","Koch, Daniel Jeffrey",,3,3,1,1,1,0,0,0,349,0,0.000242,347,334,1,1,0.00312,Unrelated,false,false,false,0,0
+"Koh, Byungwan","Koh, Byungwan",,4,4,1,1,1,1,0,0,255,0,0.00042,348,206,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Kool, L.","Kool, L.",,4,4,1,1,1,1,0,0,326,0,0.00042,349,194,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Ku, Cheng-Yuan","Ku, Cheng-Yuan",,4,4,1,1,1,1,0,0,305,0,0.00042,350,195,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Kuester, Sabine","Kuester, Sabine",,3,3,1,1,1,0,0,0,282,0,0.000242,351,294,1,1,0.00312,Unrelated,false,false,false,0,0
+"Kuusisto, Jari","Kuusisto, Jari",,3,3,1,1,1,0,0,0,253,0,0.000242,352,309,1,1,0.00312,Unrelated,false,false,false,0,0
+"Larson, R. C.","Larson, R. C.",,2,2,0,0,0,0,0,0,193,0,0.000099,353,370,0,0,0.001287,Unrelated,false,false,false,0,0
+"Latour, M. S.","Latour, M. S.",,3,3,1,1,1,0,0,0,266,0,0.000242,354,315,1,1,0.00312,Unrelated,false,false,false,0,0
+"Layton, Roger A","Layton, Roger A",,2,2,0,0,0,0,0,0,194,0,0.000099,355,371,0,0,0.001287,Unrelated,false,false,false,0,0
+"Lee, B. C. Y.","Lee, B. C. Y.",,2,2,0,0,0,0,0,0,195,0,0.000099,356,372,0,0,0.001287,Unrelated,false,false,false,0,0
+"Lee, Changyong","Lee, Changyong",,4,4,1,1,1,0,0,0,196,1,0.000173,357,196,1,3,0.007876,Unrelated,false,false,false,0,0
+"Lee, Hakyeon","Lee, Hakyeon",,4,4,1,1,1,0,0,0,196,1,0.000173,357,196,1,3,0.007876,Unrelated,false,false,false,0,0
+"Lee, Hyunju","Lee, Hyunju",,4,4,1,1,1,0,0,0,196,1,0.000173,357,196,1,3,0.007876,Unrelated,false,false,false,0,0
+"Lee, Chong Ho","Lee, Chong Ho",,5,5,1,1,1,3,0,0,344,0,0.000623,358,102,0.5,3,0.007289,Unrelated,false,false,false,0,0
+"Lee, Gwanhoo","Lee, Gwanhoo",,4,4,1,1,1,1,0,0,295,0,0.00042,359,210,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Lempinen, Heikki","Lempinen, Heikki",,3,3,1,1,1,0,0,0,257,0,0.000242,360,311,1,1,0.00312,Unrelated,false,false,false,0,0
+"Lenka, Sambit","Lenka, Sambit",,6,6,1,1,1,6,0,0,354,0,0.000843,361,60,0.4,4,0.009633,Unrelated,false,false,false,0,0
+"Leonardi, Paul M.","Leonardi, Paul M.",,2,2,0,0,0,0,0,0,197,0,0.000099,362,373,0,0,0.001287,Unrelated,false,false,false,0,0
+"Li, Xiang (Robert)","Li, Xiang (Robert)",,6,6,1,1,1,0.333333,0,0,342,0.833333,0.000327,363,70,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Li, Xuemei","Li, Xuemei",,6,6,1,1,1,0.333333,0,0,342,0.833333,0.000327,363,70,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Li, Yunpeng","Li, Yunpeng",,6,6,1,1,1,0.333333,0,0,342,0.833333,0.000327,363,70,0.9,9,0.020666,Unrelated,false,false,false,0,0
+"Liao, Chien Hsiang","Liao, Chien Hsiang",,2,2,0,0,0,0,0,0,198,0,0.000099,364,374,0,0,0.001287,Unrelated,false,false,false,0,0
+"Liao, Z.","Liao, Z.",,4,4,1,1,1,1,0,0,358,0,0.00042,365,197,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Lin, L. H.","Lin, L. H.",,4,4,1,1,1,0,0,0,199,1,0.000233,366,198,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lu, I. Y.","Lu, I. Y.",,4,4,1,1,1,0,0,0,199,1,0.000233,366,198,1,3,0.007069,Unrelated,false,false,false,0,0
+"Lin, Sheng-Chih","Lin, Sheng-Chih",,3,3,1,1,1,0,0,0,365,0,0.000242,367,295,1,1,0.00312,Unrelated,false,false,false,0,0
+"Lin, Shu-Fang","Lin, Shu-Fang",,4,4,1,1,1,1,0,0,361,0,0.00042,368,199,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Lindberg, Nina","Lindberg, Nina",,3,3,1,1,1,0,0,0,231,0,0.000242,369,303,1,1,0.00312,Unrelated,false,false,false,0,0
+"Long, Andrew L S","Long, Andrew L S",,3,3,1,1,1,0,0,0,252,0,0.000242,370,296,1,1,0.00312,Unrelated,false,false,false,0,0
+"Lyons, M. H.","Lyons, M. H.",,2,2,0,0,0,0,0,0,200,0,0.000099,371,375,0,0,0.001287,Unrelated,false,false,false,0,0
+"Macaulay, L.","Macaulay, L.",,4,4,1,1,1,1,0,0,311,0,0.00042,372,200,0.666667,2,0.005119,Unrelated,false,false,false,0,0
+"Madeira-Silva, M. J.","Madeira-Silva, M. J.",,6,6,1,1,1,1.5,0,0,201,0.5,0.000455,373,61,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"Mainardes, Emerson Wagner","Mainardes, Emerson Wagner",,6,6,1,1,1,1.5,0,0,201,0.5,0.000455,373,61,0.7,7,0.015289,Unrelated,false,false,false,0,0
+"Mandeville, T.","Mandeville, T.",,3,3,1,1,1,0,0,0,249,0,0.000242,374,297,1,1,0.00312,Unrelated,false,false,false,0,0
+"Marciano, C.","Marciano, C.",,2,2,0,0,0,0,0,0,202,0,0.000099,375,376,0,0,0.001287,Unrelated,false,false,false,0,0
+"Markard, Jochen","Markard, Jochen",,3,3,1,1,1,0,0,0,320,0,0.000242,376,330,1,1,0.00312,Unrelated,false,false,false,0,0
+"Martini, M.","Martini, M.",,2,2,0,0,0,0,0,0,203,0,0.000099,377,377,0,0,0.001287,Unrelated,false,false,false,0,0
+"Martínez-Fuentes, C.","Martínez-Fuentes, C.",,2,2,2,0.75,0.833333,0,0,0,85,1,0.000215,118,84,1,1,0.006486,Unrelated,false,false,false,0,0
+"Mas-Verdú, F.","Mas-Verdú, F.",,1,1,2,0.666667,0.75,0,0,0,294,0,0.000189,264,168,0,0,0.002249,Unrelated,false,false,false,0,0
+"Matei, Sorin","Matei, Sorin",,2,2,1,1,1,0,0,0,204,1,0.000198,140,142,1,1,0.00504,Unrelated,false,false,false,0,0
+"Mattelmaki, Tuuli","Mattelmaki, Tuuli",,3,3,5,0.4,0.455,0,0,0,25,1,0.000233,3,2,1,3,0.045015,Unrelated,false,false,false,0,0
+"Mattoo, A.","Mattoo, A.",,1,1,2,0.666667,0.75,0,0,0,205,0,0.000189,318,201,0,0,0.002249,Unrelated,false,false,false,0,0
+"Mattson, Thomas","Mattson, Thomas",,1,1,10,0.173021,0.202892,0,0.000245,0.000245,1,0,0.000155,0,0,0,0,0.010849,Unrelated,false,false,false,0,0
+"Mattsson, Jan","Mattsson, Jan",,1,1,8,0.222922,0.245904,0,0.002662,0.002662,2,0,0.000153,0,0,0,0,0.017502,Unrelated,false,false,false,0,0
+"Mazzurana, P.","Mazzurana, P.",,2,2,4,0.409091,0.509259,0,0,0,206,1,0.000209,27,11,1,1,0.007788,Unrelated,false,false,false,0,0
+"McCole, Patrick","McCole, Patrick",,1,1,1,1,1,0,0,0,207,0,0.000168,229,298,0,0,0.00176,Unrelated,false,false,false,0,0
+"McHugh, Patricia","McHugh, Patricia",,3,3,6,0.363636,0.431667,0,0,0,25,1,0.000231,3,2,1,3,0.042273,Unrelated,false,false,false,0,0
+"McKechnie, Sally","McKechnie, Sally",,1,1,2,0.666667,0.75,0,0,0,208,0,0.000189,289,177,0,0,0.002249,Unrelated,false,false,false,0,0
+"McLaughlin, S.","McLaughlin, S.",,1,1,2,0.6,0.666667,0,0,0,356,0,0.000165,80,110,0,0,0.003031,Unrelated,false,false,false,0,0
+"McLoughlin, Damien","McLoughlin, Damien",,1,1,1,1,1,0,0,0,209,0,0.000168,309,285,0,0,0.00176,Unrelated,false,false,false,0,0
+"McLoughlin, Ian","McLoughlin, Ian",,3,3,2,0.636364,0.714286,0,0,0,210,1,0.000228,73,18,1,3,0.017746,Unrelated,false,false,false,0,0
+"Meijerink, Jeroen","Meijerink, Jeroen",,1,1,1,1,1,0,0,0,211,0,0.000168,301,283,0,0,0.00176,Unrelated,false,false,false,0,0
+"Meirelles, D. S.","Meirelles, D. S.",,2,2,9,0.190323,0.214201,0,0.000418,0.000418,3,1,0.000194,0,0,1,1,0.011505,Unrelated,false,false,false,0,0
+"Mele, Cristina","Mele, Cristina",,2,2,2,0.666667,0.75,0,0,0,317,1,0.000203,82,69,1,1,0.006584,Unrelated,false,false,false,0,0
+"Melton, Horace","Melton, Horace",,1,1,1,1,1,0,0,0,212,0,0.000168,290,280,0,0,0.00176,Unrelated,false,false,false,0,0
+"Mena, Carlos","Mena, Carlos",,1,1,2,0.666667,0.75,0,0,0,213,0,0.000189,248,165,0,0,0.002249,Unrelated,false,false,false,0,0
+"Mende, Martin","Mende, Martin",,7,7,7,0.252857,0.308501,0,0.202234,0.202234,2,1,0.000345,0,0,1,21,0.403429,Unrelated,false,false,false,0,0
+"Mendritzki, Stefan","Mendritzki, Stefan",,1,1,1,1,1,0,0,0,214,0,0.000168,256,299,0,0,0.00176,Unrelated,false,false,false,0,0
+"Menendez-Benito, H D","Menendez-Benito, H D",,2,2,2,0.625,0.7,0,0,0,236,1,0.000239,228,35,1,1,0.009656,Unrelated,false,false,false,0,0
+"Menor, Larry J","Menor, Larry J",,1,1,3,0.411765,0.47619,0,0,0,13,0,0.000154,11,15,0,0,0.003599,Unrelated,false,false,false,0,0
+"Menéndez-Benito, H. D.","Menéndez-Benito, H. D.",,2,2,2,0.625,0.7,0,0,0,236,1,0.000239,228,35,1,1,0.009656,Unrelated,false,false,false,0,0
+"Mercado, Cecilia","Mercado, Cecilia",,1,1,2,0.571429,0.625,0,0,0,328,0,0.000219,223,56,0,0,0.00328,Unrelated,false,false,false,0,0
+"Messinger, Paul R","Messinger, Paul R",,5,5,2,0.857143,0.916667,0,0,0,134,1,0.000279,204,23,1,10,0.047031,Unrelated,false,false,false,0,0
+"Meuter, M. L.","Meuter, M. L.",,2,2,7,0.254676,0.283575,0,0.027841,0.027841,2,1,0.000173,0,0,1,1,0.088937,Unrelated,false,false,false,0,0
+"Meyer, M. H.","Meyer, M. H.",,1,1,1,1,1,0,0,0,215,0,0.000168,225,300,0,0,0.00176,Unrelated,false,false,false,0,0
+"Miceli, Lucia","Miceli, Lucia",,2,2,8,0.207503,0.24626,0,0.007408,0.007408,5,1,0.000203,0,0,1,1,0.040716,Unrelated,false,false,false,0,0
+"Miller, H. G.","Miller, H. G.",,1,1,1,1,1,0,0,0,216,0,0.000168,212,301,0,0,0.00176,Unrelated,false,false,false,0,0
+"Min, Choo Zhi","Min, Choo Zhi",,3,3,6,0.36036,0.4275,0,0,0,25,1,0.000236,3,2,1,3,0.038565,Unrelated,false,false,false,0,0
+"Mina, Andrea","Mina, Andrea",,2,2,1,1,1,0,0,0,217,1,0.000198,132,139,1,1,0.00504,Unrelated,false,false,false,0,0
+"Minton, G.","Minton, G.",,1,1,2,0.555556,0.6,0,0,0,300,0,0.000192,71,30,0,0,0.004107,Unrelated,false,false,false,0,0
+"Mitra, Sabyasachi","Mitra, Sabyasachi",,2,2,8,0.188,0.24501,0,0,0,278,1,0.000202,1,1,1,1,0.008213,Unrelated,false,false,false,0,0
+"Miyazaki, Kumiko","Miyazaki, Kumiko",,1,1,1,1,1,0,0,0,218,0,0.000168,304,302,0,0,0.00176,Unrelated,false,false,false,0,0
+"Mizushima, K.","Mizushima, K.",,4,4,2,0.611111,0.681818,0,0,0,28,1,0.000264,26,7,1,6,0.048938,Unrelated,false,false,false,0,0
+"Moeller, Miriam","Moeller, Miriam",,5,5,2,0.631579,0.708333,0,0,0,22,1,0.000268,21,5,1,10,0.050769,Unrelated,false,false,false,0,0
+"Moghaddam, Y.","Moghaddam, Y.",,4,4,7,0.276995,0.323137,0,0.026582,0.026582,0,1,0.00024,0,0,1,6,0.160631,Unrelated,false,false,false,0,0
+"Mohammed, W.","Mohammed, W.",,3,3,7,0.267045,0.338045,0,0,0,313,1,0.000248,1,1,1,3,0.022052,Unrelated,false,false,false,0,0
+"Mohd Isa, S.","Mohd Isa, S.",,2,2,4,0.366667,0.469697,0,0,0,48,1,0.000186,56,8,1,1,0.008855,Unrelated,false,false,false,0,0
+"Moller, Rasmus Hannemann","Moller, Rasmus Hannemann",,1,1,2,0.6,0.666667,0,0,0,224,0,0.000205,145,87,0,0,0.002756,Unrelated,false,false,false,0,0
+"Montoro-Sanchez, Angeles","Montoro-Sanchez, Angeles",,1,1,2,0.666667,0.75,0,0,0,219,0,0.000189,177,202,0,0,0.002249,Unrelated,false,false,false,0,0
+"Mooney, M.","Mooney, M.",,2,2,1,1,1,0,0,0,220,1,0.000198,85,122,1,1,0.00504,Unrelated,false,false,false,0,0
+"Moreira, Jacinta","Moreira, Jacinta",,2,2,2,0.666667,0.75,0,0,0,201,1,0.000228,373,61,1,1,0.008024,Unrelated,false,false,false,0,0
+"Morgan, Felicia N","Morgan, Felicia N",,2,2,7,0.248945,0.288727,0,0.050759,0.050759,2,1,0.000171,0,0,1,1,0.129675,Unrelated,false,false,false,0,0
+"Morgan, Tyler R","Morgan, Tyler R",,4,4,3,0.545455,0.638889,0,0,0,22,1,0.000242,21,5,1,6,0.032597,Unrelated,false,false,false,0,0
+"Mueller, Benjamin","Mueller, Benjamin",,1,1,2,0.6,0.666667,0,0,0,329,0,0.000205,63,103,0,0,0.002756,Unrelated,false,false,false,0,0
+"Mueller, Felix C","Mueller, Felix C",,1,1,2,0.666667,0.75,0,0,0,221,0,0.000189,319,186,0,0,0.002249,Unrelated,false,false,false,0,0
+"Muhanna, W. A.","Muhanna, W. A.",,1,1,2,0.666667,0.75,0,0,0,261,0,0.000189,129,137,0,0,0.002249,Unrelated,false,false,false,0,0
+"Mukhopadhyay, Sandip","Mukhopadhyay, Sandip",,2,2,2,0.625,0.7,0,0,0,293,1,0.000199,14,40,1,1,0.007333,Unrelated,false,false,false,0,0
+"Mulder, Mark","Mulder, Mark",,7,7,7,0.252857,0.308501,0,0.202234,0.202234,2,1,0.000345,0,0,1,21,0.403429,Unrelated,false,false,false,0,0
+"Myers, M. D.","Myers, M. D.",,1,1,1,1,1,0,0,0,222,0,0.000168,133,240,0,0,0.00176,Unrelated,false,false,false,0,0
+"Myllärniemi, V.","Myllärniemi, V.",,1,1,2,0.6,0.666667,0,0,0,223,0,0.000205,300,100,0,0,0.002756,Unrelated,false,false,false,0,0
+"Møller, R. H.","Møller, R. H.",,1,1,2,0.6,0.666667,0,0,0,224,0,0.000205,145,87,0,0,0.002756,Unrelated,false,false,false,0,0
+"Müller, F. C.","Müller, F. C.",,1,1,2,0.666667,0.75,0,0,0,221,0,0.000189,319,186,0,0,0.002249,Unrelated,false,false,false,0,0
+"Nagata, H.","Nagata, H.",,1,1,2,0.666667,0.75,0,0,0,276,0,0.000189,331,190,0,0,0.002249,Unrelated,false,false,false,0,0
+"Nakagawa, Masahiro","Nakagawa, Masahiro",,1,1,2,0.666667,0.75,0,0,0,225,0,0.000189,277,203,0,0,0.002249,Unrelated,false,false,false,0,0
+"Nakata, C.","Nakata, C.",,1,1,2,0.666667,0.75,0,0,0,226,0,0.000189,227,204,0,0,0.002249,Unrelated,false,false,false,0,0
+"Naruse, H.","Naruse, H.",,4,4,2,0.611111,0.681818,0,0,0,28,1,0.000264,26,7,1,6,0.048938,Unrelated,false,false,false,0,0
+"Natti, Satu","Natti, Satu",,2,2,2,0.625,0.7,0,0,0,19,1,0.000204,18,26,1,1,0.008227,Unrelated,false,false,false,0,0
+"Naumann, Earl","Naumann, Earl",,2,2,2,0.75,0.833333,0,0,0,353,1,0.000215,116,82,1,1,0.006486,Unrelated,false,false,false,0,0
+"Nazareth, Derek L","Nazareth, Derek L",,3,3,3,0.529412,0.62963,0,0,0,7,1,0.000229,6,9,1,3,0.016081,Unrelated,false,false,false,0,0
+"Ndubisi, G. C.","Ndubisi, G. C.",,2,2,2,0.75,0.833333,0,0,0,227,1,0.000194,76,80,1,1,0.005742,Unrelated,false,false,false,0,0
+"Neff, Alexander A","Neff, Alexander A",,3,3,2,0.714286,0.8,0,0,0,325,1,0.000249,152,33,1,3,0.017387,Unrelated,false,false,false,0,0
+"Negro, S. O.","Negro, S. O.",,2,2,2,0.666667,0.75,0,0,0,291,1,0.000228,293,58,1,1,0.008024,Unrelated,false,false,false,0,0
+"Nejad, M. G.","Nejad, M. G.",,1,1,1,1,1,0,0,0,228,0,0.000168,247,268,0,0,0.00176,Unrelated,false,false,false,0,0
+"Nelson, John D","Nelson, John D",,3,3,3,0.5,0.625,0,0,0,65,1,0.000219,33,12,1,3,0.013313,Unrelated,false,false,false,0,0
+"Ness, David","Ness, David",,1,1,2,0.6,0.666667,0,0,0,229,0,0.000175,66,79,0,0,0.002841,Unrelated,false,false,false,0,0
+"Neubert, G.","Neubert, G.",,2,2,1,1,1,0,0,0,71,1,0.000198,97,126,1,1,0.00504,Unrelated,false,false,false,0,0
+"Neyer, Anne-Katrin","Neyer, Anne-Katrin",,2,2,3,0.466667,0.571429,0,0,0,306,1,0.00019,64,16,1,1,0.00714,Unrelated,false,false,false,0,0
+"Ng, Gloria","Ng, Gloria",,3,3,6,0.36036,0.4275,0,0,0,25,1,0.000236,3,2,1,3,0.038565,Unrelated,false,false,false,0,0
+"Niehaves, B.","Niehaves, B.",,1,1,2,0.538462,0.571429,0,0,0,57,0,0.000199,69,17,0,0,0.00537,Unrelated,false,false,false,0,0
+"Nielsen, P.","Nielsen, P.",,1,1,7,0.264045,0.316768,0,0,0,313,0,0.000151,1,1,0,0,0.010754,Unrelated,false,false,false,0,0
+"Nilsson, Elin","Nilsson, Elin",,1,1,7,0.234375,0.28119,0,0,0,18,0,0.000151,17,3,0,0,0.006148,Unrelated,false,false,false,0,0
+"Nishimura, Takuichi","Nishimura, Takuichi",,1,1,2,0.666667,0.75,0,0,0,347,0,0.000189,260,167,0,0,0.002249,Unrelated,false,false,false,0,0
+"Niwa, K.","Niwa, K.",,1,1,3,0.473684,0.518519,0,0,0,24,0,0.000146,23,10,0,0,0.008743,Unrelated,false,false,false,0,0
+"Nooteboom, B.","Nooteboom, B.",,3,3,2,0.8,0.875,0,0,0,230,1,0.000238,127,51,1,3,0.013947,Unrelated,false,false,false,0,0
+"Nordin, Fredrik","Nordin, Fredrik",,1,1,1,1,1,0,0,0,231,0,0.000168,369,303,0,0,0.00176,Unrelated,false,false,false,0,0
+"Norja, T.","Norja, T.",,1,1,2,0.6,0.666667,0,0,0,223,0,0.000205,300,100,0,0,0.002756,Unrelated,false,false,false,0,0
+"Numprasertchai, S.","Numprasertchai, S.",,1,1,1,1,1,0,0,0,232,0,0.000168,321,304,0,0,0.00176,Unrelated,false,false,false,0,0
+"Nybacka, M.","Nybacka, M.",,2,2,1,1,1,0,0,0,233,1,0.000198,246,164,1,1,0.00504,Unrelated,false,false,false,0,0
+"Nylen, Daniel","Nylen, Daniel",,1,1,2,0.666667,0.75,0,0,0,235,0,0.000189,303,205,0,0,0.002249,Unrelated,false,false,false,0,0
+"Nylund, Petra A","Nylund, Petra A",,1,1,2,0.6,0.666667,0,0,0,234,0,0.000205,175,91,0,0,0.002756,Unrelated,false,false,false,0,0
+"Nylén, D.","Nylén, D.",,1,1,2,0.666667,0.75,0,0,0,235,0,0.000189,303,205,0,0,0.002249,Unrelated,false,false,false,0,0
+"Nätti, S.","Nätti, S.",,2,2,2,0.625,0.7,0,0,0,19,1,0.000204,18,26,1,1,0.008227,Unrelated,false,false,false,0,0
+"Occhiocupo, Nicoletta","Occhiocupo, Nicoletta",,3,3,1,1,1,0,0,0,84,1,0.000225,117,83,1,3,0.01078,Unrelated,false,false,false,0,0
+"Oh, Eun-Teak","Oh, Eun-Teak",,2,2,2,0.75,0.833333,0,0,0,128,1,0.000215,194,104,1,1,0.006486,Unrelated,false,false,false,0,0
+"Oh, H.","Oh, H.",,3,3,2,0.714286,0.8,0,0,0,123,1,0.000249,186,37,1,3,0.017387,Unrelated,false,false,false,0,0
+"Oh, Jungsuk","Oh, Jungsuk",,1,1,2,0.666667,0.75,0,0,0,255,0,0.000189,348,206,0,0,0.002249,Unrelated,false,false,false,0,0
+"Oh, Lih-Bin","Oh, Lih-Bin",,1,1,2,0.6,0.666667,0,0,0,371,0,0.000165,87,111,0,0,0.003031,Unrelated,false,false,false,0,0
+"Oh, W.","Oh, W.",,3,3,2,0.714286,0.8,0,0,0,123,1,0.000249,186,37,1,3,0.017387,Unrelated,false,false,false,0,0
+"Okazaki, Shintaro","Okazaki, Shintaro",,2,2,2,0.625,0.7,0,0,0,236,1,0.000239,228,35,1,1,0.009656,Unrelated,false,false,false,0,0
+"Oldmark, Jonas","Oldmark, Jonas",,3,3,2,0.8,0.875,0,0,0,101,1,0.000238,151,62,1,3,0.013947,Unrelated,false,false,false,0,0
+"Oliver, T.","Oliver, T.",,2,2,8,0.221527,0.249132,0,0.002689,0.002689,0,1,0.00019,0,0,1,1,0.023423,Unrelated,false,false,false,0,0
+"Omachonu, V. K.","Omachonu, V. K.",,1,1,1,1,1,0,0,0,237,0,0.000168,238,264,0,0,0.00176,Unrelated,false,false,false,0,0
+"Ortbach, K.","Ortbach, K.",,1,1,2,0.538462,0.571429,0,0,0,57,0,0.000199,69,17,0,0,0.00537,Unrelated,false,false,false,0,0
+"Ortiz-De-Urbina-Criado, Marta","Ortiz-De-Urbina-Criado, Marta",,1,1,2,0.666667,0.75,0,0,0,219,0,0.000189,177,202,0,0,0.002249,Unrelated,false,false,false,0,0
+"Osborne, Stephen P","Osborne, Stephen P",,1,1,1,1,1,0,0,0,238,0,0.000168,154,305,0,0,0.00176,Unrelated,false,false,false,0,0
+"Ouwersloot, H","Ouwersloot, H",,2,2,4,0.421053,0.46875,0,0,0,12,1,0.000172,5,4,1,1,0.023925,Unrelated,false,false,false,0,0
+"Ozyilmaz, A.","Ozyilmaz, A.",,1,1,3,0.5,0.611111,0,0,0,63,0,0.000158,39,75,0,0,0.002426,Unrelated,false,false,false,0,0
+"Pace, Stefano","Pace, Stefano",,2,2,7,0.283688,0.335238,0,0,0,25,1,0.000208,3,2,1,1,0.01113,Unrelated,false,false,false,0,0
+"Paik, J.","Paik, J.",,1,1,1,1,1,0,0,0,239,0,0.000168,184,250,0,0,0.00176,Unrelated,false,false,false,0,0
+"Pandya, A. M.","Pandya, A. M.",,1,1,1,1,1,0,0,0,240,0,0.000168,226,306,0,0,0.00176,Unrelated,false,false,false,0,0
+"Pardo-del-Val, Manuela","Pardo-del-Val, Manuela",,2,2,2,0.75,0.833333,0,0,0,85,1,0.000215,118,84,1,1,0.006486,Unrelated,false,false,false,0,0
+"Parida, Vinit","Parida, Vinit",,1,1,2,0.571429,0.625,0,0,0,354,0,0.000219,361,60,0,0,0.00328,Unrelated,false,false,false,0,0
+"Park, J. S.","Park, J. S.",,2,2,2,0.625,0.7,0,0,0,256,1,0.000211,45,38,1,1,0.007477,Unrelated,false,false,false,0,0
+"Parry, Mark E","Parry, Mark E",,1,1,1,1,1,0,0,0,241,0,0.000168,332,290,0,0,0.00176,Unrelated,false,false,false,0,0
+"Pascual-Miguel, F. J.","Pascual-Miguel, F. J.",,1,1,2,0.666667,0.75,0,0,0,242,0,0.000189,189,151,0,0,0.002249,Unrelated,false,false,false,0,0
+"Pasini, P.","Pasini, P.",,1,1,9,0.172515,0.196,0,0.00086,0.00086,5,0,0.000159,0,0,0,0,0.008326,Unrelated,false,false,false,0,0
+"Paskaleva, K. A.","Paskaleva, K. A.",,1,1,1,1,1,0,0,0,243,0,0.000168,120,236,0,0,0.00176,Unrelated,false,false,false,0,0
+"Pass, Norman J","Pass, Norman J",,4,4,8,0.232283,0.273991,0,0.007578,0.007578,0,1,0.000241,0,0,1,6,0.085373,Unrelated,false,false,false,0,0
+"Pathak, P. A.","Pathak, P. A.",,3,3,1,1,1,0,0,0,81,1,0.000225,112,81,1,3,0.01078,Unrelated,false,false,false,0,0
+"Patnayakuni, R","Patnayakuni, R",,1,1,7,0.220657,0.269402,0,0,0,278,0,0.000155,1,1,0,0,0.007618,Unrelated,false,false,false,0,0
+"Patrascu, Monica","Patrascu, Monica",,3,3,2,0.8,0.875,0,0,0,244,1,0.000238,234,57,1,3,0.013947,Unrelated,false,false,false,0,0
+"Patricio, Lia","Patricio, Lia",,4,4,7,0.255043,0.308031,0,0.055407,0.055407,5,1,0.000254,0,0,1,6,0.15655,Unrelated,false,false,false,0,0
+"Paulino, S.","Paulino, S.",,1,1,1,1,1,0,0,0,245,0,0.000168,215,259,0,0,0.00176,Unrelated,false,false,false,0,0
+"Paulose, Hanna","Paulose, Hanna",,3,3,8,0.217445,0.245716,0,0.003259,0.003259,2,1,0.000226,0,0,1,3,0.028249,Unrelated,false,false,false,0,0
+"Pavlou, P. A.","Pavlou, P. A.",,3,3,7,0.222749,0.290679,0,0,0,278,1,0.000248,1,1,1,3,0.016193,Unrelated,false,false,false,0,0
+"Peffers, K.","Peffers, K.",,1,1,2,0.571429,0.625,0,0,0,376,0,0.000171,47,71,0,0,0.003775,Unrelated,false,false,false,0,0
+"Peillon, Sophie","Peillon, Sophie",,1,1,2,0.666667,0.75,0,0,0,246,0,0.000189,158,207,0,0,0.002249,Unrelated,false,false,false,0,0
+"Pellegrin, Claude","Pellegrin, Claude",,1,1,2,0.666667,0.75,0,0,0,246,0,0.000189,158,207,0,0,0.002249,Unrelated,false,false,false,0,0
+"Pereira, Zulema Lopes","Pereira, Zulema Lopes",,2,2,2,0.75,0.833333,0,0,0,163,1,0.000215,269,98,1,1,0.006486,Unrelated,false,false,false,0,0
+"Pereira-Rama, Antonio","Pereira-Rama, Antonio",,1,1,2,0.666667,0.75,0,0,0,242,0,0.000189,189,151,0,0,0.002249,Unrelated,false,false,false,0,0
+"Perks, Helen","Perks, Helen",,2,2,6,0.357143,0.415,0,0,0,25,1,0.00019,3,2,1,1,0.030239,Unrelated,false,false,false,0,0
+"Peters, Edward","Peters, Edward",,1,1,2,0.571429,0.625,0,0,0,328,0,0.000219,223,56,0,0,0.00328,Unrelated,false,false,false,0,0
+"Petrillo, A.","Petrillo, A.",,1,1,1,1,1,0,0,0,247,0,0.000168,221,307,0,0,0.00176,Unrelated,false,false,false,0,0
+"Pezzotta, Giuditta","Pezzotta, Giuditta",,3,3,3,0.5,0.611111,0,0,0,206,1,0.000235,27,11,1,3,0.016194,Unrelated,false,false,false,0,0
+"Philippe, Jean","Philippe, Jean",,4,4,1,1,1,0,0,0,248,1,0.000249,178,54,1,6,0.02041,Unrelated,false,false,false,0,0
+"Piccoli, Gabriele","Piccoli, Gabriele",,3,3,8,0.207503,0.248144,0,0.008506,0.008506,5,1,0.000239,0,0,1,3,0.051445,Unrelated,false,false,false,0,0
+"Pihlstrom, Minna","Pihlstrom, Minna",,2,2,9,0.197987,0.229648,0,0.001408,0.001408,0,1,0.000183,0,0,1,1,0.026686,Unrelated,false,false,false,0,0
+"Pillai, Kishore Gopalakrishna","Pillai, Kishore Gopalakrishna",,3,3,2,0.714286,0.8,0,0,0,154,1,0.000249,249,36,1,3,0.017387,Unrelated,false,false,false,0,0
+"Pinsonneault, A.","Pinsonneault, A.",,3,3,2,0.714286,0.8,0,0,0,123,1,0.000249,186,37,1,3,0.017387,Unrelated,false,false,false,0,0
+"Pitkänen, O.","Pitkänen, O.",,1,1,2,0.666667,0.75,0,0,0,330,0,0.000189,334,191,0,0,0.002249,Unrelated,false,false,false,0,0
+"Pittino, D.","Pittino, D.",,2,2,4,0.409091,0.509259,0,0,0,206,1,0.000209,27,11,1,1,0.007788,Unrelated,false,false,false,0,0
+"Pizzetti, Marta","Pizzetti, Marta",,2,2,8,0.207503,0.24626,0,0.007408,0.007408,5,1,0.000203,0,0,1,1,0.040716,Unrelated,false,false,false,0,0
+"Plattfaut, R.","Plattfaut, R.",,1,1,2,0.538462,0.571429,0,0,0,57,0,0.000199,69,17,0,0,0.00537,Unrelated,false,false,false,0,0
+"Ple, Loic","Ple, Loic",,2,2,1,1,1,0,0,0,137,1,0.000198,209,158,1,1,0.00504,Unrelated,false,false,false,0,0
+"Poel, M.","Poel, M.",,1,1,2,0.666667,0.75,0,0,0,326,0,0.000189,349,194,0,0,0.002249,Unrelated,false,false,false,0,0
+"Poeppelbuss, J.","Poeppelbuss, J.",,1,1,2,0.538462,0.571429,0,0,0,57,0,0.000199,69,17,0,0,0.00537,Unrelated,false,false,false,0,0
+"Polo Peña, A. I.","Polo Peña, A. I.",,1,1,2,0.666667,0.75,0,0,0,269,0,0.000189,257,208,0,0,0.002249,Unrelated,false,false,false,0,0
+"Pombinho, J.","Pombinho, J.",,1,1,2,0.666667,0.75,0,0,0,318,0,0.000189,119,134,0,0,0.002249,Unrelated,false,false,false,0,0
+"Pompo-Juarez, Laura","Pompo-Juarez, Laura",,4,4,10,0.169703,0.212595,0,0.000139,0.000139,3,1,0.000267,0,0,1,6,0.05874,Unrelated,false,false,false,0,0
+"Popa, Simona","Popa, Simona",,3,3,4,0.44,0.560606,0,0,0,48,1,0.000228,56,8,1,3,0.018595,Unrelated,false,false,false,0,0
+"Potts, Jason","Potts, Jason",,1,1,1,1,1,0,0,0,249,0,0.000168,374,297,0,0,0.00176,Unrelated,false,false,false,0,0
+"Prahalad, C. K.","Prahalad, C. K.",,1,1,2,0.666667,0.75,0,0,0,226,0,0.000189,227,204,0,0,0.002249,Unrelated,false,false,false,0,0
+"Prebensen, Nina Katrine","Prebensen, Nina Katrine",,1,1,1,1,1,0,0,0,250,0,0.000168,253,308,0,0,0.00176,Unrelated,false,false,false,0,0
+"Premazzi, Katia","Premazzi, Katia",,4,4,2,0.833333,0.9,0,0,0,103,1,0.00026,155,34,1,6,0.026515,Unrelated,false,false,false,0,0
+"Prior, M.","Prior, M.",,1,1,2,0.666667,0.75,0,0,0,251,0,0.000189,109,209,0,0,0.002249,Unrelated,false,false,false,0,0
+"Purvis, Martin K","Purvis, Martin K",,1,1,1,1,1,0,0,0,252,0,0.000168,370,296,0,0,0.00176,Unrelated,false,false,false,0,0
+"Puschmann, T.","Puschmann, T.",,2,2,1,1,1,0,0,0,76,1,0.000198,104,129,1,1,0.00504,Unrelated,false,false,false,0,0
+"Pussinen, Pasi","Pussinen, Pasi",,2,2,2,0.75,0.833333,0,0,0,337,1,0.000215,286,99,1,1,0.006486,Unrelated,false,false,false,0,0
+"Päällysaho, S.","Päällysaho, S.",,1,1,1,1,1,0,0,0,253,0,0.000168,352,309,0,0,0.00176,Unrelated,false,false,false,0,0
+"Pətraşcu, M.","Pətraşcu, M.",,3,3,2,0.8,0.875,0,0,0,244,1,0.000238,234,57,1,3,0.013947,Unrelated,false,false,false,0,0
+"Quaddus, M.","Quaddus, M.",,1,1,2,0.571429,0.625,0,0,0,373,0,0.000171,30,43,0,0,0.003775,Unrelated,false,false,false,0,0
+"Quintane, Eric","Quintane, Eric",,1,1,2,0.6,0.666667,0,0,0,234,0,0.000205,175,91,0,0,0.002756,Unrelated,false,false,false,0,0
+"Raatikainen, M.","Raatikainen, M.",,1,1,2,0.6,0.666667,0,0,0,223,0,0.000205,300,100,0,0,0.002756,Unrelated,false,false,false,0,0
+"Rabinovich, Elliot","Rabinovich, Elliot",,6,6,6,0.306228,0.35678,0,0.10443,0.10443,2,1,0.000307,0,0,1,15,0.325693,Unrelated,false,false,false,0,0
+"Raddats, Chris Owen","Raddats, Chris Owen",,1,1,1,1,1,0,0,0,254,0,0.000168,160,310,0,0,0.00176,Unrelated,false,false,false,0,0
+"Raghunathan, Srinivasan","Raghunathan, Srinivasan",,1,1,2,0.666667,0.75,0,0,0,255,0,0.000189,348,206,0,0,0.002249,Unrelated,false,false,false,0,0
+"Ragu-Nathan, T. S.","Ragu-Nathan, T. S.",,2,2,2,0.625,0.7,0,0,0,256,1,0.000216,45,38,1,1,0.008103,Unrelated,false,false,false,0,0
+"Rajala, Risto","Rajala, Risto",,1,1,1,1,1,0,0,0,257,0,0.000168,360,311,0,0,0.00176,Unrelated,false,false,false,0,0
+"Rajan, U.","Rajan, U.",,2,2,2,0.666667,0.75,0,0,0,288,1,0.000203,75,63,1,1,0.006584,Unrelated,false,false,false,0,0
+"Ramachandran, Vandana","Ramachandran, Vandana",,1,1,1,1,1,0,0,0,258,0,0.000168,271,272,0,0,0.00176,Unrelated,false,false,false,0,0
+"Ramamurthy, R.","Ramamurthy, R.",,3,3,2,0.6,0.666667,0,0,0,7,1,0.00023,6,9,1,3,0.019735,Unrelated,false,false,false,0,0
+"Raman, Pushkala","Raman, Pushkala",,4,4,2,0.833333,0.9,0,0,0,103,1,0.00026,155,34,1,6,0.026515,Unrelated,false,false,false,0,0
+"Ramesh, Balasubramaniam","Ramesh, Balasubramaniam",,1,1,1,1,1,0,0,0,259,0,0.000168,323,312,0,0,0.00176,Unrelated,false,false,false,0,0
+"Ramilo, R.","Ramilo, R.",,1,1,1,1,1,0,0,0,260,0,0.000168,241,313,0,0,0.00176,Unrelated,false,false,false,0,0
+"Rankin, Yolanda","Rankin, Yolanda",,1,1,9,0.19281,0.217971,0,0.000598,0.000598,0,0,0.000186,0,0,0,0,0.010273,Unrelated,false,false,false,0,0
+"Ray, G.","Ray, G.",,1,1,2,0.666667,0.75,0,0,0,261,0,0.000189,129,137,0,0,0.002249,Unrelated,false,false,false,0,0
+"Rayburn, Steven W","Rayburn, Steven W",,7,7,7,0.252857,0.308501,0,0.202234,0.202234,2,1,0.000345,0,0,1,21,0.403429,Unrelated,false,false,false,0,0
+"Rayes, A.","Rayes, A.",,4,4,7,0.276995,0.323137,0,0.026582,0.026582,0,1,0.00024,0,0,1,6,0.160631,Unrelated,false,false,false,0,0
+"Resca, Andrea","Resca, Andrea",,1,1,2,0.666667,0.75,0,0,0,295,0,0.000189,359,210,0,0,0.002249,Unrelated,false,false,false,0,0
+"Reunanen, M.","Reunanen, M.",,2,2,2,0.666667,0.75,0,0,0,363,1,0.000203,79,64,1,1,0.006584,Unrelated,false,false,false,0,0
+"Rey-Garcia, Marta","Rey-Garcia, Marta",,1,1,2,0.666667,0.75,0,0,0,262,0,0.000189,107,130,0,0,0.002249,Unrelated,false,false,false,0,0
+"Reyes-Mercado, P.","Reyes-Mercado, P.",,2,2,3,0.538462,0.619048,0,0,0,13,1,0.000198,11,15,1,1,0.008462,Unrelated,false,false,false,0,0
+"Rhee, Jongtae","Rhee, Jongtae",,1,1,2,0.666667,0.75,0,0,0,263,0,0.000189,341,193,0,0,0.002249,Unrelated,false,false,false,0,0
+"Rice, J.","Rice, J.",,1,1,1,1,1,0,0,0,264,0,0.000168,310,314,0,0,0.00176,Unrelated,false,false,false,0,0
+"Rickne, Annika","Rickne, Annika",,4,4,1,1,1,0,0,0,265,1,0.000249,138,53,1,6,0.02041,Unrelated,false,false,false,0,0
+"Riempp, Gerold","Riempp, Gerold",,1,1,2,0.6,0.666667,0,0,0,329,0,0.000205,63,103,0,0,0.002756,Unrelated,false,false,false,0,0
+"Robert, K-H","Robert, K-H",,3,3,2,0.8,0.875,0,0,0,101,1,0.000238,151,62,1,3,0.013947,Unrelated,false,false,false,0,0
+"Roberts, S. D.","Roberts, S. D.",,1,1,1,1,1,0,0,0,266,0,0.000168,354,315,0,0,0.00176,Unrelated,false,false,false,0,0
+"Rod, Michel","Rod, Michel",,2,2,1,1,1,0,0,0,150,1,0.000198,239,163,1,1,0.00504,Unrelated,false,false,false,0,0
+"Rodrigues Alves, R.","Rodrigues Alves, R.",,2,2,2,0.666667,0.75,0,0,0,267,1,0.000228,220,55,1,1,0.008024,Unrelated,false,false,false,0,0
+"Rodriguez, M.","Rodriguez, M.",,1,1,1,1,1,0,0,0,268,0,0.000168,170,316,0,0,0.00176,Unrelated,false,false,false,0,0
+"Rodríguez-Molina, M.Á.","Rodríguez-Molina, M.Á.",,1,1,2,0.666667,0.75,0,0,0,269,0,0.000189,257,208,0,0,0.002249,Unrelated,false,false,false,0,0
+"Rohunen, A.","Rohunen, A.",,3,3,2,0.714286,0.8,0,0,0,58,1,0.00022,70,29,1,3,0.012807,Unrelated,false,false,false,0,0
+"Romijn, Henny A","Romijn, Henny A",,3,3,1,1,1,0,0,0,115,1,0.000225,172,90,1,3,0.01078,Unrelated,false,false,false,0,0
+"Roper, Stephen","Roper, Stephen",,2,2,2,0.75,0.833333,0,0,0,270,1,0.000194,40,105,1,1,0.005742,Unrelated,false,false,false,0,0
+"Rosenbaum, Mark S","Rosenbaum, Mark S",,7,7,7,0.252857,0.308501,0,0.202234,0.202234,2,1,0.000345,0,0,1,21,0.403429,Unrelated,false,false,false,0,0
+"Roy, R.","Roy, R.",,4,4,1,1,1,0,0,0,93,1,0.000249,136,52,1,6,0.02041,Unrelated,false,false,false,0,0
+"Royston, G.","Royston, G.",,3,3,1,1,1,0,0,0,100,1,0.000225,150,89,1,3,0.01078,Unrelated,false,false,false,0,0
+"Rozano, Mercedes","Rozano, Mercedes",,2,2,2,0.625,0.7,0,0,0,236,1,0.000239,228,35,1,1,0.009656,Unrelated,false,false,false,0,0
+"Rudmark, D.","Rudmark, D.",,4,4,1,1,1,0,0,0,174,1,0.000249,298,59,1,6,0.02041,Unrelated,false,false,false,0,0
+"Runde, J.","Runde, J.",,1,1,1,1,1,0,0,0,271,0,0.000168,250,317,0,0,0.00176,Unrelated,false,false,false,0,0
+"Rust, Roland T.","Rust, Roland T.",,1,1,1,1,1,0,0,0,272,0,0.000168,313,286,0,0,0.00176,Unrelated,false,false,false,0,0
+"Ryu, Hyun-Sun","Ryu, Hyun-Sun",,2,2,1,1,1,0,0,0,133,1,0.000198,203,157,1,1,0.00504,Unrelated,false,false,false,0,0
+"Rønning, R.","Rønning, R.",,1,1,1,1,1,0,0,0,273,0,0.000168,258,270,0,0,0.00176,Unrelated,false,false,false,0,0
+"S'Jegers, R.","S'Jegers, R.",,2,2,5,0.307692,0.374306,0,0,0,12,1,0.000185,5,4,1,1,0.01002,Unrelated,false,false,false,0,0
+"Saccani, Nicola","Saccani, Nicola",,3,3,3,0.5,0.611111,0,0,0,206,1,0.000235,27,11,1,3,0.016194,Unrelated,false,false,false,0,0
+"Saemundsson, Rognvaldur J","Saemundsson, Rognvaldur J",,1,1,1,1,1,0,0,0,274,0,0.000168,171,246,0,0,0.00176,Unrelated,false,false,false,0,0
+"Sahaym, A.","Sahaym, A.",,1,1,2,0.666667,0.75,0,0,0,275,0,0.000189,144,143,0,0,0.002249,Unrelated,false,false,false,0,0
+"Sakai, K.","Sakai, K.",,1,1,2,0.666667,0.75,0,0,0,276,0,0.000189,331,190,0,0,0.002249,Unrelated,false,false,false,0,0
+"Sakurai, S.","Sakurai, S.",,4,4,2,0.611111,0.681818,0,0,0,28,1,0.000264,26,7,1,6,0.048938,Unrelated,false,false,false,0,0
+"Salle, Robert","Salle, Robert",,1,1,8,0.223464,0.257589,0,0,0,25,0,0.000163,3,2,0,0,0.003652,Unrelated,false,false,false,0,0
+"Salvatore, P.","Salvatore, P.",,2,2,1,1,1,0,0,0,277,1,0.000198,275,173,1,1,0.00504,Unrelated,false,false,false,0,0
+"Sanchez-Barrios, L. J.","Sanchez-Barrios, L. J.",,3,3,8,0.204152,0.239857,0,0.034424,0.034424,2,1,0.000214,0,0,1,3,0.07029,Unrelated,false,false,false,0,0
+"Sangiorgi, Daniela","Sangiorgi, Daniela",,3,3,5,0.4,0.455,0,0,0,25,1,0.000233,3,2,1,3,0.045015,Unrelated,false,false,false,0,0
+"Santamaría, L.","Santamaría, L.",,2,2,10,0.169378,0.206946,0,0.000097,0.000097,3,1,0.000185,0,0,1,1,0.026209,Unrelated,false,false,false,0,0
+"Sanzo-Perez, M J","Sanzo-Perez, M J",,1,1,2,0.666667,0.75,0,0,0,262,0,0.000189,107,130,0,0,0.002249,Unrelated,false,false,false,0,0
+"Saraf, Nilesh","Saraf, Nilesh",,2,2,8,0.188,0.24501,0,0,0,278,1,0.000202,1,1,1,1,0.008213,Unrelated,false,false,false,0,0
+"Sarbu, M.","Sarbu, M.",,1,1,1,1,1,0,0,0,279,0,0.000168,243,318,0,0,0.00176,Unrelated,false,false,false,0,0
+"Saren, Michael","Saren, Michael",,2,2,2,0.625,0.7,0,0,0,60,1,0.000204,78,31,1,1,0.008227,Unrelated,false,false,false,0,0
+"Saren, Mike","Saren, Mike",,2,2,2,0.625,0.7,0,0,0,60,1,0.000204,78,31,1,1,0.008227,Unrelated,false,false,false,0,0
+"Saritas, Ozcan","Saritas, Ozcan",,4,4,10,0.169703,0.212595,0,0.000139,0.000139,3,1,0.000267,0,0,1,6,0.05874,Unrelated,false,false,false,0,0
+"Sarker, S.","Sarker, S.",,1,1,2,0.666667,0.75,0,0,0,275,0,0.000189,144,143,0,0,0.002249,Unrelated,false,false,false,0,0
+"Sarstedt, Marko","Sarstedt, Marko",,1,1,2,0.571429,0.625,0,0,0,52,0,0.00018,61,68,0,0,0.00356,Unrelated,false,false,false,0,0
+"Sasaki, Hajime","Sasaki, Hajime",,4,4,2,0.642857,0.722222,0,0,0,24,1,0.000265,23,10,1,6,0.035236,Unrelated,false,false,false,0,0
+"Sato, Ryo","Sato, Ryo",,1,1,1,1,1,0,0,0,280,0,0.000168,259,319,0,0,0.00176,Unrelated,false,false,false,0,0
+"Saunders, C S","Saunders, C S",,4,4,2,0.833333,0.9,0,0,0,108,1,0.00026,162,39,1,6,0.026515,Unrelated,false,false,false,0,0
+"Savoldelli, Alberto","Savoldelli, Alberto",,2,2,2,0.666667,0.75,0,0,0,331,1,0.000203,74,46,1,1,0.006584,Unrelated,false,false,false,0,0
+"Sawy, O. A. E.","Sawy, O. A. E.",,2,2,1,1,1,0,0,0,165,1,0.000198,272,172,1,1,0.00504,Unrelated,false,false,false,0,0
+"Scarso, E.","Scarso, E.",,1,1,1,1,1,0,0,0,281,0,0.000168,148,320,0,0,0.00176,Unrelated,false,false,false,0,0
+"Schaarschmidt, M.","Schaarschmidt, M.",,1,1,2,0.6,0.666667,0,0,0,338,0,0.000205,141,86,0,0,0.002756,Unrelated,false,false,false,0,0
+"Schartinger, Doris","Schartinger, Doris",,4,4,10,0.169703,0.212595,0,0.000139,0.000139,3,1,0.000267,0,0,1,6,0.05874,Unrelated,false,false,false,0,0
+"Scherer, Anne","Scherer, Anne",,1,1,5,0.315789,0.361667,0,0,0,18,0,0.000155,17,3,0,0,0.015142,Unrelated,false,false,false,0,0
+"Schreier, Guenter","Schreier, Guenter",,4,4,10,0.169703,0.212595,0,0.000139,0.000139,3,1,0.000267,0,0,1,6,0.05874,Unrelated,false,false,false,0,0
+"Schuete, Reinhard","Schuete, Reinhard",,3,3,2,0.714286,0.8,0,0,0,154,1,0.000249,249,36,1,3,0.017387,Unrelated,false,false,false,0,0
+"Schuhmacher, Monika C","Schuhmacher, Monika C",,1,1,1,1,1,0,0,0,282,0,0.000168,351,294,0,0,0.00176,Unrelated,false,false,false,0,0
+"Schuster, Lisa","Schuster, Lisa",,2,2,1,1,1,0,0,0,283,1,0.000198,235,161,1,1,0.00504,Unrelated,false,false,false,0,0
+"Schütte, R.","Schütte, R.",,3,3,2,0.714286,0.8,0,0,0,154,1,0.000249,249,36,1,3,0.017387,Unrelated,false,false,false,0,0
+"Scuka, Daniel","Scuka, Daniel",,1,1,2,0.666667,0.75,0,0,0,284,0,0.000189,281,175,0,0,0.002249,Unrelated,false,false,false,0,0
+"Sebastian Reiche, B","Sebastian Reiche, B",,1,1,2,0.6,0.666667,0,0,0,234,0,0.000205,175,91,0,0,0.002756,Unrelated,false,false,false,0,0
+"Segers, Jeroen","Segers, Jeroen",,2,2,8,0.226343,0.256073,0,0.003109,0.003109,3,1,0.000178,0,0,1,1,0.028466,Unrelated,false,false,false,0,0
+"Seiders, Kathleen","Seiders, Kathleen",,5,5,8,0.207991,0.253793,0,0.01075,0.01075,5,1,0.000291,0,0,1,10,0.076131,Unrelated,false,false,false,0,0
+"Sekhar, J. A.","Sekhar, J. A.",,1,1,1,1,1,0,0,0,285,0,0.000168,230,321,0,0,0.00176,Unrelated,false,false,false,0,0
+"Selim, H. M.","Selim, H. M.",,3,3,2,0.6,0.666667,0,0,0,7,1,0.00023,6,9,1,3,0.019735,Unrelated,false,false,false,0,0
+"Seneler, C. O.","Seneler, C. O.",,2,2,8,0.221527,0.249132,0,0.002689,0.002689,0,1,0.00019,0,0,1,1,0.023423,Unrelated,false,false,false,0,0
+"Seo, Yuri","Seo, Yuri",,6,6,8,0.245492,0.303464,0,0.012753,0.012753,0,1,0.000319,0,0,1,15,0.181357,Unrelated,false,false,false,0,0
+"Seol, Hyeonju","Seol, Hyeonju",,3,3,3,0.470588,0.604167,0,0,0,42,1,0.00022,49,13,1,3,0.016266,Unrelated,false,false,false,0,0
+"Serkkola, A.","Serkkola, A.",,3,3,1,1,1,0,0,0,179,1,0.000225,316,101,1,3,0.01078,Unrelated,false,false,false,0,0
+"Seth, N","Seth, N",,1,1,7,0.220657,0.269402,0,0,0,278,0,0.000155,1,1,0,0,0.007618,Unrelated,false,false,false,0,0
+"Shang, Shari S C","Shang, Shari S C",,1,1,2,0.666667,0.75,0,0,0,361,0,0.000189,368,199,0,0,0.002249,Unrelated,false,false,false,0,0
+"Sharma, S. K.","Sharma, S. K.",,1,1,2,0.666667,0.75,0,0,0,364,0,0.000189,282,211,0,0,0.002249,Unrelated,false,false,false,0,0
+"Shaw, Ben","Shaw, Ben",,1,1,9,0.19281,0.217971,0,0.000598,0.000598,0,0,0.000186,0,0,0,0,0.010273,Unrelated,false,false,false,0,0
+"Shaw, V.","Shaw, V.",,3,3,7,0.267045,0.338045,0,0,0,313,1,0.000248,1,1,1,3,0.022052,Unrelated,false,false,false,0,0
+"Shi, X.","Shi, X.",,1,1,2,0.666667,0.75,0,0,0,358,0,0.000189,365,197,0,0,0.002249,Unrelated,false,false,false,0,0
+"Shibata, Naoki","Shibata, Naoki",,4,4,2,0.642857,0.722222,0,0,0,24,1,0.000265,23,10,1,6,0.035236,Unrelated,false,false,false,0,0
+"Shibeika, Amna","Shibeika, Amna",,1,1,1,1,1,0,0,0,286,0,0.000168,291,322,0,0,0.00176,Unrelated,false,false,false,0,0
+"Shie, An-Jin","Shie, An-Jin",,2,2,2,0.666667,0.75,0,0,0,343,1,0.000228,191,65,1,1,0.008024,Unrelated,false,false,false,0,0
+"Shih, Dong-Her","Shih, Dong-Her",,1,1,2,0.666667,0.75,0,0,0,305,0,0.000189,350,195,0,0,0.002249,Unrelated,false,false,false,0,0
+"Shim, Hye-Jung","Shim, Hye-Jung",,2,2,2,0.666667,0.75,0,0,0,53,1,0.00019,62,66,1,1,0.006705,Unrelated,false,false,false,0,0
+"Shimomura, Yoshiki","Shimomura, Yoshiki",,2,2,1,1,1,0,0,0,287,1,0.000198,111,132,1,1,0.00504,Unrelated,false,false,false,0,0
+"Shoib, G.","Shoib, G.",,3,3,10,0.174041,0.211838,0,0.000317,0.000317,1,1,0.000223,0,0,1,3,0.023762,Unrelated,false,false,false,0,0
+"Shur, A.","Shur, A.",,2,2,2,0.666667,0.75,0,0,0,333,1,0.000228,254,67,1,1,0.008024,Unrelated,false,false,false,0,0
+"Sigala, Marianna","Sigala, Marianna",,2,2,2,0.75,0.833333,0,0,0,362,1,0.000215,276,106,1,1,0.006486,Unrelated,false,false,false,0,0
+"Silva, Graca Miranda","Silva, Graca Miranda",,2,2,2,0.75,0.833333,0,0,0,163,1,0.000215,269,98,1,1,0.006486,Unrelated,false,false,false,0,0
+"Simoes, Jorge","Simoes, Jorge",,2,2,2,0.666667,0.75,0,0,0,201,1,0.000228,373,61,1,1,0.008024,Unrelated,false,false,false,0,0
+"Simone, Cristina","Simone, Cristina",,2,2,8,0.185185,0.235685,0,0,0,25,1,0.000182,3,2,1,1,0.009368,Unrelated,false,false,false,0,0
+"Simpson, Merlin C","Simpson, Merlin C",,2,2,2,0.666667,0.75,0,0,0,52,1,0.000239,61,68,1,1,0.006271,Unrelated,false,false,false,0,0
+"Singh, P.","Singh, P.",,2,2,2,0.666667,0.75,0,0,0,288,1,0.000203,75,63,1,1,0.006584,Unrelated,false,false,false,0,0
+"Sirianni, Nancy J","Sirianni, Nancy J",,6,6,4,0.434783,0.525,0,0,0,18,1,0.00033,17,3,1,15,0.095633,Unrelated,false,false,false,0,0
+"Sizovaite, Indre","Sizovaite, Indre",,1,1,2,0.666667,0.75,0,0,0,289,0,0.000189,200,155,0,0,0.002249,Unrelated,false,false,false,0,0
+"Sjoedin, David Roennberg","Sjoedin, David Roennberg",,1,1,2,0.571429,0.625,0,0,0,354,0,0.000219,361,60,0,0,0.00328,Unrelated,false,false,false,0,0
+"Sjödin, D. R.","Sjödin, D. R.",,1,1,2,0.571429,0.625,0,0,0,354,0,0.000219,361,60,0,0,0.00328,Unrelated,false,false,false,0,0
+"Smaliukiene, Rasa","Smaliukiene, Rasa",,1,1,2,0.666667,0.75,0,0,0,289,0,0.000189,200,155,0,0,0.002249,Unrelated,false,false,false,0,0
+"Smart, Palie","Smart, Palie",,2,2,7,0.234375,0.291429,0,0,0,18,1,0.000192,17,3,1,1,0.006656,Unrelated,false,false,false,0,0
+"Smith, Adrian","Smith, Adrian",,1,1,2,0.666667,0.75,0,0,0,290,0,0.000189,278,174,0,0,0.002249,Unrelated,false,false,false,0,0
+"Smith-Daniels, Vicki","Smith-Daniels, Vicki",,6,6,6,0.306228,0.35678,0,0.10443,0.10443,2,1,0.000307,0,0,1,15,0.325693,Unrelated,false,false,false,0,0
+"Smits, R. E. H. M.","Smits, R. E. H. M.",,2,2,2,0.666667,0.75,0,0,0,291,1,0.000228,293,58,1,1,0.008024,Unrelated,false,false,false,0,0
+"Soares, A. S.","Soares, A. S.",,2,2,2,0.666667,0.75,0,0,0,267,1,0.000228,220,55,1,1,0.008024,Unrelated,false,false,false,0,0
+"Soh, C.","Soh, C.",,2,2,2,0.625,0.7,0,0,0,300,1,0.000256,71,30,1,1,0.006915,Unrelated,false,false,false,0,0
+"Sok-Gee, C.","Sok-Gee, C.",,1,1,1,1,1,0,0,0,292,0,0.000168,190,253,0,0,0.00176,Unrelated,false,false,false,0,0
+"Solaimani, Sam","Solaimani, Sam",,2,2,2,0.625,0.7,0,0,0,293,1,0.000199,14,40,1,1,0.007333,Unrelated,false,false,false,0,0
+"Song, Jaeki","Song, Jaeki",,1,1,2,0.666667,0.75,0,0,0,319,0,0.000189,339,212,0,0,0.002249,Unrelated,false,false,false,0,0
+"Sophatsathit, P.","Sophatsathit, P.",,2,2,2,0.75,0.833333,0,0,0,120,1,0.000215,182,93,1,1,0.006486,Unrelated,false,false,false,0,0
+"Soriano, D. R.","Soriano, D. R.",,1,1,2,0.666667,0.75,0,0,0,294,0,0.000189,264,168,0,0,0.002249,Unrelated,false,false,false,0,0
+"Soto-Acosta, Pedro","Soto-Acosta, Pedro",,3,3,4,0.44,0.560606,0,0,0,48,1,0.000228,56,8,1,3,0.018595,Unrelated,false,false,false,0,0
+"Sousa, Gastao","Sousa, Gastao",,2,2,2,0.666667,0.75,0,0,0,201,1,0.000228,373,61,1,1,0.008024,Unrelated,false,false,false,0,0
+"Spagnoletti, Paolo","Spagnoletti, Paolo",,1,1,2,0.666667,0.75,0,0,0,295,0,0.000189,359,210,0,0,0.002249,Unrelated,false,false,false,0,0
+"Srinivasan, Ananth","Srinivasan, Ananth",,1,1,1,1,1,0,0,0,296,0,0.000168,232,263,0,0,0.00176,Unrelated,false,false,false,0,0
+"Srinivasan, Raji","Srinivasan, Raji",,1,1,2,0.666667,0.75,0,0,0,297,0,0.000189,296,179,0,0,0.002249,Unrelated,false,false,false,0,0
+"Srinivasan, S.","Srinivasan, S.",,3,3,8,0.239513,0.288115,0,0.011187,0.011187,0,1,0.000208,0,0,1,3,0.113979,Unrelated,false,false,false,0,0
+"Stahl, B.","Stahl, B.",,1,1,2,0.666667,0.75,0,0,0,251,0,0.000189,109,209,0,0,0.002249,Unrelated,false,false,false,0,0
+"Stahlecker, T.","Stahlecker, T.",,1,1,1,1,1,0,0,0,298,0,0.000168,346,323,0,0,0.00176,Unrelated,false,false,false,0,0
+"Stallaert, J.","Stallaert, J.",,1,1,2,0.666667,0.75,0,0,0,299,0,0.000189,121,213,0,0,0.002249,Unrelated,false,false,false,0,0
+"Steinfield, C. W.","Steinfield, C. W.",,1,1,2,0.555556,0.6,0,0,0,300,0,0.000192,71,30,0,0,0.004107,Unrelated,false,false,false,0,0
+"Steinmueller, W Edward","Steinmueller, W Edward",,1,1,10,0.165266,0.186889,0,0.000064,0.000064,3,0,0.000149,0,0,0,0,0.005336,Unrelated,false,false,false,0,0
+"Stimpson, J. P.","Stimpson, J. P.",,3,3,3,0.571429,0.666667,0,0,0,42,1,0.000231,49,13,1,3,0.01828,Unrelated,false,false,false,0,0
+"Stockstrom, C.","Stockstrom, C.",,2,2,1,1,1,0,0,0,301,1,0.000198,297,180,1,1,0.00504,Unrelated,false,false,false,0,0
+"Straub, D.","Straub, D.",,3,3,2,0.8,0.875,0,0,0,62,1,0.000223,86,48,1,3,0.011645,Unrelated,false,false,false,0,0
+"Streukens, Sandra","Streukens, Sandra",,1,1,6,0.237624,0.28125,0,0,0,12,0,0.000152,5,4,0,0,0.003481,Unrelated,false,false,false,0,0
+"Stroulia, Eleni","Stroulia, Eleni",,5,5,2,0.857143,0.916667,0,0,0,134,1,0.000279,204,23,1,10,0.047031,Unrelated,false,false,false,0,0
+"Stucky, Susan U","Stucky, Susan U",,1,1,9,0.19281,0.217971,0,0.000598,0.000598,0,0,0.000186,0,0,0,0,0.010273,Unrelated,false,false,false,0,0
+"Su, Chi-Hung","Su, Chi-Hung",,2,2,1,1,1,0,0,0,122,1,0.000198,185,150,1,1,0.00504,Unrelated,false,false,false,0,0
+"Subbiah, A.","Subbiah, A.",,1,1,1,1,1,0,0,0,302,0,0.000168,320,324,0,0,0.00176,Unrelated,false,false,false,0,0
+"Subramaniam, M.","Subramaniam, M.",,4,4,10,0.1737,0.212308,0,0.000351,0.000351,1,1,0.00025,0,0,1,6,0.030832,Unrelated,false,false,false,0,0
+"Suh, Yongyoon","Suh, Yongyoon",,1,1,1,1,1,0,0,0,303,0,0.000168,340,325,0,0,0.00176,Unrelated,false,false,false,0,0
+"Sukkird, V.","Sukkird, V.",,1,1,8,0.203682,0.234208,0,0.02757,0.02757,2,0,0.00014,0,0,0,0,0.052758,Unrelated,false,false,false,0,0
+"Sultan, F.","Sultan, F.",,1,1,1,1,1,0,0,0,304,0,0.000168,294,281,0,0,0.00176,Unrelated,false,false,false,0,0
+"Sun, Po-Ling","Sun, Po-Ling",,1,1,2,0.666667,0.75,0,0,0,305,0,0.000189,350,195,0,0,0.002249,Unrelated,false,false,false,0,0
+"Sun, Sandy","Sun, Sandy",,3,3,2,0.8,0.875,0,0,0,30,1,0.000238,29,42,1,3,0.013947,Unrelated,false,false,false,0,0
+"Sun, X.","Sun, X.",,1,1,2,0.545455,0.583333,0,0,0,348,0,0.000202,91,22,0,0,0.004672,Unrelated,false,false,false,0,0
+"Sundbo, D.","Sundbo, D.",,2,2,8,0.223203,0.248729,0,0.00295,0.00295,2,1,0.000204,0,0,1,1,0.021683,Unrelated,false,false,false,0,0
+"Sung, Yu Chieh","Sung, Yu Chieh",,2,2,4,0.423077,0.515152,0,0,0,4,1,0.000196,2,6,1,1,0.01078,Unrelated,false,false,false,0,0
+"Sunyaev, Ali","Sunyaev, Ali",,3,3,3,0.538462,0.666667,0,0,0,306,1,0.000222,64,16,1,3,0.013093,Unrelated,false,false,false,0,0
+"Susha, I.","Susha, I.",,2,2,2,0.75,0.833333,0,0,0,307,1,0.000194,55,77,1,1,0.005742,Unrelated,false,false,false,0,0
+"Suurs, R. A. A.","Suurs, R. A. A.",,2,2,2,0.666667,0.75,0,0,0,291,1,0.000228,293,58,1,1,0.008024,Unrelated,false,false,false,0,0
+"Swilley, Esther","Swilley, Esther",,1,1,2,0.666667,0.75,0,0,0,370,0,0.000189,122,135,0,0,0.002249,Unrelated,false,false,false,0,0
+"Sørensen, F.","Sørensen, F.",,1,1,8,0.222922,0.245904,0,0.002662,0.002662,2,0,0.000153,0,0,0,0,0.017502,Unrelated,false,false,false,0,0
+"Sørensen, L.","Sørensen, L.",,1,1,2,0.666667,0.75,0,0,0,11,0,0.000159,10,113,0,0,0.002333,Unrelated,false,false,false,0,0
+"Tajar, Abdelouahid","Tajar, Abdelouahid",,1,1,1,1,1,0,0,0,308,0,0.000168,88,326,0,0,0.00176,Unrelated,false,false,false,0,0
+"Takahashi, N.","Takahashi, N.",,2,2,8,0.203917,0.237033,0,0.030555,0.030555,2,1,0.000186,0,0,1,1,0.059869,Unrelated,false,false,false,0,0
+"Tan, C.-W.","Tan, C.-W.",,2,2,2,0.75,0.833333,0,0,0,37,1,0.000215,38,74,1,1,0.006486,Unrelated,false,false,false,0,0
+"Tan, X.","Tan, X.",,1,1,2,0.545455,0.583333,0,0,0,348,0,0.000202,91,22,0,0,0.004672,Unrelated,false,false,false,0,0
+"Tan, Y.","Tan, Y.",,1,1,1,1,1,0,0,0,309,0,0.000168,302,327,0,0,0.00176,Unrelated,false,false,false,0,0
+"Tanriverdi, H.","Tanriverdi, H.",,2,2,1,1,1,0,0,0,160,1,0.000198,266,170,1,1,0.00504,Unrelated,false,false,false,0,0
+"Tarani, P.","Tarani, P.",,2,2,1,1,1,0,0,0,80,1,0.000198,110,131,1,1,0.00504,Unrelated,false,false,false,0,0
+"Tarn, David D C","Tarn, David D C",,3,3,2,0.636364,0.714286,0,0,0,20,1,0.00023,19,20,1,3,0.017075,Unrelated,false,false,false,0,0
+"Teoh, Say Yen","Teoh, Say Yen",,1,1,1,1,1,0,0,0,310,0,0.000168,168,245,0,0,0.00176,Unrelated,false,false,false,0,0
+"Thawesaengskulthai, N.","Thawesaengskulthai, N.",,2,2,2,0.75,0.833333,0,0,0,120,1,0.000215,182,93,1,1,0.006486,Unrelated,false,false,false,0,0
+"Theodoulidis, B.","Theodoulidis, B.",,1,1,2,0.666667,0.75,0,0,0,311,0,0.000189,372,200,0,0,0.002249,Unrelated,false,false,false,0,0
+"Thomas, Jakita","Thomas, Jakita",,1,1,9,0.19281,0.217971,0,0.000598,0.000598,0,0,0.000186,0,0,0,0,0.010273,Unrelated,false,false,false,0,0
+"Thompson, M.","Thompson, M.",,1,1,1,1,1,0,0,0,312,0,0.000168,252,328,0,0,0.00176,Unrelated,false,false,false,0,0
+"Thorseng, A. A.","Thorseng, A. A.",,2,2,7,0.265537,0.327406,0,0,0,313,1,0.000202,1,1,1,1,0.014408,Unrelated,false,false,false,0,0
+"Thrane, Sof","Thrane, Sof",,1,1,2,0.6,0.666667,0,0,0,224,0,0.000205,145,87,0,0,0.002756,Unrelated,false,false,false,0,0
+"Tigabu, A. D.","Tigabu, A. D.",,1,1,2,0.666667,0.75,0,0,0,314,0,0.000189,139,214,0,0,0.002249,Unrelated,false,false,false,0,0
+"Tilson, David","Tilson, David",,2,2,5,0.343066,0.394681,0,0,0,313,1,0.000173,1,1,1,1,0.029175,Unrelated,false,false,false,0,0
+"Timonen, P.","Timonen, P.",,2,2,1,1,1,0,0,0,172,1,0.000198,292,178,1,1,0.00504,Unrelated,false,false,false,0,0
+"Tiru, Margus","Tiru, Margus",,2,2,2,0.75,0.833333,0,0,0,315,1,0.000215,99,107,1,1,0.006486,Unrelated,false,false,false,0,0
+"Tongur, Stefan","Tongur, Stefan",,1,1,1,1,1,0,0,0,316,0,0.000168,244,329,0,0,0.00176,Unrelated,false,false,false,0,0
+"Trappey, A. J. C.","Trappey, A. J. C.",,1,1,2,0.6,0.666667,0,0,0,344,0,0.000205,358,102,0,0,0.002756,Unrelated,false,false,false,0,0
+"Tregua, Marco","Tregua, Marco",,2,2,2,0.666667,0.75,0,0,0,317,1,0.000203,82,69,1,1,0.006584,Unrelated,false,false,false,0,0
+"Tribolet, J.","Tribolet, J.",,1,1,2,0.666667,0.75,0,0,0,318,0,0.000189,119,134,0,0,0.002249,Unrelated,false,false,false,0,0
+"Triche, Jason","Triche, Jason",,1,1,2,0.666667,0.75,0,0,0,319,0,0.000189,339,212,0,0,0.002249,Unrelated,false,false,false,0,0
+"Truffer, Bernhard","Truffer, Bernhard",,1,1,1,1,1,0,0,0,320,0,0.000168,376,330,0,0,0.00176,Unrelated,false,false,false,0,0
+"Tsai, Fu-Sheng","Tsai, Fu-Sheng",,3,3,2,0.636364,0.714286,0,0,0,20,1,0.00023,19,20,1,3,0.017075,Unrelated,false,false,false,0,0
+"Tsang, Seng-Su","Tsang, Seng-Su",,2,2,4,0.423077,0.515152,0,0,0,4,1,0.000196,2,6,1,1,0.01078,Unrelated,false,false,false,0,0
+"Tseng, C.-C.","Tseng, C.-C.",,2,2,2,0.75,0.833333,0,0,0,321,1,0.000194,42,108,1,1,0.005742,Unrelated,false,false,false,0,0
+"Tu, Yi-Hsien","Tu, Yi-Hsien",,4,4,2,0.7,0.785714,0,0,0,66,1,0.000255,67,19,1,6,0.029191,Unrelated,false,false,false,0,0
+"Tuertscher, P.","Tuertscher, P.",,2,2,1,1,1,0,0,0,159,1,0.000198,265,169,1,1,0.00504,Unrelated,false,false,false,0,0
+"Tura, T.","Tura, T.",,3,3,2,0.8,0.875,0,0,0,322,1,0.000223,81,47,1,3,0.011645,Unrelated,false,false,false,0,0
+"Turner, S.","Turner, S.",,1,1,2,0.666667,0.75,0,0,0,323,0,0.000189,287,176,0,0,0.002249,Unrelated,false,false,false,0,0
+"Tuunanen, T.","Tuunanen, T.",,1,1,1,1,1,0,0,0,324,0,0.000168,174,248,0,0,0.00176,Unrelated,false,false,false,0,0
+"Tuzovic, Sven","Tuzovic, Sven",,1,1,2,0.571429,0.625,0,0,0,52,0,0.00018,61,68,0,0,0.00356,Unrelated,false,false,false,0,0
+"Tynan, Caroline","Tynan, Caroline",,1,1,2,0.666667,0.75,0,0,0,208,0,0.000189,289,177,0,0,0.002249,Unrelated,false,false,false,0,0
+"Uebernickel, Falk","Uebernickel, Falk",,3,3,2,0.714286,0.8,0,0,0,325,1,0.000249,152,33,1,3,0.017387,Unrelated,false,false,false,0,0
+"Umashankar, Nita","Umashankar, Nita",,1,1,2,0.666667,0.75,0,0,0,297,0,0.000189,296,179,0,0,0.002249,Unrelated,false,false,false,0,0
+"Vaast, Emmanuelle","Vaast, Emmanuelle",,1,1,10,0.173021,0.202892,0,0.000245,0.000245,1,0,0.000155,0,0,0,0,0.010849,Unrelated,false,false,false,0,0
+"van Beukering, P.","van Beukering, P.",,1,1,2,0.666667,0.75,0,0,0,314,0,0.000189,139,214,0,0,0.002249,Unrelated,false,false,false,0,0
+"van Birgelen, M.","van Birgelen, M.",,2,2,6,0.289157,0.363889,0,0,0,12,1,0.000184,5,4,1,1,0.011146,Unrelated,false,false,false,0,0
+"van der Giessen, A.","van der Giessen, A.",,1,1,2,0.666667,0.75,0,0,0,326,0,0.000189,349,194,0,0,0.002249,Unrelated,false,false,false,0,0
+"Van Looy, Bart","Van Looy, Bart",,1,1,2,0.666667,0.75,0,0,0,332,0,0.000189,77,215,0,0,0.002249,Unrelated,false,false,false,0,0
+"Varblane, Urmas","Varblane, Urmas",,2,2,2,0.75,0.833333,0,0,0,315,1,0.000215,99,107,1,1,0.006486,Unrelated,false,false,false,0,0
+"Varey, Richard J","Varey, Richard J",,3,3,6,0.3,0.379444,0,0,0,18,1,0.000222,17,3,1,3,0.031055,Unrelated,false,false,false,0,0
+"Vayghan, Jamshid A","Vayghan, Jamshid A",,5,5,7,0.281847,0.332553,0,0.03138,0.03138,0,1,0.000266,0,0,1,10,0.203651,Unrelated,false,false,false,0,0
+"Verna, Carlos","Verna, Carlos",,1,1,1,1,1,0,0,0,327,0,0.000168,344,331,0,0,0.00176,Unrelated,false,false,false,0,0
+"Viaene, Stijn","Viaene, Stijn",,1,1,2,0.571429,0.625,0,0,0,328,0,0.000219,223,56,0,0,0.00328,Unrelated,false,false,false,0,0
+"Victorino, L.","Victorino, L.",,2,2,3,0.538462,0.619048,0,0,0,13,1,0.000198,11,15,1,1,0.008462,Unrelated,false,false,false,0,0
+"Viering, Goetz","Viering, Goetz",,1,1,2,0.6,0.666667,0,0,0,329,0,0.000205,63,103,0,0,0.002756,Unrelated,false,false,false,0,0
+"Viljakainen, Anna","Viljakainen, Anna",,1,1,2,0.666667,0.75,0,0,0,64,0,0.000159,89,123,0,0,0.002333,Unrelated,false,false,false,0,0
+"Virtanen, P.","Virtanen, P.",,1,1,2,0.666667,0.75,0,0,0,330,0,0.000189,334,191,0,0,0.002249,Unrelated,false,false,false,0,0
+"Viscusi, G.","Viscusi, G.",,2,2,2,0.666667,0.75,0,0,0,331,1,0.000203,74,46,1,1,0.006584,Unrelated,false,false,false,0,0
+"Visnjic Kastalli, Ivanka","Visnjic Kastalli, Ivanka",,1,1,2,0.666667,0.75,0,0,0,332,0,0.000189,77,215,0,0,0.002249,Unrelated,false,false,false,0,0
+"Voigt, M.","Voigt, M.",,1,1,2,0.538462,0.571429,0,0,0,57,0,0.000199,69,17,0,0,0.00537,Unrelated,false,false,false,0,0
+"Voima, Paivi","Voima, Paivi",,2,2,1,1,1,0,0,0,43,1,0.000198,50,119,1,1,0.00504,Unrelated,false,false,false,0,0
+"vom Brocke, Jan","vom Brocke, Jan",,3,3,2,0.714286,0.8,0,0,0,325,1,0.000249,152,33,1,3,0.017387,Unrelated,false,false,false,0,0
+"Von Glahn, L.","Von Glahn, L.",,2,2,2,0.666667,0.75,0,0,0,333,1,0.000228,254,67,1,1,0.008024,Unrelated,false,false,false,0,0
+"Von Kortzfleisch, H.","Von Kortzfleisch, H.",,1,1,2,0.6,0.666667,0,0,0,338,0,0.000205,141,86,0,0,0.002756,Unrelated,false,false,false,0,0
+"von Wangenheim, Florian","von Wangenheim, Florian",,1,1,5,0.315789,0.361667,0,0,0,18,0,0.000155,17,3,0,0,0.015142,Unrelated,false,false,false,0,0
+"Vonderembse, Mark A","Vonderembse, Mark A",,2,2,2,0.625,0.7,0,0,0,256,1,0.000216,45,38,1,1,0.008103,Unrelated,false,false,false,0,0
+"Voss, Chris","Voss, Chris",,1,1,2,0.555556,0.6,0,0,0,375,0,0.00023,90,32,0,0,0.003822,Unrelated,false,false,false,0,0
+"Voss, Jan-Peter","Voss, Jan-Peter",,1,1,2,0.666667,0.75,0,0,0,290,0,0.000189,278,174,0,0,0.002249,Unrelated,false,false,false,0,0
+"Wachter, Kathy","Wachter, Kathy",,2,2,1,1,1,0,0,0,334,1,0.000198,338,192,1,1,0.00504,Unrelated,false,false,false,0,0
+"Waite, Kathryn","Waite, Kathryn",,1,1,1,1,1,0,0,0,335,0,0.000168,288,332,0,0,0.00176,Unrelated,false,false,false,0,0
+"Walker, R. H.","Walker, R. H.",,1,1,1,1,1,0,0,0,336,0,0.000168,326,333,0,0,0.00176,Unrelated,false,false,false,0,0
+"Wallin, Arto","Wallin, Arto",,2,2,2,0.75,0.833333,0,0,0,337,1,0.000215,286,99,1,1,0.006486,Unrelated,false,false,false,0,0
+"Walsh, G.","Walsh, G.",,1,1,2,0.6,0.666667,0,0,0,338,0,0.000205,141,86,0,0,0.002756,Unrelated,false,false,false,0,0
+"Walter, Zhiping","Walter, Zhiping",,1,1,1,1,1,0,0,0,339,0,0.000168,328,288,0,0,0.00176,Unrelated,false,false,false,0,0
+"Wang, Chen-Ya","Wang, Chen-Ya",,1,1,2,0.6,0.666667,0,0,0,340,0,0.000205,206,109,0,0,0.002756,Unrelated,false,false,false,0,0
+"Wang, Chu-Ching","Wang, Chu-Ching",,4,4,2,0.7,0.785714,0,0,0,66,1,0.000255,67,19,1,6,0.029191,Unrelated,false,false,false,0,0
+"Wang, Chung-Yu","Wang, Chung-Yu",,1,1,2,0.6,0.666667,0,0,0,340,0,0.000205,206,109,0,0,0.002756,Unrelated,false,false,false,0,0
+"Wang, Dan","Wang, Dan",,3,3,2,0.8,0.875,0,0,0,342,1,0.000238,363,70,1,3,0.013947,Unrelated,false,false,false,0,0
+"Wang, Ding-Shan","Wang, Ding-Shan",,2,2,1,1,1,0,0,0,341,1,0.000198,315,185,1,1,0.00504,Unrelated,false,false,false,0,0
+"Wang, Donghan","Wang, Donghan",,3,3,2,0.8,0.875,0,0,0,342,1,0.000238,363,70,1,3,0.013947,Unrelated,false,false,false,0,0
+"Wang, Juite","Wang, Juite",,2,2,1,1,1,0,0,0,176,1,0.000198,306,183,1,1,0.00504,Unrelated,false,false,false,0,0
+"Wang, Kuo-Ming","Wang, Kuo-Ming",,2,2,2,0.666667,0.75,0,0,0,343,1,0.000228,191,65,1,1,0.008024,Unrelated,false,false,false,0,0
+"Wang, Lu-Mei","Wang, Lu-Mei",,2,2,2,0.75,0.833333,0,0,0,128,1,0.000215,194,104,1,1,0.006486,Unrelated,false,false,false,0,0
+"Wang, Qiang","Wang, Qiang",,1,1,2,0.555556,0.6,0,0,0,375,0,0.00023,90,32,0,0,0.003822,Unrelated,false,false,false,0,0
+"Wang, S.","Wang, S.",,2,2,2,0.6,0.666667,0,0,0,54,1,0.000189,65,21,1,1,0.00966,Unrelated,false,false,false,0,0
+"Wang, Y.-H.","Wang, Y.-H.",,1,1,2,0.6,0.666667,0,0,0,344,0,0.000205,358,102,0,0,0.002756,Unrelated,false,false,false,0,0
+"Wang, Zhiqiang","Wang, Zhiqiang",,1,1,2,0.555556,0.6,0,0,0,375,0,0.00023,90,32,0,0,0.003822,Unrelated,false,false,false,0,0
+"Warlow, A. J.","Warlow, A. J.",,1,1,1,1,1,0,0,0,345,0,0.000168,329,289,0,0,0.00176,Unrelated,false,false,false,0,0
+"Warnaby, Gary","Warnaby, Gary",,2,2,1,1,1,0,0,0,346,1,0.000198,130,138,1,1,0.00504,Unrelated,false,false,false,0,0
+"Warnar, Rick","Warnar, Rick",,1,1,2,0.571429,0.625,0,0,0,328,0,0.000219,223,56,0,0,0.00328,Unrelated,false,false,false,0,0
+"Wassermann, Roland","Wassermann, Roland",,2,2,1,1,1,0,0,0,156,1,0.000198,255,166,1,1,0.00504,Unrelated,false,false,false,0,0
+"Watanabe, Chihiro","Watanabe, Chihiro",,1,1,2,0.666667,0.75,0,0,0,225,0,0.000189,277,203,0,0,0.002249,Unrelated,false,false,false,0,0
+"Watanabe, Kentaro","Watanabe, Kentaro",,1,1,2,0.666667,0.75,0,0,0,347,0,0.000189,260,167,0,0,0.002249,Unrelated,false,false,false,0,0
+"Watson, Richard T","Watson, Richard T",,3,3,8,0.207503,0.248144,0,0.008506,0.008506,5,1,0.000239,0,0,1,3,0.051445,Unrelated,false,false,false,0,0
+"Weber, Arnd","Weber, Arnd",,1,1,2,0.666667,0.75,0,0,0,284,0,0.000189,281,175,0,0,0.002249,Unrelated,false,false,false,0,0
+"Weber, K Matthias","Weber, K Matthias",,3,3,8,0.233818,0.271987,0,0.003785,0.003785,3,1,0.000231,0,0,1,3,0.0443,Unrelated,false,false,false,0,0
+"Wedel, M.","Wedel, M.",,3,3,2,0.8,0.875,0,0,0,230,1,0.000238,127,51,1,3,0.013947,Unrelated,false,false,false,0,0
+"Wei, Jen","Wei, Jen",,2,2,2,0.6,0.666667,0,0,0,348,1,0.00027,91,22,1,1,0.007579,Unrelated,false,false,false,0,0
+"Weinstein, O.","Weinstein, O.",,1,1,9,0.196013,0.225877,0,0.000639,0.000639,3,0,0.000145,0,0,0,0,0.014793,Unrelated,false,false,false,0,0
+"Weissenberger-Eibl, Marion","Weissenberger-Eibl, Marion",,1,1,1,1,1,0,0,0,349,0,0.000168,347,334,0,0,0.00176,Unrelated,false,false,false,0,0
+"Wen, Pei-Chang","Wen, Pei-Chang",,1,1,2,0.666667,0.75,0,0,0,350,0,0.000189,196,153,0,0,0.002249,Unrelated,false,false,false,0,0
+"Weng, Sung-Shun","Weng, Sung-Shun",,1,1,2,0.666667,0.75,0,0,0,367,0,0.000189,307,184,0,0,0.002249,Unrelated,false,false,false,0,0
+"Wetter-Edman, Katarina","Wetter-Edman, Katarina",,3,3,5,0.4,0.455,0,0,0,25,1,0.000233,3,2,1,3,0.045015,Unrelated,false,false,false,0,0
+"White, D. W.","White, D. W.",,1,1,2,0.666667,0.75,0,0,0,323,0,0.000189,287,176,0,0,0.002249,Unrelated,false,false,false,0,0
+"Wieland, Heiko","Wieland, Heiko",,2,2,9,0.204861,0.245938,0,0.003177,0.003177,0,1,0.000175,0,0,1,1,0.055159,Unrelated,false,false,false,0,0
+"Wiesner, S. A.","Wiesner, S. A.",,1,1,1,1,1,0,0,0,351,0,0.000168,94,230,0,0,0.00176,Unrelated,false,false,false,0,0
+"Wigand, R. T.","Wigand, R. T.",,1,1,2,0.555556,0.6,0,0,0,300,0,0.000192,71,30,0,0,0.004107,Unrelated,false,false,false,0,0
+"Wikström, K.","Wikström, K.",,4,4,1,1,1,0,0,0,352,1,0.000249,113,50,1,6,0.02041,Unrelated,false,false,false,0,0
+"Wilby, J.","Wilby, J.",,1,1,2,0.666667,0.75,0,0,0,311,0,0.000189,372,200,0,0,0.002249,Unrelated,false,false,false,0,0
+"Williams, Jerome D","Williams, Jerome D",,7,7,7,0.252857,0.308501,0,0.202234,0.202234,2,1,0.000345,0,0,1,21,0.403429,Unrelated,false,false,false,0,0
+"Williams, Paul","Williams, Paul",,2,2,2,0.75,0.833333,0,0,0,353,1,0.000215,116,82,1,1,0.006486,Unrelated,false,false,false,0,0
+"Wilson, Rob","Wilson, Rob",,3,3,2,0.636364,0.714286,0,0,0,210,1,0.000228,73,18,1,3,0.017746,Unrelated,false,false,false,0,0
+"Wincent, Joakim","Wincent, Joakim",,1,1,2,0.571429,0.625,0,0,0,354,0,0.000219,361,60,0,0,0.00328,Unrelated,false,false,false,0,0
+"Windahl, Charlotta","Windahl, Charlotta",,3,3,6,0.363636,0.431667,0,0,0,25,1,0.000231,3,2,1,3,0.042273,Unrelated,false,false,false,0,0
+"Windrum, P.","Windrum, P.",,1,1,1,1,1,0,0,0,355,0,0.000168,263,271,0,0,0.00176,Unrelated,false,false,false,0,0
+"Wise, S.","Wise, S.",,2,2,2,0.75,0.833333,0,0,0,356,1,0.00022,80,110,1,1,0.005646,Unrelated,false,false,false,0,0
+"Wittmann, M. L.","Wittmann, M. L.",,2,2,1,1,1,0,0,0,357,1,0.000198,135,141,1,1,0.00504,Unrelated,false,false,false,0,0
+"Wong, W.-K.","Wong, W.-K.",,1,1,2,0.666667,0.75,0,0,0,358,0,0.000189,365,197,0,0,0.002249,Unrelated,false,false,false,0,0
+"Wu, D. J.","Wu, D. J.",,3,3,1,1,1,0,0,0,359,1,0.000225,179,92,1,3,0.01078,Unrelated,false,false,false,0,0
+"Wu, G.-C.","Wu, G.-C.",,2,2,1,1,1,0,0,0,199,1,0.000198,366,198,1,1,0.00504,Unrelated,false,false,false,0,0
+"Wu, K.","Wu, K.",,1,1,2,0.545455,0.583333,0,0,0,348,0,0.000202,91,22,0,0,0.004672,Unrelated,false,false,false,0,0
+"Wu, Meng-Sheng","Wu, Meng-Sheng",,2,2,1,1,1,0,0,0,360,1,0.000198,197,154,1,1,0.00504,Unrelated,false,false,false,0,0
+"Wu, Pei-Ling","Wu, Pei-Ling",,2,2,2,0.666667,0.75,0,0,0,373,1,0.000234,30,43,1,1,0.007124,Unrelated,false,false,false,0,0
+"Wu, Ya-Ling","Wu, Ya-Ling",,1,1,2,0.666667,0.75,0,0,0,361,0,0.000189,368,199,0,0,0.002249,Unrelated,false,false,false,0,0
+"Wu, Yen-Cheng","Wu, Yen-Cheng",,3,3,2,0.636364,0.714286,0,0,0,6,1,0.000233,4,14,1,3,0.015372,Unrelated,false,false,false,0,0
+"Wu, Yueh-Hsun","Wu, Yueh-Hsun",,1,1,2,0.6,0.666667,0,0,0,340,0,0.000205,206,109,0,0,0.002756,Unrelated,false,false,false,0,0
+"Wünderlich, N. V.","Wünderlich, N. V.",,1,1,5,0.315789,0.361667,0,0,0,18,0,0.000155,17,3,0,0,0.015142,Unrelated,false,false,false,0,0
+"Xiang, Zheng","Xiang, Zheng",,2,2,2,0.75,0.833333,0,0,0,362,1,0.000215,276,106,1,1,0.006486,Unrelated,false,false,false,0,0
+"Xin, Y.","Xin, Y.",,2,2,2,0.666667,0.75,0,0,0,363,1,0.000203,79,64,1,1,0.006584,Unrelated,false,false,false,0,0
+"Xing, Ke","Xing, Ke",,1,1,2,0.6,0.666667,0,0,0,229,0,0.000175,66,79,0,0,0.002841,Unrelated,false,false,false,0,0
+"Xu, HA","Xu, HA",,1,1,2,0.666667,0.75,0,0,0,364,0,0.000189,282,211,0,0,0.002249,Unrelated,false,false,false,0,0
+"Xu, J. D.","Xu, J. D.",,2,2,2,0.75,0.833333,0,0,0,37,1,0.000215,38,74,1,1,0.006486,Unrelated,false,false,false,0,0
+"Xu, Xiangxuan","Xu, Xiangxuan",,1,1,2,0.555556,0.6,0,0,0,14,0,0.000143,12,25,0,0,0.005847,Unrelated,false,false,false,0,0
+"Xu, Xiaofei","Xu, Xiaofei",,1,1,2,0.555556,0.6,0,0,0,375,0,0.00023,90,32,0,0,0.003822,Unrelated,false,false,false,0,0
+"Yang, Chih-Kai","Yang, Chih-Kai",,1,1,2,0.666667,0.75,0,0,0,350,0,0.000189,196,153,0,0,0.002249,Unrelated,false,false,false,0,0
+"Yang, H D","Yang, H D",,2,2,6,0.311258,0.374823,0,0,0,313,1,0.000171,1,1,1,1,0.032924,Unrelated,false,false,false,0,0
+"Yang, H.-C.","Yang, H.-C.",,1,1,1,1,1,0,0,0,365,0,0.000168,367,295,0,0,0.00176,Unrelated,false,false,false,0,0
+"Yang, Heng-Li","Yang, Heng-Li",,1,1,1,1,1,0,0,0,366,0,0.000168,308,284,0,0,0.00176,Unrelated,false,false,false,0,0
+"Yang, Ming-Hsien","Yang, Ming-Hsien",,1,1,2,0.666667,0.75,0,0,0,367,0,0.000189,307,184,0,0,0.002249,Unrelated,false,false,false,0,0
+"Yang, S.","Yang, S.",,4,4,2,0.75,0.833333,0,0,0,54,1,0.000258,65,21,1,6,0.022738,Unrelated,false,false,false,0,0
+"Yang, S. H.","Yang, S. H.",,1,1,2,0.6,0.666667,0,0,0,344,0,0.000205,358,102,0,0,0.002756,Unrelated,false,false,false,0,0
+"Yang, Tsung Ju","Yang, Tsung Ju",,2,2,1,1,1,0,0,0,368,1,0.000198,202,156,1,1,0.00504,Unrelated,false,false,false,0,0
+"Yanhong, Z.","Yanhong, Z.",,1,1,2,0.666667,0.75,0,0,0,377,0,0.000189,305,182,0,0,0.002249,Unrelated,false,false,false,0,0
+"Yasin, Norizan Mohd","Yasin, Norizan Mohd",,1,1,2,0.571429,0.625,0,0,0,369,0,0.000219,102,49,0,0,0.00328,Unrelated,false,false,false,0,0
+"Yass, Ayad A","Yass, Ayad A",,1,1,2,0.571429,0.625,0,0,0,369,0,0.000219,102,49,0,0,0.00328,Unrelated,false,false,false,0,0
+"Yates, JoAnne","Yates, JoAnne",,3,3,10,0.174213,0.212779,0,0.000345,0.000345,1,1,0.000222,0,0,1,3,0.026254,Unrelated,false,false,false,0,0
+"Yates, Nicola","Yates, Nicola",,1,1,2,0.666667,0.75,0,0,0,213,0,0.000189,248,165,0,0,0.002249,Unrelated,false,false,false,0,0
+"Ye, Christine","Ye, Christine",,1,1,2,0.666667,0.75,0,0,0,370,0,0.000189,122,135,0,0,0.002249,Unrelated,false,false,false,0,0
+"Ye, Hua (Jonathan)","Ye, Hua (Jonathan)",,2,2,2,0.75,0.833333,0,0,0,371,1,0.00022,87,111,1,1,0.005646,Unrelated,false,false,false,0,0
+"Ye, Kang","Ye, Kang",,3,3,2,0.8,0.875,0,0,0,30,1,0.000238,29,42,1,3,0.013947,Unrelated,false,false,false,0,0
+"Yeh, H.-J.","Yeh, H.-J.",,2,2,1,1,1,0,0,0,372,1,0.000198,60,121,1,1,0.00504,Unrelated,false,false,false,0,0
+"Yeh, Shih-Shuo","Yeh, Shih-Shuo",,2,2,2,0.666667,0.75,0,0,0,373,1,0.000234,30,43,1,1,0.007124,Unrelated,false,false,false,0,0
+"Yip, Nick","Yip, Nick",,2,2,2,0.75,0.833333,0,0,0,21,1,0.00019,20,72,1,1,0.006704,Unrelated,false,false,false,0,0
+"Yoneda, S.","Yoneda, S.",,4,4,2,0.611111,0.681818,0,0,0,28,1,0.000264,26,7,1,6,0.048938,Unrelated,false,false,false,0,0
+"Yoon, Byungun","Yoon, Byungun",,1,1,2,0.666667,0.75,0,0,0,263,0,0.000189,341,193,0,0,0.002249,Unrelated,false,false,false,0,0
+"Yu, Chang-Hsi","Yu, Chang-Hsi",,2,2,2,0.666667,0.75,0,0,0,343,1,0.000228,191,65,1,1,0.008024,Unrelated,false,false,false,0,0
+"Yuan, S.","Yuan, S.",,2,2,2,0.583333,0.642857,0,0,0,6,1,0.00019,4,14,1,1,0.01116,Unrelated,false,false,false,0,0
+"Yutaka Sugano, J.","Yutaka Sugano, J.",,2,2,2,0.666667,0.75,0,0,0,267,1,0.000228,220,55,1,1,0.008024,Unrelated,false,false,false,0,0
+"Zaas, B.","Zaas, B.",,2,2,2,0.666667,0.75,0,0,0,333,1,0.000228,254,67,1,1,0.008024,Unrelated,false,false,false,0,0
+"Zahler, A.","Zahler, A.",,1,1,2,0.666667,0.75,0,0,0,205,0,0.000189,318,201,0,0,0.002249,Unrelated,false,false,false,0,0
+"Zaidan, A A","Zaidan, A A",,1,1,2,0.571429,0.625,0,0,0,369,0,0.000219,102,49,0,0,0.00328,Unrelated,false,false,false,0,0
+"Zaidan, B B","Zaidan, B B",,1,1,2,0.571429,0.625,0,0,0,369,0,0.000219,102,49,0,0,0.00328,Unrelated,false,false,false,0,0
+"Zammuto, Raymond F","Zammuto, Raymond F",,4,4,7,0.255435,0.33308,0,0,0,313,1,0.000243,1,1,1,6,0.031408,Unrelated,false,false,false,0,0
+"Zhai, J.","Zhai, J.",,1,1,1,1,1,0,0,0,374,0,0.000168,312,335,0,0,0.00176,Unrelated,false,false,false,0,0
+"Zhang, Liang-Jie","Zhang, Liang-Jie",,1,1,10,0.171346,0.197431,0,0.000364,0.000364,0,0,0.000163,0,0,0,0,0.009171,Unrelated,false,false,false,0,0
+"Zhang, T.","Zhang, T.",,2,2,9,0.179331,0.198825,0,0.00036,0.00036,2,1,0.000193,0,0,1,1,0.009488,Unrelated,false,false,false,0,0
+"Zhang, Zhen","Zhang, Zhen",,1,1,2,0.666667,0.75,0,0,0,299,0,0.000189,121,213,0,0,0.002249,Unrelated,false,false,false,0,0
+"Zhao, J Leon","Zhao, J Leon",,1,1,10,0.171346,0.197431,0,0.000364,0.000364,0,0,0.000163,0,0,0,0,0.009171,Unrelated,false,false,false,0,0
+"Zhao, Xiande","Zhao, Xiande",,1,1,2,0.555556,0.6,0,0,0,375,0,0.00023,90,32,0,0,0.003822,Unrelated,false,false,false,0,0
+"Zhao, Yapu","Zhao, Yapu",,1,1,2,0.545455,0.583333,0,0,0,348,0,0.000202,91,22,0,0,0.004672,Unrelated,false,false,false,0,0
+"Zheng, W J","Zheng, W J",,4,4,2,0.833333,0.9,0,0,0,108,1,0.00026,162,39,1,6,0.026515,Unrelated,false,false,false,0,0
+"Zheng, Z.","Zheng, Z.",,2,2,2,0.666667,0.75,0,0,0,376,1,0.000234,47,71,1,1,0.007124,Unrelated,false,false,false,0,0
+"Zheng, Zhiqiang (Eric)","Zheng, Zhiqiang (Eric)",,2,2,2,0.666667,0.75,0,0,0,376,1,0.000234,47,71,1,1,0.007124,Unrelated,false,false,false,0,0
+"Zhihong, L.","Zhihong, L.",,1,1,2,0.666667,0.75,0,0,0,377,0,0.000189,305,182,0,0,0.002249,Unrelated,false,false,false,0,0
+"Zhou, Li","Zhou, Li",,1,1,2,0.666667,0.75,0,0,0,378,0,0.000189,205,216,0,0,0.002249,Unrelated,false,false,false,0,0
+"Zhou, Lizhuan","Zhou, Lizhuan",,1,1,2,0.666667,0.75,0,0,0,378,0,0.000189,205,216,0,0,0.002249,Unrelated,false,false,false,0,0
+"Zhu, H.","Zhu, H.",,3,3,3,0.571429,0.666667,0,0,0,42,1,0.000231,49,13,1,3,0.01828,Unrelated,false,false,false,0,0
+"Zhu, Wenjia","Zhu, Wenjia",,1,1,1,1,1,0,0,0,379,0,0.000168,279,275,0,0,0.00176,Unrelated,false,false,false,0,0
+"Zippel-Schultz, Bettina","Zippel-Schultz, Bettina",,1,1,1,1,1,0,0,0,380,0,0.000168,83,336,0,0,0.00176,Unrelated,false,false,false,0,0
+"Zirulia, Lorenzo","Zirulia, Lorenzo",,1,1,1,1,1,0,0,0,381,0,0.000168,213,258,0,0,0.00176,Unrelated,false,false,false,0,0
+"Zou, Shaoming","Zou, Shaoming",,2,2,1,1,1,0,0,0,382,1,0.000198,231,159,1,1,0.00504,Unrelated,false,false,false,0,0
+"Zulkernine, Farhana","Zulkernine, Farhana",,3,3,8,0.207503,0.248144,0,0.008506,0.008506,5,1,0.000239,0,0,1,3,0.051445,Unrelated,false,false,false,0,0
+"Öztayşi, B.","Öztayşi, B.",,2,2,1,1,1,0,0,0,74,1,0.000198,101,127,1,1,0.00504,Unrelated,false,false,false,0,0
