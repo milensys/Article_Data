@@ -16,7 +16,7 @@ Global repository content:
 * Using network analytics to explore co-occurrence patterns: networks measures and algorithms (modularity, eigenvector centrality distribution...) for **community detection**
   * Authors by authors (P1, P2, P3 and total) networks
   * Authors by themes / theories (P1, P2, P3 and total) networks
-  * Visualising co-occurrence networks: ForceAtlas2 layout and others
+* Visualising co-occurrence networks: ForceAtlas2 layout and others
   * Authors by authors (P1, P2, P3 and total) networks
   * Authors by themes / theories (P1, P2, P3 and total) networks
 
