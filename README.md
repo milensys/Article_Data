@@ -1,5 +1,5 @@
 
-
+# A service logics and service system innovation intellectual and community structure analysis over time (30 years)
 
 
 This repository provides raw and processed data concerning an intellectual and community structure analysis over time. 
