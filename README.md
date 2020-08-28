@@ -13,10 +13,10 @@ Global repository content:
 
 * Raw data and processed data (ISI Web of Science and Scopus)
 * Text mining, factor analysis
-* Network analytics: supplementary networks measures (modularity, eigenvector centrality distribution...) to communities detection
+* Network analytics: supplementary networks measures (modularity, eigenvector centrality distribution...) for **communities detection**
   * Authors by authors (P1, P2, P3 and total) networks
   * Authors by themes / theories (P1, P2, P3 and total) networks
-* Visualisations: Force Atlas 2 and others
+* Visualisations: ForceAtlas2 layout and others
   * Authors by authors (P1, P2, P3 and total) networks
   * Authors by themes / theories (P1, P2, P3 and total) networks
 
